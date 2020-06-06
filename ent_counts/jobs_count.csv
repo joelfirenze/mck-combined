@@ -1,0 +1,3226 @@
+,index,entities,labels,size
+0,1851,McKinsey Global Institute,ORG,187
+1,488,2030,CARDINAL,152
+2,2782,the United States,GPE,103
+3,468,2014,DATE,86
+4,1484,Germany,GPE,85
+5,1575,India,GPE,80
+6,489,2030,DATE,79
+7,1225,China,GPE,75
+8,109,1,CARDINAL,72
+9,2297,US,GPE,71
+10,1639,Japan,GPE,70
+11,477,2016,DATE,65
+12,412,2,CARDINAL,59
+13,2851,today,DATE,58
+14,578,3,CARDINAL,57
+15,744,5,CARDINAL,47
+16,1785,MGI,ORG,47
+17,2685,seven,CARDINAL,46
+18,681,4,CARDINAL,39
+19,167,10,CARDINAL,37
+20,1852,McKinsey Global Institute   ,ORG,33
+21,472,2015,DATE,32
+22,819,6,CARDINAL,31
+23,2859,two,CARDINAL,31
+24,1870,Mexico,GPE,30
+25,2643,one,CARDINAL,28
+26,203,11,CARDINAL,27
+27,2554,hours,TIME,27
+28,285,15,CARDINAL,26
+29,1660,Jobs,PERSON,23
+30,1891,Million,CARDINAL,23
+31,955,9,CARDINAL,22
+32,538,25,CARDINAL,22
+33,483,2017,DATE,21
+34,732,46,CARDINAL,20
+35,442,20,CARDINAL,19
+36,602,30,CARDINAL,19
+37,1972,OECD,ORG,19
+38,1040,American,NORP,18
+39,2682,secondary,ORDINAL,18
+40,865,7,CARDINAL,17
+41,2549,four,CARDINAL,17
+42,1393,Europe,LOC,17
+43,830,60,CARDINAL,17
+44,328,18,CARDINAL,17
+45,2542,first,ORDINAL,16
+46,241,13,CARDINAL,16
+47,1717,June 2017,DATE,15
+48,1917,NBER,ORG,15
+49,319,17,CARDINAL,15
+50,1180,Bureau of Labor Statistics,ORG,15
+51,179,100,CARDINAL,15
+52,532,24,CARDINAL,15
+53,1454,France,GPE,14
+54,911,8,CARDINAL,14
+55,2204,Sweden,GPE,14
+56,2435,annual,DATE,14
+57,1635,January 2017,DATE,13
+58,508,21,CARDINAL,13
+59,309,16,CARDINAL,13
+60,2690,six,CARDINAL,13
+61,558,27,CARDINAL,12
+62,266,14,CARDINAL,12
+63,1843,McKinsey,ORG,12
+64,519,23,CARDINAL,12
+65,2322,United States,GPE,12
+66,765,50,CARDINAL,12
+67,2844,three,CARDINAL,11
+68,1039,America,GPE,11
+69,378,1960,DATE,11
+70,511,22,CARDINAL,11
+71,354,19,CARDINAL,11
+72,1447,First,ORDINAL,10
+73,550,26,CARDINAL,10
+74,476,2016,CARDINAL,10
+75,1297,David H. Autor,PERSON,9
+76,399,1993,DATE,9
+77,390,1980,DATE,9
+78,1933,Netherlands,GPE,9
+79,1104,Australia,GPE,9
+80,923,80,CARDINAL,9
+81,2597,millions,CARDINAL,9
+82,631,34,CARDINAL,9
+83,2595,million,CARDINAL,9
+84,1766,LinkedIn,ORG,9
+85,874,70,CARDINAL,9
+86,2289,U.S.,GPE,9
+87,968,90,CARDINAL,9
+88,453,2000,DATE,9
+89,570,29,CARDINAL,9
+90,1605,Italy,GPE,9
+91,1846,McKinsey & Company,ORG,9
+92,1990,One,CARDINAL,8
+93,2206,Switzerland,GPE,8
+94,1315,December 2016,DATE,8
+95,725,45,CARDINAL,8
+96,1314,December 2015,DATE,8
+97,637,35,CARDINAL,8
+98,703,40,CARDINAL,8
+99,1840,May 2017,DATE,8
+100,1195,Canada,GPE,8
+101,1321,Denmark,GPE,7
+102,2178,Spain,GPE,7
+103,1355,Education,ORG,7
+104,1982,October 2016,DATE,7
+105,2140,September 2015,DATE,7
+106,2276,Today,DATE,7
+107,800,56,CARDINAL,7
+108,624,32,CARDINAL,7
+109,1483,German,NORP,7
+110,999,AI,ORG,7
+111,986,98,CARDINAL,7
+112,660,38,CARDINAL,7
+113,2681,second,ORDINAL,7
+114,1372,England,GPE,7
+115,221,12,CARDINAL,7
+116,958,9 percent,PERCENT,7
+117,2158,Singapore,GPE,7
+118,463,2011,DATE,6
+119,464,2012,DATE,6
+120,465,2013,DATE,6
+121,1803,March 2016,DATE,6
+122,1004,AT&T,ORG,6
+123,1668,John Maynard Keynes,PERSON,6
+124,2141,September 2017,DATE,6
+125,1466,GGM,ORG,6
+126,482,2016–303,CARDINAL,6
+127,1650,Jeffrey Lin,PERSON,6
+128,2505,decades,DATE,6
+129,217,118,CARDINAL,6
+130,1703,July 2017,DATE,6
+131,2906,years,DATE,6
+132,67,0.01,CARDINAL,6
+133,2780,the United Kingdom,GPE,6
+134,1715,June 2015,DATE,6
+135,2707,tercile,PERSON,6
+136,64,0,CARDINAL,6
+137,845,65,CARDINAL,6
+138,850,65 years of age,DATE,6
+139,2282,Transition,WORK_OF_ART,6
+140,918,8-9%,PERCENT,6
+141,2318,United Kingdom,GPE,6
+142,1837,May 2011,DATE,6
+143,1791,Machinists,NORP,6
+144,184,100%,PERCENT,6
+145,811,58,CARDINAL,6
+146,806,57,CARDINAL,5
+147,864,69,CARDINAL,5
+148,246,13 percent,PERCENT,5
+149,1413,F    ,PRODUCT,5
+150,838,62,CARDINAL,5
+151,2735,the 21st century,DATE,5
+152,481,2016–301,CARDINAL,5
+153,2747,the Industrial Revolution,EVENT,5
+154,832,60 percent,PERCENT,5
+155,172,10 percent,PERCENT,5
+156,2436,annually,DATE,5
+157,211,112,CARDINAL,5
+158,2010,Payroll,ORG,5
+159,1290,David Autor,PERSON,5
+160,553,26 percent,PERCENT,5
+161,290,15 percent,PERCENT,5
+162,1287,David,PERSON,5
+163,212,113,CARDINAL,5
+164,213,114,CARDINAL,5
+165,1313,December 2012,DATE,5
+166,376,1950,DATE,5
+167,1863,Meister,PERSON,5
+168,2536,et al.,GPE,5
+169,710,41,CARDINAL,5
+170,396,1990,DATE,5
+171,86,0.4,CARDINAL,5
+172,973,91,CARDINAL,5
+173,931,81,CARDINAL,5
+174,713,42,CARDINAL,5
+175,2543,five,CARDINAL,5
+176,1043,Americans,NORP,5
+177,2630,number 1,CARDINAL,5
+178,360,1910,DATE,5
+179,2176,South Korea,GPE,5
+180,1702,July 2016,DATE,5
+181,667,39,CARDINAL,5
+182,1716,June 2016,DATE,5
+183,74,0.1,CARDINAL,5
+184,2816,the next decade,DATE,5
+185,140,1.0,CARDINAL,5
+186,2553,half,CARDINAL,5
+187,889,75,CARDINAL,5
+188,979,95,CARDINAL,5
+189,2270,Thousand,CARDINAL,5
+190,977,94,CARDINAL,5
+191,774,51,CARDINAL,5
+192,604,30 percent,PERCENT,5
+193,1952,Nigeria,GPE,5
+194,975,93,CARDINAL,5
+195,403,1996,DATE,5
+196,2271,Three,CARDINAL,4
+197,2292,UK,GPE,4
+198,983,96,CARDINAL,4
+199,2581,less than 5 percent,PERCENT,4
+200,2299,US Bureau of Labor Statistics,ORG,4
+201,1326,Digital,ORG,4
+202,462,2010,DATE,4
+203,2312,United,ORG,4
+204,249,130,CARDINAL,4
+205,980,95 percent,PERCENT,4
+206,2768,the US Bureau of Labor Statistics,ORG,4
+207,1319,DeepMind,PERSON,4
+208,2118,San Francisco,GPE,4
+209,2671,recent decades,DATE,4
+210,2199,Susan Lund,PERSON,4
+211,2598,monthly,DATE,4
+212,2373,World Bank,ORG,4
+213,292,15%,PERCENT,4
+214,330,18 percent,PERCENT,4
+215,2089,Robert C. Allen,PERSON,4
+216,2708,tertiary,ORDINAL,4
+217,1170,British,NORP,4
+218,851,66,CARDINAL,4
+219,2699,summer 2015,DATE,4
+220,1292,David Dorn,PERSON,4
+221,2672,recent years,DATE,4
+222,279,144,CARDINAL,4
+223,385,1970,DATE,4
+224,1099,August 2017,DATE,4
+225,394,1985,DATE,4
+226,843,64,CARDINAL,4
+227,2728,the 1980s,DATE,4
+228,943,85,CARDINAL,4
+229,263,139,CARDINAL,4
+230,1059,Anna Salomons,PERSON,4
+231,239,129,CARDINAL,4
+232,2036,PublicAffairs,ORG,4
+233,974,92,CARDINAL,4
+234,627,33,CARDINAL,4
+235,1622,James Bessen,PERSON,4
+236,643,36,CARDINAL,4
+237,1618,Jacques Bughin,PERSON,4
+238,793,55,CARDINAL,4
+239,739,48,CARDINAL,4
+240,1874,Michael,PERSON,4
+241,1976,Occupation,PERSON,4
+242,1875,Michael Chui,PERSON,4
+243,1882,Michael Spence,PERSON,4
+244,100,0.8,CARDINAL,4
+245,600,3.6,CARDINAL,4
+246,2878,up to 33%,PERCENT,4
+247,1965,November 2016,DATE,4
+248,1536,Harvard University Press,ORG,4
+249,161,1.8,CARDINAL,4
+250,2803,the hours,TIME,4
+251,2825,the past decade,DATE,4
+252,770,50%,PERCENT,4
+253,148,1.3,PERSON,4
+254,146,1.2,CARDINAL,4
+255,2813,the next 15 years,DATE,4
+256,1495,Global Growth Model,PRODUCT,4
+257,1623,James Manyika,PERSON,4
+258,740,49,CARDINAL,4
+259,2552,fourth,ORDINAL,4
+260,2482,between 2016 and 2030,DATE,4
+261,28,-0.02,CARDINAL,4
+262,1672,Jonathan Woetzel,PERSON,4
+263,2519,each year,DATE,4
+264,1666,John Haltiwanger,PERSON,4
+265,231,122,CARDINAL,4
+266,1738,Kenya,GPE,4
+267,2495,centuries,DATE,4
+268,1371,Engels,WORK_OF_ART,4
+269,1634,January 2016,DATE,4
+270,1175,Brussels,GPE,3
+271,117,"1,000",CARDINAL,3
+272,1686,Journal of Economic History,ORG,3
+273,1176,Brynjolfsson,PERSON,3
+274,2205,Swiss,NORP,3
+275,1801,March 2013,DATE,3
+276,1125,Baumol,PERSON,3
+277,2452,at least 30 percent,PERCENT,3
+278,112,1 Midpoint,QUANTITY,3
+279,698,4.7,CARDINAL,3
+280,1118,Bach,PERSON,3
+281,700,4.8 percent,PERCENT,3
+282,381,1962,DATE,3
+283,2215,Taylor,PERSON,3
+284,1128,Ben Casnocha,PERSON,3
+285,1756,Laura Tyson,PERSON,3
+286,1171,Brookings Institution,ORG,3
+287,908,79,CARDINAL,3
+288,2821,the past 20+ years,DATE,3
+289,355,19,DATE,3
+290,1514,Groningen Growth and Development Centre,ORG,3
+291,1733,Katy George,PERSON,3
+292,1730,Karl Marx,PERSON,3
+293,1921,National Academies Press,ORG,3
+294,766,50,DATE,3
+295,2193,Steven J. Davis,PERSON,3
+296,616,31,CARDINAL,3
+297,2612,more than 800,CARDINAL,3
+298,1510,Greece,GPE,3
+299,1558,IEA,ORG,3
+300,365,1914,DATE,3
+301,369,1930,DATE,3
+302,2347,Vocational,ORG,3
+303,1015,Acemoglu,PERSON,3
+304,2838,third,ORDINAL,3
+305,1613,Jaana Remes,PERSON,3
+306,954,8–9%,PERCENT,3
+307,1597,International Labour Organization,ORG,3
+308,1611,JHU Press,ORG,3
+309,2256,The US High School Movement,ORG,3
+310,2257,The United States,GPE,3
+311,1051,Andrew McAfee,PERSON,3
+312,1847,"McKinsey & Company
+",ORG,3
+313,704,40,DATE,3
+314,1885,Midpoint,ORG,3
+315,1038,Amazon,ORG,3
+316,2291,UBI,ORG,3
+317,433,2.3,CARDINAL,3
+318,2290,U.S. Bureau of Labor Statistics,ORG,3
+319,436,2.5 percent,PERCENT,3
+320,2527,eds,ORG,3
+321,438,2.7,CARDINAL,3
+322,2251,The Quarterly Journal of Economics,ORG,3
+323,2329,University of Oxford,ORG,3
+324,735,47,CARDINAL,3
+325,945,86,CARDINAL,3
+326,443,20,DATE,3
+327,459,2007,DATE,3
+328,509,21%,PERCENT,3
+329,1564,IMPLAN,ORG,3
+330,970,90 percent,PERCENT,3
+331,1567,IPUMS,ORG,3
+332,742,49 percent,PERCENT,3
+333,2302,"US Department of Health, Education",ORG,3
+334,939,83,CARDINAL,3
+335,941,84,CARDINAL,3
+336,92,0.5 percent,PERCENT,3
+337,2368,William Lee,PERSON,3
+338,2680,roughly half,CARDINAL,3
+339,454,2001,DATE,3
+340,1075,April 2017,DATE,3
+341,1884,Microsoft,ORG,3
+342,1166,Brazil,GPE,3
+343,1428,February 1966,DATE,3
+344,1431,February 2017,DATE,3
+345,1394,European,NORP,3
+346,210,111,CARDINAL,3
+347,858,68,CARDINAL,3
+348,294,15.8 million,CARDINAL,3
+349,2111,Routledge,ORG,3
+350,296,151,CARDINAL,3
+351,297,152,CARDINAL,3
+352,171,10 million,CARDINAL,3
+353,1445,Finland,GPE,3
+354,1243,Claudia Goldin,PERSON,3
+355,2415,about half,CARDINAL,3
+356,563,28,CARDINAL,3
+357,1242,Claudia,PERSON,3
+358,2799,the early 20th century,DATE,3
+359,1335,E1,CARDINAL,3
+360,594,3.3,CARDINAL,3
+361,1981,October 2014,DATE,3
+362,1383,Erik,PERSON,3
+363,1283,Daron,PERSON,3
+364,197,108,CARDINAL,3
+365,2073,Richard J. Murnane,PERSON,3
+366,564,28 percent,PERCENT,3
+367,1992,Organisation for Economic Co,ORG,3
+368,1299,David Ricardo,PERSON,3
+369,1417,FRED,ORG,3
+370,1996,Oxford Economics,ORG,3
+371,1296,David H.,PERSON,3
+372,276,142,CARDINAL,3
+373,2005,Pascual Restrepo,PERSON,3
+374,1419,Facebook,ORG,3
+375,794,55,DATE,3
+376,189,102,CARDINAL,3
+377,1983,October 2017,DATE,3
+378,260,138,CARDINAL,3
+379,1384,Erik Brynjolfsson,PERSON,3
+380,797,55 percent,PERCENT,3
+381,1238,Christopher Pissarides,PERSON,3
+382,769,50 to 99,CARDINAL,3
+383,155,1.5 percent,PERCENT,3
+384,2026,Poland,GPE,3
+385,1344,EU,ORG,3
+386,1500,Google,ORG,3
+387,2024,Piketty,PERSON,3
+388,238,128,CARDINAL,3
+389,2766,the Paris Agreement,ORG,3
+390,2765,"the National Commission on Technology, Automation",ORG,3
+391,1504,Gordon H. Hanson,PERSON,3
+392,1962,Norway,GPE,3
+393,1217,Chapter 4,LAW,3
+394,2149,Shanghai,GPE,3
+395,877,70 percent,PERCENT,3
+396,2726,the 1960s,DATE,3
+397,606,30%,PERCENT,3
+398,543,25 to 49,CARDINAL,3
+399,342,1850,DATE,3
+400,1456,Frank Levy,PERSON,3
+401,237,127,CARDINAL,3
+402,686,"4, November 2003",DATE,2
+403,719,44,CARDINAL,2
+404,827,6.5,CARDINAL,2
+405,805,569,CARDINAL,2
+406,684,"4, 2013",DATE,2
+407,716,43,CARDINAL,2
+408,680,3–38,DATE,2
+409,679,3–12,CARDINAL,2
+410,2323,"United States
+",GPE,2
+411,687,"4, October 2002",DATE,2
+412,691,4.0,CARDINAL,2
+413,813,59,CARDINAL,2
+414,2480,between 2014 and 2030,DATE,2
+415,2405,about 25 percent,PERCENT,2
+416,821,6%,PERCENT,2
+417,971,902,CARDINAL,2
+418,701,4.9,CARDINAL,2
+419,2488,between almost zero,CARDINAL,2
+420,969,90,DATE,2
+421,2407,about 3.8 percent,PERCENT,2
+422,835,61,CARDINAL,2
+423,694,4.3,CARDINAL,2
+424,2481,between 2015 and 2030,DATE,2
+425,814,59 million,CARDINAL,2
+426,2410,about 60 percent,PERCENT,2
+427,823,6.0,CARDINAL,2
+428,837,612 million,MONEY,2
+429,688,"4, October 2009",DATE,2
+430,2414,about 800,CARDINAL,2
+431,894,757 million,CARDINAL,2
+432,959,9%,PERCENT,2
+433,875,70,DATE,2
+434,2378,World Travel and Tourism Council,ORG,2
+435,779,52,CARDINAL,2
+436,878,70.5 percent,PERCENT,2
+437,2440,around 30 percent,PERCENT,2
+438,880,71,CARDINAL,2
+439,2448,as much as 30 percent,PERCENT,2
+440,2447,as much as $10 trillion,MONEY,2
+441,764,5.9,CARDINAL,2
+442,2358,Washington,GPE,2
+443,882,72,CARDINAL,2
+444,884,73,CARDINAL,2
+445,885,73 percent,PERCENT,2
+446,2372,Working hours,TIME,2
+447,826,6.1,CARDINAL,2
+448,903,77,CARDINAL,2
+449,890,75 million,CARDINAL,2
+450,901,767 million                  ,MONEY,2
+451,2446,as many as 375 million,CARDINAL,2
+452,2370,Workforce,ORG,2
+453,2365,Wiley,PERSON,2
+454,893,756,CARDINAL,2
+455,756,5.4,CARDINAL,2
+456,782,524,CARDINAL,2
+457,720,44,DATE,2
+458,2454,at least 300 million,CARDINAL,2
+459,842,63,CARDINAL,2
+460,2474,between 1990 and 2015,DATE,2
+461,2428,almost 90 percent,PERCENT,2
+462,727,45 percent,PERCENT,2
+463,729,450,CARDINAL,2
+464,733,46,DATE,2
+465,768,50 percent,PERCENT,2
+466,947,88,CARDINAL,2
+467,946,87,CARDINAL,2
+468,789,54,DATE,2
+469,852,66 percent,PERCENT,2
+470,855,663,CARDINAL,2
+471,2433,an additional four million to seven million,CARDINAL,2
+472,784,53,CARDINAL,2
+473,936,820,CARDINAL,2
+474,935,82,CARDINAL,2
+475,859,68,DATE,2
+476,861,68 million,CARDINAL,2
+477,749,5%,PERCENT,2
+478,927,80 percent,PERCENT,2
+479,924,80,DATE,2
+480,2408,about 30 percent,PERCENT,2
+481,1202,Carl Benedikt Frey,PERSON,2
+482,984,97,CARDINAL,2
+483,1512,Gregory,PERSON,2
+484,1950,Nicole B. Ellison,PERSON,2
+485,1474,Georg,PERSON,2
+486,1946,Nicholas,PERSON,2
+487,1943,New Zealand,GPE,2
+488,1940,New York,GPE,2
+489,1489,Getty,ORG,2
+490,1490,Giovanna Vallanti,PERSON,2
+491,1508,Graetz,PERSON,2
+492,1922,"National Academies of Sciences, Engineering",ORG,2
+493,1515,Grundrisse,PERSON,2
+494,1460,French,NORP,2
+495,1516,Gunn Elisabeth Birkelund,PERSON,2
+496,1518,Guy Michaels,PERSON,2
+497,1522,Handbook of Economic Growth,ORG,2
+498,1523,Handbook of Labor Economics,ORG,2
+499,1911,More than half,CARDINAL,2
+500,1906,Moore,PERSON,2
+501,1905,Moody’s,ORG,2
+502,1540,Heather Boushey,PERSON,2
+503,1542,Henry Ford,PERSON,2
+504,1958,Nobel,WORK_OF_ART,2
+505,1457,Fred Bakker,PERSON,2
+506,1894,Milton Greenberg,PERSON,2
+507,1409,"Exhibit A2
+
+Glossary",PRODUCT,2
+508,2020,Philadelphia,GPE,2
+509,1385,Erik Hurst,PERSON,2
+510,1388,Estonia,GPE,2
+511,2009,Paul Osterman,PERSON,2
+512,2007,Paul,PERSON,2
+513,1396,European Sociological Review,ORG,2
+514,2004,Parul Batra,PERSON,2
+515,1997,Oxford Martin School,ORG,2
+516,1995,Oxford,PERSON,2
+517,1418,FTE,PRODUCT,2
+518,1451,Ford,ORG,2
+519,1986,Office,ORG,2
+520,1423,Farmworkers,PERSON,2
+521,1429,February 2014,DATE,2
+522,1980,October 2012,DATE,2
+523,1434,Federal Reserve Board,ORG,2
+524,1974,ONET,ORG,2
+525,1971,"OCTOBER 2017
+",DATE,2
+526,1970,O*Net,PERSON,2
+527,1450,Forbes,ORG,2
+528,1544,Hoffman,PERSON,2
+529,1893,Milton,PERSON,2
+530,2023,Philippines,GPE,2
+531,1799,March 1991,DATE,2
+532,1824,Massachusetts Institute of Technology,ORG,2
+533,1652,Jeongmin Seong,PERSON,2
+534,1653,Jeremy,PERSON,2
+535,1817,Marshall Steinbaum,PERSON,2
+536,1811,Mark,PERSON,2
+537,1676,Joseph Schumpeter,PERSON,2
+538,1804,March 2017,DATE,2
+539,1802,March 2015,DATE,2
+540,1680,Journal,ORG,2
+541,1690,Journal of Higher Education,ORG,2
+542,1643,Japanese,NORP,2
+543,1691,Journal of Labor Economics,ORG,2
+544,1693,Journal of Political Economy,ORG,2
+545,1701,July 2015,DATE,2
+546,1705,"July 7, 2016",DATE,2
+547,1711,"June 18, 2004",DATE,2
+548,1739,Keynes,PERSON,2
+549,1758,Lawrence F. Katz,PERSON,2
+550,1752,Labour,ORG,2
+551,1747,Kuwait,GPE,2
+552,1829,Matthias Busse,PERSON,2
+553,1636,"January 23, 2017",DATE,2
+554,1555,Hungary,GPE,2
+555,1599,International Renewable Energy Agency,ORG,2
+556,1886,Midpoint,PERSON,2
+557,1562,IMF,ORG,2
+558,1568,IPUMS USA 2017,ORG,2
+559,1871,"Mexico
+                                                                                                                                                 ",ORG,2
+560,1584,Indonesia,GPE,2
+561,1862,Mehdi Miremadi,PERSON,2
+562,1861,Medicine,ORG,2
+563,1591,Intel,ORG,2
+564,1595,International Energy Agency,ORG,2
+565,1601,Ireland,GPE,2
+566,1633,January 2015,DATE,2
+567,1853,McKinsey Global Institute     ,ORG,2
+568,1608,J.Bradford DeLong,PERSON,2
+569,1849,McKinsey & Company’s,ORG,2
+570,1614,Jacob L. Weisdorf,PERSON,2
+571,1842,"May 9, 2012",DATE,2
+572,1621,James,PERSON,2
+573,1626,Jan Mischke,PERSON,2
+574,1627,Janesville,GPE,2
+575,1839,May 2016,DATE,2
+576,1375,Enrica Detragiache,PERSON,2
+577,1368,Engel,PERSON,2
+578,985,977,CARDINAL,2
+579,1146,Bloomberg,ORG,2
+580,1096,August 1970,DATE,2
+581,1097,August 2000,DATE,2
+582,2227,Tesla,PRODUCT,2
+583,2223,Ten,CARDINAL,2
+584,2222,Templeton Press,ORG,2
+585,2220,Technology           ,ORG,2
+586,2219,Technologies,ORG,2
+587,2194,Steven N. Durlauf,PERSON,2
+588,1144,Bill,PERSON,2
+589,2186,Starbucks,ORG,2
+590,1094,Atlanta,GPE,2
+591,2184,Stanford University,ORG,2
+592,2180,Specialized,ORG,2
+593,2177,South Korea’s,GPE,2
+594,1168,Brent Neiman,PERSON,2
+595,1169,Britain,GPE,2
+596,2167,Social Forces,ORG,2
+597,2164,Slovakia,GPE,2
+598,2161,SkillsFuture,ORG,2
+599,1193,Cambridge University Press,ORG,2
+600,1095,Atlantic,LOC,2
+601,1091,Associates,ORG,2
+602,2139,September 2014,DATE,2
+603,1025,Alan B. Krueger,PERSON,2
+604,989,99,CARDINAL,2
+605,2308,Ulrich Zierahn,PERSON,2
+606,2307,Uganda,GPE,2
+607,1006,Abigail Wozniak,PERSON,2
+608,2295,UNDP,ORG,2
+609,2287,Typewriter,ORG,2
+610,1018,Addison-Wesley,ORG,2
+611,2286,Two,CARDINAL,2
+612,2283,Transportation,ORG,2
+613,1035,Allen,PERSON,2
+614,2241,The Hamilton Project,ORG,2
+615,1042,American Quarterly,WORK_OF_ART,2
+616,1058,Angus Deaton,PERSON,2
+617,1061,Anne Case,PERSON,2
+618,1063,Annual,DATE,2
+619,1068,Anu Madgavkar,PERSON,2
+620,1069,Apple,ORG,2
+621,1073,April 2015,DATE,2
+622,1074,April 2016,DATE,2
+623,2246,The New York Times,ORG,2
+624,1199,Care,ORG,2
+625,1208,Center for Economic Performance,ORG,2
+626,2025,Pissarides,PERSON,2
+627,1316,December 2017,DATE,2
+628,1284,Daron Acemoglu,PERSON,2
+629,2077,Richard Rogerson,PERSON,2
+630,1295,David Finegold,PERSON,2
+631,1298,David Hounshell,PERSON,2
+632,1302,Days and hours,TIME,2
+633,2072,Richard Dobbs,PERSON,2
+634,2066,Review of Economics and Statistics,ORG,2
+635,1311,December 1987,DATE,2
+636,1312,December 2004,DATE,2
+637,2062,Reid Hoffman,PERSON,2
+638,1271,DECEMBER 2017,DATE,2
+639,2061,Reid,PERSON,2
+640,1327,Digital America,LOC,2
+641,2054,Random House,ORG,2
+642,2049,Rajat Gupta,PERSON,2
+643,1345,Earth,LOC,2
+644,2038,Quarterly,DATE,2
+645,1358,Egypt,GPE,2
+646,1363,Elsevier,ORG,2
+647,2027,Portugal,GPE,2
+648,2088,Robert C.,PERSON,2
+649,1264,Creatives            Artists,ORG,2
+650,2133,Secondary,PRODUCT,2
+651,2123,Saudi Arabia,GPE,2
+652,1215,Chapter 1,LAW,2
+653,2132,Secondary,ORDINAL,2
+654,1218,Chapter 5,LAW,2
+655,2131,Second,ORDINAL,2
+656,1223,Chicago Tribune,ORG,2
+657,2126,Schumpeterian,NORP,2
+658,1228,Chinchih Chen,PERSON,2
+659,2124,Saurabh Sanghvi,PERSON,2
+660,1230,Choice/Getty,ORG,2
+661,1232,Chris Minns,PERSON,2
+662,1262,Crane,PERSON,2
+663,2122,Sarah Turner,PERSON,2
+664,2119,"San Francisco
+",GPE,2
+665,1237,Christopher L. Smith,PERSON,2
+666,1240,Clark,PERSON,2
+667,1241,Classmates.com,ORG,2
+668,1246,Cliometrica,PERSON,2
+669,2115,Ryan Ko,PERSON,2
+670,2114,Russia,GPE,2
+671,2112,Rowman,NORP,2
+672,2504,days,DATE,2
+673,1751,La Révolte des canuts,PERSON,2
+674,293,"15,755",CARDINAL,2
+675,2834,the years,DATE,2
+676,377,1956,DATE,2
+677,228,1209-2004,DATE,2
+678,227,120,CARDINAL,2
+679,2773,"the United
+                                    States",GPE,2
+680,225,12.6,CARDINAL,2
+681,2694,social security,ORG,2
+682,224,"12,176",CARDINAL,2
+683,2848,three-year,DATE,2
+684,223,12 percent,PERCENT,2
+685,546,250,CARDINAL,2
+686,91,0.5,CARDINAL,2
+687,2846,three million by 2030,CARDINAL,2
+688,539,25,DATE,2
+689,535,24 percent,PERCENT,2
+690,2602,more than 100,CARDINAL,2
+691,387,1971,DATE,2
+692,96,0.6,PERSON,2
+693,2776,"the United
+                            States",GPE,2
+694,2606,"more than 2,000",CARDINAL,2
+695,218,119,CARDINAL,2
+696,526,"23285, March 2017",DATE,2
+697,2839,this century,DATE,2
+698,103,0.9,CARDINAL,2
+699,216,117,CARDINAL,2
+700,524,231,CARDINAL,2
+701,392,1980–2015,CARDINAL,2
+702,215,116,CARDINAL,2
+703,2835,the years ahead,DATE,2
+704,395,1987,DATE,2
+705,2854,"tomorrow, 1926",DATE,2
+706,375,195 million,CARDINAL,2
+707,233,123,CARDINAL,2
+708,2869,up to 13%,PERCENT,2
+709,48,-2.8,PERSON,2
+710,2764,the National Academy of Sciences,ORG,2
+711,361,1910 to 1940,DATE,2
+712,2877,up to 32%,PERCENT,2
+713,362,1911,DATE,2
+714,580,3 percent,PERCENT,2
+715,55,"-4
+                                                                                    ",ORG,2
+716,577,2–5,CARDINAL,2
+717,576,2–19,CARDINAL,2
+718,363,1912,DATE,2
+719,364,1913,DATE,2
+720,2575,just under eight million,CARDINAL,2
+721,2870,up to 14%,PERCENT,2
+722,2868,up to 10%,PERCENT,2
+723,554,26%,PERCENT,2
+724,366,1915,DATE,2
+725,66,0%,PERCENT,2
+726,236,126,CARDINAL,2
+727,70,0.03 percent,PERCENT,2
+728,2863,two years,DATE,2
+729,2698,spring 2016,DATE,2
+730,2862,two degrees Celsius,QUANTITY,2
+731,371,1940,DATE,2
+732,2805,the last few decades,DATE,2
+733,76,0.10,CARDINAL,2
+734,372,1942,DATE,2
+735,2589,many years,DATE,2
+736,234,124,CARDINAL,2
+737,214,115,CARDINAL,2
+738,400,1994,DATE,2
+739,587,"3,097",CARDINAL,2
+740,521,23 percent,PERCENT,2
+741,180,100 million,CARDINAL,2
+742,486,2025,DATE,2
+743,139,"1,906",CARDINAL,2
+744,2792,the day,DATE,2
+745,424,"2,000",CARDINAL,2
+746,2641,"number 6, 2005",DATE,2
+747,143,1.1,CARDINAL,2
+748,426,"2,293",CARDINAL,2
+749,2645,one year,DATE,2
+750,428,"2,678",CARDINAL,2
+751,471,2015,CARDINAL,2
+752,2646,one-third,CARDINAL,2
+753,429,"2,904",CARDINAL,2
+754,467,2014,CARDINAL,2
+755,149,1.3%,PERCENT,2
+756,460,2008,DATE,2
+757,2798,the early 19th century,DATE,2
+758,151,1.4 million,CARDINAL,2
+759,456,2003,DATE,2
+760,164,1.9,CARDINAL,2
+761,455,2002,DATE,2
+762,452,200,CARDINAL,2
+763,162,1.8,DATE,2
+764,154,1.5,CARDINAL,2
+765,160,1.7,CARDINAL,2
+766,2804,the last 60 years,DATE,2
+767,439,2.8,CARDINAL,2
+768,447,20 to 30 percent,PERCENT,2
+769,2657,only 50 percent,PERCENT,2
+770,181,100 percent,PERCENT,2
+771,2634,"number 2, June 1998",DATE,2
+772,182,100 years,DATE,2
+773,505,20th,ORDINAL,2
+774,209,110,CARDINAL,2
+775,401,1995,DATE,2
+776,2779,"the United
+                     States",GPE,2
+777,204,11,DATE,2
+778,116,"1, October 2007",DATE,2
+779,2784,the United States of America,GPE,2
+780,196,107,CARDINAL,2
+781,410,1–5,CARDINAL,2
+782,120,"1,054",CARDINAL,2
+783,194,106,CARDINAL,2
+784,411,1–9,CARDINAL,2
+785,122,"1,198",CARDINAL,2
+786,193,105,CARDINAL,2
+787,124,"1,267",CARDINAL,2
+788,2790,the average hours,TIME,2
+789,415,2 2011,DATE,2
+790,501,"20479, September 2014",DATE,2
+791,2626,nine,CARDINAL,2
+792,128,"1,411",CARDINAL,2
+793,190,103,CARDINAL,2
+794,188,101,CARDINAL,2
+795,131,"1,521",CARDINAL,2
+796,132,"1,576",CARDINAL,2
+797,417,"2, April 2009",DATE,2
+798,134,"1,658",CARDINAL,2
+799,2631,"number 1, 2016",DATE,2
+800,186,100.1,CARDINAL,2
+801,185,"100,000",CARDINAL,2
+802,2881,up to 375 million,CARDINAL,2
+803,235,125,CARDINAL,2
+804,444,"20
+",DATE,2
+805,340,1840,DATE,2
+806,283,148,CARDINAL,2
+807,2731,the 19th century,DATE,2
+808,653,37,CARDINAL,2
+809,2897,weekly,DATE,2
+810,31,-0.6,PERSON,2
+811,655,37 million,CARDINAL,2
+812,307,159,CARDINAL,2
+813,2544,five decades,DATE,2
+814,261,138 million,CARDINAL,2
+815,259,137,CARDINAL,2
+816,254,134,CARDINAL,2
+817,2547,force                                               force                                                ,ORG,2
+818,258,136,CARDINAL,2
+819,2551,four million,CARDINAL,2
+820,612,300 million,CARDINAL,2
+821,10,$3.3 trillion,MONEY,2
+822,256,135,CARDINAL,2
+823,2746,the High School Movement,ORG,2
+824,2761,the Middle East,LOC,2
+825,8,$2.7 trillion,MONEY,2
+826,2521,"earliest
+",DATE,2
+827,2730,the 1990s,DATE,2
+828,336,1817,DATE,2
+829,334,1800-1932,DATE,2
+830,640,35 hours,TIME,2
+831,278,143,CARDINAL,2
+832,2907,~10%,PERCENT,2
+833,2529,eds.,ORG,2
+834,281,146,CARDINAL,2
+835,274,140,CARDINAL,2
+836,329,18,DATE,2
+837,2528,eds.,GPE,2
+838,331,"18, 1947",DATE,2
+839,282,147,CARDINAL,2
+840,320,17,DATE,2
+841,318,166 million,CARDINAL,2
+842,634,34 percent,PERCENT,2
+843,648,364,CARDINAL,2
+844,271,14%,PERCENT,2
+845,270,14 percent,PERCENT,2
+846,2725,the 1950s,DATE,2
+847,2727,the 1970s,DATE,2
+848,2902,working hours,TIME,2
+849,2557,hundreds of millions,CARDINAL,2
+850,659,375 million,CARDINAL,2
+851,324,17.0,CARDINAL,2
+852,289,15 million,CARDINAL,2
+853,2919,“How the GI Bill Changed Higher Education,WORK_OF_ART,2
+854,2887,up to 6%,PERCENT,2
+855,2705,tens of millions,CARDINAL,2
+856,252,133,CARDINAL,2
+857,251,132,CARDINAL,2
+858,595,3.4,CARDINAL,2
+859,590,"3,508",CARDINAL,2
+860,347,1870,DATE,2
+861,2511,digital,ORG,2
+862,356,"19,263",CARDINAL,2
+863,589,"3,413",CARDINAL,2
+864,669,39 percent,PERCENT,2
+865,346,1858,DATE,2
+866,597,3.5,CARDINAL,2
+867,2703,ten,CARDINAL,2
+868,3,$12 trillion,MONEY,2
+869,2883,up to 46%,PERCENT,2
+870,2889,up to 9%,PERCENT,2
+871,603,30,DATE,2
+872,343,1850 to 1860,DATE,2
+873,250,131,CARDINAL,2
+874,2788,the World Input-Output Database,ORG,1
+875,1964,"November 15, 2017",DATE,1
+876,2786,the University of Pennsylvania,ORG,1
+877,1991,Oracle,NORP,1
+878,2096,Robots,ORG,1
+879,2100,Rodrik,PERSON,1
+880,1961,Norton & Company,ORG,1
+881,1989,Oman,GPE,1
+882,2802,the first quarter,DATE,1
+883,2749,"the International
+                      Trade Organization",ORG,1
+884,1963,Nottingham,GPE,1
+885,1988,Oliver Twist,PERSON,1
+886,2097,"Robots and
+jobs:",WORK_OF_ART,1
+887,2078,Richard Wilson,PERSON,1
+888,2080,Rifkin,PERSON,1
+889,2098,Robots at work,WORK_OF_ART,1
+890,2787,the World Bank,ORG,1
+891,1985,"October 25, 2017",DATE,1
+892,1987,Oliver Tonby,PERSON,1
+893,2099,Robots have been taking jobs at a blistering pace in China,WORK_OF_ART,1
+894,2744,the Great Depression,EVENT,1
+895,2079,Ridley,PERSON,1
+896,2081,Rinaldo,PERSON,1
+897,2795,the early 1900s,DATE,1
+898,1984,"October 24, 2014",DATE,1
+899,1967,"November 23, 2015",DATE,1
+900,2796,the early 1980s,DATE,1
+901,1969,O*Net,LOC,1
+902,2090,Robert Doisneau,PERSON,1
+903,2092,Robert E. Hall,PERSON,1
+904,2745,"the Haas School of Business, University of
+",ORG,1
+905,2794,"the early
+                     1980s",DATE,1
+906,2087,Robert Allen,PERSON,1
+907,2797,the early 19th,DATE,1
+908,2093,Robert J.,PERSON,1
+909,1968,"O
+",PERSON,1
+910,1973,OECD Data,ORG,1
+911,2076,Richard N. Cooper,PERSON,1
+912,2793,the decades ahead,DATE,1
+913,2086,Rising morbidity and mortality in midlife among white non-Hispanic Americans,WORK_OF_ART,1
+914,1966,"November 21, 2016",DATE,1
+915,2789,the activity hours,TIME,1
+916,2085,Rising morbidity and mortality among white non-Hispanic Americans,WORK_OF_ART,1
+917,1975,ONS Labor Force,ORG,1
+918,2084,Rising morbidity,WORK_OF_ART,1
+919,2094,Robert Z. Lawrence,PERSON,1
+920,2800,the end of 2017,DATE,1
+921,1977,"October 13, 2016",DATE,1
+922,1978,October 2007,DATE,1
+923,2791,the beginning of 2010,DATE,1
+924,1979,October 2009,DATE,1
+925,2083,Rising,ORG,1
+926,2748,"the International
+                            Energy Agency",ORG,1
+927,2801,the first half of the 19th century,DATE,1
+928,2091,Robert E.,PERSON,1
+929,2095,Robotics                Soft robotics       ,PRODUCT,1
+930,2082,Rio Tinto,ORG,1
+931,2047,Raei,PERSON,1
+932,2750,the International Labour Organization,ORG,1
+933,2028,Pradesh,GPE,1
+934,2057,Raven Molloy,PERSON,1
+935,2058,Raven Molloy et al.,PERSON,1
+936,2762,the Ministry of Education,ORG,1
+937,2032,Priyanka Kamra,PERSON,1
+938,2031,Princeton              mass production,ORG,1
+939,2030,Princeton,ORG,1
+940,2029,Primary,PRODUCT,1
+941,2059,Rebeca Robboy,PERSON,1
+942,2060,Regius Professor of Economics,WORK_OF_ART,1
+943,1993,Orley,ORG,1
+944,2770,"the US High School
+                            Movement",ORG,1
+945,2771,the US High School Movement,ORG,1
+946,2760,the McKinsey Social Initiative,ORG,1
+947,2063,Reskilling,PERSON,1
+948,2772,the US National Center for Educational Statistics,ORG,1
+949,2064,Review of Economic Dynamics,ORG,1
+950,2022,Philippe Aghion,PERSON,1
+951,2021,"Philippe
+Goldin",PERSON,1
+952,2056,Raven,PERSON,1
+953,2033,Priyanka Kumar,PERSON,1
+954,2034,Professional              ,ORG,1
+955,2035,Professionals        Engineers,ORG,1
+956,2046,Rachel Wong,PERSON,1
+957,2045,Rachel Valentino,PERSON,1
+958,2044,Rachel A. Rosenfeld,PERSON,1
+959,2763,the NYU Stern School of Business,ORG,1
+960,2050,Rajeev Darolia et al.,PERSON,1
+961,2043,Rachel A.,PERSON,1
+962,2051,Raman Sharma,PERSON,1
+963,2042,RHS,ORG,1
+964,2041,R. L.,PERSON,1
+965,2040,Queen Elizabeth,PERSON,1
+966,2052,Ramey,PERSON,1
+967,2039,"Quarterly, July 2017",DATE,1
+968,2053,Rana Foroohar,PERSON,1
+969,2767,the Textile Institute,ORG,1
+970,2055,Raven,GPE,1
+971,2037,Putnam,ORG,1
+972,2769,the US Council of Economic Advisers,ORG,1
+973,2065,Review of Economics,ORG,1
+974,2019,Pew Research Center,ORG,1
+975,2018,Peter Mathias,PERSON,1
+976,2008,Paul Jasper,PERSON,1
+977,2075,Richard N.,PERSON,1
+978,2753,"the London
+School of Economics",ORG,1
+979,2752,"the January 2017
+",DATE,1
+980,2048,Rafi Khatchadourian,PERSON,1
+981,2778,"the United
+                      States",GPE,1
+982,2006,Patrick White,PERSON,1
+983,2003,Parmy Olson,PERSON,1
+984,2002,Paris,GPE,1
+985,2001,Paolo Guerrieri,PERSON,1
+986,2000,Oxford University Press,ORG,1
+987,1999,"Oxford University
+                                  Press",ORG,1
+988,1998,"Oxford University
+                         ",ORG,1
+989,2781,the United Nations,ORG,1
+990,2783,"the United States
+",GPE,1
+991,2751,the January 2017,DATE,1
+992,2785,the University of            machine learning,ORG,1
+993,1994,Orley Ashenfelter,PERSON,1
+994,2074,Richard Johnson,PERSON,1
+995,2754,the MGI Council,ORG,1
+996,2759,the McKinsey Global Institute’s,ORG,1
+997,2071,Richard,PERSON,1
+998,2758,the McKinsey Global Institute,ORG,1
+999,2017,Peter Gumbel,PERSON,1
+1000,2016,Peter Capelli,PERSON,1
+1001,2015,Peter Aagaard,PERSON,1
+1002,2014,Peter,PERSON,1
+1003,2774,"the United
+                               States",GPE,1
+1004,2757,the McKinsey Global Growth Model,ORG,1
+1005,2756,"the McKinsey Global
+Institute",ORG,1
+1006,2775,"the United
+                            Kingdom’s",GPE,1
+1007,2755,the Marshall Plan,LAW,1
+1008,2067,Review of Sociology,ORG,1
+1009,2013,Peru,GPE,1
+1010,2012,Pennsylvania,GPE,1
+1011,2068,Revolution,EVENT,1
+1012,2011,Pearson,PERSON,1
+1013,2069,Reynolds,PERSON,1
+1014,2070,Ricardo,PERSON,1
+1015,2777,"the United
+                      Nations",ORG,1
+1016,2506,decades.59,ORG,1
+1017,1960,"North
+",LOC,1
+1018,1800,March 2011,DATE,1
+1019,2886,up to 540 million,CARDINAL,1
+1020,1823,Mary,PERSON,1
+1021,2888,up to 75 million,CARDINAL,1
+1022,1822,Marx,PERSON,1
+1023,1821,Marvin Minsky,PERSON,1
+1024,1820,"Martin Schultz-
+",PERSON,1
+1025,1819,Martin Feldstein Lecture,PERSON,1
+1026,1818,Martin Feldstein,PERSON,1
+1027,2890,up to 90 percent,PERCENT,1
+1028,1816,"Marshall
+                          Steinbaum",ORG,1
+1029,1815,Markle Foundation,ORG,1
+1030,1814,Mark Zuckerberg,PERSON,1
+1031,1813,"Mark Z., et al.",PERSON,1
+1032,1812,Mark Aguiar,PERSON,1
+1033,2891,up to seven million,CARDINAL,1
+1034,2892,up to ten million,CARDINAL,1
+1035,2893,vacation days,DATE,1
+1036,1810,Marisa Carder,PERSON,1
+1037,1809,Mariner Books,ORG,1
+1038,1808,Mariner,ORG,1
+1039,2894,versa.101,PERSON,1
+1040,1807,Margo Shimasaki,PERSON,1
+1041,1806,Marco,PERSON,1
+1042,1805,"March 6, 2017",DATE,1
+1043,2895,viii,PERSON,1
+1044,2896,wake.39,ORG,1
+1045,2898,work.1,NORP,1
+1046,2885,up to 52%,PERCENT,1
+1047,1825,Matthew,PERSON,1
+1048,1826,Matthew             ,PERSON,1
+1049,2876,up to 31%,PERCENT,1
+1050,2864,two-year,DATE,1
+1051,2865,under 10 percent,PERCENT,1
+1052,2866,unemployed.141,GPE,1
+1053,2867,up to,CARDINAL,1
+1054,1845,"McKinsey &
+                     Company’s",ORG,1
+1055,1844,"McKinsey
+        Global Institute",ORG,1
+1056,2871,up to 19%,PERCENT,1
+1057,2872,up to 200 million,CARDINAL,1
+1058,2873,up to 26%,PERCENT,1
+1059,1841,May 4,DATE,1
+1060,2874,up to 3 percent,PERCENT,1
+1061,2875,up to 30 percent,PERCENT,1
+1062,1838,May 2015,DATE,1
+1063,1827,Matthew Sobek,PERSON,1
+1064,1836,May 2008,DATE,1
+1065,1835,May 2006,DATE,1
+1066,2879,up to 35 hours,TIME,1
+1067,2880,up to 37 million,CARDINAL,1
+1068,1834,"May 2, 2017",DATE,1
+1069,1833,"May 16, 2017",DATE,1
+1070,2882,up to 44%,PERCENT,1
+1071,1832,"May 16, 2016",DATE,1
+1072,1831,Max,PERSON,1
+1073,1830,Maurits C. Boas,PERSON,1
+1074,2884,up to 47%,PERCENT,1
+1075,1828,Matthew Taylor,PERSON,1
+1076,2899,work.124,GPE,1
+1077,2900,workers.143,NORP,1
+1078,1850,"McKinsey Global
+                                Institute",ORG,1
+1079,1798,"March 13, 2017",DATE,1
+1080,2915,© ZUMA Press,ORG,1
+1081,1776,Ludger Woessmann,PERSON,1
+1082,1775,Luddites,NORP,1
+1083,1774,Loukas Karabarbounis,PERSON,1
+1084,1773,Loukas,GPE,1
+1085,1772,Littlefield,PERSON,1
+1086,1771,Littlefield,GPE,1
+1087,1770,"Little, Brown &",ORG,1
+1088,1769,"Little, Brown
+                                  & Company",ORG,1
+1089,1768,LipNet:,WORK_OF_ART,1
+1090,1767,"LinkedIn.
+
+
+",ORG,1
+1091,1765,Li,PERSON,1
+1092,2916,Ákos,ORG,1
+1093,1764,Leon Chen,PERSON,1
+1094,1763,Lei Zhang,PERSON,1
+1095,1762,"Leeds University Business
+",ORG,1
+1096,1761,Lee,PERSON,1
+1097,1760,Lawrence H. Summers,PERSON,1
+1098,1759,Lawrence H.,PERSON,1
+1099,2917,Ákos Valentinyi,PERSON,1
+1100,2918,"‘Look, I can quit’: Why Target is giving workers a big raise",WORK_OF_ART,1
+1101,1757,Lauren Meling,PERSON,1
+1102,2920,▪ Capital,ORG,1
+1103,1755,Laura,PERSON,1
+1104,1754,Laszlo,PERSON,1
+1105,1753,Landingham,PERSON,1
+1106,2921,,PERSON,1
+1107,2914,© Westend61,PERSON,1
+1108,2913,© Robert Doisneau,PERSON,1
+1109,1777,Lulu,PERSON,1
+1110,1788,"MIT
+                                 Technology Review",ORG,1
+1111,1797,"Manufacturing
+
+                                                                -15                 ",ORG,1
+1112,2901,workers.52,ORG,1
+1113,1796,Manufacturing,ORG,1
+1114,1795,Manitoba,GPE,1
+1115,1794,Malaysia,GPE,1
+1116,2903,working-hour,TIME,1
+1117,1793,Macmillan 1933,ORG,1
+1118,2904,www.ald.softbankrobotics.com,ORG,1
+1119,1792,Macmillan,ORG,1
+1120,2905,year,DATE,1
+1121,1790,"MIT Technology
+",ORG,1
+1122,1789,MIT Press,ORG,1
+1123,1787,MIT,ORG,1
+1124,1778,Luxembourg,GPE,1
+1125,1786,MILLIONS,CARDINAL,1
+1126,2908,~11%,PERCENT,1
+1127,2909,~45%,PERCENT,1
+1128,2910,© Hero Images,WORK_OF_ART,1
+1129,2911,© Hero Images/Getty Images,WORK_OF_ART,1
+1130,1784,MEXICO,GPE,1
+1131,1783,MCKINSEY,ORG,1
+1132,1782,Lyons,GPE,1
+1133,1781,Lyndon Johnson,PERSON,1
+1134,1780,Lyndon B. Johnson,PERSON,1
+1135,2912,© Mitchell Funk/Photographer’s,PERSON,1
+1136,1779,Luxembourg                                                                                                        ,ORG,1
+1137,1848,McKinsey & Company's,ORG,1
+1138,2861,"two degrees
+                            Celsius",QUANTITY,1
+1139,1959,Nobel laureates,WORK_OF_ART,1
+1140,2827,"the past two
+                     decades",DATE,1
+1141,1930,"Neil
+                                                             Education Week",ORG,1
+1142,1929,Naum N. Aizenberg,PERSON,1
+1143,2817,the next decades,DATE,1
+1144,1928,Nature,WORK_OF_ART,1
+1145,1927,National Trades Union Congress,ORG,1
+1146,1926,National Solar Jobs Census 2015,ORG,1
+1147,2818,the number of hours,TIME,1
+1148,1925,"National Commission on Technology, Automation",ORG,1
+1149,1924,National Center for Education Statistics,ORG,1
+1150,1923,National Academy,ORG,1
+1151,2819,"the past
+                           decade",DATE,1
+1152,2820,the past 150 years,DATE,1
+1153,1920,Natalie Kitroeff,PERSON,1
+1154,2822,the past 50 years,DATE,1
+1155,2823,the past 60 years,DATE,1
+1156,1919,Narasimhan Seshadri,PERSON,1
+1157,2824,the past century,DATE,1
+1158,1918,NTUC,ORG,1
+1159,1916,Musk,PRODUCT,1
+1160,2826,the past decades,DATE,1
+1161,1915,Mumbai,GPE,1
+1162,1914,Mortensen,PERSON,1
+1163,1913,Morocco,GPE,1
+1164,1912,Moretti,PERSON,1
+1165,1910,More than 90 percent,PERCENT,1
+1166,1909,"More than 50 years
+                                   ",DATE,1
+1167,1908,"More than 18,000",CARDINAL,1
+1168,2101,Roger,PERSON,1
+1169,1932,Nesta,PERSON,1
+1170,2815,the next 50 years,DATE,1
+1171,2809,the late 1800s,DATE,1
+1172,2806,the last year,DATE,1
+1173,1957,Noam Scheiber,PERSON,1
+1174,1956,Nissan,ORG,1
+1175,1955,Niklas Engbom,PERSON,1
+1176,1954,Niklas,GPE,1
+1177,1953,Nik Nayar,PERSON,1
+1178,2807,the late 16th century,DATE,1
+1179,1951,Nielsen,PERSON,1
+1180,2808,the late 1700s,DATE,1
+1181,1949,Nicolas Grosman,PERSON,1
+1182,1948,Nicholas Fletcher,PERSON,1
+1183,1947,Nicholas Eberstadt,PERSON,1
+1184,1945,"Newscom
+
+
+",PERSON,1
+1185,1934,Netherlands1,PRODUCT,1
+1186,1944,New Zealand1,GPE,1
+1187,1942,New York Times,ORG,1
+1188,1941,"New York
+",GPE,1
+1189,2810,the late 1990s,DATE,1
+1190,2811,"the mid-1800s
+
+
+                                                    ",DATE,1
+1191,2812,"the next
+                               15 years",DATE,1
+1192,1939,New Technology,ORG,1
+1193,1938,New Policies Scenario,WORK_OF_ART,1
+1194,1937,"New America Foundation
+Development",ORG,1
+1195,2814,"the next 15 years
+",DATE,1
+1196,1936,"New
+                                                             Economic Innovation Group",ORG,1
+1197,1935,Neville Francis,PERSON,1
+1198,1907,"More than 10,000",CARDINAL,1
+1199,2828,the prior year,DATE,1
+1200,2860,"two
+                                centuries",DATE,1
+1201,1904,Montreal,GPE,1
+1202,1877,Michael De Gusta,PERSON,1
+1203,1876,Michael Corkery,PERSON,1
+1204,2845,three million,CARDINAL,1
+1205,1873,Michael,GPE,1
+1206,1872,Mexico RHS,ORG,1
+1207,2847,three-quarters,CARDINAL,1
+1208,1869,Merisotis,PERSON,1
+1209,1868,Meredith Lapointe,PERSON,1
+1210,1867,Mels de Zeeuw,PERSON,1
+1211,2849,three-year-olds,DATE,1
+1212,1866,Meliciani,PERSON,1
+1213,1865,Melanie,PERSON,1
+1214,1864,Mekala Krishnan,PERSON,1
+1215,2850,time.61,GPE,1
+1216,2852,today.90,PERSON,1
+1217,2853,tomorrow,DATE,1
+1218,1860,Medicare,ORG,1
+1219,1859,Medicaid Services,ORG,1
+1220,1858,McKinsey Quarterly,ORG,1
+1221,2855,training.119,NORP,1
+1222,1857,McKinsey Global institute,ORG,1
+1223,2856,trends”).102,CARDINAL,1
+1224,1856,McKinsey Global Institute Jobs,ORG,1
+1225,2857,trillion,MONEY,1
+1226,1855,McKinsey Global Institute   Jobs,ORG,1
+1227,2858,twenty-first century,DATE,1
+1228,1854,McKinsey Global Institute                         ,ORG,1
+1229,1878,Michael Huberman,PERSON,1
+1230,1879,Michael J.,PERSON,1
+1231,1880,Michael J. Bennett,PERSON,1
+1232,2832,the year,DATE,1
+1233,1903,Monthly Labor Review,ORG,1
+1234,1902,"Monthly Labor
+                      Review",WORK_OF_ART,1
+1235,1901,Monster.com,ORG,1
+1236,2829,the total hours,TIME,1
+1237,1900,Mona Mourshed,PERSON,1
+1238,2830,the twentieth century,DATE,1
+1239,1899,Molloy,PERSON,1
+1240,2831,the work week,DATE,1
+1241,1898,Moinak Bagchi,PERSON,1
+1242,1897,Model Ts,PRODUCT,1
+1243,1896,Minnesota,GPE,1
+1244,1895,Ministry of Education,ORG,1
+1245,2833,the year prior,DATE,1
+1246,2843,thousands,CARDINAL,1
+1247,1892,Millions,CARDINAL,1
+1248,1890,Mikkel Barslund,PERSON,1
+1249,1889,Mikkel,PERSON,1
+1250,1888,Mike Wang,PERSON,1
+1251,1887,Mike Munroe,PERSON,1
+1252,2836,the years to 2030,DATE,1
+1253,2837,them.22,NORP,1
+1254,2840,those 19 to 44 years,DATE,1
+1255,1883,Michael White,PERSON,1
+1256,2841,those decades,DATE,1
+1257,2842,thousand,CARDINAL,1
+1258,1881,Michael Negnevitsky,PERSON,1
+1259,1931,"Neil Jacobstein,”How",PERSON,1
+1260,2136,September 1995,DATE,1
+1261,2102,Roger M.,PERSON,1
+1262,2392,Zeynep,ORG,1
+1263,2390,Yonhap News/YNA/,WORK_OF_ART,1
+1264,2590,markets.142,ORG,1
+1265,2591,matching.134 Lack,PERSON,1
+1266,2389,Yannis M. Assael et al.,PERSON,1
+1267,2592,may fall,DATE,1
+1268,2388,Yale University Press,ORG,1
+1269,2387,"Yale University
+                                                               Press",ORG,1
+1270,2593,"mc 1120
+
+
+                      Globalization of trade",ORG,1
+1271,2594,mid-2016,DATE,1
+1272,2386,"Yale University
+                                                                  Automation",ORG,1
+1273,2385,Y-Combinator,ORG,1
+1274,2384,Xia Li et al.,PERSON,1
+1275,2383,Xia,PERSON,1
+1276,2382,Worlds,LOC,1
+1277,2381,World energy outlook 2016,ORG,1
+1278,2380,"World War II
+",EVENT,1
+1279,2379,World War II,EVENT,1
+1280,1750,La Découverte,PERSON,1
+1281,2596,million.48,NORP,1
+1282,2599,more than $25 million,MONEY,1
+1283,2377,World Trade Organization,ORG,1
+1284,2600,"more than $3,600",MONEY,1
+1285,2376,World Energy Outlook,ORG,1
+1286,2601,more than 10,CARDINAL,1
+1287,2375,World Economic Forum,ORG,1
+1288,2374,World Bank Group,ORG,1
+1289,2603,"more than 120,000",CARDINAL,1
+1290,2391,YouTube,ORG,1
+1291,2393,Zuckerberg,PERSON,1
+1292,2103,Roger M. Shaw,PERSON,1
+1293,2588,many more—60 percent,PERCENT,1
+1294,2572,just 40 years,DATE,1
+1295,2409,about 400 million,CARDINAL,1
+1296,2573,just over half,CARDINAL,1
+1297,2574,just the past year,DATE,1
+1298,2576,knitters.29,NORP,1
+1299,2406,about 3 percent,PERCENT,1
+1300,2577,less per week,DATE,1
+1301,2578,less than 1 percent,PERCENT,1
+1302,2579,less than 15 percent,PERCENT,1
+1303,2404,about 20 percent,PERCENT,1
+1304,2403,about 2.4 percent,PERCENT,1
+1305,2580,less than 30 years,DATE,1
+1306,2402,about 19 percent,PERCENT,1
+1307,2582,less than 50 percent,PERCENT,1
+1308,2583,less than 65 percent,PERCENT,1
+1309,2401,about 18 percent,PERCENT,1
+1310,2400,about 17 million,CARDINAL,1
+1311,2399,"about 120,000",CARDINAL,1
+1312,2584,"levels.125
+
+                      ",ORG,1
+1313,2585,longer hours,TIME,1
+1314,2398,about 1.7 billion,CARDINAL,1
+1315,2586,"love.6
+AI",PERSON,1
+1316,2397,about 0.3 percent,PERCENT,1
+1317,2396,about $400,MONEY,1
+1318,2395,"about
+                            70 percent",PERCENT,1
+1319,2394,"about
+                                 3 percent",PERCENT,1
+1320,2587,many decades,DATE,1
+1321,2604,more than 140,CARDINAL,1
+1322,2605,more than 160,CARDINAL,1
+1323,2371,Working Paper,ORG,1
+1324,2607,more than 20,CARDINAL,1
+1325,2345,Vivarelli,ORG,1
+1326,2619,nearly 2.5 million,CARDINAL,1
+1327,2344,Victorian England,LOC,1
+1328,2343,Vanderbilt university,ORG,1
+1329,2342,Van Agtmael,PERSON,1
+1330,2620,nearly 40 percent,PERCENT,1
+1331,2341,"Valerie A.,",PERSON,1
+1332,2340,Valentina,PERSON,1
+1333,2339,VS,PRODUCT,1
+1334,2621,"nearly 900,000",CARDINAL,1
+1335,2622,nearly half,CARDINAL,1
+1336,2338,Utrecht,GPE,1
+1337,2337,"Utilizers
+                                                                                 Computer",ORG,1
+1338,2336,Urban Institute,ORG,1
+1339,2623,nearly half a century,DATE,1
+1340,2335,Upwork,ORG,1
+1341,2624,nearly one-third,CARDINAL,1
+1342,2334,Up to 60 million,CARDINAL,1
+1343,2625,new heights,GPE,1
+1344,2333,Up to 6%,PERCENT,1
+1345,2332,Up to 33%,PERCENT,1
+1346,2331,Up to 32%,PERCENT,1
+1347,2330,Up to 10%,PERCENT,1
+1348,2627,nine hours to eight,TIME,1
+1349,2328,"University of              Berger, Thor",ORG,1
+1350,2628,non-Hispanic,NORP,1
+1351,2629,"now”).24
+
+",ORG,1
+1352,2346,Vivien Singer,PERSON,1
+1353,2618,"nearly
+50 years in 19th century England",DATE,1
+1354,2617,more.62,CARDINAL,1
+1355,2359,"Washington, DC
+",GPE,1
+1356,2608,"more than 225,000",CARDINAL,1
+1357,2369,William R. Berkley,PERSON,1
+1358,2609,more than 30%,PERCENT,1
+1359,2367,William Blake’s,PERSON,1
+1360,2366,William Blake,PERSON,1
+1361,2364,Who Can Fix the ‘Middle-Skills’ Gap,WORK_OF_ART,1
+1362,2610,more than 40 percent,PERCENT,1
+1363,2363,Western Australia,LOC,1
+1364,2611,more than 50 percent,PERCENT,1
+1365,2362,"Western
+                                ",LOC,1
+1366,2361,Wendy Wong,PERSON,1
+1367,2360,Wei,PERSON,1
+1368,2613,more than 90 percent,PERCENT,1
+1369,2616,more than two degrees Celsius,QUANTITY,1
+1370,2357,Wardrip,NORP,1
+1371,2614,more than five,CARDINAL,1
+1372,2356,Wardrip,GPE,1
+1373,2355,Wang Meiyan,PERSON,1
+1374,2354,Walmart academy,ORG,1
+1375,2353,Walmart Academy,ORG,1
+1376,2352,Walmart,GPE,1
+1377,2351,W.W. Norton,ORG,1
+1378,2615,more than three million,CARDINAL,1
+1379,2350,W. W. Norton & Company,ORG,1
+1380,2349,"W. W.
+                                                             ",PERSON,1
+1381,2348,Volodymyr Mnih,ORG,1
+1382,2411,about 7 percent,PERCENT,1
+1383,2412,about 70 percent,PERCENT,1
+1384,2413,about 75 percent,PERCENT,1
+1385,2463,below 10 percent,PERCENT,1
+1386,2522,early 19th century,DATE,1
+1387,2523,early 2014,DATE,1
+1388,2524,earnings.120,GPE,1
+1389,2525,economies.131,GPE,1
+1390,2479,"between 2014
+                            and 2030",DATE,1
+1391,2478,between 2012 and 2016,DATE,1
+1392,2526,edX,ORG,1
+1393,2477,between 2007 and 2009,DATE,1
+1394,2476,between 1999 and 2010,DATE,1
+1395,2475,between 1990 and 2016,DATE,1
+1396,2530,effects.18,FAC,1
+1397,2473,between 1980,DATE,1
+1398,2472,between 1960 and 2016,DATE,1
+1399,2531,eight,CARDINAL,1
+1400,2471,between 1960 and 2012,DATE,1
+1401,2470,between 1960,DATE,1
+1402,2532,eight to 21,DATE,1
+1403,2533,employment.103,ORG,1
+1404,2469,between 1910 and 1950,DATE,1
+1405,2534,essential.105,LOC,1
+1406,2468,between 190 million and 205 million,MONEY,1
+1407,2467,between 1880 and 1920,DATE,1
+1408,2466,between 1880,DATE,1
+1409,2535,estimates.43,ORG,1
+1410,2465,between $4 trillion and $4.5 trillion,MONEY,1
+1411,2537,every 24 months,DATE,1
+1412,2464,"between
+",PERCENT,1
+1413,2483,between 400 million and 800 million,MONEY,1
+1414,2484,between 51 million,CARDINAL,1
+1415,2485,between 62 and 70 hours,DATE,1
+1416,2496,close to zero,CARDINAL,1
+1417,2503,"dataset),University",PERSON,1
+1418,2502,daily,DATE,1
+1419,2501,countries.136,GPE,1
+1420,2508,declined.50,PERSON,1
+1421,2509,demand.108,ORG,1
+1422,2500,countries.1,ORG,1
+1423,2499,could.46,ORG,1
+1424,2510,deprioritizing,PERSON,1
+1425,2498,"costs.82
+
+
+
+
+                           80",ORG,1
+1426,2512,digital technologies,ORG,1
+1427,2513,dire.112,ORG,1
+1428,2497,"clothing.72
+                            ",ORG,1
+1429,2514,"displaced
+       ",PRODUCT,1
+1430,2486,between about 250 million,MONEY,1
+1431,2515,dozens,CARDINAL,1
+1432,2494,cases.151,ORG,1
+1433,2516,eBay,ORG,1
+1434,2493,cases.144,GPE,1
+1435,2492,billions,CARDINAL,1
+1436,2491,billion hours,TIME,1
+1437,2490,billion,CARDINAL,1
+1438,2517,each hour,TIME,1
+1439,2518,each week,DATE,1
+1440,2489,between today and 2030,DATE,1
+1441,2520,"each year
+                                    ",DATE,1
+1442,2487,between ages 22,DATE,1
+1443,2538,fall 2015,DATE,1
+1444,2462,"below
+                            4 percent",PERCENT,1
+1445,2571,just 22 percent,PERCENT,1
+1446,2461,before.14,ORG,1
+1447,2561,individual years,DATE,1
+1448,2434,an estimated 162,CARDINAL,1
+1449,2432,an additional 50 million,CARDINAL,1
+1450,2562,industrial revolution,EVENT,1
+1451,2431,almost one-third,CARDINAL,1
+1452,2430,almost one-fifth,CARDINAL,1
+1453,2429,almost a century,DATE,1
+1454,2563,"industries.115
+                            ",ORG,1
+1455,2564,inequality.68,ORG,1
+1456,2427,almost 60 million,CARDINAL,1
+1457,2426,almost $15 trillion,MONEY,1
+1458,2425,all three,CARDINAL,1
+1459,2565,infolab.stanford.edu,ORG,1
+1460,2424,all US,ORG,1
+1461,2423,alizing,PERSON,1
+1462,2422,aged 65,DATE,1
+1463,2421,above 90%,PERCENT,1
+1464,2566,intelligence”—which,ORG,1
+1465,2420,about two-thirds,CARDINAL,1
+1466,2419,about two million,CARDINAL,1
+1467,2418,about three-quarters,CARDINAL,1
+1468,2417,about one-third,CARDINAL,1
+1469,2567,interactions.17,ORG,1
+1470,2416,about one-fifth,CARDINAL,1
+1471,2568,jobs.128,LAW,1
+1472,2569,"just
+                           25 years",DATE,1
+1473,2570,just 20 years,DATE,1
+1474,2560,"individual
+                            years",DATE,1
+1475,2559,iTunes,ORG,1
+1476,2437,"approach.154
+                               ",ORG,1
+1477,2449,as much as 40 percent,PERCENT,1
+1478,2460,average hours,TIME,1
+1479,2539,few years ago,DATE,1
+1480,2459,"automation.15
+
+                     ",ORG,1
+1481,2458,automation.1,ORG,1
+1482,2457,at least three,CARDINAL,1
+1483,2456,at least one-third,CARDINAL,1
+1484,2455,at least a full decade,DATE,1
+1485,2540,fewer than half,CARDINAL,1
+1486,2541,fields.145,GPE,1
+1487,2453,at least 30%,PERCENT,1
+1488,2451,at least 19.3 million,CARDINAL,1
+1489,2450,as much as 70 percent,PERCENT,1
+1490,2545,five to 16 years,DATE,1
+1491,2438,approximately 30%,PERCENT,1
+1492,2546,"food
+                                                           Education",ORG,1
+1493,2548,forces.91,PERSON,1
+1494,2550,four decades,DATE,1
+1495,2555,"https://
+     www.youtube.com/watch?v=QiBM7-5hA6o",FAC,1
+1496,2556,https://www.amazon.com/p/feature/fsp92a2bhozr3wj,CARDINAL,1
+1497,2445,as many as 330 million,CARDINAL,1
+1498,2444,as many as 230 million,CARDINAL,1
+1499,2443,as many as 100 million,CARDINAL,1
+1500,2442,as little as one continuous year,CARDINAL,1
+1501,2441,around 35 hours,TIME,1
+1502,2439,area.35,ORG,1
+1503,2558,iBooks Store,ORG,1
+1504,2327,"University of
+                                         Oxford",ORG,1
+1505,2326,University Press,ORG,1
+1506,2632,"number 1, January 2017",DATE,1
+1507,2156,Simon &                ,ORG,1
+1508,2185,Stanford University Infolab,ORG,1
+1509,2183,Stanford News,ORG,1
+1510,2182,Sree Ramaswamy,PERSON,1
+1511,2181,Springer Science & Business Media,ORG,1
+1512,2179,Spain                                                                                                             ,ORG,1
+1513,2701,taken years,DATE,1
+1514,2702,tellers.40,ORG,1
+1515,2175,South Asia,LOC,1
+1516,2174,South Africa,GPE,1
+1517,2173,Sony,ORG,1
+1518,2172,Sonia Vora,PERSON,1
+1519,2171,Softbank Mobile,ORG,1
+1520,2170,Softbank,ORG,1
+1521,2169,"Soft Robotics Inc.
+                                             ",ORG,1
+1522,2168,Social network,ORG,1
+1523,2704,ten million,CARDINAL,1
+1524,2706,tens of millions,MONEY,1
+1525,2709,than 95 percent,PERCENT,1
+1526,2166,Social,ORG,1
+1527,2165,Slowest,ORG,1
+1528,2710,that decade,DATE,1
+1529,2163,Slaughter,PERSON,1
+1530,2162,SkillsFuture Initiative,ORG,1
+1531,2711,that.81,ORG,1
+1532,2160,Six Degrees,QUANTITY,1
+1533,2159,Singaporeans,NORP,1
+1534,2712,"the
+                                    1820s",DATE,1
+1535,2187,Starbucks Newsroom,ORG,1
+1536,2188,States,GPE,1
+1537,2700,system.98,NORP,1
+1538,2695,some 4 percent,PERCENT,1
+1539,2218,"Technological
+    adaptation",WORK_OF_ART,1
+1540,2217,TechCrunch,ORG,1
+1541,2216,Taylor Review,ORG,1
+1542,2693,skills.42,ORG,1
+1543,2214,Tasuku Kuwabara,GPE,1
+1544,2213,TaskRabbit,ORG,1
+1545,2212,Tarun Agarwal,PERSON,1
+1546,2211,Tarek Elmasry,PERSON,1
+1547,2210,Talan B. İşcan,PERSON,1
+1548,2209,Talan B. Iscan,PERSON,1
+1549,2208,TODAY,DATE,1
+1550,2207,Syntouch,WORK_OF_ART,1
+1551,2696,some 60 percent,PERCENT,1
+1552,2189,"Statisticians
+                                                                                                                                 ",ORG,1
+1553,2697,spring 2005,DATE,1
+1554,2203,Swarm,ORG,1
+1555,2202,Sven Smit,PERSON,1
+1556,2201,Suzanne Mettler,PERSON,1
+1557,2200,Susskind,PERSON,1
+1558,2198,Superstar”,WORK_OF_ART,1
+1559,2197,Summers,DATE,1
+1560,2196,Subfield,PERSON,1
+1561,2195,Steven Ruggles,PERSON,1
+1562,2192,Steven J.,PERSON,1
+1563,2191,Steve Lohr,PERSON,1
+1564,2190,Stephan Lindner,PERSON,1
+1565,2157,Simon & Schuster,ORG,1
+1566,2155,"Silicon Valley
+
+
+",ORG,1
+1567,2691,six million,CARDINAL,1
+1568,2154,"Silicon Valley
+",LOC,1
+1569,2723,the 18th century,DATE,1
+1570,2724,the 1940s,DATE,1
+1571,2125,Schumpeter,ORG,1
+1572,2729,the 1980s and,DATE,1
+1573,2121,Sarah Forman,PERSON,1
+1574,2120,Sandrine Devillard,PERSON,1
+1575,2732,the 2000s,DATE,1
+1576,2733,the 20th,DATE,1
+1577,2734,the 20th century,DATE,1
+1578,2736,the Brookings Institution,ORG,1
+1579,2737,the Civil War,EVENT,1
+1580,2738,the Dartmouth Conference,ORG,1
+1581,2117,SSRN,PRODUCT,1
+1582,2116,SIX,CARDINAL,1
+1583,2739,"the European
+    Commission",ORG,1
+1584,2740,the European Union,ORG,1
+1585,2741,the Federal Reserve Banks of,ORG,1
+1586,2113,Rudina Seseri,PERSON,1
+1587,2742,the First Industrial Revolution,EVENT,1
+1588,2743,"the General Services
+                                             Administration",ORG,1
+1589,2110,"Roughly half
+                         ",CARDINAL,1
+1590,2109,Rosetta Books,ORG,1
+1591,2108,Rosenfeld,PERSON,1
+1592,2107,Ronald M. Summers,PERSON,1
+1593,2106,Ronald Goeken,PERSON,1
+1594,2105,Ron Levine,PERSON,1
+1595,2104,Rohit Agarwal,PERSON,1
+1596,2127,Schuster,PERSON,1
+1597,2722,the 1850s,DATE,1
+1598,2128,Scientists,NORP,1
+1599,2143,"September 6, 2012",DATE,1
+1600,2153,Shumi Jain,PERSON,1
+1601,2152,Shishir Gupta,PERSON,1
+1602,2151,Shaw,PERSON,1
+1603,2150,Shannon Bouton,PERSON,1
+1604,2713,"the
+                                    past 25 years",DATE,1
+1605,2714,"the
+                                 hours",TIME,1
+1606,2148,Shana Patadia,PERSON,1
+1607,2147,Shambaugh,ORG,1
+1608,2146,Seven,CARDINAL,1
+1609,2715,"the
+                            automation",ORG,1
+1610,2145,Seth D.,PERSON,1
+1611,2144,Sergio Balcazar,PERSON,1
+1612,2142,"September 26, 2017",DATE,1
+1613,2129,Scott Nyquist,PERSON,1
+1614,2716,"the
+                          21st century",DATE,1
+1615,2717,"the
+                      Bureau of Economic Analysis",ORG,1
+1616,2718,"the
+Advocates",ORG,1
+1617,2138,September 2013,DATE,1
+1618,2137,"September 20, 2011",DATE,1
+1619,2507,decline.19,NORP,1
+1620,2135,"Sensory
+                  Sensory",ORG,1
+1621,2134,Secondly,ORDINAL,1
+1622,2719,"the
+Intelligence Technologies",FAC,1
+1623,2720,"the
+twentieth century",DATE,1
+1624,2721,the 15 years,DATE,1
+1625,2130,Seattle,GPE,1
+1626,2692,six-year,DATE,1
+1627,2221,Telecommunications,ORG,1
+1628,2325,University Center on Education,ORG,1
+1629,2272,Tilly,PERSON,1
+1630,2301,US Council of Economic Advisors,ORG,1
+1631,2300,"US Census 1900, 1914, 1910",WORK_OF_ART,1
+1632,2298,US,NORP,1
+1633,2652,only 3 percent,PERCENT,1
+1634,2653,only 37 percent,PERCENT,1
+1635,2296,UNICEF,ORG,1
+1636,2654,only 40 percent,PERCENT,1
+1637,2294,UN,ORG,1
+1638,2293,UK Department of Education,ORG,1
+1639,2655,only 43 percent,PERCENT,1
+1640,2656,only 5.5 percent,PERCENT,1
+1641,2288,Tyson,PERSON,1
+1642,2658,only about 1 percent,PERCENT,1
+1643,2659,over 130 million miles,QUANTITY,1
+1644,2285,"Twelve, 2015",DATE,1
+1645,2284,Turkey,GPE,1
+1646,2660,over 65,DATE,1
+1647,2661,over 75 percent,PERCENT,1
+1648,2281,Trade,ORG,1
+1649,2662,overnight,TIME,1
+1650,2280,Track how technology is transforming work,WORK_OF_ART,1
+1651,2279,"Track how
+EJNMMI Research",WORK_OF_ART,1
+1652,2278,Tom Mitchell,PERSON,1
+1653,2277,Tom,PERSON,1
+1654,2663,packers,ORG,1
+1655,2275,Times of London,ORG,1
+1656,2274,Tim Worstall,PERSON,1
+1657,2651,only 20 percent,PERCENT,1
+1658,2303,US Labor Markets,ORG,1
+1659,2304,USAID,ORG,1
+1660,2316,"United
+                                                                                                                                                                                  ",ORG,1
+1661,2324,"United States
+                                                                                                                                            ",ORG,1
+1662,2633,"number 1, October 2017",DATE,1
+1663,2321,United Nations,ORG,1
+1664,2320,United Kingdom3,ORG,1
+1665,2319,United Kingdom2,ORG,1
+1666,2635,"number 4, June 2003",DATE,1
+1667,2636,"number 4, November 2003",DATE,1
+1668,2637,"number 4, October 1998",DATE,1
+1669,2638,"number 4, October 2009",DATE,1
+1670,2317,United                                                                             ,ORG,1
+1671,2639,"number 49, December 2015",DATE,1
+1672,2640,"number 5, December 1973",DATE,1
+1673,2642,"number 8, November 2014",DATE,1
+1674,2305,Uber,NORP,1
+1675,2315,"United
+   ",GPE,1
+1676,2644,"one
+                                    tenth",CARDINAL,1
+1677,2314,"United
+
+
+
+
+                                                                                                                                                                                       ",ORG,1
+1678,2313,"United
+",PERSON,1
+1679,2647,ones.25,ORG,1
+1680,2648,only 1.9 percent,PERCENT,1
+1681,2311,Unfinished,PERSON,1
+1682,2649,only 12 percent,PERCENT,1
+1683,2310,"Understanding the                   Europe’s digital front-runners, October 2017.
+",WORK_OF_ART,1
+1684,2309,Ulsan,GPE,1
+1685,2650,only 18 percent,PERCENT,1
+1686,2306,Ubuntu Life,WORK_OF_ART,1
+1687,2273,Tim Beacom,PERSON,1
+1688,2664,percent.71,ORG,1
+1689,2689,simultaneously.65,NORP,1
+1690,2665,platform.87,ORG,1
+1691,2678,roughly 50 percent,PERCENT,1
+1692,2679,roughly 50 years,DATE,1
+1693,2245,"The Lauder
+Institute",ORG,1
+1694,2244,The International Energy Agency,ORG,1
+1695,2243,The Image Bank/Getty,ORG,1
+1696,2242,The High School Movement,ORG,1
+1697,2683,seen.127,ORG,1
+1698,2240,The GI Bill of 1944,LAW,1
+1699,2239,The GI Bill,PERSON,1
+1700,2238,The G. I. Bill and Higher Education: Success and Surprise,WORK_OF_ART,1
+1701,2237,The G. I. Bill,WORK_OF_ART,1
+1702,2236,The Future of Skills:,ORG,1
+1703,2235,The Ford Model T,PRODUCT,1
+1704,2234,"The Contribution of Information
+Technology to Consumer Welfare",WORK_OF_ART,1
+1705,2233,The Conference Board Total Economy Database,ORG,1
+1706,2232,"The Condition of the Working Class
+                                                             in England",WORK_OF_ART,1
+1707,2231,The Chronicle of Higher Education,WORK_OF_ART,1
+1708,2230,The American Assembly,ORG,1
+1709,2684,services.37,ORG,1
+1710,2686,"seven to ten or more
+                                             ",CARDINAL,1
+1711,2229,"The
+Goldin",PERSON,1
+1712,2228,Thailand,GPE,1
+1713,2687,seventh,ORDINAL,1
+1714,2226,Tesla,ORG,1
+1715,2225,Terry Gregory,PERSON,1
+1716,2688,several decades,DATE,1
+1717,2224,Terry,PERSON,1
+1718,2677,roughly 0.5 percent,PERCENT,1
+1719,2247,The New Yorker,ORG,1
+1720,2248,"The Quarterly Journal of
+                                 Economics",ORG,1
+1721,2260,The Welfare & Medical Care/Dex Image/,ORG,1
+1722,2666,population.133,ORG,1
+1723,2269,Thor Berger,PERSON,1
+1724,2667,population.77,PERSON,1
+1725,2268,Thomas H.,PERSON,1
+1726,2267,Thomas A. Kochan,PERSON,1
+1727,2266,Thomas A.,PERSON,1
+1728,2265,Thirteen,CARDINAL,1
+1729,2264,The last 20 years,DATE,1
+1730,2263,The Yale Law Journal,ORG,1
+1731,2262,The World Bank,ORG,1
+1732,2668,premiums.41,ORG,1
+1733,2261,The West Wing,PRODUCT,1
+1734,2259,"The Washington Post
+                            Wonkblog",ORG,1
+1735,2249,"The Quarterly Journal of
+    Economics",ORG,1
+1736,2258,The Wall Street Journal,ORG,1
+1737,2669,presses.30,PRODUCT,1
+1738,2670,previous eras,DATE,1
+1739,2673,required.95,NORP,1
+1740,2255,The Solar Foundation,ORG,1
+1741,2674,"result.1
+
+                      ",ORG,1
+1742,2254,The Social and Economic Implications of Artificial Intelligence Technologies,ORG,1
+1743,2253,The Social and Economic Implications of Artificial,ORG,1
+1744,2252,The Review of Economics and Statistics,ORG,1
+1745,2675,retrained.21 Programs,ORG,1
+1746,2250,"The Quarterly Journal of
+Economics",ORG,1
+1747,2676,"roughly
+                      $6.7 trillion",MONEY,1
+1748,0,"$
+                                        400",MONEY,1
+1749,1461,Freya Li,PERSON,1
+1750,1749,"La
+                                                                       Découverte",ORG,1
+1751,652,36–37          ,ORG,1
+1752,630,"33,902",CARDINAL,1
+1753,632,"34
+",PERCENT,1
+1754,633,34 million,CARDINAL,1
+1755,635,34%,PERCENT,1
+1756,636,34.1,CARDINAL,1
+1757,638,"35
+
+
+",PERCENT,1
+1758,639,"35
+                                                                                                                                   ",MONEY,1
+1759,641,35 percent,PERCENT,1
+1760,642,353,CARDINAL,1
+1761,644,36,DATE,1
+1762,645,36 hours,TIME,1
+1763,646,36 percent,PERCENT,1
+1764,647,"3614, October 2011",DATE,1
+1765,649,365,CARDINAL,1
+1766,650,367,CARDINAL,1
+1767,629,33%,PERCENT,1
+1768,628,33,DATE,1
+1769,626,329,CARDINAL,1
+1770,615,30–35,CARDINAL,1
+1771,608,30-fold,CARDINAL,1
+1772,609,300,CARDINAL,1
+1773,610,300,PRODUCT,1
+1774,611,"300
+
+
+",MONEY,1
+1775,613,300 million to 365 million,MONEY,1
+1776,614,30th–70th  ,ORG,1
+1777,617,31,DATE,1
+1778,625,32 percent,PERCENT,1
+1779,618,"31
+
+
+",PERCENT,1
+1780,619,31 percent,PERCENT,1
+1781,620,"31,300",MONEY,1
+1782,621,31.9 million,CARDINAL,1
+1783,622,31st–70th,PRODUCT,1
+1784,623,31–86,CARDINAL,1
+1785,651,368,CARDINAL,1
+1786,654,37,DATE,1
+1787,709,400M                                                                                 ,QUANTITY,1
+1788,656,37%,PERCENT,1
+1789,682,4,PERSON,1
+1790,683,4 80.3 billion,MONEY,1
+1791,685,"4, 2016",DATE,1
+1792,689,"4,101",MONEY,1
+1793,690,"4,800",MONEY,1
+1794,692,4.0,PRODUCT,1
+1795,693,4.1,CARDINAL,1
+1796,695,4.4,CARDINAL,1
+1797,696,4.5,CARDINAL,1
+1798,697,4.6,CARDINAL,1
+1799,699,4.8,CARDINAL,1
+1800,702,4.92,CARDINAL,1
+1801,705,40 hours,TIME,1
+1802,706,"40.116
+",DATE,1
+1803,707,400 million,CARDINAL,1
+1804,678,3M,PRODUCT,1
+1805,677,"3F
+                     ",ORG,1
+1806,676,39M,MONEY,1
+1807,665,38.6 million,CARDINAL,1
+1808,657,375,CARDINAL,1
+1809,658,375 MILLION,CARDINAL,1
+1810,661,38,DATE,1
+1811,662,38 million to 72 million,CARDINAL,1
+1812,663,"38,600",MONEY,1
+1813,664,38.6 hours,TIME,1
+1814,666,380,CARDINAL,1
+1815,675,390–590,PRODUCT,1
+1816,668,39,DATE,1
+1817,670,39%,PERCENT,1
+1818,671,"39,354",CARDINAL,1
+1819,672,390,PRODUCT,1
+1820,673,390 million,CARDINAL,1
+1821,674,390–590,CARDINAL,1
+1822,607,"30,092",CARDINAL,1
+1823,605,30 to 40 percent,PERCENT,1
+1824,601,3.8,CARDINAL,1
+1825,599,3.5 percent,PERCENT,1
+1826,523,"23,969",CARDINAL,1
+1827,525,23108,CARDINAL,1
+1828,527,232–760,CARDINAL,1
+1829,528,233,CARDINAL,1
+1830,529,235,CARDINAL,1
+1831,530,236,CARDINAL,1
+1832,531,"23782, September 2017",DATE,1
+1833,533,"24
+            ",DATE,1
+1834,534,"24
+                                             hours/day",TIME,1
+1835,536,24%,PERCENT,1
+1836,537,247 million,CARDINAL,1
+1837,540,"25
+",PERCENT,1
+1838,541,25 percent,PERCENT,1
+1839,542,25 percent to 13 percent,PERCENT,1
+1840,544,25%,PERCENT,1
+1841,522,23%,PERCENT,1
+1842,520,"23
+                                                               ",TIME,1
+1843,518,22252,CARDINAL,1
+1844,506,20–29,PRODUCT,1
+1845,498,2030—although,CARDINAL,1
+1846,499,2040,DATE,1
+1847,500,20479,CARDINAL,1
+1848,502,2050,DATE,1
+1849,503,2060,DATE,1
+1850,504,"20M
+                            “Marketization”",QUANTITY,1
+1851,507,20–50,CARDINAL,1
+1852,517,220,CARDINAL,1
+1853,510,"21906, January 2016",DATE,1
+1854,512,22,DATE,1
+1855,513,22 percent,PERCENT,1
+1856,514,22%,PERCENT,1
+1857,515,22.4,CARDINAL,1
+1858,516,22.7,CARDINAL,1
+1859,545,25.6,CARDINAL,1
+1860,547,253,CARDINAL,1
+1861,548,255,CARDINAL,1
+1862,585,"3, summer 2015",DATE,1
+1863,575,2M–3M,ORG,1
+1864,579,3 2011,DATE,1
+1865,581,3%,PERCENT,1
+1866,582,"3, 2000",DATE,1
+1867,583,"3, August 2007",DATE,1
+1868,584,"3, September 1, 1996",DATE,1
+1869,586,"3,000",CARDINAL,1
+1870,573,29).1,CARDINAL,1
+1871,588,"3,205",CARDINAL,1
+1872,591,"3,944",CARDINAL,1
+1873,592,3-year,DATE,1
+1874,593,3.0,CARDINAL,1
+1875,596,3.44,CARDINAL,1
+1876,598,3.5 million,CARDINAL,1
+1877,574,292 million,CARDINAL,1
+1878,572,"29
+                                                                                                                                      ",PRODUCT,1
+1879,549,25–26,CARDINAL,1
+1880,560,27 percent,PERCENT,1
+1881,551,26,DATE,1
+1882,552,26 million,CARDINAL,1
+1883,555,"26,000",CARDINAL,1
+1884,556,"26,755",CARDINAL,1
+1885,557,26.8,CARDINAL,1
+1886,559,"27
+
+
+",PERSON,1
+1887,561,"27, April 2014",DATE,1
+1888,571,29,DATE,1
+1889,562,275,CARDINAL,1
+1890,565,28%,PERCENT,1
+1891,566,28.3,CARDINAL,1
+1892,567,280 million,CARDINAL,1
+1893,568,289,CARDINAL,1
+1894,569,28–80,PERSON,1
+1895,708,"400,000",CARDINAL,1
+1896,711,"41
+",DATE,1
+1897,938,"824
+",DATE,1
+1898,886,737,PRODUCT,1
+1899,857,"67,963",CARDINAL,1
+1900,860,"68
+",DATE,1
+1901,862,68 percent,PERCENT,1
+1902,863,686,CARDINAL,1
+1903,866,7 percent,PERCENT,1
+1904,867,"7,530",CARDINAL,1
+1905,868,7.0,CARDINAL,1
+1906,869,7.2,CARDINAL,1
+1907,870,7.5,CARDINAL,1
+1908,871,7.5 million,CARDINAL,1
+1909,872,7.6,CARDINAL,1
+1910,873,7.8,CARDINAL,1
+1911,876,"70
+",DATE,1
+1912,879,701,CARDINAL,1
+1913,881,71st–99th,CARDINAL,1
+1914,856,67,CARDINAL,1
+1915,854,66.3 billion,MONEY,1
+1916,853,66%,PERCENT,1
+1917,836,61,DATE,1
+1918,825,6.00,CARDINAL,1
+1919,828,6.5 percent,PERCENT,1
+1920,829,6.9 million,CARDINAL,1
+1921,831,60 million to 375 million,CARDINAL,1
+1922,833,60 to 70 percent,PERCENT,1
+1923,834,60.0,CARDINAL,1
+1924,839,"62,470",CARDINAL,1
+1925,849,65 years,DATE,1
+1926,840,"623,000",CARDINAL,1
+1927,841,624,MONEY,1
+1928,844,64 percent,PERCENT,1
+1929,846,65,DATE,1
+1930,847,65 million,CARDINAL,1
+1931,848,65 percent,PERCENT,1
+1932,883,72 percent,PERCENT,1
+1933,887,"73M
+                                           ",QUANTITY,1
+1934,712,416,CARDINAL,1
+1935,888,74,CARDINAL,1
+1936,915,8 to 9 percent,PERCENT,1
+1937,916,8%,PERCENT,1
+1938,917,"8, October 2016",DATE,1
+1939,919,8.0,CARDINAL,1
+1940,920,8.2,CARDINAL,1
+1941,921,8.5 billion,CARDINAL,1
+1942,922,8.8,CARDINAL,1
+1943,925,80 million,CARDINAL,1
+1944,926,80 million to 130 million,CARDINAL,1
+1945,928,"80,000",CARDINAL,1
+1946,929,800 million,CARDINAL,1
+1947,930,80–89,PRODUCT,1
+1948,932,81,DATE,1
+1949,933,"81
+",DATE,1
+1950,934,81 percent,PERCENT,1
+1951,914,8 percent,PERCENT,1
+1952,913,8                 11,PRODUCT,1
+1953,912,"8
+",PERCENT,1
+1954,899,7650,CARDINAL,1
+1955,891,75 million to 375 million,CARDINAL,1
+1956,892,75%,PERCENT,1
+1957,895,"757M
+                                             Retail",PRODUCT,1
+1958,896,76,CARDINAL,1
+1959,897,76,DATE,1
+1960,898,76 million,CARDINAL,1
+1961,900,766,CARDINAL,1
+1962,910,7M–12M                       ,PERSON,1
+1963,902,768,PRODUCT,1
+1964,904,77 percent,PERCENT,1
+1965,905,78,CARDINAL,1
+1966,906,78,PERSON,1
+1967,907,78 percent,PERCENT,1
+1968,909,79 percent,PERCENT,1
+1969,824,6.0,DATE,1
+1970,822,"6,010",CARDINAL,1
+1971,820,6                  ,PRODUCT,1
+1972,818,5–11,CARDINAL,1
+1973,745,5,DATE,1
+1974,746,5,MONEY,1
+1975,747,"5
+                                                                                Up to 13%",MONEY,1
+1976,748,5                  Time,TIME,1
+1977,750,"5, 2013",DATE,1
+1978,751,"5, December 1973",DATE,1
+1979,752,5.0,CARDINAL,1
+1980,753,5.1,CARDINAL,1
+1981,754,"5.1
+                                                                                                                                   ",MONEY,1
+1982,755,5.2,CARDINAL,1
+1983,757,5.4%,PERCENT,1
+1984,758,5.5,CARDINAL,1
+1985,759,5.5%,PERCENT,1
+1986,760,5.59,DATE,1
+1987,761,5.6,CARDINAL,1
+1988,743,"49, December 2015",DATE,1
+1989,741,49,DATE,1
+1990,738,476,CARDINAL,1
+1991,723,"44,942",CARDINAL,1
+1992,714,42 hours,TIME,1
+1993,715,428,CARDINAL,1
+1994,717,43 million,CARDINAL,1
+1995,718,434,CARDINAL,1
+1996,721,"44, July 2007",DATE,1
+1997,722,"44,700",MONEY,1
+1998,724,440,MONEY,1
+1999,737,"47,389",CARDINAL,1
+2000,726,45,DATE,1
+2001,728,45.126,CARDINAL,1
+2002,730,"4509, October 1993",DATE,1
+2003,731,452,CARDINAL,1
+2004,734,"46,663",CARDINAL,1
+2005,736,47,DATE,1
+2006,762,5.6 million,CARDINAL,1
+2007,763,5.8,CARDINAL,1
+2008,767,50 million to 90 million,MONEY,1
+2009,807,57 hours,TIME,1
+2010,798,555,CARDINAL,1
+2011,799,555 million,CARDINAL,1
+2012,801,56,DATE,1
+2013,802,56 percent,PERCENT,1
+2014,803,"56,104",CARDINAL,1
+2015,804,560,MONEY,1
+2016,808,57 percent,PERCENT,1
+2017,795,55       ,MONEY,1
+2018,809,"57,670",CARDINAL,1
+2019,810,57.4,CARDINAL,1
+2020,812,58 percent,PERCENT,1
+2021,815,590,CARDINAL,1
+2022,816,590 million,CARDINAL,1
+2023,817,596,CARDINAL,1
+2024,796,55       ,ORG,1
+2025,792,547,CARDINAL,1
+2026,771,"50,969",CARDINAL,1
+2027,780,52 percent,PERCENT,1
+2028,772,500,CARDINAL,1
+2029,773,504,CARDINAL,1
+2030,775,51,DATE,1
+2031,776,51 million,CARDINAL,1
+2032,777,51 percent,PERCENT,1
+2033,778,51%,PERCENT,1
+2034,781,52%,PERCENT,1
+2035,791,544,CARDINAL,1
+2036,783,52–55,PRODUCT,1
+2037,785,53 million,CARDINAL,1
+2038,786,"53,000",CARDINAL,1
+2039,787,533,CARDINAL,1
+2040,788,54,CARDINAL,1
+2041,790,"54,806",CARDINAL,1
+2042,497,20301,DATE,1
+2043,496,2030.85,CARDINAL,1
+2044,495,2030.75,CARDINAL,1
+2045,141,1.0%,PERCENT,1
+2046,114,1 year,DATE,1
+2047,115,"1, June 2013",DATE,1
+2048,118,"1,000",MONEY,1
+2049,119,"1,030",CARDINAL,1
+2050,121,"1,190",CARDINAL,1
+2051,123,"1,241",CARDINAL,1
+2052,125,"1,268",CARDINAL,1
+2053,126,"1,269",CARDINAL,1
+2054,127,"1,304",CARDINAL,1
+2055,129,"1,500",CARDINAL,1
+2056,130,"1,507",CARDINAL,1
+2057,133,"1,655",CARDINAL,1
+2058,135,"1,695",CARDINAL,1
+2059,136,"1,724",CARDINAL,1
+2060,137,"1,727",CARDINAL,1
+2061,113,1 billion,CARDINAL,1
+2062,111,1 2014,DATE,1
+2063,110,1,GPE,1
+2064,98,0.63,CARDINAL,1
+2065,89,0.4 to 0.6,CARDINAL,1
+2066,90,"0.42
+
+
+",DATE,1
+2067,93,0.52,CARDINAL,1
+2068,94,0.56 percent,PERCENT,1
+2069,95,0.57 percent,PERCENT,1
+2070,97,0.60,CARDINAL,1
+2071,99,0.7,CARDINAL,1
+2072,108,0–3%,PERCENT,1
+2073,101,0.8,MONEY,1
+2074,102,0.8 1.0,CARDINAL,1
+2075,104,"0.9
+
+
+",PERCENT,1
+2076,105,02,CARDINAL,1
+2077,106,04,CARDINAL,1
+2078,107,06,DATE,1
+2079,138,"1,752",MONEY,1
+2080,142,1.07,CARDINAL,1
+2081,494,2030.73,CARDINAL,1
+2082,144,"1.1                                                       0.7                                                          -0.4
+
+",MONEY,1
+2083,176,10.1,CARDINAL,1
+2084,177,10.7,CARDINAL,1
+2085,178,10.8,CARDINAL,1
+2086,183,100 years ago,DATE,1
+2087,187,1000,CARDINAL,1
+2088,191,104,CARDINAL,1
+2089,192,104,FAC,1
+2090,195,106,DATE,1
+2091,198,109,CARDINAL,1
+2092,199,10–11,PRODUCT,1
+2093,200,10–11M,ORG,1
+2094,201,10–19,ORG,1
+2095,202,10–25                Sales workers,PRODUCT,1
+2096,205,11 percent,PERCENT,1
+2097,206,11%,PERCENT,1
+2098,175,"10,500",MONEY,1
+2099,174,"10,000",CARDINAL,1
+2100,173,10%,PERCENT,1
+2101,157,1.6,PERSON,1
+2102,145,1.1                                                   -1.6,PERSON,1
+2103,147,1.3,CARDINAL,1
+2104,150,1.4,CARDINAL,1
+2105,152,1.4 percent,PERCENT,1
+2106,153,1.48 percent,PERCENT,1
+2107,156,1.6,CARDINAL,1
+2108,158,1.6%,PERCENT,1
+2109,170,"10
+percentage points",PERCENT,1
+2110,159,1.60,CARDINAL,1
+2111,163,1.81,CARDINAL,1
+2112,165,1.9 million,MONEY,1
+2113,166,1/3,CARDINAL,1
+2114,168,10,MONEY,1
+2115,169,"10
+                                                                                               ",CARDINAL,1
+2116,88,0.4 0.4,CARDINAL,1
+2117,87,0.4,PERSON,1
+2118,85,0.37                      -0.10,PERCENT,1
+2119,84,0.3 0.3,CARDINAL,1
+2120,23,+46,DATE,1
+2121,24,+46,GPE,1
+2122,25,"+54
+
+
+
+             ",PRODUCT,1
+2123,26,"+54
+                                                                                                        ",ORG,1
+2124,27,+79,CARDINAL,1
+2125,29,-0.03,CARDINAL,1
+2126,30,-0.23,GPE,1
+2127,32,-1.1,PERSON,1
+2128,33,-1.1                                                                                -12 to -2,PERSON,1
+2129,34,-1.2,PERSON,1
+2130,35,-1.3,ORG,1
+2131,36,-1.4,CARDINAL,1
+2132,37,"-1.5
+                                                                                              ",ORG,1
+2133,38,-1.7,PERSON,1
+2134,39,"-12
+                                                                                    ",ORG,1
+2135,22,+32            ,ORG,1
+2136,21,"+32
+
+
+
+             ",ORG,1
+2137,20,"+3
+                                                                                    ",ORG,1
+2138,11,$3.8 trillion,MONEY,1
+2139,2,$1.7 trillion,MONEY,1
+2140,4,$145 billion,MONEY,1
+2141,5,$16.5 trillion,MONEY,1
+2142,6,$2.1 trillion,MONEY,1
+2143,7,$2.5 trillion,MONEY,1
+2144,9,$23 trillion,MONEY,1
+2145,12,$5.5 trillion,MONEY,1
+2146,19,+2.71,ORG,1
+2147,13,$8.2 trillion,MONEY,1
+2148,14,$9.8 trillion,MONEY,1
+2149,15,%,MONEY,1
+2150,16,% of FTE hours,TIME,1
+2151,17,% of work hours,TIME,1
+2152,18,+1.5 billion,MONEY,1
+2153,40,-15,CARDINAL,1
+2154,41,"-17
+
+",ORG,1
+2155,42,-2.3,CARDINAL,1
+2156,75,0.1,PERSON,1
+2157,65,"0
+       ",PRODUCT,1
+2158,68,0.01 percent,PERCENT,1
+2159,69,0.03                                  -0.05,MONEY,1
+2160,71,0.06,CARDINAL,1
+2161,72,0.07,CARDINAL,1
+2162,73,0.08 percent,PERCENT,1
+2163,77,0.12                                ,MONEY,1
+2164,62,-7,PERSON,1
+2165,78,0.17,CARDINAL,1
+2166,79,0.2,CARDINAL,1
+2167,80,0.2,PERSON,1
+2168,81,0.2 percent,PERCENT,1
+2169,82,0.20,CARDINAL,1
+2170,83,0.3,CARDINAL,1
+2171,63,-7.0,PERSON,1
+2172,61,-69                                                                            ,PERSON,1
+2173,43,-2.3,ORG,1
+2174,51,-3.6,DATE,1
+2175,44,-2.5 billion hours,TIME,1
+2176,45,-2.6 billion hours,TIME,1
+2177,46,-2.7,PERSON,1
+2178,47,-2.8,DATE,1
+2179,49,-2.9,PERSON,1
+2180,50,"-3
+                                                                                    ",ORG,1
+2181,52,-3.6,PRODUCT,1
+2182,60,-6.5,CARDINAL,1
+2183,53,-36,GPE,1
+2184,54,"-36
+                                                                                                                              ",ORG,1
+2185,56,"-47
+
+                                                                                                                             ",DATE,1
+2186,57,-6,CARDINAL,1
+2187,58,-6,DATE,1
+2188,59,"-6
+                                                                                    ",ORG,1
+2189,207,"11,468",CARDINAL,1
+2190,208,11.9,CARDINAL,1
+2191,219,11–12,PRODUCT,1
+2192,357,19.0,CARDINAL,1
+2193,402,1995.64,CARDINAL,1
+2194,404,1997,DATE,1
+2195,405,19th century,DATE,1
+2196,406,19th-century,DATE,1
+2197,407,19–20         0,ORG,1
+2198,408,19–52%,PERCENT,1
+2199,409,1Q17,CARDINAL,1
+2200,413,2,DATE,1
+2201,414,"2
+            ",CARDINAL,1
+2202,416,2 2014,DATE,1
+2203,418,"2, February 2010",DATE,1
+2204,419,"2, July
+     1989",DATE,1
+2205,420,"2, July 1989",DATE,1
+2206,421,"2, June 1998",DATE,1
+2207,422,"2, September 1995",DATE,1
+2208,398,1990s.60,CARDINAL,1
+2209,397,1990s,DATE,1
+2210,393,1982,DATE,1
+2211,379,1960-2012,DATE,1
+2212,359,1909,DATE,1
+2213,367,1920,DATE,1
+2214,368,1929,DATE,1
+2215,370,1933,DATE,1
+2216,373,1944,DATE,1
+2217,374,1949,DATE,1
+2218,380,1960–2015,CARDINAL,1
+2219,391,1980.45,CARDINAL,1
+2220,382,1963,DATE,1
+2221,383,1964,DATE,1
+2222,384,1965,DATE,1
+2223,386,1970s,DATE,1
+2224,388,1973,DATE,1
+2225,389,1976,DATE,1
+2226,423,"2, summer 1998",DATE,1
+2227,425,"2,204",MONEY,1
+2228,427,"2,508",CARDINAL,1
+2229,480,2016.28,CARDINAL,1
+2230,470,2014we,CARDINAL,1
+2231,473,2015.34,CARDINAL,1
+2232,474,2015–25,PRODUCT,1
+2233,475,2015—more than $3 trillion,MONEY,1
+2234,478,2016 2030,DATE,1
+2235,479,"2016 2030
+",DATE,1
+2236,484,2017.158,CARDINAL,1
+2237,466,2013,ORG,1
+2238,485,2020,DATE,1
+2239,487,2025.4,CARDINAL,1
+2240,490,"2030
+",DATE,1
+2241,491,"2030
+
+
+",PERSON,1
+2242,492,2030.100,DATE,1
+2243,493,2030.6,CARDINAL,1
+2244,469,2014.76,CARDINAL,1
+2245,461,2009,DATE,1
+2246,430,"2.1
+",DATE,1
+2247,441,2.9 million,CARDINAL,1
+2248,431,2.2 million,CARDINAL,1
+2249,432,2.25,CARDINAL,1
+2250,434,2.4,CARDINAL,1
+2251,435,2.5,PRODUCT,1
+2252,437,2.66 billion,CARDINAL,1
+2253,440,2.82,CARDINAL,1
+2254,445,20 million to 46 million,CARDINAL,1
+2255,458,2005,DATE,1
+2256,446,20 percent,PERCENT,1
+2257,448,20 to 50 million,CARDINAL,1
+2258,449,20%,PERCENT,1
+2259,450,20%–30%,PERCENT,1
+2260,451,"20,414",CARDINAL,1
+2261,457,2004,DATE,1
+2262,358,1900,DATE,1
+2263,353,"18M–38M
+                               ",MONEY,1
+2264,220,11–12          ,MONEY,1
+2265,352,18Fs,CARDINAL,1
+2266,267,14,DATE,1
+2267,268,"14
+            ",DATE,1
+2268,269,"14
+                                                            ",PRODUCT,1
+2269,272,"14,235",CARDINAL,1
+2270,273,14.6,MONEY,1
+2271,275,"141
+
+
+",PERCENT,1
+2272,277,"142, March 2016",DATE,1
+2273,280,"145
+
+
+",PERCENT,1
+2274,284,149,CARDINAL,1
+2275,286,15,DATE,1
+2276,287,15,MONEY,1
+2277,288,15 PERCENT,PERCENT,1
+2278,291,15 years,DATE,1
+2279,295,150,CARDINAL,1
+2280,298,152 million,CARDINAL,1
+2281,265,13M–16,CARDINAL,1
+2282,264,"139, July 2016",DATE,1
+2283,262,"138M
+                            ",MONEY,1
+2284,242,13,DATE,1
+2285,222,12,DATE,1
+2286,226,12.8,CARDINAL,1
+2287,229,"120M
+                                             ",PRODUCT,1
+2288,230,"121
+
+
+Apprentices",ORG,1
+2289,232,12264,CARDINAL,1
+2290,240,12M,PERSON,1
+2291,243,13,PERSON,1
+2292,257,"135,000",CARDINAL,1
+2293,244,"13
+
+
+",PERCENT,1
+2294,245,13 million,CARDINAL,1
+2295,247,13%,PERCENT,1
+2296,248,13.7,CARDINAL,1
+2297,253,"1335, March 2015",DATE,1
+2298,255,134 million,CARDINAL,1
+2299,299,152–497,CARDINAL,1
+2300,300,153,CARDINAL,1
+2301,301,154,CARDINAL,1
+2302,339,1838,DATE,1
+2303,327,1790,DATE,1
+2304,332,18.25,MONEY,1
+2305,333,18.5 percent,PERCENT,1
+2306,335,1814,DATE,1
+2307,337,1831,DATE,1
+2308,338,1831-1834,DATE,1
+2309,341,1845,DATE,1
+2310,325,1770,CARDINAL,1
+2311,344,"1850–2015
+%",PERCENT,1
+2312,345,1854,DATE,1
+2313,348,1870-2000,DATE,1
+2314,349,1890,DATE,1
+2315,350,"18901, March 2013",DATE,1
+2316,351,1890–1970,CARDINAL,1
+2317,326,1770–1893,CARDINAL,1
+2318,323,17%,PERCENT,1
+2319,302,154,ORG,1
+2320,311,16 percent,PERCENT,1
+2321,303,156,CARDINAL,1
+2322,304,157,CARDINAL,1
+2323,305,158,CARDINAL,1
+2324,306,1589,DATE,1
+2325,308,15–29,PRODUCT,1
+2326,310,"16
+",PERCENT,1
+2327,312,16%,PERCENT,1
+2328,322,17 percent,PERCENT,1
+2329,313,"16,000",CARDINAL,1
+2330,314,16-053,CARDINAL,1
+2331,315,165,PRODUCT,1
+2332,316,165 million,CARDINAL,1
+2333,317,165–300,CARDINAL,1
+2334,321,17,PERSON,1
+2335,937,824,CARDINAL,1
+2336,940,83 million,CARDINAL,1
+2337,1748,LOST                                       ,ORG,1
+2338,1493,Glassdoor.com,ORG,1
+2339,1472,Gary Pinkus,PERSON,1
+2340,1473,Gaurav Nayyar,PERSON,1
+2341,1475,George,PERSON,1
+2342,1476,George Anders,PERSON,1
+2343,1477,Georgetown,ORG,1
+2344,1478,Georgetown University Center,ORG,1
+2345,1479,Georgia,GPE,1
+2346,1480,Georgia Tech,ORG,1
+2347,1481,Georgia Tech’s,ORG,1
+2348,1482,Geri Lavrov,PERSON,1
+2349,1485,"Germany
+                                                                                                         ",ORG,1
+2350,1486,"Germany
+                                                                                                                                          ",ORG,1
+2351,1487,"Germany RHS
+",ORG,1
+2352,1488,Getting Skills,WORK_OF_ART,1
+2353,1491,Gisle Hannemayr,PERSON,1
+2354,1471,Gartner,PERSON,1
+2355,1470,Gartner,ORG,1
+2356,1469,GW,ORG,1
+2357,1458,Frederik Jensen,PERSON,1
+2358,1446,Finns,NORP,1
+2359,1448,Fitzpayne,PERSON,1
+2360,1449,Five,CARDINAL,1
+2361,1452,Ford,PERSON,1
+2362,1453,Four years,DATE,1
+2363,1455,France                                                                                                      ,ORG,1
+2364,1459,Freelancer.com,ORG,1
+2365,1468,GI Bill,PERSON,1
+2366,1,$ billion,MONEY,1
+2367,1462,Friedrich Engels,PERSON,1
+2368,1463,Furman,PERSON,1
+2369,1464,GER,ORG,1
+2370,1465,GERMANY,GPE,1
+2371,1467,GI,ORG,1
+2372,1492,GiveDirectly,ORG,1
+2373,1494,Global Growth,PRODUCT,1
+2374,1546,Home,ORG,1
+2375,1496,Going to war,WORK_OF_ART,1
+2376,1526,Hard Times,ORG,1
+2377,1527,Harper Business Press,ORG,1
+2378,1528,Harris,PERSON,1
+2379,1529,Harry,PERSON,1
+2380,1530,Harry Holzer,PERSON,1
+2381,1531,Hartz,PERSON,1
+2382,1532,Harvard,ORG,1
+2383,1533,"Harvard Business
+Review",ORG,1
+2384,1534,Harvard Business Review,ORG,1
+2385,1535,Harvard University,ORG,1
+2386,1537,Hasan,PERSON,1
+2387,1538,Hayit Greenspan,PERSON,1
+2388,1539,Heather,PERSON,1
+2389,1541,Henry,PERSON,1
+2390,1543,"Herrendorf, Berthold",ORG,1
+2391,1525,Hanks,PERSON,1
+2392,1524,Hank Yang,PERSON,1
+2393,1521,Hallward-Driemeier,PERSON,1
+2394,1505,Gordon Moore,PERSON,1
+2395,1497,Going to war and going to college,WORK_OF_ART,1
+2396,1498,Goldin,PERSON,1
+2397,1499,Goldstein,PERSON,1
+2398,1501,Google,WORK_OF_ART,1
+2399,1502,Gordon,PERSON,1
+2400,1503,"Gordon H.
+                                  Hanson",PERSON,1
+2401,1506,Government,ORG,1
+2402,1520,Hal Hodson,PERSON,1
+2403,1507,Grace Donnelly,PERSON,1
+2404,1509,Grant D.,PERSON,1
+2405,1511,Greenberg,PERSON,1
+2406,1513,"Gregory
+                                Clark",ORG,1
+2407,1517,Gurneet Singh Dandona,PERSON,1
+2408,1519,HOURS,TIME,1
+2409,1444,Financial Times,ORG,1
+2410,1443,Financial Services Forum,ORG,1
+2411,1442,Financial,ORG,1
+2412,1441,Finance and Economics,ORG,1
+2413,1370,Engels,PRODUCT,1
+2414,1373,English,LANGUAGE,1
+2415,1374,English,NORP,1
+2416,1376,Enrico,PERSON,1
+2417,1377,"Enrico
+                            Moretti",PERSON,1
+2418,1378,Enrico Moretti,PERSON,1
+2419,1379,Enrique Gonzalez,PERSON,1
+2420,1380,Eric A. Hanushek,PERSON,1
+2421,1381,Eric Hazan,PERSON,1
+2422,1382,Eric Labaye,PERSON,1
+2423,1386,Erik Rong,PERSON,1
+2424,1387,Essays in Persuasion,WORK_OF_ART,1
+2425,1389,Estonian,NORP,1
+2426,1390,Ethan Gurwitz,PERSON,1
+2427,1391,Ethan Pollack,PERSON,1
+2428,1369,Engels,PERSON,1
+2429,1367,Engbom,GPE,1
+2430,1366,Energy Insights,ORG,1
+2431,1354,Eduardo Doryan,PERSON,1
+2432,1348,Eckart Windhagen,WORK_OF_ART,1
+2433,1349,Economic Innovation Group,ORG,1
+2434,1350,Economic Progress,EVENT,1
+2435,1351,Economic Progress,FAC,1
+2436,1352,Economics Discussion Series,EVENT,1
+2437,1353,Economics of Innovation,ORG,1
+2438,1356,Edward,PERSON,1
+2439,1365,Employment and Employability Institute,ORG,1
+2440,1357,Edward Alden,PERSON,1
+2441,1359,Eisenstein,PERSON,1
+2442,1360,Elizabeth L.,PERSON,1
+2443,1361,Elizabeth L. Eisenstein,PERSON,1
+2444,1362,Elon Musk,PERSON,1
+2445,1364,Emilio Noriega,PERSON,1
+2446,1392,"Eurasian
+                      Business Review",ORG,1
+2447,1395,"European Economic Research
+",ORG,1
+2448,1397,Europeans,NORP,1
+2449,1432,"February 25, 2015",DATE,1
+2450,1422,Fang,PERSON,1
+2451,1424,February,DATE,1
+2452,1425,"February
+                            ",DATE,1
+2453,1426,"February
+    2015",DATE,1
+2454,1427,"February 16, 2017",DATE,1
+2455,1430,February 2015,DATE,1
+2456,1433,Federal Reserve Banks,ORG,1
+2457,1420,"Faezeh
+of Sciences of the United States of America",WORK_OF_ART,1
+2458,1435,Feld,PERSON,1
+2459,1436,Feldmann,PERSON,1
+2460,1437,Fernand,PERSON,1
+2461,1438,Fernand Rude,PERSON,1
+2462,1439,Fernanda Hernandez,PERSON,1
+2463,1440,Fifth Avenue,FAC,1
+2464,1421,Faezeh Raei,PERSON,1
+2465,1416,FDIC,ORG,1
+2466,1398,Eurostat,ORG,1
+2467,1405,Exhibit 23,LAW,1
+2468,1399,Evans,PERSON,1
+2469,1400,Exhibit 11,LAW,1
+2470,1401,Exhibit 14,LAW,1
+2471,1402,Exhibit 16,LAW,1
+2472,1403,Exhibit 17,LAW,1
+2473,1404,Exhibit 21).93,PRODUCT,1
+2474,1406,Exhibit 24).99,DATE,1
+2475,1415,FASEB Journal,ORG,1
+2476,1407,Exhibit 30,LAW,1
+2477,1408,Exhibit 5,LAW,1
+2478,1410,"Exhibit A4
+",PRODUCT,1
+2479,1411,Exhibit E6).13,LAW,1
+2480,1412,"F
+                                                            ",PRODUCT,1
+2481,1414,F            G                 ,ORG,1
+2482,1545,Holzer,PERSON,1
+2483,1547,Hong        McKinsey Global Institute,ORG,1
+2484,942,84%,PERCENT,1
+2485,1699,July 2008,DATE,1
+2486,1678,Joshua S. Gans,PERSON,1
+2487,1679,Josiah Grover,PERSON,1
+2488,1681,"Journal of
+                          Computer-Mediated Communication",ORG,1
+2489,1682,"Journal of
+        Economic History",ORG,1
+2490,1683,"Journal of
+Computer-Mediated Communication",ORG,1
+2491,1684,"Journal of
+National Academies of Sciences, Engineering",ORG,1
+2492,1685,Journal of Economic Growth,ORG,1
+2493,1687,Journal of Economic Perspectives,ORG,1
+2494,1688,Journal of Economics,ORG,1
+2495,1689,Journal of Evolutionary Economics,ORG,1
+2496,1692,"Journal of Policy Analysis
+                                 and Management",ORG,1
+2497,1694,Journal of the Textile Institute,ORG,1
+2498,1695,Julia Kirby,PERSON,1
+2499,1696,Julian Albert,PERSON,1
+2500,1697,Julie L.,PERSON,1
+2501,1677,Josh Mitchell,PERSON,1
+2502,1675,Joseph,PERSON,1
+2503,1674,Jose Mora Guerrero,PERSON,1
+2504,1662,Joe College,ORG,1
+2505,1655,Jerry,PERSON,1
+2506,1656,Jerry van Houten,PERSON,1
+2507,1657,Jesse Noffsinger,PERSON,1
+2508,1658,Jessie Young,PERSON,1
+2509,1659,Jimmy Sarakatsannis,PERSON,1
+2510,1661,"Joe
+",PERSON,1
+2511,1663,Joes,LOC,1
+2512,1673,Joos P.L. Vandewalle,PERSON,1
+2513,1664,John,PERSON,1
+2514,1665,John Bound,PERSON,1
+2515,1667,John Maynard,PERSON,1
+2516,1669,John McCarthy,PERSON,1
+2517,1670,John McCarthy et al.,PERSON,1
+2518,1671,Jonathan Ablett,PERSON,1
+2519,1698,Julie Philpot,PERSON,1
+2520,1700,July 2013,DATE,1
+2521,1548,Horst,PERSON,1
+2522,1704,"July 27, 2017",DATE,1
+2523,1728,Karen Jones,PERSON,1
+2524,1729,Karl,PERSON,1
+2525,1731,Katharina Schumacher,PERSON,1
+2526,1732,Katie Genadek,PERSON,1
+2527,1734,Keith,GPE,1
+2528,1735,Keith W.,PERSON,1
+2529,1736,Keith W. Olson,PERSON,1
+2530,1737,"Keith, Stuart Andreason",ORG,1
+2531,1740,Kimberly Henderson,PERSON,1
+2532,1741,Kindle,ORG,1
+2533,1742,Kingdom,GPE,1
+2534,1743,Kochan,GPE,1
+2535,1744,Korea,GPE,1
+2536,1745,Korean,NORP,1
+2537,1746,Krzysztof Kwiatkowski,PERSON,1
+2538,1727,Kaplan,PERSON,1
+2539,1726,Kalleberg,PERSON,1
+2540,1725,Kaiser Permanente,ORG,1
+2541,1713,June 2003,DATE,1
+2542,1706,July-August 2013,DATE,1
+2543,1707,"June
+    2016",DATE,1
+2544,1708,"June 15, 2014",DATE,1
+2545,1709,"June 15, 2017",DATE,1
+2546,1710,"June 18,
+",DATE,1
+2547,1712,June 1998,DATE,1
+2548,1714,June 2012,DATE,1
+2549,1724,Kai-fu,PERSON,1
+2550,1718,"June 26, 2017",DATE,1
+2551,1719,"June 28, 2017",DATE,1
+2552,1720,"June 30, 2016",DATE,1
+2553,1721,"K
+                            ",PRODUCT,1
+2554,1722,K                                                                 McKinsey Global Institute,ORG,1
+2555,1723,KELA,ORG,1
+2556,1654,Jeremy Reynolds,PERSON,1
+2557,1651,Jens Riis Anderson,PERSON,1
+2558,1649,Jeffrey,PERSON,1
+2559,1648,Jeff Strohl,PERSON,1
+2560,1573,ImageNet,ORG,1
+2561,1574,Indeed.com,ORG,1
+2562,1576,"India
+                                                                                                                                         ",PERSON,1
+2563,1577,"India
+                                                                                                                                          ",ORG,1
+2564,1578,India RHS,ORG,1
+2565,1579,India.88,CARDINAL,1
+2566,1580,India2                                               ,PERSON,1
+2567,1581,Indian,NORP,1
+2568,1582,Indians,NORP,1
+2569,1583,Indirect,ORG,1
+2570,1585,Industrial Revolution,EVENT,1
+2571,1586,"Information Systems
+Research",ORG,1
+2572,1587,Infosys,ORG,1
+2573,1588,Inside Wal-Mart,WORK_OF_ART,1
+2574,1589,Institute of Technology,ORG,1
+2575,1572,Igor Aizenberg,PERSON,1
+2576,1571,Ideas Getting Harder to Find,WORK_OF_ART,1
+2577,1570,Ibid,PRODUCT,1
+2578,1556,IBM,ORG,1
+2579,1549,Hotel,ORG,1
+2580,1550,Houghton Mifflin Harcourt,ORG,1
+2581,1551,HourlyNerd,PERSON,1
+2582,1552,Hours,TIME,1
+2583,1553,How the GI Bill,WORK_OF_ART,1
+2584,1554,"Human
+Bughin",WORK_OF_ART,1
+2585,1557,ICT,ORG,1
+2586,1569,Ian Bogost,PERSON,1
+2587,1559,IEEE Transactions on Medical Imaging,ORG,1
+2588,1560,IHS Global Insight,ORG,1
+2589,1561,ILO,ORG,1
+2590,1563,IMF world              ,ORG,1
+2591,1565,INDIA,GPE,1
+2592,1566,INSEAD,ORG,1
+2593,1590,Intel,NORP,1
+2594,1592,Intergovernmental Panel on Climate Change,ORG,1
+2595,1593,"International
+                                  Labour Organization",ORG,1
+2596,1638,"January 8, 2017",DATE,1
+2597,1628,January,DATE,1
+2598,1629,"January
+                                 2015",DATE,1
+2599,1630,January 2007,DATE,1
+2600,1631,January 2010,DATE,1
+2601,1632,January 2013,DATE,1
+2602,1637,January 29,DATE,1
+2603,1640,"Japan
+                                                                                                          ",ORG,1
+2604,1624,Jamie,GPE,1
+2605,1641,"Japan
+                                                                                                                                          ",ORG,1
+2606,1642,Japan RHS,ORG,1
+2607,1644,Jason,PERSON,1
+2608,1645,"Jason
+                          Furman",PERSON,1
+2609,1646,Jay,PERSON,1
+2610,1647,Jean-François Mignot,PERSON,1
+2611,1625,Jamie Merisotis,PERSON,1
+2612,1620,Jake Bryant,PERSON,1
+2613,1594,International Aspects,WORK_OF_ART,1
+2614,1606,J. Bradford DeLong,PERSON,1
+2615,1596,"International Labour
+                      Organization",ORG,1
+2616,1598,International Monetary Fund,ORG,1
+2617,1600,Ioulia Bessa,PERSON,1
+2618,1602,Ireland                                                                                                     ,ORG,1
+2619,1603,Isaac Chuang,PERSON,1
+2620,1604,Isabelle Fisher,PERSON,1
+2621,1607,J. Slaughter,PERSON,1
+2622,1619,Jacqui Canney,PERSON,1
+2623,1609,JAPAN,GPE,1
+2624,1610,"JHU
+                                                                      Press",ORG,1
+2625,1612,JOBS LOST,ORG,1
+2626,1615,Jacobson,PERSON,1
+2627,1616,Jacques,PERSON,1
+2628,1617,"Jacques
+                                                             Delors Institut",PERSON,1
+2629,1347,Eckart Windhagen,PERSON,1
+2630,1346,Eberstadt,PERSON,1
+2631,1343,ES,GPE,1
+2632,1101,"August 31, 1955",DATE,1
+2633,1079,Arne L.,PERSON,1
+2634,1080,Arne L. Kalleberg,PERSON,1
+2635,1081,Arpit Kaur,PERSON,1
+2636,1082,Artificial              Field,WORK_OF_ART,1
+2637,1083,Arun,PERSON,1
+2638,1084,As many as 30 percent,PERCENT,1
+2639,1085,As many as 375 million,CARDINAL,1
+2640,1086,Ashenfelter,PERSON,1
+2641,1087,Asia Global Institute,ORG,1
+2642,1088,Asian,NORP,1
+2643,1089,Aspen Institute Future of Work Initiative,ORG,1
+2644,1090,Assembly,ORG,1
+2645,1092,Associates,PERSON,1
+2646,1093,Atari,ORG,1
+2647,1098,August 2016,DATE,1
+2648,1078,Arizona State University,ORG,1
+2649,1077,Argentina,GPE,1
+2650,1076,Arab Emirates,GPE,1
+2651,1060,Anne,PERSON,1
+2652,1052,Andrew Ng,PERSON,1
+2653,1053,Andrés Cadena,ORG,1
+2654,1054,Andy Green,PERSON,1
+2655,1055,Angela,PERSON,1
+2656,1056,Angry Birds,WORK_OF_ART,1
+2657,1057,"Angus
+                                  Deaton",ORG,1
+2658,1062,Anne-Marie,PERSON,1
+2659,1072,April 2014,DATE,1
+2660,1064,Anthony Carnevale et al.,PERSON,1
+2661,1065,Anthony P.,PERSON,1
+2662,1066,Antoine,PERSON,1
+2663,1067,Antoine van Agtmael,PERSON,1
+2664,1070,"April 13, 2017",DATE,1
+2665,1071,April 2011,DATE,1
+2666,1100,"August 23, 2017",DATE,1
+2667,1102,"August 8, 2017",DATE,1
+2668,1342,EJNMMI Research,ORG,1
+2669,1103,Austin Nichols,PERSON,1
+2670,1124,Barslund,PERSON,1
+2671,1126,Becky Yerak,PERSON,1
+2672,1127,Belgium,GPE,1
+2673,1129,Benjamin M. Sand,PERSON,1
+2674,1130,Benjamin N.,PERSON,1
+2675,1131,Benjamin N. Dennis,PERSON,1
+2676,1132,Bennett,PERSON,1
+2677,1133,Berkeley,GPE,1
+2678,1134,Bernard C. Beaudreau,PERSON,1
+2679,1135,Berthold Herrendorf,ORG,1
+2680,1136,Bessen,ORG,1
+2681,1137,Bessen,PERSON,1
+2682,1138,"Between
+                            2013 and 2015",DATE,1
+2683,1139,Between 1910 and 1950,DATE,1
+2684,1140,Between 1993 and 2015,DATE,1
+2685,1123,Ban Cheah,PERSON,1
+2686,1122,Baltimore,GPE,1
+2687,1121,Bakhshi,PERSON,1
+2688,1111,Autor,PERSON,1
+2689,1105,Austria,GPE,1
+2690,1106,Automatable,ORG,1
+2691,1107,Automation,WORK_OF_ART,1
+2692,1108,Automation: A global force,WORK_OF_ART,1
+2693,1109,Automotive,ORG,1
+2694,1110,Autopilot,WORK_OF_ART,1
+2695,1112,Avi Goldfarb,PERSON,1
+2696,1120,Baker,PERSON,1
+2697,1113,"B
+",ORG,1
+2698,1114,BA,PERSON,1
+2699,1115,BBC,ORG,1
+2700,1116,BMW,ORG,1
+2701,1117,Baby Boom,GPE,1
+2702,1119,Bahrain,GPE,1
+2703,1050,Andrew Dean Ho,PERSON,1
+2704,1049,Anders,PERSON,1
+2705,1048,Analysis,PERSON,1
+2706,1047,Analysis,ORG,1
+2707,976,931,PRODUCT,1
+2708,978,94,DATE,1
+2709,981,95%,PERCENT,1
+2710,982,950,MONEY,1
+2711,987,98 percent,PERCENT,1
+2712,988,985,CARDINAL,1
+2713,990,9–26%,PERCENT,1
+2714,991,9–42,CARDINAL,1
+2715,992,"> 6,000",CARDINAL,1
+2716,993,>30,DATE,1
+2717,994,A century,DATE,1
+2718,995,A third,CARDINAL,1
+2719,996,A1,CARDINAL,1
+2720,997,"A1
+
+
+
+
+                                     ",PRODUCT,1
+2721,998,AI,GPE,1
+2722,972,"90–99
+
+                                                                                                                                                   ",ORG,1
+2723,967,9.9,GPE,1
+2724,966,9.8,MONEY,1
+2725,953,"896
+",PRODUCT,1
+2726,944,85,DATE,1
+2727,948,88,DATE,1
+2728,949,89,CARDINAL,1
+2729,950,89 million,CARDINAL,1
+2730,951,890 million,CARDINAL,1
+2731,952,896,PRODUCT,1
+2732,956,"9
+
+
+",PERCENT,1
+2733,965,9.5,DATE,1
+2734,957,9 TO 26 PERCENT,PERCENT,1
+2735,960,"9,000",MONEY,1
+2736,961,"9,392",CARDINAL,1
+2737,962,9.4,CARDINAL,1
+2738,963,9.4 percent,PERCENT,1
+2739,964,9.5,CARDINAL,1
+2740,1000,"AI
+                               ",ORG,1
+2741,1001,AI Magazine,ORG,1
+2742,1002,AI Now,ORG,1
+2743,1033,Alexandra M. de Pleijt,PERSON,1
+2744,1027,Alan Turing,PERSON,1
+2745,1028,Alana Semuels,PERSON,1
+2746,1029,Alastair,PERSON,1
+2747,1030,Aldebaran Robotics,ORG,1
+2748,1031,Aldonas,GPE,1
+2749,1032,Alexandra M.,PERSON,1
+2750,1034,Alison Lai,PERSON,1
+2751,1024,Aguiar,PERSON,1
+2752,1036,Allstate,ORG,1
+2753,1037,AlphaGo,NORP,1
+2754,1041,American Economic Review,ORG,1
+2755,1044,Amsterdam,GPE,1
+2756,1045,Amy,GPE,1
+2757,1046,Amy Goldstein,PERSON,1
+2758,1026,Alan FitzGerald,PERSON,1
+2759,1023,Agriculture,ORG,1
+2760,1003,ASU,ORG,1
+2761,1012,Accenture,ORG,1
+2762,1005,Aaron Pressman,PERSON,1
+2763,1007,About 10 percent,PERCENT,1
+2764,1008,About 30 to 40,CARDINAL,1
+2765,1009,About 60%,PERCENT,1
+2766,1010,About 75 percent,PERCENT,1
+2767,1011,About half,CARDINAL,1
+2768,1013,Accommodation,ORG,1
+2769,1022,Agrawal,PERSON,1
+2770,1014,"Accommodation              -1
+                                        ",ORG,1
+2771,1016,Acha Leke,PERSON,1
+2772,1017,Activities,ORG,1
+2773,1019,Additional,CARDINAL,1
+2774,1020,Africa,LOC,1
+2775,1021,Aghion,PERSON,1
+2776,1141,Between 2005 and 2014,DATE,1
+2777,1142,Between 2010,DATE,1
+2778,1143,Beverly Hills,GPE,1
+2779,1245,Cleveland,GPE,1
+2780,1268,Czech Republic,GPE,1
+2781,1269,Czech Republic                                                                                                            ,GPE,1
+2782,1270,DC,GPE,1
+2783,1272,Dale,PERSON,1
+2784,1273,Danah M.,PERSON,1
+2785,1274,Danah M. Boyd,PERSON,1
+2786,1275,Danat Valizade,PERSON,1
+2787,1276,Dani,PERSON,1
+2788,1277,Dani Rodrik,PERSON,1
+2789,1278,Daniel A.,PERSON,1
+2790,1279,Daniel M. Kammen,PERSON,1
+2791,1280,Daniel Susskind,PERSON,1
+2792,1281,Danielle Paquette,PERSON,1
+2793,1282,Darien Lee,PERSON,1
+2794,1285,Data,ORG,1
+2795,1267,Czech,NORP,1
+2796,1266,Cultura/Getty,ORG,1
+2797,1265,Crown Business,ORG,1
+2798,1254,Computer,ORG,1
+2799,1248,Collect,ORG,1
+2800,1249,Collecting,ORG,1
+2801,1250,College,PERSON,1
+2802,1251,Colombia,GPE,1
+2803,1252,Colorado,GPE,1
+2804,1253,Columbia University,ORG,1
+2805,1255,"Continuing training for employees in Europe: The differences between countries continue to narrow” Céreq
+    Training & Employment",WORK_OF_ART,1
+2806,1263,Creatives,WORK_OF_ART,1
+2807,1256,Cooper,PERSON,1
+2808,1257,Copyright ©,ORG,1
+2809,1258,Copyright © McKinsey & Company 2017,ORG,1
+2810,1259,Costa Rica,GPE,1
+2811,1260,Coursera,ORG,1
+2812,1261,Coursera,PRODUCT,1
+2813,1286,Davenport,GPE,1
+2814,1288,"David
+                                 Hounshell",PERSON,1
+2815,1289,David A. Green,PERSON,1
+2816,1333,Dolores Landingham,PERSON,1
+2817,1325,Dickens,PERSON,1
+2818,1328,Digital America,PRODUCT,1
+2819,1329,Digital Europe,LOC,1
+2820,1330,Direct Indirect,ORG,1
+2821,1331,Displaced,NORP,1
+2822,1332,Dittrich,PERSON,1
+2823,1334,Du Yang,PERSON,1
+2824,1323,Desmond Zheng,PERSON,1
+2825,1336,E4,ORG,1
+2826,1337,E6,ORG,1
+2827,1338,E7,CARDINAL,1
+2828,1339,E9,ORG,1
+2829,1340,"ECB Forum on Central
+    Banking",ORG,1
+2830,1341,ECB Forum on Central Banking,ORG,1
+2831,1324,Diane Stafford,PERSON,1
+2832,1322,Dennis,PERSON,1
+2833,1291,David Deming et al,PERSON,1
+2834,1305,Deadra Henderson,PERSON,1
+2835,1293,"David E.
+                          Card",PERSON,1
+2836,1294,David E. Card,PERSON,1
+2837,1300,David Schleicher,PERSON,1
+2838,1301,Davis,PERSON,1
+2839,1303,De Pleijt,PERSON,1
+2840,1304,DeGusta,PERSON,1
+2841,1306,"Dean Edmonds
+                            ",ORG,1
+2842,1320,Deepa Mahajan,PERSON,1
+2843,1307,Debadrita Dhara,PERSON,1
+2844,1308,"December 15, 2015",DATE,1
+2845,1309,"December 15, 2016",DATE,1
+2846,1310,"December 17, 2015",DATE,1
+2847,1317,"December 23, 2016",DATE,1
+2848,1318,Deep learning in medical imaging:,WORK_OF_ART,1
+2849,1247,Colin Bradford,PERSON,1
+2850,1244,Clerical,ORG,1
+2851,1145,Bloom,PERSON,1
+2852,1239,Chui,PERSON,1
+2853,1165,Brassey’s Publishing Co.,ORG,1
+2854,1167,Brendan V. Duke,PERSON,1
+2855,1172,Brookings Papers on Economic                      Productivity,ORG,1
+2856,1173,Brookings Papers on Economic Activity,ORG,1
+2857,1174,Bruno Lanvin,PERSON,1
+2858,1177,Builders,ORG,1
+2859,1178,Building,FAC,1
+2860,1179,"Bureau of Economic
+                                 Analysis",ORG,1
+2861,1181,Burkhardt,PERSON,1
+2862,1182,Burning Glass Technologies,WORK_OF_ART,1
+2863,1183,Burningglass Technologies,ORG,1
+2864,1184,Busibi,GPE,1
+2865,1185,Business Review Press,ORG,1
+2866,1186,C                                               Office,ORG,1
+2867,1187,CEA,ORG,1
+2868,1164,Brassey,GPE,1
+2869,1163,Bram van Ginneken,PERSON,1
+2870,1162,Brad Feld,PERSON,1
+2871,1153,Box 1,PRODUCT,1
+2872,1147,Bob Sternfels,PERSON,1
+2873,1148,Boeing,ORG,1
+2874,1149,Bookkeepers,ORG,1
+2875,1150,"Boston
+                                                               University School of Law",ORG,1
+2876,1151,"Boston
+                                 University School of Law",ORG,1
+2877,1152,Boushey,PERSON,1
+2878,1154,Box 2,PRODUCT,1
+2879,1161,Brad,PERSON,1
+2880,1155,Box 4,WORK_OF_ART,1
+2881,1156,Box 5,PRODUCT,1
+2882,1157,Box 6,WORK_OF_ART,1
+2883,1158,Box E2,GPE,1
+2884,1159,Boyan Gerasimov,PERSON,1
+2885,1160,Boyd,PERSON,1
+2886,1188,CHINA,GPE,1
+2887,1189,CO2,ORG,1
+2888,1190,CSL,PRODUCT,1
+2889,1226,"China
+
+",ORG,1
+2890,1216,Chapter 3,LAW,1
+2891,1219,Charles Dickens,PERSON,1
+2892,1220,Charles Dickens’s,PERSON,1
+2893,1221,Charlotte van Dixhoorn,PERSON,1
+2894,1222,Chatbots            AI,ORG,1
+2895,1224,Chile,GPE,1
+2896,1227,"China RHS
+
+",ORG,1
+2897,1213,Chandrika Rajagopalan,PERSON,1
+2898,1229,Chinese,NORP,1
+2899,1231,Chris,PERSON,1
+2900,1233,Chris Tilly,PERSON,1
+2901,1234,Chris Yeh,PERSON,1
+2902,1235,Christopher,PERSON,1
+2903,1236,Christopher A.,PERSON,1
+2904,1214,"Chapter
+                      3",LAW,1
+2905,1212,Chamber of Commerce Foundation,ORG,1
+2906,1191,Cai,PERSON,1
+2907,1201,Career Choice,ORG,1
+2908,1192,California,GPE,1
+2909,1194,Can AT&T,WORK_OF_ART,1
+2910,1196,Canuts,NORP,1
+2911,1197,Capitalism,ORG,1
+2912,1198,Cappelli,PERSON,1
+2913,1200,Care providers,ORG,1
+2914,1203,Carnevale,PERSON,1
+2915,1211,CentrePiece,ORG,1
+2916,1204,Carpenters,NORP,1
+2917,1205,Catalyst 2,PRODUCT,1
+2918,1206,Census Bureau,ORG,1
+2919,1207,Center for American Progress,ORG,1
+2920,1209,"Center on International Education
+                            Benchmarking",ORG,1
+2921,1210,Centre for Economic Performance,ORG,1
+2922,2922,﻿,CARDINAL,1
