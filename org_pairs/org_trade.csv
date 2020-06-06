@@ -1,0 +1,58 @@
+,subject,relation,object,subject_type,object_type
+10,digital technologies,hold,possibilities,ORG,NOUN_CHUNK
+44,people,use,Facebook,NOUN_CHUNK,ORG
+51,innovations                              ,intensive,processing,ORG,NOUN_CHUNK
+54,Volvo,canceled,plans,ORG,NOUN_CHUNK
+62,Volvo,Keith Naughton,production plans,ORG,NOUN_CHUNK
+82,.                                     Internet,track,shipments,ORG,NOUN_CHUNK
+84,Australian company,utilizes,Google,NOUN_CHUNK,ORG
+98,Spotify,popularize,streaming subscription models,ORG,NOUN_CHUNK
+101,Companies,efficiencies,end,ORG,NOUN_CHUNK
+141,A.                                  farmer,cultivates,bananas,ORG,NOUN_CHUNK
+143,A.                                  farmer,use,imported fertilizers,ORG,NOUN_CHUNK
+182,innovations                              ,intensive,processing,ORG,NOUN_CHUNK
+186,WTO,assumed,prominent role,ORG,NOUN_CHUNK
+191,Nearshoring,establishing,demand focused apparel value,ORG,NOUN_CHUNK
+208,the UN Statistical Commission,revised,the System of National Accounts,ORG,ORG
+215,the Starbucks,have,look,ORG,NOUN_CHUNK
+231,digital services,attract,hundreds of millions,ORG,CARDINAL
+232,Google,serves,about 60 percent,ORG,PERCENT
+233,Facebook,represents,24 percent,ORG,PERCENT
+250,Salesforce,offers,Salesforce suite,ORG,NOUN_CHUNK
+257,Americas,Developing,Americas,ORG,LOC
+274,Xiaomi,launched,homegrown chip,ORG,NOUN_CHUNK
+275,Pinecone.91 Foxconn,established,new base,ORG,NOUN_CHUNK
+284,Ford,exported,"180,000",ORG,CARDINAL
+285,Hyundai,cars,"153,000",ORG,CARDINAL
+289,technologies,have,varied complex effect,ORG,NOUN_CHUNK
+293,Advanced robotics,reduce,importance,ORG,NOUN_CHUNK
+297,.                                     Internet,track,shipments,ORG,NOUN_CHUNK
+299,Australian company,utilizes,Google,NOUN_CHUNK,ORG
+321,HSBC,Don Weinland,trade finance deal,ORG,NOUN_CHUNK
+343,The ‘Chinese Netflix’ iQiyi,gearing,things,ORG,NOUN_CHUNK
+351,Tesla,established,Tesla,ORG,PRODUCT
+364,the IoT,improve,shipment,ORG,NOUN_CHUNK
+368,McKinsey Global Institute,consider,specific product categories,ORG,NOUN_CHUNK
+369,EVs,reduce,1.4 trillion trade,ORG,NOUN_CHUNK
+380,Volvo,changing,planned exports,ORG,NOUN_CHUNK
+383,Volvo,Keith Naughton,production plans,ORG,NOUN_CHUNK
+384,SMEs,have,new opportunities,ORG,NOUN_CHUNK
+388,Amazon,hosts,million party,ORG,NOUN_CHUNK
+390,Lazada,offers,marketplace,ORG,NOUN_CHUNK
+393,Zendesk,offers,package,ORG,NOUN_CHUNK
+395,Zendesk,serves,businesses,ORG,NOUN_CHUNK
+397,Group’s Tata Steel,prioritizing,automation,ORG,NOUN_CHUNK
+401,Coca-Cola,owns,brands,ORG,NOUN_CHUNK
+402,Coca-Cola,maximizes,potential,ORG,NOUN_CHUNK
+405,Starbucks,vary,Starbucks product offerings,ORG,NOUN_CHUNK
+412,HSBC,has,presence,ORG,NOUN_CHUNK
+414,Global,Offers,a single                          Global                                           Airbus,NOUN_CHUNK,ORG
+424,Toyota,introducing,new manufacturing system,ORG,NOUN_CHUNK
+482,Amazon,announced,expansion,ORG,NOUN_CHUNK
+491,McKinsey Global Institute,mapped,WIOD industry,ORG,NOUN_CHUNK
+503,of.e-commerce,translate,savings,ORG,NOUN_CHUNK
+508,We.which,adopting,automation technologies,ORG,NOUN_CHUNK
+509,EVs,estimate,trade,ORG,NOUN_CHUNK
+510,McKinsey,obtained,input output table,ORG,NOUN_CHUNK
+512,EVs,reduce,oil trade,ORG,NOUN_CHUNK
+515,illustrated user,guide.to,the World Input,NOUN_CHUNK,ORG

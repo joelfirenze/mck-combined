@@ -1,0 +1,8 @@
+,subject,relation,object,subject_type,object_type
+11,India,modernized,India,GPE,GPE
+47,China,retain,China India unique status,GPE,NOUN_CHUNK
+48,China,poured,huge investment,GPE,NOUN_CHUNK
+49,China,building,backbone,GPE,NOUN_CHUNK
+237,China,poured,huge amounts,GPE,NOUN_CHUNK
+247,China,deploying,new networks,GPE,NOUN_CHUNK
+263,Followers,Trailing,China                  India,NOUN_CHUNK,GPE

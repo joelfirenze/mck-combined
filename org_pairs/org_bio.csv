@@ -1,0 +1,68 @@
+,subject,relation,object,subject_type,object_type
+1,Global Institute’s,covered,20 countries.and 30 industries,ORG,NOUN_CHUNK
+3,leading economists,advise,MGI.research,NOUN_CHUNK,ORG
+5,SARS-CoV-2,causing,COVID‑19,ORG,NOUN_CHUNK
+9,The McKinsey Global Institute,Computer.has,active research program,ORG,NOUN_CHUNK
+10,Hughes Medical Institute Investigator      ,offered,valuable insights,ORG,NOUN_CHUNK
+16,Science,needs,investment,ORG,NOUN_CHUNK
+61,Examples,include,the Encyclopedia of DNA Elements,NOUN_CHUNK,ORG
+77,the Human Genome Project,an idea,$3 billion,ORG,MONEY
+78,Sciences,extended,capabilities,ORG,NOUN_CHUNK
+86,performance2          ,testing,Liquid biopsy                     CAR T cell therapies,ORG,NOUN_CHUNK
+87,services4                                               genetic,profile,fitness,ORG,NOUN_CHUNK
+96,FDA,approved,immune.published,ORG,NOUN_CHUNK
+98,World IVF baby,born,US Food and Drug,NOUN_CHUNK,ORG
+103,science,use,scientific discipline,ORG,NOUN_CHUNK
+106,Innovations,cover,wide range,ORG,NOUN_CHUNK
+110,RNA,translated,Genomics,ORG,NOUN_CHUNK
+111,Technologies,include,RNA-Seq,NOUN_CHUNK,ORG
+124,proteomic analyses,require,antibodies.73 Overall,NOUN_CHUNK,ORG
+129,MakerBots,bring,price,ORG,NOUN_CHUNK
+136,Biocomputing,includes,use,ORG,NOUN_CHUNK
+165,interface technologies,pose,risks,ORG,NOUN_CHUNK
+171,AveXis,announces,innovative Zolgensma gene therapy access programs,ORG,NOUN_CHUNK
+213,Examples,include,ENCyclopedia,NOUN_CHUNK,ORG
+225,the Cassava Virus Action Project,involved,$3 billion,ORG,MONEY
+242,Philippines,approves,nutritionally-enhanced GMO Golden Rice,GPE,ORG
+243,performance2          ,testing,Liquid biopsy                     CAR T cell therapies,ORG,NOUN_CHUNK
+244,services4                                               genetic,profile,fitness,ORG,NOUN_CHUNK
+258,Sysco,launched,platform,ORG,NOUN_CHUNK
+274,Facebook,spent,between $500 million and $1 billion,ORG,MONEY
+277,Facebook,acquires,neural interface startup CTRL-Labs,ORG,ORG
+283,the US National Institutes,asked,the National,ORG,ORG
+284,Research Council’s Board,set,committee,ORG,NOUN_CHUNK
+286,regulation,differs,among.geographies,NOUN_CHUNK,ORG
+303,Healthcare,seeing,growing.adoption,ORG,NOUN_CHUNK
+312,Omics,have,substantial positive impact,ORG,NOUN_CHUNK
+313,The National Academy of Sciences,warned,considerable gaps,ORG,NOUN_CHUNK
+321,The US Food and Drug Administration,maintains,continually updated list,ORG,NOUN_CHUNK
+334,GV,leads,58.5 M round,ORG,NOUN_CHUNK
+346,Bayer,developed,hybrid dwarf maize variety,ORG,NOUN_CHUNK
+355,The FDA,approved,animal drug application,ORG,NOUN_CHUNK
+359,CoreBiome,offers,large scale microbiome sequencing,ORG,NOUN_CHUNK
+366,334 Cultured meat,reduce,GHG,NOUN_CHUNK,ORG
+369,Clear Labs,taking,advantage,ORG,NOUN_CHUNK
+370,Clear Labs,shorten,turnaround times,ORG,NOUN_CHUNK
+377,the FDA,allowed,23andMe,ORG,NOUN_CHUNK
+389,Mother Dirt,AOBiome’s consumer division,hygiene,ORG,NOUN_CHUNK
+411,Zymergen,announced,partnership,ORG,NOUN_CHUNK
+413,biochemicals.and biofuels company Gevo,developing,a fermentation.378,ORG,ORG
+436,NASA,conducting,research,ORG,NOUN_CHUNK
+437,NASA NASA,followed,twin astronauts,ORG,NOUN_CHUNK
+438,The NASA Twins Study,found,changes,ORG,NOUN_CHUNK
+443,Neuroergonomics,Interpret,emotions,ORG,NOUN_CHUNK
+450,The EU,approved,the Argus II,ORG,ORG
+451,The United States,approved,The EU,GPE,ORG
+456,FDA,Julie Steenhuysen,retinal implant,ORG,NOUN_CHUNK
+470,French company Pixium Vision,produced.infrared,bionic vision implants,ORG,NOUN_CHUNK
+475,Darpa,announced,a four-year,ORG,DATE
+479,the European Bioinformatics Institute,reported,accuracy,ORG,NOUN_CHUNK
+483,Microsoft,demonstrated,end end automated version,ORG,NOUN_CHUNK
+488,Microsoft,Jennifer Langston,fully automated DNA data storage,ORG,NOUN_CHUNK
+490,Darpa,attracting,interest.from governments,ORG,NOUN_CHUNK
+505,"Champer, Jackson",Cheating,evolution,ORG,NOUN_CHUNK
+506,"Champer, Jackson et al.",drive,experiments,ORG,NOUN_CHUNK
+510,Carnegie Mellon,F.Feinberg,low cost high efficiency 3-D bioprinter,ORG,NOUN_CHUNK
+513,"Lyon, Delina et al.",Using,genomics,ORG,NOUN_CHUNK
+514,Markram,Introducing the Human Brain Project,"Procedia Computer Science,.2011",ORG,ORG
+517,Okbay,identifies,74 loci,ORG,NOUN_CHUNK

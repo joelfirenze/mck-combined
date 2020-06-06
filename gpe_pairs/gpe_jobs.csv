@@ -1,0 +1,30 @@
+,subject,relation,object,subject_type,object_type
+39,occupational categories,States,many Japan China Mexico India,NOUN_CHUNK,GPE
+45,Japan,faces,combination,GPE,NOUN_CHUNK
+46,the United States,face,significant workforce,GPE,NOUN_CHUNK
+47,the United States,displacement,future growth,GPE,NOUN_CHUNK
+48,the United States,has,growing workforce,GPE,NOUN_CHUNK
+49,Mexico,projected,rate,GPE,NOUN_CHUNK
+90,China,has,fewer robots,GPE,NOUN_CHUNK
+97,Britain,smashed,automated looms,GPE,NOUN_CHUNK
+194,Occupational categories,States,many Japan China Mexico India,NOUN_CHUNK,GPE
+196,Occupational categories,States,many Japan China Mexico India,NOUN_CHUNK,GPE
+210,Japan,has,higher automation potential,GPE,NOUN_CHUNK
+211,Arab Emirates,share,similarities,GPE,NOUN_CHUNK
+214,Japan,faces,combination,GPE,NOUN_CHUNK
+217,the United States,face,significant workforce displacement,GPE,NOUN_CHUNK
+218,the United States,projected,future growth,GPE,NOUN_CHUNK
+219,the United States,has,growing workforce,GPE,NOUN_CHUNK
+229,the United States,model,wages,GPE,NOUN_CHUNK
+243,Germany,see,decreased demand,GPE,NOUN_CHUNK
+252,India,see,largest new demand net,GPE,NOUN_CHUNK
+270,India,type,high demand,GPE,NOUN_CHUNK
+276,India,RHS.Sector,share,GPE,NOUN_CHUNK
+279,Mexico,RHS.Sector,share,GPE,NOUN_CHUNK
+288,Singapore,implemented,innovative form,GPE,NOUN_CHUNK
+306,Switzerland,has,robust apprenticeship pipeline,GPE,NOUN_CHUNK
+309,South Korea,adopted,apprenticeship model,GPE,NOUN_CHUNK
+310,South Korea,has,one,GPE,CARDINAL
+334,Walmart,sign,rises,GPE,NOUN_CHUNK
+342,motorbikes).1 Netherlands,authorized,testing monthly payments,GPE,NOUN_CHUNK
+346,Singapore,shown,individuals,GPE,NOUN_CHUNK

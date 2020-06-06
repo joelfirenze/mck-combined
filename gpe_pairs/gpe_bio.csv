@@ -1,0 +1,11 @@
+,subject,relation,object,subject_type,object_type
+97,high throughput                  Scientists,deleted,existing memories.(United States,NOUN_CHUNK,GPE
+242,Philippines,approves,nutritionally-enhanced GMO Golden Rice,GPE,ORG
+285,the United States,A New Biology,Coming Biology Revolution,GPE,NOUN_CHUNK
+287,Both China,mandated,labeling,GPE,NOUN_CHUNK
+288,China,issued,biosafety certificates,GPE,NOUN_CHUNK
+289,the United States,followed,suit,GPE,NOUN_CHUNK
+292,China,issues,biosafety certificates,GPE,NOUN_CHUNK
+297,China,acquiring,data,GPE,NOUN_CHUNK
+302,France,ban,DTC genetic testing,GPE,NOUN_CHUNK
+451,The United States,approved,The EU,GPE,ORG

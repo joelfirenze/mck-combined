@@ -1,0 +1,35 @@
+,subject,relation,object,subject_type,object_type
+0,Global Institute’s,covered,20 countries,ORG,NOUN_CHUNK
+7,Previous McKinsey Global Institute reports,include,Urban world,NOUN_CHUNK,ORG
+22,Snower,Exploring,new social contract,ORG,NOUN_CHUNK
+24, Education,paid,holidays,ORG,NOUN_CHUNK
+40,Healthcare,represents,9 percent,ORG,PERCENT
+42,OECD,estimated,quality price changes,ORG,NOUN_CHUNK
+47,Healthcare,includes,medical products,ORG,NOUN_CHUNK
+53,Innovations,democratized,access,ORG,NOUN_CHUNK
+58,OECD,defines,net pension replacement rate,ORG,NOUN_CHUNK
+106,seminal works,include,Nemat Shafik,NOUN_CHUNK,ORG
+112, Education,paid,holidays,ORG,NOUN_CHUNK
+157,Uber,makes,Uber pain New Yorkers problem,ORG,NOUN_CHUNK
+193,healthcare,Outside,big role,ORG,NOUN_CHUNK
+199,Healthcare,includes,medical products,ORG,NOUN_CHUNK
+223,Eichholtz,shows,significant variations,ORG,NOUN_CHUNK
+236,Academy,providing,free education courses,ORG,NOUN_CHUNK
+254,Bernanke,dispute,Summers theory,ORG,NOUN_CHUNK
+339,white families,owned,89 percent,ORG,PERCENT
+361,social                 ,face,difficulties,ORG,NOUN_CHUNK
+366,they.create.294 Dell,offers,benefits,ORG,NOUN_CHUNK
+383,Tafel,collects,food items,ORG,NOUN_CHUNK
+387,Amazon,launched,virtual health clinic,ORG,NOUN_CHUNK
+388,Starbucks,offering,Starbucks employees scholarships,ORG,NOUN_CHUNK
+390,317 Intesa Sanpaolo,offering,collateral-       free loans,ORG,NOUN_CHUNK
+432,The OECD,defines,prime-age            OECD Stat,ORG,ORG
+435,The OECD,standardized,agencies,ORG,NOUN_CHUNK
+440,The OECD,defines,indicator,ORG,NOUN_CHUNK
+441,equivalized            ,expresses,share,ORG,NOUN_CHUNK
+447,The HICP,measures,change,ORG,NOUN_CHUNK
+449,consumption segments,follow,the COICOP,NOUN_CHUNK,ORG
+456,Broadband,includes,a financial             Global Institute,ORG,ORG
+457,healthcare             insurance,covers,cost,ORG,NOUN_CHUNK
+491,McKinsey Global Institute,Testing,resilience,ORG,NOUN_CHUNK
+496,Snower,Exploring,"a new social.contract, Brookings Institution",ORG,ORG

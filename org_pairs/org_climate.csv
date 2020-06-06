@@ -1,0 +1,20 @@
+,subject,relation,object,subject_type,object_type
+2,MGI,have,MGI senior fellow,ORG,NOUN_CHUNK
+5,McKinsey,developed,McKinsey global greenhouse gas abatement cost curve,ORG,NOUN_CHUNK
+7,Birshan,provided,critical input,ORG,NOUN_CHUNK
+8,Woods Hole Research Center,produced,scientific,ORG,NOUN_CHUNK
+9,the University of Oxford’s Environmental Change Institute,ensure,impartiality,ORG,NOUN_CHUNK
+12,Organizations,include,AECOM,NOUN_CHUNK,ORG
+22,McKinsey,has,long history,ORG,NOUN_CHUNK
+84,Intensifying climate.hazards,put,millions,ORG,CARDINAL
+126,Each RCP,predicts,global average.warming,ORG,NOUN_CHUNK
+136,the US Department of Defense,identified,climate change,ORG,NOUN_CHUNK
+222,biosphere.currently,absorbs,approximately 30 percent,ORG,PERCENT
+228,IHS Markit Economics and Country,changing.in,systems framework,ORG,NOUN_CHUNK
+234,UNEP,identified,adaptation costs,ORG,NOUN_CHUNK
+235,the GCA,calculated,necessary adaptation investments,ORG,NOUN_CHUNK
+236,the GCA,identified,categories,ORG,NOUN_CHUNK
+289,The World Climate Research Programme,brought,      climate models,ORG,NOUN_CHUNK
+293,Each RCP,predicts,global average,ORG,NOUN_CHUNK
+325,Estimated work       model multi-member ensembles to.ability,assess,climate change impacts,ORG,NOUN_CHUNK
+327,Lascell,yield,potential yield gap,ORG,NOUN_CHUNK

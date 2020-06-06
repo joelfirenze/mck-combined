@@ -1,0 +1,28 @@
+,subject,relation,object,subject_type,object_type
+66,the Philippines,leading,way,GPE,NOUN_CHUNK
+67,India,exported,35 percent,GPE,PERCENT
+86,Bangladesh,automates,textiles,GPE,NOUN_CHUNK
+89,China,increases,electricity generation,GPE,NOUN_CHUNK
+128,Mexico,plays,type,GPE,NOUN_CHUNK
+130,trend,lead,China,NOUN_CHUNK,GPE
+131,the Philippines,have,opportunities,GPE,NOUN_CHUNK
+179,the United States,increased,share,GPE,NOUN_CHUNK
+210,Europe,includes,Austria,LOC,GPE
+218,London,Capturing,value,GPE,NOUN_CHUNK
+223,the United States,generates,almost one-third,GPE,CARDINAL
+258,China,given,rise,GPE,NOUN_CHUNK
+259,Previous MGI research,highlighted,China,NOUN_CHUNK,GPE
+260,China consumers,turned,China,NOUN_CHUNK,GPE
+262,India,exported,35 percent,GPE,PERCENT
+266,China,easing,foreign investment restrictions,GPE,NOUN_CHUNK
+269,China China,financing,infrastructure construction projects,GPE,NOUN_CHUNK
+271,China,BUILDING,DOMESTIC,GPE,NOUN_CHUNK
+276,China,retain,types,GPE,NOUN_CHUNK
+278,Hefei,has,existing base,GPE,NOUN_CHUNK
+301,Bangladesh,automates,textiles,GPE,NOUN_CHUNK
+304,China,increases,electricity generation,GPE,NOUN_CHUNK
+309,The United States,announced,United States withdrawal,GPE,NOUN_CHUNK
+325,Morocco,serve,European,GPE,NORP
+328,China,pursuing,automation,GPE,NOUN_CHUNK
+459,South Korea,seen,South Korea Japan exports,GPE,NOUN_CHUNK
+474,United States,play,role,GPE,NOUN_CHUNK

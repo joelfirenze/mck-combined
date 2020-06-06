@@ -1,0 +1,20 @@
+,subject,relation,object,subject_type,object_type
+0,Institute,ranked,the McKinsey Global Institute,NOUN_CHUNK,ORG
+28,McKinsey Global Institute,shift,services,ORG,NOUN_CHUNK
+93,technologies,give,needed boost,ORG,NOUN_CHUNK
+251,the United,needs,talent,ORG,NOUN_CHUNK
+292,The US High School Movement,raised,educational attainment,ORG,NOUN_CHUNK
+293,The US High School Movement,propelled,progress,ORG,NOUN_CHUNK
+296,the GI Bill,changed,perceptions,ORG,NOUN_CHUNK
+298,Exhibit 28.The High School Movement,raised,education skill levels,ORG,NOUN_CHUNK
+299,Starbucks,has,entered.gap,ORG,ORG
+301,Markle Foundation,begun,initiative,ORG,NOUN_CHUNK
+335,Danielle Paquette,"‘Look, I can quit’: Why Target is giving workers a big raise",The Washington Post,PERSON,ORG
+356,review,shows,that AI,NOUN_CHUNK,ORG
+359,latest automation and AI technologies,have,strong digital capabilities,ORG,NOUN_CHUNK
+382,The GGM,uses,inputted unemployment displacement,ORG,NOUN_CHUNK
+389,neural network,achieved,84 % correct score,ORG,NOUN_CHUNK
+396,NBER,working,Autor,ORG,NOUN_CHUNK
+398,The Review of Economics and Statistics,issue,93,ORG,CARDINAL
+399,McKinsey & Company,Gaining,momentum,ORG,NOUN_CHUNK
+402,Houghton Mifflin Harcourt,Exploring,effects,ORG,NOUN_CHUNK

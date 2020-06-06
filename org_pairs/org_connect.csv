@@ -1,0 +1,16 @@
+,subject,relation,object,subject_type,object_type
+9,cycles,leading,connectivity providers,ORG,NOUN_CHUNK
+52,World,reach,only around 60 percent,ORG,PERCENT
+76,Wi-Fi 6,make,biggest difference,ORG,NOUN_CHUNK
+77,Wi-Fi 6,extends,battery,ORG,NOUN_CHUNK
+83,Standalone 5 G,includes,the new 5G Packet Core,NOUN_CHUNK,ORG
+93,the IoT,deliver,precision irrigation,ORG,NOUN_CHUNK
+189,Telefónica,with,private 5 G network,ORG,NOUN_CHUNK
+191,Audi,release,5 G,ORG,NOUN_CHUNK
+192,Volkswagen,release,Industrial Cloud,ORG,ORG
+240,mid-band 5G,upgrade,infrastructure,ORG,NOUN_CHUNK
+241,capacity,determine,viability,ORG,NOUN_CHUNK
+243,BharatNet,links,1.29 lakh panchayats,ORG,NOUN_CHUNK
+253,Incremental difference.could,boost,global GDP,ORG,NOUN_CHUNK
+274,McKinsey Global Institute,calculate,GDP impact,ORG,NOUN_CHUNK
+283,McKinsey Global Institute,use,operators,ORG,NOUN_CHUNK

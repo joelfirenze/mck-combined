@@ -1,0 +1,128 @@
+,subject,relation,object,subject_type,object_type
+96,group,includes,the Philippines,NOUN_CHUNK,GPE
+98,group,includes,Colombia,NOUN_CHUNK,GPE
+100,group,includes,Germany,NOUN_CHUNK,GPE
+102,Examples,include,Argentina,NOUN_CHUNK,GPE
+161,rising temperatures,impact,India,NOUN_CHUNK,GPE
+187,India,has,potential,GPE,NOUN_CHUNK
+205,Hurricane Harvey,Texas,Houston,EVENT,GPE
+254,China,see,expected yields,GPE,NOUN_CHUNK
+262,group,includes,the Philippines,NOUN_CHUNK,GPE
+263,group,includes,Colombia,NOUN_CHUNK,GPE
+264,group,includes,Egypt,NOUN_CHUNK,GPE
+267,group,includes,Germany,NOUN_CHUNK,GPE
+268,Examples,include,Argentina,NOUN_CHUNK,GPE
+274,Bangladesh,have,relatively low GDP levels,GPE,NOUN_CHUNK
+282,Quebec,prohibited,building,GPE,NOUN_CHUNK
+284,Canada,tries,forceful message,GPE,NOUN_CHUNK
+66,the Philippines,leading,way,GPE,NOUN_CHUNK
+67,India,exported,35 percent,GPE,PERCENT
+86,Bangladesh,automates,textiles,GPE,NOUN_CHUNK
+89,China,increases,electricity generation,GPE,NOUN_CHUNK
+128,Mexico,plays,type,GPE,NOUN_CHUNK
+130,trend,lead,China,NOUN_CHUNK,GPE
+131,the Philippines,have,opportunities,GPE,NOUN_CHUNK
+179,the United States,increased,share,GPE,NOUN_CHUNK
+210,Europe,includes,Austria,LOC,GPE
+218,London,Capturing,value,GPE,NOUN_CHUNK
+223,the United States,generates,almost one-third,GPE,CARDINAL
+258,China,given,rise,GPE,NOUN_CHUNK
+259,Previous MGI research,highlighted,China,NOUN_CHUNK,GPE
+260,China consumers,turned,China,NOUN_CHUNK,GPE
+262,India,exported,35 percent,GPE,PERCENT
+266,China,easing,foreign investment restrictions,GPE,NOUN_CHUNK
+269,China China,financing,infrastructure construction projects,GPE,NOUN_CHUNK
+271,China,BUILDING,DOMESTIC,GPE,NOUN_CHUNK
+276,China,retain,types,GPE,NOUN_CHUNK
+278,Hefei,has,existing base,GPE,NOUN_CHUNK
+301,Bangladesh,automates,textiles,GPE,NOUN_CHUNK
+304,China,increases,electricity generation,GPE,NOUN_CHUNK
+309,The United States,announced,United States withdrawal,GPE,NOUN_CHUNK
+325,Morocco,serve,European,GPE,NORP
+328,China,pursuing,automation,GPE,NOUN_CHUNK
+459,South Korea,seen,South Korea Japan exports,GPE,NOUN_CHUNK
+474,United States,play,role,GPE,NOUN_CHUNK
+39,occupational categories,States,many Japan China Mexico India,NOUN_CHUNK,GPE
+45,Japan,faces,combination,GPE,NOUN_CHUNK
+46,the United States,face,significant workforce,GPE,NOUN_CHUNK
+47,the United States,displacement,future growth,GPE,NOUN_CHUNK
+48,the United States,has,growing workforce,GPE,NOUN_CHUNK
+49,Mexico,projected,rate,GPE,NOUN_CHUNK
+90,China,has,fewer robots,GPE,NOUN_CHUNK
+97,Britain,smashed,automated looms,GPE,NOUN_CHUNK
+194,Occupational categories,States,many Japan China Mexico India,NOUN_CHUNK,GPE
+196,Occupational categories,States,many Japan China Mexico India,NOUN_CHUNK,GPE
+210,Japan,has,higher automation potential,GPE,NOUN_CHUNK
+211,Arab Emirates,share,similarities,GPE,NOUN_CHUNK
+214,Japan,faces,combination,GPE,NOUN_CHUNK
+217,the United States,face,significant workforce displacement,GPE,NOUN_CHUNK
+218,the United States,projected,future growth,GPE,NOUN_CHUNK
+219,the United States,has,growing workforce,GPE,NOUN_CHUNK
+229,the United States,model,wages,GPE,NOUN_CHUNK
+243,Germany,see,decreased demand,GPE,NOUN_CHUNK
+252,India,see,largest new demand net,GPE,NOUN_CHUNK
+270,India,type,high demand,GPE,NOUN_CHUNK
+276,India,RHS.Sector,share,GPE,NOUN_CHUNK
+279,Mexico,RHS.Sector,share,GPE,NOUN_CHUNK
+288,Singapore,implemented,innovative form,GPE,NOUN_CHUNK
+306,Switzerland,has,robust apprenticeship pipeline,GPE,NOUN_CHUNK
+309,South Korea,adopted,apprenticeship model,GPE,NOUN_CHUNK
+310,South Korea,has,one,GPE,CARDINAL
+334,Walmart,sign,rises,GPE,NOUN_CHUNK
+342,motorbikes).1 Netherlands,authorized,testing monthly payments,GPE,NOUN_CHUNK
+346,Singapore,shown,individuals,GPE,NOUN_CHUNK
+15,research,covers,Australia,NOUN_CHUNK,GPE
+64,Japan,lack,access,GPE,NOUN_CHUNK
+65,lack,means,Japan,NOUN_CHUNK,GPE
+71,set,includes,Japan,NOUN_CHUNK,GPE
+81,    Countries,include,Australia,NOUN_CHUNK,GPE
+127,Germany,introduced,sickness insurance,GPE,NOUN_CHUNK
+136,Greece,employment rate,lowest,GPE,NOUN_CHUNK
+137,Norway,had,high levels,GPE,NOUN_CHUNK
+144,Finland,bucked,trend,GPE,NOUN_CHUNK
+148,Sample,omits,Canada,NOUN_CHUNK,GPE
+162,Australia,followed,aggregate trend,GPE,NOUN_CHUNK
+191,Australia,saw,change,GPE,NOUN_CHUNK
+192,Austria,had,highest share,GPE,NOUN_CHUNK
+210,Germany,underwent,major product market reform,GPE,NOUN_CHUNK
+216,South Korea,reflects,national consumer price index,GPE,NOUN_CHUNK
+229,New Zealand,saw,largest increase,GPE,NOUN_CHUNK
+230,United Kingdom,saw,largest increase,GPE,NOUN_CHUNK
+231,the United Kingdom,increased,maximum university tuition fees,GPE,NOUN_CHUNK
+232,Spain,passed,measures,GPE,NOUN_CHUNK
+251,Australia,tightened,targeting,GPE,NOUN_CHUNK
+256,Denmark,saw,double digit increases,GPE,NOUN_CHUNK
+260,Spain,has,defined contribution pension assets,GPE,NOUN_CHUNK
+261,Austria,closed,net pension replacement rate gap,GPE,NOUN_CHUNK
+265,2000.236 Denmark,seen,increase,GPE,NOUN_CHUNK
+275,America,saves,2019,GPE,DATE
+312,Sweden,prioritize,equality,GPE,NOUN_CHUNK
+313,Austria,constitute,archetype,GPE,NOUN_CHUNK
+316,Norway,scored,134,GPE,CARDINAL
+318,Italy,witnessed,notable declines,GPE,NOUN_CHUNK
+320,Ireland,trend,public sector spending,GPE,NOUN_CHUNK
+351,Japan,experienced,substantial decline,GPE,NOUN_CHUNK
+352,Italy,experienced,largest increase,GPE,NOUN_CHUNK
+353,South Korea,had,highest share,GPE,NOUN_CHUNK
+373,California,passes,historic gig economy rights bill,GPE,NOUN_CHUNK
+378,Berlin,announced,one,GPE,CARDINAL
+385,South Korea,introduced,policies,GPE,NOUN_CHUNK
+391,United States,supports,students,GPE,NOUN_CHUNK
+397,United States,gain,access,GPE,NOUN_CHUNK
+11,India,modernized,India,GPE,GPE
+47,China,retain,China India unique status,GPE,NOUN_CHUNK
+48,China,poured,huge investment,GPE,NOUN_CHUNK
+49,China,building,backbone,GPE,NOUN_CHUNK
+237,China,poured,huge amounts,GPE,NOUN_CHUNK
+247,China,deploying,new networks,GPE,NOUN_CHUNK
+263,Followers,Trailing,China                  India,NOUN_CHUNK,GPE
+97,high throughput                  Scientists,deleted,existing memories.(United States,NOUN_CHUNK,GPE
+242,Philippines,approves,nutritionally-enhanced GMO Golden Rice,GPE,ORG
+285,the United States,A New Biology,Coming Biology Revolution,GPE,NOUN_CHUNK
+287,Both China,mandated,labeling,GPE,NOUN_CHUNK
+288,China,issued,biosafety certificates,GPE,NOUN_CHUNK
+289,the United States,followed,suit,GPE,NOUN_CHUNK
+292,China,issues,biosafety certificates,GPE,NOUN_CHUNK
+297,China,acquiring,data,GPE,NOUN_CHUNK
+302,France,ban,DTC genetic testing,GPE,NOUN_CHUNK
+451,The United States,approved,The EU,GPE,ORG

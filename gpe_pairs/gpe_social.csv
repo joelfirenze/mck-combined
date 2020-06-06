@@ -1,0 +1,39 @@
+,subject,relation,object,subject_type,object_type
+15,research,covers,Australia,NOUN_CHUNK,GPE
+64,Japan,lack,access,GPE,NOUN_CHUNK
+65,lack,means,Japan,NOUN_CHUNK,GPE
+71,set,includes,Japan,NOUN_CHUNK,GPE
+81,    Countries,include,Australia,NOUN_CHUNK,GPE
+127,Germany,introduced,sickness insurance,GPE,NOUN_CHUNK
+136,Greece,employment rate,lowest,GPE,NOUN_CHUNK
+137,Norway,had,high levels,GPE,NOUN_CHUNK
+144,Finland,bucked,trend,GPE,NOUN_CHUNK
+148,Sample,omits,Canada,NOUN_CHUNK,GPE
+162,Australia,followed,aggregate trend,GPE,NOUN_CHUNK
+191,Australia,saw,change,GPE,NOUN_CHUNK
+192,Austria,had,highest share,GPE,NOUN_CHUNK
+210,Germany,underwent,major product market reform,GPE,NOUN_CHUNK
+216,South Korea,reflects,national consumer price index,GPE,NOUN_CHUNK
+229,New Zealand,saw,largest increase,GPE,NOUN_CHUNK
+230,United Kingdom,saw,largest increase,GPE,NOUN_CHUNK
+231,the United Kingdom,increased,maximum university tuition fees,GPE,NOUN_CHUNK
+232,Spain,passed,measures,GPE,NOUN_CHUNK
+251,Australia,tightened,targeting,GPE,NOUN_CHUNK
+256,Denmark,saw,double digit increases,GPE,NOUN_CHUNK
+260,Spain,has,defined contribution pension assets,GPE,NOUN_CHUNK
+261,Austria,closed,net pension replacement rate gap,GPE,NOUN_CHUNK
+265,2000.236 Denmark,seen,increase,GPE,NOUN_CHUNK
+275,America,saves,2019,GPE,DATE
+312,Sweden,prioritize,equality,GPE,NOUN_CHUNK
+313,Austria,constitute,archetype,GPE,NOUN_CHUNK
+316,Norway,scored,134,GPE,CARDINAL
+318,Italy,witnessed,notable declines,GPE,NOUN_CHUNK
+320,Ireland,trend,public sector spending,GPE,NOUN_CHUNK
+351,Japan,experienced,substantial decline,GPE,NOUN_CHUNK
+352,Italy,experienced,largest increase,GPE,NOUN_CHUNK
+353,South Korea,had,highest share,GPE,NOUN_CHUNK
+373,California,passes,historic gig economy rights bill,GPE,NOUN_CHUNK
+378,Berlin,announced,one,GPE,CARDINAL
+385,South Korea,introduced,policies,GPE,NOUN_CHUNK
+391,United States,supports,students,GPE,NOUN_CHUNK
+397,United States,gain,access,GPE,NOUN_CHUNK

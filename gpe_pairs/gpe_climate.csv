@@ -1,0 +1,17 @@
+,subject,relation,object,subject_type,object_type
+96,group,includes,the Philippines,NOUN_CHUNK,GPE
+98,group,includes,Colombia,NOUN_CHUNK,GPE
+100,group,includes,Germany,NOUN_CHUNK,GPE
+102,Examples,include,Argentina,NOUN_CHUNK,GPE
+161,rising temperatures,impact,India,NOUN_CHUNK,GPE
+187,India,has,potential,GPE,NOUN_CHUNK
+205,Hurricane Harvey,Texas,Houston,EVENT,GPE
+254,China,see,expected yields,GPE,NOUN_CHUNK
+262,group,includes,the Philippines,NOUN_CHUNK,GPE
+263,group,includes,Colombia,NOUN_CHUNK,GPE
+264,group,includes,Egypt,NOUN_CHUNK,GPE
+267,group,includes,Germany,NOUN_CHUNK,GPE
+268,Examples,include,Argentina,NOUN_CHUNK,GPE
+274,Bangladesh,have,relatively low GDP levels,GPE,NOUN_CHUNK
+282,Quebec,prohibited,building,GPE,NOUN_CHUNK
+284,Canada,tries,forceful message,GPE,NOUN_CHUNK
