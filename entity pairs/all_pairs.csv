@@ -1,0 +1,2564 @@
+,subject,relation,object,subject_type,object_type
+0,MGI research,combines,disciplines,NOUN_CHUNK,NOUN_CHUNK
+1,James Manyika,employing,Sven Smit,PERSON,PERSON
+2,MGI,have,MGI senior fellow,ORG,NOUN_CHUNK
+3,Practice,helps,businesses,NOUN_CHUNK,NOUN_CHUNK
+4,organizations,help,risk capabilities.sustainable - growth economy,NOUN_CHUNK,NOUN_CHUNK
+5,McKinsey,developed,McKinsey global greenhouse gas abatement cost curve,ORG,NOUN_CHUNK
+6,Quiros,provided,modeling,PERSON,NOUN_CHUNK
+7,Birshan,provided,critical input,ORG,NOUN_CHUNK
+8,Woods Hole Research Center,produced,scientific,ORG,NOUN_CHUNK
+9,the University of Oxford’s Environmental Change Institute,ensure,impartiality,ORG,NOUN_CHUNK
+10,Carlos Sanchez,SYSTEMIQ,resilient finance,PERSON,NOUN_CHUNK
+11,number,contributed,number,NOUN_CHUNK,NOUN_CHUNK
+12,Organizations,include,AECOM,NOUN_CHUNK,ORG
+13,Multiple groups,contributed,Multiple groups,NOUN_CHUNK,NOUN_CHUNK
+14,colleagues,provided,valuable input,NOUN_CHUNK,NOUN_CHUNK
+15,Peter Gumbel,thank,Peter Gumbel,PERSON,PERSON
+16,Climate science          humidity increase,devalue,exposed homes.makes extensive use,NOUN_CHUNK,NOUN_CHUNK
+17,Poorer regions,have,climates.enables,NOUN_CHUNK,NOUN_CHUNK
+18,Climate change,also.illustrate,exposure,NOUN_CHUNK,NOUN_CHUNK
+19,changing climate,impact,socioeconomic systems,NOUN_CHUNK,NOUN_CHUNK
+20,average daily maximum wet bulb temperature,defined,survivability threshold,NOUN_CHUNK,NOUN_CHUNK
+21,numbers,do,factor,NOUN_CHUNK,NOUN_CHUNK
+22,McKinsey,has,long history,ORG,NOUN_CHUNK
+23,Climate impact research,makes,extensive use.of scenarios,NOUN_CHUNK,NOUN_CHUNK
+24,technology,reshaping,resources,NOUN_CHUNK,NOUN_CHUNK
+25,uncertainties,see,Box E2,NOUN_CHUNK,WORK_OF_ART
+26,stakeholders,see,Box,NOUN_CHUNK,PRODUCT
+27,Exhibit E1.We,make,use,NOUN_CHUNK,NOUN_CHUNK
+28,methodology,addresses,uncertainties,NOUN_CHUNK,NOUN_CHUNK
+29,Emissions,influence,global climate,NOUN_CHUNK,NOUN_CHUNK
+30,8.5,predicts,global.uncertainties,CARDINAL,NOUN_CHUNK
+31,risk,absent,adaptation,NOUN_CHUNK,NOUN_CHUNK
+32,detailed discussion,affect,global,NOUN_CHUNK,NOUN_CHUNK
+33,the past 65 million years,means,natural systems,DATE,NOUN_CHUNK
+34,Climate change,bring,benefits,NOUN_CHUNK,NOUN_CHUNK
+35,assets,requires,coordinated action,NOUN_CHUNK,NOUN_CHUNK
+36,Climate change,having,substantial physical impacts,NOUN_CHUNK,NOUN_CHUNK
+37,rapid decline,provides,evidence,NOUN_CHUNK,NOUN_CHUNK
+38,average,conceals,dramatic changes,NOUN_CHUNK,NOUN_CHUNK
+39,Averages,conceal,wide spatial disparities,NOUN_CHUNK,NOUN_CHUNK
+40,Exhibit E2.A small shift,hide,dramatic changes,NOUN_CHUNK,NOUN_CHUNK
+41,Frequency,anomalies.in,the Northern Hemisphere,NOUN_CHUNK,LOC
+42,climate models,indicate,rise,NOUN_CHUNK,NOUN_CHUNK
+43,frequency,intensify,chronic hazards,NOUN_CHUNK,NOUN_CHUNK
+44,hurricanes,predict,increase,NOUN_CHUNK,NOUN_CHUNK
+45,projections,used,absolute values,NOUN_CHUNK,NOUN_CHUNK
+46,Boundaries,represent,water basins,NOUN_CHUNK,NOUN_CHUNK
+47,effects,push,34 ° C wet bulb heat waves,NOUN_CHUNK,NOUN_CHUNK
+48,average daily maximum wet bulb temperature,exceed,survivability threshold,NOUN_CHUNK,NOUN_CHUNK
+49,Climate change,affects,human life,NOUN_CHUNK,NOUN_CHUNK
+50,Climate change,having,measurable socioeconomic impact,NOUN_CHUNK,NOUN_CHUNK
+51,system                Area,exacerbated,hazard,NOUN_CHUNK,NOUN_CHUNK
+52,deaths,attributable,3x,NOUN_CHUNK,CARDINAL
+53,services,flooding,economic loss,NOUN_CHUNK,NOUN_CHUNK
+54,~70%,lost,Natural capital                                                         Potential reduction,PERCENT,NOUN_CHUNK
+55,climate hazards,impact,multiple systems,NOUN_CHUNK,NOUN_CHUNK
+56,Extreme precipitation,destroy,physical assets,NOUN_CHUNK,NOUN_CHUNK
+57,Hazards,affect,ability,NOUN_CHUNK,NOUN_CHUNK
+58,temperatures,affect,land,NOUN_CHUNK,NOUN_CHUNK
+59,cases,highlight,wide range,NOUN_CHUNK,NOUN_CHUNK
+60,small changes,have,large consequences,NOUN_CHUNK,NOUN_CHUNK
+61,RCP 8.5 scenario,absent,effective adaptation response,NOUN_CHUNK,NOUN_CHUNK
+62,Insurance records,show,clear,NOUN_CHUNK,NOUN_CHUNK
+63,researchers,find,small upward trend,NOUN_CHUNK,NOUN_CHUNK
+64,35 degrees Celsius wet bulb,push,34C wet bulb heat,NOUN_CHUNK,NOUN_CHUNK
+65,High levels,provide,cooling effect,NOUN_CHUNK,NOUN_CHUNK
+66,new analysis,excludes,grid cells,NOUN_CHUNK,NOUN_CHUNK
+67,Exposed sectors,include,exclusively outdoor sectors,NOUN_CHUNK,NOUN_CHUNK
+68,longer exposure,cause,rapidly worsening health impacts,NOUN_CHUNK,NOUN_CHUNK
+69,Humans,survive,exposure,NOUN_CHUNK,NOUN_CHUNK
+70,acute events,affect,grid,NOUN_CHUNK,NOUN_CHUNK
+71,geography,makes,geography,NOUN_CHUNK,NOUN_CHUNK
+72,infrastructure,experience,step change,NOUN_CHUNK,NOUN_CHUNK
+73,significant mitigation,take,place,NOUN_CHUNK,NOUN_CHUNK
+74,hail,claim,capital,NOUN_CHUNK,NOUN_CHUNK
+75,Chi Minh City,experience,5 10 times economic impact,PERSON,NOUN_CHUNK
+76,Value,includes,loss,NOUN_CHUNK,NOUN_CHUNK
+77,homes,see,devaluation,NOUN_CHUNK,NOUN_CHUNK
+78,Financial markets,bring,risks,NOUN_CHUNK,NOUN_CHUNK
+79,rising temperatures,boost,tourism,NOUN_CHUNK,NOUN_CHUNK
+80,climate events,lack,financial means,NOUN_CHUNK,NOUN_CHUNK
+81,climate events,trigger,harvest failure,NOUN_CHUNK,NOUN_CHUNK
+82,changing climate,affects,human physical natural capital,NOUN_CHUNK,NOUN_CHUNK
+83,case studies,illustrate,localized impacts,NOUN_CHUNK,NOUN_CHUNK
+84,Intensifying climate.hazards,put,millions,ORG,CARDINAL
+85,exposed regions,have,lower probability,NOUN_CHUNK,NOUN_CHUNK
+86,ones,exposed,higher intensity,NOUN_CHUNK,NOUN_CHUNK
+87,numbers,assume,air conditioning protection,NOUN_CHUNK,NOUN_CHUNK
+88,research,suggests,increase,NOUN_CHUNK,NOUN_CHUNK
+89,infrastructure assets,disrupted,hurricanes,NOUN_CHUNK,NOUN_CHUNK
+90,Köppen climate system,divides,climates,NOUN_CHUNK,NOUN_CHUNK
+91,E11.We,identify,types,NOUN_CHUNK,NOUN_CHUNK
+92,E12.We,identify,types,NOUN_CHUNK,NOUN_CHUNK
+93,workability,services,capital,NOUN_CHUNK,NOUN_CHUNK
+94,E13.We,identify,types,NOUN_CHUNK,NOUN_CHUNK
+95,Country,heat,waves1,NOUN_CHUNK,NOUN_CHUNK
+96,group,includes,the Philippines,NOUN_CHUNK,GPE
+97,Countries,face,large potential increase,NOUN_CHUNK,NOUN_CHUNK
+98,group,includes,Colombia,NOUN_CHUNK,GPE
+99,countries,hot,livability thresholds,NOUN_CHUNK,NOUN_CHUNK
+100,group,includes,Germany,NOUN_CHUNK,GPE
+101,polar boreal climates,largest increase,poleward,NOUN_CHUNK,NOUN_CHUNK
+102,Examples,include,Argentina,NOUN_CHUNK,GPE
+103,average numbers,indicate,small risk,NOUN_CHUNK,NOUN_CHUNK
+104,average numbers,increases,wide regional variations,NOUN_CHUNK,NOUN_CHUNK
+105,Coast region,see,big increase,NOUN_CHUNK,NOUN_CHUNK
+106,countries,experience,diversity,NOUN_CHUNK,NOUN_CHUNK
+107,Financial institutions,consider,risk,NOUN_CHUNK,NOUN_CHUNK
+108,report,requires,use,NOUN_CHUNK,NOUN_CHUNK
+109,insurance,eliminate,risk,NOUN_CHUNK,NOUN_CHUNK
+110,insurance reinsurance carriers,improve,insurance reinsurance carriers,NOUN_CHUNK,NOUN_CHUNK
+111,tool kits,reflect,VAR,NOUN_CHUNK,NOUN_CHUNK
+112,structured risk management                     market shifts,support,effective adaptation,NOUN_CHUNK,NOUN_CHUNK
+113,changing climate,means,likelihoods,NOUN_CHUNK,NOUN_CHUNK
+114,home,ownership,100‑year flood,NOUN_CHUNK,NOUN_CHUNK
+115,stress,affect,ability,NOUN_CHUNK,NOUN_CHUNK
+116,Increased temperatures,shift,disease vectors,NOUN_CHUNK,NOUN_CHUNK
+117,Food systems,include,production,NOUN_CHUNK,NOUN_CHUNK
+118,precipitation,disrupt,infrastructure services,NOUN_CHUNK,NOUN_CHUNK
+119,mismanagement,play,role,NOUN_CHUNK,NOUN_CHUNK
+120,Direct impacts,knock,effects,NOUN_CHUNK,NOUN_CHUNK
+121,methodology,addresses,possible sources,NOUN_CHUNK,NOUN_CHUNK
+122,key uncertainties,include,emissions pathways,NOUN_CHUNK,NOUN_CHUNK
+123,Climate simulations,show,small,NOUN_CHUNK,NOUN_CHUNK
+124,RCPs,current CO2 concentrations,lower CO2 concentrations,NOUN_CHUNK,NOUN_CHUNK
+125,Climatic Change,An overview,59,NOUN_CHUNK,CARDINAL
+126,Each RCP,predicts,global average.warming,ORG,NOUN_CHUNK
+127,climate models,have,global warming,NOUN_CHUNK,NOUN_CHUNK
+128,Different models,make,different assumptions,NOUN_CHUNK,NOUN_CHUNK
+129,current generation,represent,feedbacks,NOUN_CHUNK,NOUN_CHUNK
+130,changes,introduces,additional sources,NOUN_CHUNK,NOUN_CHUNK
+131,literature,understand,important measures,NOUN_CHUNK,NOUN_CHUNK
+132,decision makers,incorporate,uncertainties,NOUN_CHUNK,NOUN_CHUNK
+133,Sudden regulatory responses,destabilize,markets.and companies,NOUN_CHUNK,NOUN_CHUNK
+134,Financial markets,experience.a,devaluation,NOUN_CHUNK,NOUN_CHUNK
+135,natural.disasters,displaced,265 million people,NOUN_CHUNK,NOUN_CHUNK
+136,the US Department of Defense,identified,climate change,ORG,NOUN_CHUNK
+137,sapiens,move,glacial          societies,NOUN_CHUNK,NOUN_CHUNK
+138,ice cover,provides,evidence,NOUN_CHUNK,NOUN_CHUNK
+139,sea ice,reaches,annual low,NOUN_CHUNK,NOUN_CHUNK
+140,small shift,hide,dramatic changes,NOUN_CHUNK,NOUN_CHUNK
+141,Frequency,anomalies.in,the Northern Hemisphere,NOUN_CHUNK,LOC
+142,changing climate,affects,socioeconomic systems,NOUN_CHUNK,NOUN_CHUNK
+143,Climate change,having,impact,NOUN_CHUNK,NOUN_CHUNK
+144,Recent floods,provide,example,NOUN_CHUNK,NOUN_CHUNK
+145,province floods,affected,7.8 million people,NOUN_CHUNK,NOUN_CHUNK
+146,July 2019 heat wave,exceeded,37.5 degrees Celsius,NOUN_CHUNK,QUANTITY
+147,Socioeconomic impact,exacerbated,hazard,NOUN_CHUNK,NOUN_CHUNK
+148,~70%,lost,Natural capital                                                        Potential reduction,PERCENT,NOUN_CHUNK
+149,emission rates,determine,contribution,NOUN_CHUNK,NOUN_CHUNK
+150,Climate models,show,growing level,NOUN_CHUNK,NOUN_CHUNK
+151,climate models,project,rise,NOUN_CHUNK,NOUN_CHUNK
+152,average daily maximum wet bulb temperature,exceed,survivability threshold,NOUN_CHUNK,NOUN_CHUNK
+153,degree,pose,uncertainty,NOUN_CHUNK,NOUN_CHUNK
+154,Atmospheric aerosols,reflect,proportion,NOUN_CHUNK,NOUN_CHUNK
+155,Boundaries,represent,water basins,NOUN_CHUNK,NOUN_CHUNK
+156,effects,push,34 ° C wet bulb heat waves,NOUN_CHUNK,NOUN_CHUNK
+157,cases,include,following,NOUN_CHUNK,NOUN_CHUNK
+158,coastal cities,turn,tide,NOUN_CHUNK,NOUN_CHUNK
+159,case studies,provide,window,NOUN_CHUNK,NOUN_CHUNK
+160,Extreme heat,drove,greatest increases,NOUN_CHUNK,NOUN_CHUNK
+161,rising temperatures,impact,India,NOUN_CHUNK,GPE
+162,Insurance records,show,clear,NOUN_CHUNK,NOUN_CHUNK
+163,researchers,find,small upward trend,NOUN_CHUNK,NOUN_CHUNK
+164,Climate risk,have,nonlinear increases,NOUN_CHUNK,NOUN_CHUNK
+165,analysis,suggests,substantial increase,NOUN_CHUNK,NOUN_CHUNK
+166,small changes,have,significant impact,NOUN_CHUNK,NOUN_CHUNK
+167,heat exposed work,drove,about 50 percent,NOUN_CHUNK,PERCENT
+168,human body,provides,example,NOUN_CHUNK,NOUN_CHUNK
+169,human body,maintain,relatively stable core temperature,NOUN_CHUNK,NOUN_CHUNK
+170,Intensifying hazards,lead,infrastructure,NOUN_CHUNK,NOUN_CHUNK
+171,winds,felled,more than 90 percent,NOUN_CHUNK,PERCENT
+172,longer exposure,cause,rapidly worsening health impacts,NOUN_CHUNK,NOUN_CHUNK
+173,Humans,survive,exposure,NOUN_CHUNK,NOUN_CHUNK
+174,acute events,affect,grid,NOUN_CHUNK,NOUN_CHUNK
+175,Extreme heat,disrupting,global air travel,NOUN_CHUNK,NOUN_CHUNK
+176,hazards,trigger,widespread internal external displacement,NOUN_CHUNK,NOUN_CHUNK
+177,primary residences,the sector,42 percent,NOUN_CHUNK,PERCENT
+178,Flooding,damage,housing,NOUN_CHUNK,NOUN_CHUNK
+179,property values,reducing,property tax revenues,NOUN_CHUNK,NOUN_CHUNK
+180,flood exposed homes,total,$10 billion to $30 billion,NOUN_CHUNK,MONEY
+181,Regulators,certify,planes,NOUN_CHUNK,NOUN_CHUNK
+182,planes,require,combination,NOUN_CHUNK,NOUN_CHUNK
+183,Adaptation,require,coordinated action,NOUN_CHUNK,NOUN_CHUNK
+184,Conditions,push,conditions,NOUN_CHUNK,NOUN_CHUNK
+185,effects,push,34 ° C wet bulb heat waves,NOUN_CHUNK,NOUN_CHUNK
+186,bodies,will,protectively.fatigue,NOUN_CHUNK,NOUN_CHUNK
+187,India,has,potential,GPE,NOUN_CHUNK
+188,cities,shifted,albedo,NOUN_CHUNK,NOUN_CHUNK
+189,Rising temperatures,affect,the Mediterranean,NOUN_CHUNK,LOC
+190,Climate.scientists,expect,increase,NOUN_CHUNK,NOUN_CHUNK
+191,countries,experience,shifts,NOUN_CHUNK,NOUN_CHUNK
+192,grains,make,almost half,NOUN_CHUNK,CARDINAL
+193,limited reductions,triggered,episodes,NOUN_CHUNK,NOUN_CHUNK
+194,15 percent drop,cause,ratios,NOUN_CHUNK,NOUN_CHUNK
+195,private sector,store,grains,NOUN_CHUNK,NOUN_CHUNK
+196,transparent shading,indicates,lower density,NOUN_CHUNK,NOUN_CHUNK
+197,GDP,drop,about 3 percent,NOUN_CHUNK,PERCENT
+198,loss,Our project,2 percent likelihood,NOUN_CHUNK,NOUN_CHUNK
+199,Rising sea.levels,push,saltwater,NOUN_CHUNK,NOUN_CHUNK
+200,Climate hazards,have,direct impact,NOUN_CHUNK,NOUN_CHUNK
+201,Damages,drive,prices,NOUN_CHUNK,NOUN_CHUNK
+202,price effects,For,property tax revenue,NOUN_CHUNK,NOUN_CHUNK
+203,level rise,drives,increased tidal flooding frequency,NOUN_CHUNK,NOUN_CHUNK
+204,lower real estate prices,have,knock effects,NOUN_CHUNK,NOUN_CHUNK
+205,Hurricane Harvey,Texas,Houston,EVENT,GPE
+206,18.Supply chains,face,different knock effects,NOUN_CHUNK,NOUN_CHUNK
+207,Player,experiencing,negative knock effects,NOUN_CHUNK,NOUN_CHUNK
+208,Player,experiencing,competitive advantage,NOUN_CHUNK,NOUN_CHUNK
+209,only a few millimeters,cause,disruption,QUANTITY,NOUN_CHUNK
+210,80-mile winds,downed,25 percent,NOUN_CHUNK,PERCENT
+211,heat waves,reduce,overall grid capacity,NOUN_CHUNK,NOUN_CHUNK
+212,I. Solar panels,lose,efficiency,NOUN_CHUNK,NOUN_CHUNK
+213,Inundation,disrupt,40%,NOUN_CHUNK,PERCENT
+214,Rising temperatures,drive,air conditioning,NOUN_CHUNK,NOUN_CHUNK
+215,heat,reduces,grid efficiency,NOUN_CHUNK,NOUN_CHUNK
+216,what.will,projected,200‑year event,NOUN_CHUNK,NOUN_CHUNK
+217,assets,include,5 percent,NOUN_CHUNK,PERCENT
+218,Value,includes,loss,NOUN_CHUNK,NOUN_CHUNK
+219,Climate change,having,substantial impact,NOUN_CHUNK,NOUN_CHUNK
+220,glaciers,expected,water,NOUN_CHUNK,NOUN_CHUNK
+221,Forests,cover,nearly one-third,NOUN_CHUNK,CARDINAL
+222,biosphere.currently,absorbs,approximately 30 percent,ORG,PERCENT
+223,changing climate,increase,migration,NOUN_CHUNK,NOUN_CHUNK
+224,44 countries,2050,increase,NOUN_CHUNK,NOUN_CHUNK
+225,individual countries,identify,nature,NOUN_CHUNK,NOUN_CHUNK
+226,minimum skillful predictive scale,prevented,creation,NOUN_CHUNK,NOUN_CHUNK
+227,2.Methodology,used,geospatial data,NOUN_CHUNK,NOUN_CHUNK
+228,IHS Markit Economics and Country,changing.in,systems framework,ORG,NOUN_CHUNK
+229,numerator,reflects,global.capital stock,NOUN_CHUNK,NOUN_CHUNK
+230,cases.the magnitude,accounted,different forms.national global level,NOUN_CHUNK,NOUN_CHUNK
+231,analytical process,left,set,NOUN_CHUNK,NOUN_CHUNK
+232,hazard data,includes,data,NOUN_CHUNK,NOUN_CHUNK
+233,Growing climate hazards,put,millions,NOUN_CHUNK,CARDINAL
+234,UNEP,identified,adaptation costs,ORG,NOUN_CHUNK
+235,the GCA,calculated,necessary adaptation investments,ORG,NOUN_CHUNK
+236,the GCA,identified,categories,ORG,NOUN_CHUNK
+237,discussion,excludes,variety,NOUN_CHUNK,NOUN_CHUNK
+238,discussion,include,lethal heat waves,NOUN_CHUNK,NOUN_CHUNK
+239,geospatial analysis,assumes,sufficient adaptation,NOUN_CHUNK,NOUN_CHUNK
+240,economists,treat,climate                   investment,NOUN_CHUNK,NOUN_CHUNK
+241,second macro approach,has,damage functions,NOUN_CHUNK,NOUN_CHUNK
+242,IAMs,produce,estimates,NOUN_CHUNK,NOUN_CHUNK
+243,Nordhaus framework,supports,deep cuts,NOUN_CHUNK,NOUN_CHUNK
+244,Nordhaus framework,supports,deep cuts,NOUN_CHUNK,NOUN_CHUNK
+245,approaches,reflect,high degree,NOUN_CHUNK,NOUN_CHUNK
+246,8,expand,productive capacity,CARDINAL,NOUN_CHUNK
+247,natural disasters,A meta-analysis,long run growth,NOUN_CHUNK,NOUN_CHUNK
+248,compounding                      analysis,excludes,grid cells,NOUN_CHUNK,NOUN_CHUNK
+249,57 countries,increase,decrease,NOUN_CHUNK,NOUN_CHUNK
+250,global temperature increase,has,considerable upward uncertainty,NOUN_CHUNK,NOUN_CHUNK
+251,23.Countries,see,increase,NOUN_CHUNK,NOUN_CHUNK
+252,shifts,affect.agricultural,GDP,NOUN_CHUNK,NOUN_CHUNK
+253,Europe,experience,net agricultural benefits,LOC,NOUN_CHUNK
+254,China,see,expected yields,GPE,NOUN_CHUNK
+255,analysis,require,use,NOUN_CHUNK,NOUN_CHUNK
+256,limitations,include,focus,NOUN_CHUNK,NOUN_CHUNK
+257,researchers,attempted,similar estimates,NOUN_CHUNK,NOUN_CHUNK
+258,Cambridge Risk Studies Centre,classifies,tail hurricane event,NOUN_CHUNK,NOUN_CHUNK
+259,Cambridge Risk Studies Centre,finds,Natural capital,NOUN_CHUNK,NOUN_CHUNK
+260,25 percent,experienced,shift in.climate classification,PERCENT,NOUN_CHUNK
+261,Köppen climate system,divides,climates,NOUN_CHUNK,NOUN_CHUNK
+262,group,includes,the Philippines,NOUN_CHUNK,GPE
+263,group,includes,Colombia,NOUN_CHUNK,GPE
+264,group,includes,Egypt,NOUN_CHUNK,GPE
+265,Countries,face,projected reduction,NOUN_CHUNK,NOUN_CHUNK
+266,share,changing,climate classification,NOUN_CHUNK,NOUN_CHUNK
+267,group,includes,Germany,NOUN_CHUNK,GPE
+268,Examples,include,Argentina,NOUN_CHUNK,GPE
+269,countries,experience,diversity,NOUN_CHUNK,NOUN_CHUNK
+270,24.We,identify,types,NOUN_CHUNK,NOUN_CHUNK
+271,workability,services,capital,NOUN_CHUNK,NOUN_CHUNK
+272,Country,heat,waves1,NOUN_CHUNK,NOUN_CHUNK
+273,Climate change,yields,countries,NOUN_CHUNK,NOUN_CHUNK
+274,Bangladesh,have,relatively low GDP levels,GPE,NOUN_CHUNK
+275,27.Countries,face,biggest increase,NOUN_CHUNK,NOUN_CHUNK
+276,report,requires,use,NOUN_CHUNK,NOUN_CHUNK
+277,Lack,increases,risks,NOUN_CHUNK,NOUN_CHUNK
+278,systemic nature,requires,holistic approach,NOUN_CHUNK,NOUN_CHUNK
+279,Hardening,include,gray infrastructure,NOUN_CHUNK,NOUN_CHUNK
+280,Mangroves,provide,storm.protection,NOUN_CHUNK,NOUN_CHUNK
+281,important aspect,understanding,impact thresholds,NOUN_CHUNK,NOUN_CHUNK
+282,Quebec,prohibited,building,GPE,NOUN_CHUNK
+283,homes,require,mandatory participation,NOUN_CHUNK,NOUN_CHUNK
+284,Canada,tries,forceful message,GPE,NOUN_CHUNK
+285,Paris Agreement climate proposals,need,boost,NOUN_CHUNK,NOUN_CHUNK
+286,Knock impacts,influencing,factors,NOUN_CHUNK,NOUN_CHUNK
+287,X - year event,change,and.grouped,NOUN_CHUNK,NOUN_CHUNK
+288,Institute.independently,reviewed,methodological design,NOUN_CHUNK,NOUN_CHUNK
+289,The World Climate Research Programme,brought,      climate models,ORG,NOUN_CHUNK
+290,models,across,measure,NOUN_CHUNK,NOUN_CHUNK
+291,Climate simulations,show,small.divergence,NOUN_CHUNK,NOUN_CHUNK
+292,RCPs,current CO2 concentrations,lower CO2 concentrations,NOUN_CHUNK,NOUN_CHUNK
+293,Each RCP,predicts,global average,ORG,NOUN_CHUNK
+294,climate change,points,economic output,NOUN_CHUNK,NOUN_CHUNK
+295,Real estate prices,reflect,expectations,NOUN_CHUNK,NOUN_CHUNK
+296,buyers,recognize,future climate risk,NOUN_CHUNK,NOUN_CHUNK
+297,Description,Evaluate,direct impacts,NOUN_CHUNK,NOUN_CHUNK
+298,exposure,Assumes,impacts,NOUN_CHUNK,NOUN_CHUNK
+299,Hurricane,hits,coastal real estate                                     Physical assets                        step change,NOUN_CHUNK,NOUN_CHUNK
+300,Types,stress,prices,NOUN_CHUNK,NOUN_CHUNK
+301,storm,surge,implementation,NOUN_CHUNK,NOUN_CHUNK
+302,Physiological eg % impact,Identify,types,NOUN_CHUNK,NOUN_CHUNK
+303,cases,represent,leading edge examples,NOUN_CHUNK,NOUN_CHUNK
+304,wet bulb temperature,exceed,survivability threshold,NOUN_CHUNK,NOUN_CHUNK
+305,Large cities,push,34 degrees,NOUN_CHUNK,QUANTITY
+306,indicators,include,share,NOUN_CHUNK,NOUN_CHUNK
+307,CMIP5 models,have,poor representation,NOUN_CHUNK,NOUN_CHUNK
+308,results,set,non - zero probability,NOUN_CHUNK,NOUN_CHUNK
+309,countries,show,robust trends,NOUN_CHUNK,NOUN_CHUNK
+310,robust analysis,noted,use,NOUN_CHUNK,NOUN_CHUNK
+311,A2.We,identify,types,NOUN_CHUNK,NOUN_CHUNK
+312,ability,exposed,climate,NOUN_CHUNK,NOUN_CHUNK
+313,drought,exposed,climate,NOUN_CHUNK,NOUN_CHUNK
+314,Country,heat,waves1,NOUN_CHUNK,NOUN_CHUNK
+315,A4.We,identify,types,NOUN_CHUNK,NOUN_CHUNK
+316,drought,exposed,climate,NOUN_CHUNK,NOUN_CHUNK
+317,drought,exposed,climate,NOUN_CHUNK,NOUN_CHUNK
+318,A6.We,identify,types,NOUN_CHUNK,NOUN_CHUNK
+319,drought,exposed,climate,NOUN_CHUNK,NOUN_CHUNK
+320,Country,heat,waves1,NOUN_CHUNK,NOUN_CHUNK
+321,drought,exposed,climate,NOUN_CHUNK,NOUN_CHUNK
+322,Climate,Has,world.impacts,NOUN_CHUNK,NOUN_CHUNK
+323,Final report,made,progress,NOUN_CHUNK,NOUN_CHUNK
+324,Atmospheric            ,places,sewerage systems,NOUN_CHUNK,NOUN_CHUNK
+325,Estimated work       model multi-member ensembles to.ability,assess,climate change impacts,ORG,NOUN_CHUNK
+326,Policies,uses,sustainability and.and Agriculture,NOUN_CHUNK,NOUN_CHUNK
+327,Lascell,yield,potential yield gap,ORG,NOUN_CHUNK
+328,Basin,reveals,winners,NOUN_CHUNK,NOUN_CHUNK
+329,Millar,consistent,Environments,PERSON,NOUN_CHUNK
+330,Newman,Exploring,rail transit construction costs,PERSON,NOUN_CHUNK
+331,Issue,effects,property values,NOUN_CHUNK,NOUN_CHUNK
+332,waves,threaten,global biodiversity,NOUN_CHUNK,NOUN_CHUNK
+0,Current research,focuses.on,themes,NOUN_CHUNK,NOUN_CHUNK
+1,project team,included,Colin Britton,NOUN_CHUNK,PERSON
+2,trade,connect,world economy,NOUN_CHUNK,NOUN_CHUNK
+3,We.also,thank,colleagues,NOUN_CHUNK,NOUN_CHUNK
+4,trade tensions,dominate,headlines,NOUN_CHUNK,NOUN_CHUNK
+5,technologies,dampen,goods,NOUN_CHUNK,NOUN_CHUNK
+6,smaller share,grow,complex unknowns,NOUN_CHUNK,NOUN_CHUNK
+7,companies,localizing,supply chains,NOUN_CHUNK,NOUN_CHUNK
+8,channels,increase,share,NOUN_CHUNK,NOUN_CHUNK
+9,Regional integration,offers,possible solution,NOUN_CHUNK,NOUN_CHUNK
+10,digital technologies,hold,possibilities,ORG,NOUN_CHUNK
+11,forces,explain,changes,NOUN_CHUNK,NOUN_CHUNK
+12,96%,REVEAL,5 STRUCTURAL SHIFTS,PERCENT,NOUN_CHUNK
+13,in.,Assess,costs,NOUN_CHUNK,NOUN_CHUNK
+14,customers,Build,closer digital supplier,NOUN_CHUNK,NOUN_CHUNK
+15,generation,have,"complex,.multidimensional effects",NOUN_CHUNK,NOUN_CHUNK
+16,trade,connect,world,NOUN_CHUNK,NOUN_CHUNK
+17,Global value chains,reflect,millions,NOUN_CHUNK,CARDINAL
+18,simplest value chains,involve,sequence,NOUN_CHUNK,NOUN_CHUNK
+19,aircraft,involve,hundreds,NOUN_CHUNK,CARDINAL
+20,machinery,given,rise,NOUN_CHUNK,NOUN_CHUNK
+21,35 percent,involve,sequential steps,PERCENT,NOUN_CHUNK
+22,Spending,averages,30 percent,NOUN_CHUNK,PERCENT
+23,Industries,include,fabricated metals,NOUN_CHUNK,NOUN_CHUNK
+24,value,chainsuse,relatively intermediate goods,NOUN_CHUNK,NOUN_CHUNK
+25,value chains,generate,$20 trillion,NOUN_CHUNK,MONEY
+26,19 countries,make,lower share,NOUN_CHUNK,NOUN_CHUNK
+27,agriculture,other,870 million people,NOUN_CHUNK,NOUN_CHUNK
+28,Resource intensive value chains,contribute,11 percent,NOUN_CHUNK,PERCENT
+29,rising trade,reflects,global expansion,NOUN_CHUNK,NOUN_CHUNK
+30,two-thirds,two-thirds,seven times people,CARDINAL,NOUN_CHUNK
+31,high value industries,include,professional,NOUN_CHUNK,NOUN_CHUNK
+32,knowledge intensive services,have,bachelor degrees,NOUN_CHUNK,NOUN_CHUNK
+33,value chains,have,lower trade,NOUN_CHUNK,NOUN_CHUNK
+34,high concentration,reflects,significant,NOUN_CHUNK,NOUN_CHUNK
+35,GLOBAL VALUE CHAINS,UNDERGOING,STRUCTURAL SHIFTS,NOUN_CHUNK,NOUN_CHUNK
+36,trend,reflects,development,NOUN_CHUNK,NOUN_CHUNK
+37,Services,play,growing undervalued role,NOUN_CHUNK,NOUN_CHUNK
+38,gross trade,totaled,$5.1 trillion,NOUN_CHUNK,MONEY
+39,manufacturers,introduce,new types,NOUN_CHUNK,NOUN_CHUNK
+40,service models,replace,time purchases,NOUN_CHUNK,NOUN_CHUNK
+41,property,represent,tremendous value,NOUN_CHUNK,NOUN_CHUNK
+42,trade statistics,capture,use,NOUN_CHUNK,NOUN_CHUNK
+43,trade statistics,track,soaring cross - border flows,NOUN_CHUNK,NOUN_CHUNK
+44,people,use,Facebook,NOUN_CHUNK,ORG
+45,services    Professional services,create,value,NOUN_CHUNK,NOUN_CHUNK
+46,perspective,shift,trade balance,NOUN_CHUNK,NOUN_CHUNK
+47,Intangibles,playing,bigger role,NOUN_CHUNK,NOUN_CHUNK
+48,growing emphasis,favors,countries,NOUN_CHUNK,NOUN_CHUNK
+49,offshoring,part,price,NOUN_CHUNK,NOUN_CHUNK
+50,creation,takes,place,NOUN_CHUNK,NOUN_CHUNK
+51,innovations                              ,intensive,processing,ORG,NOUN_CHUNK
+52,Intangibles,include,brands,NOUN_CHUNK,NOUN_CHUNK
+53,automation,accelerate,importance,NOUN_CHUNK,NOUN_CHUNK
+54,Volvo,canceled,plans,ORG,NOUN_CHUNK
+55,Sportswear,designs,products,NOUN_CHUNK,NOUN_CHUNK
+56,blown trade war,have,cumulative,NOUN_CHUNK,NOUN_CHUNK
+57,companies,shift,companies,NOUN_CHUNK,NOUN_CHUNK
+58,one-quarter,were,specific companies,CARDINAL,NOUN_CHUNK
+59,firms,produce,87 percent,NOUN_CHUNK,PERCENT
+60,data,boosted,world GDP,NOUN_CHUNK,NOUN_CHUNK
+61,Higher tariffs,affect,firms,NOUN_CHUNK,NOUN_CHUNK
+62,Volvo,Keith Naughton,production plans,ORG,NOUN_CHUNK
+63,winter coat heavyweight,summary,cold shoulder,NOUN_CHUNK,NOUN_CHUNK
+64,Previous MGI research,highlighted,China working age population,NOUN_CHUNK,NOUN_CHUNK
+65,rising middle class,flexing,new spending power,NOUN_CHUNK,NOUN_CHUNK
+66,the Philippines,leading,way,GPE,NOUN_CHUNK
+67,India,exported,35 percent,GPE,PERCENT
+68,consumers,stepped,purchases,NOUN_CHUNK,NOUN_CHUNK
+69,Growing demand,offers,opportunity,NOUN_CHUNK,NOUN_CHUNK
+70,industry,send,42 percent,NOUN_CHUNK,PERCENT
+71,ECONOMIES,DECREASED,GLOBAL TRADE INTENSITY,NOUN_CHUNK,NOUN_CHUNK
+72,value,bring,jobs,NOUN_CHUNK,NOUN_CHUNK
+73,decline,reflects,growing industrial maturity,NOUN_CHUNK,NOUN_CHUNK
+74,wave,dampen,global goods trade,NOUN_CHUNK,NOUN_CHUNK
+75,cross - border B2C e - commerce sales,projects,approximately $1 trillion,NOUN_CHUNK,MONEY
+76,Continued rapid growth,present,a.                      challenge,NOUN_CHUNK,NOUN_CHUNK
+77,Automated document processing,speed,goods,NOUN_CHUNK,NOUN_CHUNK
+78,Blockchain shipping solutions,reduce,transit times,NOUN_CHUNK,NOUN_CHUNK
+79,digital technologies,transforming,global commerce,NOUN_CHUNK,NOUN_CHUNK
+80,E7.New technologies,have,varying impacts,NOUN_CHUNK,NOUN_CHUNK
+81,processing,reduces,time,NOUN_CHUNK,NOUN_CHUNK
+82,.                                     Internet,track,shipments,ORG,NOUN_CHUNK
+83,Autonomous              Autonomous vehicles,move,cargo,NOUN_CHUNK,NOUN_CHUNK
+84,Australian company,utilizes,Google,NOUN_CHUNK,ORG
+85,company,equips,new UK factory,NOUN_CHUNK,NOUN_CHUNK
+86,Bangladesh,automates,textiles,GPE,NOUN_CHUNK
+87,Artificial    Virtual                       British retailer,deploys,virtual assistants,NOUN_CHUNK,NOUN_CHUNK
+88,Philippine company,employs,RPA,NOUN_CHUNK,NOUN_CHUNK
+89,China,increases,electricity generation,GPE,NOUN_CHUNK
+90,European consumers,buy,EVs,NOUN_CHUNK,NOUN_CHUNK
+91,robotics,makes,proximity,NOUN_CHUNK,NOUN_CHUNK
+92,Companies,reconsidering,location decisions,NOUN_CHUNK,NOUN_CHUNK
+93,customer support services,offshoring,Companies,NOUN_CHUNK,NOUN_CHUNK
+94,Additive manufacturing,influence,future trade flows,NOUN_CHUNK,NOUN_CHUNK
+95,3-D printing,reduce,trade,NOUN_CHUNK,NOUN_CHUNK
+96,New goods,impact,trade flows,NOUN_CHUNK,NOUN_CHUNK
+97,electric vehicles,make,some 17 percent,NOUN_CHUNK,PERCENT
+98,Spotify,popularize,streaming subscription models,ORG,NOUN_CHUNK
+99,3D,printing,threat,PRODUCT,NOUN_CHUNK
+100,Automation,reduces,value,NOUN_CHUNK,NOUN_CHUNK
+101,Companies,efficiencies,end,ORG,NOUN_CHUNK
+102,potential supplier networks,integration,potential,NOUN_CHUNK,NOUN_CHUNK
+103,consumer goods,take,hyperlocal approach,NOUN_CHUNK,NOUN_CHUNK
+104,value,coming,design,NOUN_CHUNK,NOUN_CHUNK
+105,services,offer,advantages,NOUN_CHUNK,NOUN_CHUNK
+106,companies,consider,costs,NOUN_CHUNK,NOUN_CHUNK
+107,companies,face,complex set,NOUN_CHUNK,NOUN_CHUNK
+108,,Prioritize,speed,NOUN_CHUNK,NOUN_CHUNK
+109,,Build,closer supplier relationships,NOUN_CHUNK,NOUN_CHUNK
+110,value chains,led,companies,NOUN_CHUNK,NOUN_CHUNK
+111,approach,involved,hidden risks,NOUN_CHUNK,NOUN_CHUNK
+112,Large firms,bring,systemic changes,NOUN_CHUNK,NOUN_CHUNK
+113,countries,archetype,largest trade surplus,NOUN_CHUNK,NOUN_CHUNK
+114,country specialization,determines,country exposure,NOUN_CHUNK,NOUN_CHUNK
+115,Shifts,favor,advanced economies,NOUN_CHUNK,NOUN_CHUNK
+116,comparative advantages,offer,interesting model,NOUN_CHUNK,NOUN_CHUNK
+117,Resource producers,diversify,Resource producers,NOUN_CHUNK,NOUN_CHUNK
+118,governments,address,unfinished business,NOUN_CHUNK,NOUN_CHUNK
+119,global forces,the task,local economies,NOUN_CHUNK,NOUN_CHUNK
+120,workers,find,substantially lower earnings,NOUN_CHUNK,NOUN_CHUNK
+121,peers,experienced,greater job,NOUN_CHUNK,NOUN_CHUNK
+122,high income workers,led,the.growth,NOUN_CHUNK,NOUN_CHUNK
+123,manufacturing workers,face,disruptions,NOUN_CHUNK,NOUN_CHUNK
+124,middle income countries,climb,economic ladder,NOUN_CHUNK,NOUN_CHUNK
+125,automation technologies,narrowing,advantage,NOUN_CHUNK,NOUN_CHUNK
+126,subset,has,critical advantage,NOUN_CHUNK,NOUN_CHUNK
+127,automation,changes,balance,NOUN_CHUNK,NOUN_CHUNK
+128,Mexico,plays,type,GPE,NOUN_CHUNK
+129,Europe,play,role,LOC,NOUN_CHUNK
+130,trend,lead,China,NOUN_CHUNK,GPE
+131,the Philippines,have,opportunities,GPE,NOUN_CHUNK
+132,agents,reduce,market,NOUN_CHUNK,NOUN_CHUNK
+133,countries,have,limited participation,NOUN_CHUNK,NOUN_CHUNK
+134,value chains,are,people,NOUN_CHUNK,NOUN_CHUNK
+135,Recent MGI research,emphasized,role,NOUN_CHUNK,NOUN_CHUNK
+136,world,build,comprehensive supply chains,NOUN_CHUNK,NOUN_CHUNK
+137,shifts,have,implications,NOUN_CHUNK,NOUN_CHUNK
+138,The 1990s and,saw,another.revolution,DATE,NOUN_CHUNK
+139,internet,enabled,realignment,NOUN_CHUNK,NOUN_CHUNK
+140,Box,represent,96 percent,NOUN_CHUNK,PERCENT
+141,A.                                  farmer,cultivates,bananas,ORG,NOUN_CHUNK
+142,countries,performing,intermediate steps,NOUN_CHUNK,NOUN_CHUNK
+143,A.                                  farmer,use,imported fertilizers,ORG,NOUN_CHUNK
+144,Food,have,relatively simple sequential value,NOUN_CHUNK,NOUN_CHUNK
+145,Apparel,have,somewhat complex sequences,NOUN_CHUNK,NOUN_CHUNK
+146,industry value chains,trade,patterns,NOUN_CHUNK,NOUN_CHUNK
+147,second set,relates,countries,NOUN_CHUNK,NOUN_CHUNK
+148,Networks,create,value,NOUN_CHUNK,NOUN_CHUNK
+149,intensive value chains,include,computers,NOUN_CHUNK,NOUN_CHUNK
+150,multiple countries,involve,sequential steps,NOUN_CHUNK,NOUN_CHUNK
+151,hundreds,provide,inputs,CARDINAL,NOUN_CHUNK
+152,Size,represents,Global innovations,NOUN_CHUNK,NOUN_CHUNK
+153,global innovations value chains,employ,only 4 percent,NOUN_CHUNK,PERCENT
+154,value,is,innovations,NOUN_CHUNK,NOUN_CHUNK
+155,nations,represent,62 percent,NOUN_CHUNK,PERCENT
+156,countries,participate, Regional processing,NOUN_CHUNK,NOUN_CHUNK
+157,basic goods,fabricated,metal,NOUN_CHUNK,NOUN_CHUNK
+158,intraregional trade,makes,56 percent,NOUN_CHUNK,PERCENT
+159,archetype,includes,agriculture,NOUN_CHUNK,NOUN_CHUNK
+160,agriculture,employs,almost 870 million,NOUN_CHUNK,CARDINAL
+161,11 percent,added,highest share,PERCENT,NOUN_CHUNK
+162,Mining,have,highest value,NOUN_CHUNK,NOUN_CHUNK
+163,large labor intensive value chains,include,retail,NOUN_CHUNK,NOUN_CHUNK
+164,services,generate,highest gross output,NOUN_CHUNK,NOUN_CHUNK
+165,value chains,have,lower trade intensity,NOUN_CHUNK,NOUN_CHUNK
+166,GLOBAL VALUE CHAINS,UNDERGOING,STRUCTURAL SHIFTS,NOUN_CHUNK,NOUN_CHUNK
+167,analysis,documents,structural changes,NOUN_CHUNK,NOUN_CHUNK
+168,world,entered,new phase,NOUN_CHUNK,NOUN_CHUNK
+169,companies,see,soaring consumer demand,NOUN_CHUNK,NOUN_CHUNK
+170,Services,play,growing undervalued role,NOUN_CHUNK,NOUN_CHUNK
+171,trade,grown,more than 60 percent,NOUN_CHUNK,PERCENT
+172,Traditional trade statistics,capture,scope,NOUN_CHUNK,NOUN_CHUNK
+173,services,provide,large growing share,NOUN_CHUNK,NOUN_CHUNK
+174,services,create,substantial value,NOUN_CHUNK,NOUN_CHUNK
+175,automotive manufacturers,derive,up to 30 percent,NOUN_CHUNK,PERCENT
+176,arbitrage,represents,only 18 percent,NOUN_CHUNK,PERCENT
+177,value,reported,IP charges,NOUN_CHUNK,NOUN_CHUNK
+178,IP charges,include,flows,NOUN_CHUNK,NOUN_CHUNK
+179,the United States,increased,share,GPE,NOUN_CHUNK
+180,trend,reflects,fact,NOUN_CHUNK,NOUN_CHUNK
+181,chain,spend,36 percent,NOUN_CHUNK,PERCENT
+182,innovations                              ,intensive,processing,ORG,NOUN_CHUNK
+183,Intangibles,include,brands,NOUN_CHUNK,NOUN_CHUNK
+184,low priced goods,dominate,world,NOUN_CHUNK,NOUN_CHUNK
+185,Complex hand finishes,raise,price,NOUN_CHUNK,NOUN_CHUNK
+186,WTO,assumed,prominent role,ORG,NOUN_CHUNK
+187,Global innovations value chains,experienced,pronounced shift,NOUN_CHUNK,NOUN_CHUNK
+188,2020.1 Primary resources,include,mining quarrying uranium thorium ores,NOUN_CHUNK,NOUN_CHUNK
+189,economy,mention,tariffs,NOUN_CHUNK,NOUN_CHUNK
+190,production,continue,regional long haul,NOUN_CHUNK,NOUN_CHUNK
+191,Nearshoring,establishing,demand focused apparel value,ORG,NOUN_CHUNK
+192,gross trade,dwarfed,$5.1 trillion,NOUN_CHUNK,MONEY
+193,services,account.for,around 80 percent,NOUN_CHUNK,PERCENT
+194,types,lend,types,NOUN_CHUNK,NOUN_CHUNK
+195,Varying national.regulations certification standards,limit,competition,NOUN_CHUNK,NOUN_CHUNK
+196,services,trade,entire globe,NOUN_CHUNK,NOUN_CHUNK
+197,trade,exceed,trade,NOUN_CHUNK,NOUN_CHUNK
+198,Services,shape,everyday products,NOUN_CHUNK,NOUN_CHUNK
+199,services,come,dealers,NOUN_CHUNK,NOUN_CHUNK
+200,trade statistics,count,value,NOUN_CHUNK,NOUN_CHUNK
+201,concept,enables,different view,NOUN_CHUNK,NOUN_CHUNK
+202,services,represent,31 percent,NOUN_CHUNK,PERCENT
+203,foreign services inputs,assuming,greater weight,NOUN_CHUNK,NOUN_CHUNK
+204,Exhibit 10).51.Exhibit 10.Although services,contribute,45 percent,NOUN_CHUNK,PERCENT
+205,calculation,takes,fact,NOUN_CHUNK,NOUN_CHUNK
+206,MULTINATIONALS,USE,INTANGIBLE ASSETS,NOUN_CHUNK,NOUN_CHUNK
+207,profitable firms,found,intellectual property,NOUN_CHUNK,NOUN_CHUNK
+208,the UN Statistical Commission,revised,the System of National Accounts,ORG,ORG
+209,.Exhibit 11.Corporate investment,exceeds,investment,NOUN_CHUNK,NOUN_CHUNK
+210,Europe,includes,Austria,LOC,GPE
+211,Intangibles,sunk,costs,NOUN_CHUNK,NOUN_CHUNK
+212,intangibles,report services,borders,NOUN_CHUNK,NOUN_CHUNK
+213,balance,captures,monetary nonmonetary transactions,NOUN_CHUNK,NOUN_CHUNK
+214,company French stores,use,local labor,NOUN_CHUNK,NOUN_CHUNK
+215,the Starbucks,have,look,ORG,NOUN_CHUNK
+216,type,cast,trade balance,NOUN_CHUNK,NOUN_CHUNK
+217,counting services,estimates,$120 billion,NOUN_CHUNK,MONEY
+218,London,Capturing,value,GPE,NOUN_CHUNK
+219,net exports,reflect,exports,NOUN_CHUNK,NOUN_CHUNK
+220,statistical agencies,report,export,NOUN_CHUNK,NOUN_CHUNK
+221,border flows,includes,costs,NOUN_CHUNK,NOUN_CHUNK
+222,upper range,the country,cross - border,NOUN_CHUNK,NOUN_CHUNK
+223,the United States,generates,almost one-third,GPE,CARDINAL
+224,figures,alter,trade balances,NOUN_CHUNK,NOUN_CHUNK
+225,foreign affiliates,generated,revenues,NOUN_CHUNK,NOUN_CHUNK
+226,charges,include,flows,NOUN_CHUNK,NOUN_CHUNK
+227,Flows,represent,brands,NOUN_CHUNK,NOUN_CHUNK
+228,Multiple factors,affect,size,NOUN_CHUNK,NOUN_CHUNK
+229,users,watch,more than a billion hours,NOUN_CHUNK,QUANTITY
+230,Free digital services,posed,measurement challenge,NOUN_CHUNK,NOUN_CHUNK
+231,digital services,attract,hundreds of millions,ORG,CARDINAL
+232,Google,serves,about 60 percent,ORG,PERCENT
+233,Facebook,represents,24 percent,ORG,PERCENT
+234,Free digital services,have,large domestic user bases,NOUN_CHUNK,NOUN_CHUNK
+235,technologist Erik Brynjolfsson,estimated,implied value,PERSON,NOUN_CHUNK
+236,median participant,set,value,NOUN_CHUNK,NOUN_CHUNK
+237,willingness accept survey data,puts,value,NOUN_CHUNK,NOUN_CHUNK
+238,approach,yields,lower,NOUN_CHUNK,NOUN_CHUNK
+239,search engines,represent,only 23 percent,NOUN_CHUNK,PERCENT
+240,services,constitute,almost 70 percent,NOUN_CHUNK,PERCENT
+241,ACCOUNTING,CREATE,INVISIBLE VALUE,NOUN_CHUNK,NOUN_CHUNK
+242,SERVICES,MAKE,MORE THAN HALF,NOUN_CHUNK,CARDINAL
+243,almost 80 percent,increase,global trade,PERCENT,NOUN_CHUNK
+244,build,paves,way,NOUN_CHUNK,NOUN_CHUNK
+245,conferencing,driving,shift,NOUN_CHUNK,NOUN_CHUNK
+246,Chapter 4,analyzes,number,LAW,NOUN_CHUNK
+247,companies,make,shift,NOUN_CHUNK,NOUN_CHUNK
+248,States,own,infrastructure,NOUN_CHUNK,NOUN_CHUNK
+249,companies,purchase,hardware,NOUN_CHUNK,NOUN_CHUNK
+250,Salesforce,offers,Salesforce suite,ORG,NOUN_CHUNK
+251,business models,gaining,steam,NOUN_CHUNK,NOUN_CHUNK
+252,emerging economies,reaching,new level.of industrial maturity,NOUN_CHUNK,NOUN_CHUNK
+253,chapter,analyzes,rising demand,NOUN_CHUNK,NOUN_CHUNK
+254,the.world economy,reflects,ongoing evolution,NOUN_CHUNK,NOUN_CHUNK
+255,billion people,exited,poverty,NOUN_CHUNK,NOUN_CHUNK
+256,countries,play,role,NOUN_CHUNK,NOUN_CHUNK
+257,Americas,Developing,Americas,ORG,LOC
+258,China,given,rise,GPE,NOUN_CHUNK
+259,Previous MGI research,highlighted,China,NOUN_CHUNK,GPE
+260,China consumers,turned,China,NOUN_CHUNK,GPE
+261,Decreased trade intensity,reflects,rising incomes,NOUN_CHUNK,NOUN_CHUNK
+262,India,exported,35 percent,GPE,PERCENT
+263,population growth,40,market,NOUN_CHUNK,NOUN_CHUNK
+264,Growing consumption,creates,export opportunities,NOUN_CHUNK,NOUN_CHUNK
+265,rising exports,2017,blow,NOUN_CHUNK,NOUN_CHUNK
+266,China,easing,foreign investment restrictions,GPE,NOUN_CHUNK
+267,South South trade,represents,almost half,NOUN_CHUNK,CARDINAL
+268,exports,constitute,22 percent,NOUN_CHUNK,PERCENT
+269,China China,financing,infrastructure construction projects,GPE,NOUN_CHUNK
+270,commodities,make,37 percent,NOUN_CHUNK,PERCENT
+271,China,BUILDING,DOMESTIC,GPE,NOUN_CHUNK
+272,trend,taking,hold,NOUN_CHUNK,NOUN_CHUNK
+273,Automotive,saw,especially large increases,NOUN_CHUNK,NOUN_CHUNK
+274,Xiaomi,launched,homegrown chip,ORG,NOUN_CHUNK
+275,Pinecone.91 Foxconn,established,new base,ORG,NOUN_CHUNK
+276,China,retain,types,GPE,NOUN_CHUNK
+277,policy,designates,dozens,NOUN_CHUNK,CARDINAL
+278,Hefei,has,existing base,GPE,NOUN_CHUNK
+279,comprehensive domestic supply chains,taking,root,NOUN_CHUNK,NOUN_CHUNK
+280,Textiles,offers,clearest illustration,NOUN_CHUNK,NOUN_CHUNK
+281,emerging economies,developing,extensive supply chains,NOUN_CHUNK,NOUN_CHUNK
+282,households,own,consumption,NOUN_CHUNK,NOUN_CHUNK
+283,manufacturers,joined,production,NOUN_CHUNK,NOUN_CHUNK
+284,Ford,exported,"180,000",ORG,CARDINAL
+285,Hyundai,cars,"153,000",ORG,CARDINAL
+286,demand growth,altering,landscape,NOUN_CHUNK,NOUN_CHUNK
+287,digital technologies,enabled,trade,NOUN_CHUNK,NOUN_CHUNK
+288,THE ICT REVOLUTION,paved,way,EVENT,NOUN_CHUNK
+289,technologies,have,varied complex effect,ORG,NOUN_CHUNK
+290,chapter,examines,major,NOUN_CHUNK,NOUN_CHUNK
+291,vehicles,smooth,transportation,NOUN_CHUNK,NOUN_CHUNK
+292,,Altering,production processes,NOUN_CHUNK,NOUN_CHUNK
+293,Advanced robotics,reduce,importance,ORG,NOUN_CHUNK
+294,technology,transforming,existing products,NOUN_CHUNK,NOUN_CHUNK
+295,25.New technologies,have,varying impacts,NOUN_CHUNK,NOUN_CHUNK
+296,processing,reduces,time,NOUN_CHUNK,NOUN_CHUNK
+297,.                                     Internet,track,shipments,ORG,NOUN_CHUNK
+298,Autonomous              Autonomous vehicles,move,cargo,NOUN_CHUNK,NOUN_CHUNK
+299,Australian company,utilizes,Google,NOUN_CHUNK,ORG
+300,company,equips,new UK factory,NOUN_CHUNK,NOUN_CHUNK
+301,Bangladesh,automates,textiles,GPE,NOUN_CHUNK
+302,Artificial    Virtual                       British retailer,deploys,virtual assistants,NOUN_CHUNK,NOUN_CHUNK
+303,Philippine company,employs,RPA,NOUN_CHUNK,NOUN_CHUNK
+304,China,increases,electricity generation,GPE,NOUN_CHUNK
+305,European consumers,buy,EVs,NOUN_CHUNK,NOUN_CHUNK
+306,Networked Markets,Transforming,Economy,NOUN_CHUNK,NOUN_CHUNK
+307,growth,has,implications,NOUN_CHUNK,NOUN_CHUNK
+308,implementation,reduce,trade costs,NOUN_CHUNK,NOUN_CHUNK
+309,The United States,announced,United States withdrawal,GPE,NOUN_CHUNK
+310,Digital platforms,offer,small medium size companies exposure,NOUN_CHUNK,NOUN_CHUNK
+311,Internet,improve,logistics,NOUN_CHUNK,NOUN_CHUNK
+312,application,monitors,location,NOUN_CHUNK,NOUN_CHUNK
+313,border compliance,compliance,265 hours,NOUN_CHUNK,TIME
+314,Autonomous vehicles,have,substantial potential,NOUN_CHUNK,NOUN_CHUNK
+315,possibilities,include,planes,NOUN_CHUNK,NOUN_CHUNK
+316,confirmations,delivered,step,NOUN_CHUNK,NOUN_CHUNK
+317,manufacturing,alter,production processes,NOUN_CHUNK,NOUN_CHUNK
+318,Automation systems,make,range,NOUN_CHUNK,NOUN_CHUNK
+319,benefits,have,ramifications,NOUN_CHUNK,NOUN_CHUNK
+320,blockchain,revolutionize,international trade,NOUN_CHUNK,NOUN_CHUNK
+321,HSBC,Don Weinland,trade finance deal,ORG,NOUN_CHUNK
+322,FTE,weighted,%,NOUN_CHUNK,NOUN_CHUNK
+323,manufacturing,handle,wider variety,NOUN_CHUNK,NOUN_CHUNK
+324,production,end,markets,NOUN_CHUNK,NOUN_CHUNK
+325,Morocco,serve,European,GPE,NORP
+326,Adidas,building,automated,NOUN_CHUNK,NOUN_CHUNK
+327,Automation,cause,exodus,NOUN_CHUNK,NOUN_CHUNK
+328,China,pursuing,automation,GPE,NOUN_CHUNK
+329,digital form,requires,large low skill workforce,NOUN_CHUNK,NOUN_CHUNK
+330,Artificial intelligence,reduce,trade,NOUN_CHUNK,NOUN_CHUNK
+331,support,involve,repetitive tasks,NOUN_CHUNK,NOUN_CHUNK
+332,business process outsourcing services,many repetitive tasks,higher potential,NOUN_CHUNK,NOUN_CHUNK
+333,AI,create,trade,NOUN_CHUNK,NOUN_CHUNK
+334,Additive manufacturing,reduce,trade,NOUN_CHUNK,NOUN_CHUNK
+335,Additive manufacturing,builds,physical objects,NOUN_CHUNK,NOUN_CHUNK
+336,designers,create,products,NOUN_CHUNK,NOUN_CHUNK
+337,Additive manufacturing,dampen,trade,NOUN_CHUNK,NOUN_CHUNK
+338,consumer,replaces,global distribution,NOUN_CHUNK,NOUN_CHUNK
+339,3D,printing,threat,PRODUCT,NOUN_CHUNK
+340,TECHNOLOGY,CHANGING,GOODS,NOUN_CHUNK,NOUN_CHUNK
+341,products,giving,rise,NOUN_CHUNK,NOUN_CHUNK
+342,digital innovations,replace,trade,NOUN_CHUNK,NOUN_CHUNK
+343,The ‘Chinese Netflix’ iQiyi,gearing,things,ORG,NOUN_CHUNK
+344,Cloud computing,uses,similar subscription,NOUN_CHUNK,NOUN_CHUNK
+345,ride sharing,offset,a third,NOUN_CHUNK,CARDINAL
+346,Growth,reduce,trade,NOUN_CHUNK,NOUN_CHUNK
+347,Electric vehicles,gaining,momentum,NOUN_CHUNK,NOUN_CHUNK
+348,global sales,topped,one million,NOUN_CHUNK,CARDINAL
+349,adoption,disrupt,automotive value chains,NOUN_CHUNK,NOUN_CHUNK
+350,shift,generate,new flows,NOUN_CHUNK,NOUN_CHUNK
+351,Tesla,established,Tesla,ORG,PRODUCT
+352,batteries,increase,127,NOUN_CHUNK,CARDINAL
+353,Cloud adoption,accelerate,Cloud adoption,NOUN_CHUNK,NOUN_CHUNK
+354,generation mix,have,different look,NOUN_CHUNK,NOUN_CHUNK
+355,SoftBank latest dream,stretches,6 countries,NOUN_CHUNK,NOUN_CHUNK
+356,5 G,embed,internet,NOUN_CHUNK,NOUN_CHUNK
+357,reliability,provide,backbone,NOUN_CHUNK,NOUN_CHUNK
+358,rollout,reshape,global flows,NOUN_CHUNK,NOUN_CHUNK
+359,algorithms,detect,issues,NOUN_CHUNK,NOUN_CHUNK
+360,NEW TECHNOLOGIES,HAVE,MIXED IMPACT,NOUN_CHUNK,NOUN_CHUNK
+361,huge market,has,great potential,NOUN_CHUNK,NOUN_CHUNK
+362,Countries,have,great deal,NOUN_CHUNK,NOUN_CHUNK
+363,small orders,affect,trade flows,NOUN_CHUNK,NOUN_CHUNK
+364,the IoT,improve,shipment,ORG,NOUN_CHUNK
+365,developing countries,use,automation,NOUN_CHUNK,NOUN_CHUNK
+366,32.Automation,have,largest impact,NOUN_CHUNK,NOUN_CHUNK
+367,countries,exports,automation,NOUN_CHUNK,NOUN_CHUNK
+368,McKinsey Global Institute,consider,specific product categories,ORG,NOUN_CHUNK
+369,EVs,reduce,1.4 trillion trade,ORG,NOUN_CHUNK
+370,electricity generation,dampen,oil trade,NOUN_CHUNK,NOUN_CHUNK
+371,continuing march,reshaping,individual industries,NOUN_CHUNK,NOUN_CHUNK
+372,continuing march,underscores,rising importance,NOUN_CHUNK,NOUN_CHUNK
+373,rising.importance,raises,stakes,NOUN_CHUNK,NOUN_CHUNK
+374,supplier ecosystems,growing,imperatives,NOUN_CHUNK,NOUN_CHUNK
+375,Tech companies,disrupting,value chains,NOUN_CHUNK,NOUN_CHUNK
+376,moves,pose,new competitive challenge,NOUN_CHUNK,NOUN_CHUNK
+377,Companies,markets,Western incumbents,NOUN_CHUNK,NOUN_CHUNK
+378,backyards,have,scale,NOUN_CHUNK,NOUN_CHUNK
+379,market companies,using,M&A strategies,NOUN_CHUNK,NOUN_CHUNK
+380,Volvo,changing,planned exports,ORG,NOUN_CHUNK
+381,experts,adjust,clothing content,NOUN_CHUNK,NOUN_CHUNK
+382,companies,state,operations,NOUN_CHUNK,NOUN_CHUNK
+383,Volvo,Keith Naughton,production plans,ORG,NOUN_CHUNK
+384,SMEs,have,new opportunities,ORG,NOUN_CHUNK
+385,giant multinational corporations,the,trade,NOUN_CHUNK,NOUN_CHUNK
+386,small medium size companies,joined,commerce marketplaces,NOUN_CHUNK,NOUN_CHUNK
+387,small medium size companies,gain,direct exposure,NOUN_CHUNK,NOUN_CHUNK
+388,Amazon,hosts,million party,ORG,NOUN_CHUNK
+389,sellers,hosts,more than ten million,NOUN_CHUNK,CARDINAL
+390,Lazada,offers,marketplace,ORG,NOUN_CHUNK
+391,sellers,hire,service providers,NOUN_CHUNK,NOUN_CHUNK
+392,cloud,changed,economics,NOUN_CHUNK,NOUN_CHUNK
+393,Zendesk,offers,package,ORG,NOUN_CHUNK
+394,businesses,manage,customer service,NOUN_CHUNK,NOUN_CHUNK
+395,Zendesk,serves,businesses,ORG,NOUN_CHUNK
+396,Volatility,delaying,investments,NOUN_CHUNK,NOUN_CHUNK
+397,Group’s Tata Steel,prioritizing,automation,ORG,NOUN_CHUNK
+398,strategy,leads,companies,NOUN_CHUNK,NOUN_CHUNK
+399,technology,enabling,companies,NOUN_CHUNK,NOUN_CHUNK
+400,customers,allows,jeans,NOUN_CHUNK,NOUN_CHUNK
+401,Coca-Cola,owns,brands,ORG,NOUN_CHUNK
+402,Coca-Cola,maximizes,potential,ORG,NOUN_CHUNK
+403,services,assume,greater role,NOUN_CHUNK,NOUN_CHUNK
+404,companies,pursuing,global local services strategy,NOUN_CHUNK,NOUN_CHUNK
+405,Starbucks,vary,Starbucks product offerings,ORG,NOUN_CHUNK
+406,million properties,provides,platform,NOUN_CHUNK,NOUN_CHUNK
+407,loose network,provides,actual accommodations,NOUN_CHUNK,NOUN_CHUNK
+408,PayPal,facilitates,payments,NOUN_CHUNK,NOUN_CHUNK
+409,business model,enables,platform companies,NOUN_CHUNK,NOUN_CHUNK
+410,biggest hyperscale platforms,host,billions,NOUN_CHUNK,CARDINAL
+411,Examples,include,financial services,NOUN_CHUNK,NOUN_CHUNK
+412,HSBC,has,presence,ORG,NOUN_CHUNK
+413,firms,maintain,offices,NOUN_CHUNK,NOUN_CHUNK
+414,Global,Offers,a single                          Global                                           Airbus,NOUN_CHUNK,ORG
+415,market,tastes,insights,NOUN_CHUNK,NOUN_CHUNK
+416,Global,reach, Starbucks,NOUN_CHUNK,NOUN_CHUNK
+417,Platform,Creates,marketplace,NOUN_CHUNK,NOUN_CHUNK
+418,Resource,Produces, Access,NOUN_CHUNK,NOUN_CHUNK
+419,companies,own,global operations,NOUN_CHUNK,NOUN_CHUNK
+420,services,add,new sources,NOUN_CHUNK,NOUN_CHUNK
+421,speed,driving,regionalization,NOUN_CHUNK,NOUN_CHUNK
+422,companies,consider,risk-,NOUN_CHUNK,NOUN_CHUNK
+423,manufacturers,use,platforms,NOUN_CHUNK,NOUN_CHUNK
+424,Toyota,introducing,new manufacturing system,ORG,NOUN_CHUNK
+425,growing number,enough,production,NOUN_CHUNK,NOUN_CHUNK
+426,Massive retooling,readies,Toyota Georgetown,NOUN_CHUNK,PRODUCT
+427,Speed,enables,faster responses,NOUN_CHUNK,NOUN_CHUNK
+428,Companies,have,wealth,NOUN_CHUNK,NOUN_CHUNK
+429,insights,requires,speed,NOUN_CHUNK,NOUN_CHUNK
+430,manufacturers,finding,value,NOUN_CHUNK,NOUN_CHUNK
+431,offshoring,led,companies,NOUN_CHUNK,NOUN_CHUNK
+432,tier suppliers,have,little visibility,NOUN_CHUNK,NOUN_CHUNK
+433,efficiencies,enable,systemic changes,NOUN_CHUNK,NOUN_CHUNK
+434,smaller suppliers,transformation,help,NOUN_CHUNK,NOUN_CHUNK
+435,companies,developed,sprawling global footprints,NOUN_CHUNK,NOUN_CHUNK
+436,firms,sharpening,firms,NOUN_CHUNK,NOUN_CHUNK
+437,Countries,alter,Countries,NOUN_CHUNK,NOUN_CHUNK
+438,Countries,reap,economic gains,NOUN_CHUNK,NOUN_CHUNK
+439,trade,connect,world economy,NOUN_CHUNK,NOUN_CHUNK
+440,COUNTRIES,PLAY,DIFFERENT ROLES,NOUN_CHUNK,NOUN_CHUNK
+441,country specialization,determines,country specialization,NOUN_CHUNK,NOUN_CHUNK
+442,developing countries,specialize,natural resources,NOUN_CHUNK,NOUN_CHUNK
+443,SHIFTS,FAVOR,ADVANCED ECONOMIES,NOUN_CHUNK,NOUN_CHUNK
+444,group,lost,medium skill workers,NOUN_CHUNK,NOUN_CHUNK
+445,Exhibit 37.Most advanced economies,lost,manufacturing jobs,NOUN_CHUNK,NOUN_CHUNK
+446,Trade,affected,wages,NOUN_CHUNK,NOUN_CHUNK
+447,effects,hit,low wage workers,NOUN_CHUNK,NOUN_CHUNK
+448,Workers,experienced,churn,NOUN_CHUNK,NOUN_CHUNK
+449,evidence,suggests,wages,NOUN_CHUNK,NOUN_CHUNK
+450,rise,accompanied,ongoing,NOUN_CHUNK,NOUN_CHUNK
+451,overall gains,exceed,overall gains,NOUN_CHUNK,NOUN_CHUNK
+452,global innovators,benefit,rising competition,NOUN_CHUNK,NOUN_CHUNK
+453,current trends,But,comparative advantages,NOUN_CHUNK,NOUN_CHUNK
+454,advanced economies,run,trade surplus,NOUN_CHUNK,NOUN_CHUNK
+455,IP charges,Over,two to three,NOUN_CHUNK,CARDINAL
+456,Services,playing,bigger role,NOUN_CHUNK,NOUN_CHUNK
+457,Trade surplus,advanced,billion,NOUN_CHUNK,NOUN_CHUNK
+458, Global innovators,face,greater competition,NOUN_CHUNK,NOUN_CHUNK
+459,South Korea,seen,South Korea Japan exports,GPE,NOUN_CHUNK
+460,developing countries,offer,interesting template,NOUN_CHUNK,NOUN_CHUNK
+461,OPEC countries,have,long term economic development,NOUN_CHUNK,NOUN_CHUNK
+462,economies,dominate,ranks,NOUN_CHUNK,NOUN_CHUNK
+463,policy priority,setting,rules,NOUN_CHUNK,NOUN_CHUNK
+464,store,generated,data,NOUN_CHUNK,NOUN_CHUNK
+465,regulations,limit,competition,NOUN_CHUNK,NOUN_CHUNK
+466,services,exceeds,average tariff,NOUN_CHUNK,NOUN_CHUNK
+467,life cycles,reinforce,trend,NOUN_CHUNK,NOUN_CHUNK
+468,biggest policy challenge,involves,unfinished business,NOUN_CHUNK,NOUN_CHUNK
+469,date,includes,transitional income support,NOUN_CHUNK,NOUN_CHUNK
+470,manufacturing value,added,patent activity,NOUN_CHUNK,NOUN_CHUNK
+471,DEVELOPING COUNTRIES,FACE,HEADWINDS,NOUN_CHUNK,NOUN_CHUNK
+472,automation,limit,job creation,NOUN_CHUNK,NOUN_CHUNK
+473,subset,has,critical advantage,NOUN_CHUNK,NOUN_CHUNK
+474,United States,play,role,GPE,NOUN_CHUNK
+475,multinationals,in,chains,NOUN_CHUNK,NOUN_CHUNK
+476,alternatives,offer,fewer cultural language time zone difficulties,NOUN_CHUNK,NOUN_CHUNK
+477,Exhibit 39.Some developing economies,increasing,Exhibit 39.Some developing economies exports,NOUN_CHUNK,NOUN_CHUNK
+478,developing countries,face,a.                                  squeeze,NOUN_CHUNK,NOUN_CHUNK
+479,procedures,facilitating,seamless flows,NOUN_CHUNK,NOUN_CHUNK
+480,digital economy,offers,opportunities,NOUN_CHUNK,NOUN_CHUNK
+481,mobile apps,give,small businesses,NOUN_CHUNK,NOUN_CHUNK
+482,Amazon,announced,expansion,ORG,NOUN_CHUNK
+483,Mobile banking,make,financial inclusion,NOUN_CHUNK,NOUN_CHUNK
+484,digital payments,erase,huge inefficiencies,NOUN_CHUNK,NOUN_CHUNK
+485,E - commerce marketplaces,give,small medium size businesses,NOUN_CHUNK,NOUN_CHUNK
+486,commerce platforms,offer,additional small business services,NOUN_CHUNK,NOUN_CHUNK
+487,Education,determine,country ability,NOUN_CHUNK,NOUN_CHUNK
+488,period,represents,opening,NOUN_CHUNK,NOUN_CHUNK
+489,Exhibit A1,lists,breakdown,NOUN_CHUNK,NOUN_CHUNK
+490,sources,represent,world economy,NOUN_CHUNK,NOUN_CHUNK
+491,McKinsey Global Institute,mapped,WIOD industry,ORG,NOUN_CHUNK
+492,OECD ICIO tables,contain,countries,NOUN_CHUNK,NOUN_CHUNK
+493,databases,have,different levels,NOUN_CHUNK,NOUN_CHUNK
+494,errors,driving,results,NOUN_CHUNK,NOUN_CHUNK
+495,WIOD source data,has,limitations,NOUN_CHUNK,NOUN_CHUNK
+496,CROSS BORDER SERVICE,FLOWS,intangibles,NOUN_CHUNK,NOUN_CHUNK
+497,Estimating,traded,share,NOUN_CHUNK,NOUN_CHUNK
+498,METHODOLOGY,includes,number,NOUN_CHUNK,NOUN_CHUNK
+499,future,involves,substantial uncertainty,NOUN_CHUNK,NOUN_CHUNK
+500,Category,includes,sector,NOUN_CHUNK,NOUN_CHUNK
+501,Category,includes,technologies,NOUN_CHUNK,NOUN_CHUNK
+502,Category,reduce,transit times,NOUN_CHUNK,NOUN_CHUNK
+503,of.e-commerce,translate,savings,ORG,NOUN_CHUNK
+504,coverage,paper,data,NOUN_CHUNK,NOUN_CHUNK
+505,digital technologies,transforming,global commerce,NOUN_CHUNK,NOUN_CHUNK
+506,times,have,room                    viability,NOUN_CHUNK,NOUN_CHUNK
+507,%,replaceable,Reduction,NOUN_CHUNK,NOUN_CHUNK
+508,We.which,adopting,automation technologies,ORG,NOUN_CHUNK
+509,EVs,estimate,trade,ORG,NOUN_CHUNK
+510,McKinsey,obtained,input output table,ORG,NOUN_CHUNK
+511,baseline case,assumes,change,NOUN_CHUNK,NOUN_CHUNK
+512,EVs,reduce,oil trade,ORG,NOUN_CHUNK
+513,Jensen,Overlooked,opportunity,PERSON,NOUN_CHUNK
+514,Van Reenan,has,China.global value chains,PERSON,NOUN_CHUNK
+515,illustrated user,guide.to,the World Input,NOUN_CHUNK,ORG
+516,information,generate,economic          375 million workers,NOUN_CHUNK,NOUN_CHUNK
+0,Global Institute’s,covered,20 countries,ORG,NOUN_CHUNK
+1,Recent reports,assessed,digital economy,NOUN_CHUNK,NOUN_CHUNK
+2,leading.economists,advise,MGI research,NOUN_CHUNK,NOUN_CHUNK
+3,Jean‑Jacques Rousseau,used,term,PERSON,NOUN_CHUNK
+4,Previous publications,include,2016 reports,NOUN_CHUNK,NOUN_CHUNK
+5,MGI directors,provided,input,NOUN_CHUNK,NOUN_CHUNK
+6,research,benefited,social contract,NOUN_CHUNK,NOUN_CHUNK
+7,Previous McKinsey Global Institute reports,include,Urban world,NOUN_CHUNK,ORG
+8,Lauren Meling,ensured,digital social media.diffusion,PERSON,NOUN_CHUNK
+9,findings,include,workers,NOUN_CHUNK,NOUN_CHUNK
+10,Young people,spend,secure employment,NOUN_CHUNK,NOUN_CHUNK
+11,20,increase,broad prosperity,CARDINAL,NOUN_CHUNK
+12,Large increases,absorbed,income gains,NOUN_CHUNK,NOUN_CHUNK
+13,Institutions,shifted,responsibility,NOUN_CHUNK,NOUN_CHUNK
+14,changes,point,social contract,NOUN_CHUNK,NOUN_CHUNK
+15,research,covers,Australia,NOUN_CHUNK,GPE
+16,time work,experienced,fastest growth,NOUN_CHUNK,NOUN_CHUNK
+17,Women,entered,workforce,NOUN_CHUNK,NOUN_CHUNK
+18,social contract,preoccupied,philosophers,NOUN_CHUNK,NOUN_CHUNK
+19,focus,building,wealth,NOUN_CHUNK,NOUN_CHUNK
+20,data,limited,analysis,NOUN_CHUNK,NOUN_CHUNK
+21,power,add,$12 trillion,NOUN_CHUNK,MONEY
+22,Snower,Exploring,new social contract,ORG,NOUN_CHUNK
+23,institutions,achieve,aspects,NOUN_CHUNK,NOUN_CHUNK
+24, Education,paid,holidays,ORG,NOUN_CHUNK
+25,workers,commit,workers,NOUN_CHUNK,NOUN_CHUNK
+26,Workers,seeing,improvements,NOUN_CHUNK,NOUN_CHUNK
+27,time,includes,both voluntary (3.2 percentage points,NOUN_CHUNK,PERCENT
+28,time          time                  Breakdown,available,Highest employment rate,NOUN_CHUNK,NOUN_CHUNK
+29,2000,indicating,unequal wage growth,DATE,NOUN_CHUNK
+30,economies,faced,flat declining real market incomes,NOUN_CHUNK,NOUN_CHUNK
+31,trends,benefited,individuals,NOUN_CHUNK,NOUN_CHUNK
+32,digital platforms,created,opportunities,NOUN_CHUNK,NOUN_CHUNK
+33,private sector Job Quality Index,compares,number,NOUN_CHUNK,NOUN_CHUNK
+34,Compound annual growth rate,represents,5 years ending with date,NOUN_CHUNK,DATE
+35,factors,played,role,NOUN_CHUNK,NOUN_CHUNK
+36,prices,absorbing,substantial,NOUN_CHUNK,NOUN_CHUNK
+37,Dani Rodrik,Building,good jobs economy,PERSON,NOUN_CHUNK
+38,Globalization,increased,competition,NOUN_CHUNK,NOUN_CHUNK
+39,housing costs,tracked,general consumer prices,NOUN_CHUNK,NOUN_CHUNK
+40,Healthcare,represents,9 percent,ORG,PERCENT
+41,healthcare,constituted,just 3 percent,NOUN_CHUNK,PERCENT
+42,OECD,estimated,quality price changes,ORG,NOUN_CHUNK
+43,Healthcare consumer prices,include,medical products,NOUN_CHUNK,NOUN_CHUNK
+44,prices,include,pre - primary primary secondary post - secondary tertiary education,NOUN_CHUNK,NOUN_CHUNK
+45,consumer prices,interpreted,items consumer price index,NOUN_CHUNK,NOUN_CHUNK
+46,category,includes,alcohol,NOUN_CHUNK,NOUN_CHUNK
+47,Healthcare,includes,medical products,ORG,NOUN_CHUNK
+48,Education,includes,tertiary,NOUN_CHUNK,NOUN_CHUNK
+49,increase,absorbed,income,NOUN_CHUNK,NOUN_CHUNK
+50,price increases,absorbed,87 percent,NOUN_CHUNK,PERCENT
+51,two decades,seen,major improvements,DATE,NOUN_CHUNK
+52,life,expectancy.overcrowding,rates,NOUN_CHUNK,NOUN_CHUNK
+53,Innovations,democratized,access,ORG,NOUN_CHUNK
+54,Improved life expectancy,challenging,institutional,NOUN_CHUNK,NOUN_CHUNK
+55,individuals,needed,savings,NOUN_CHUNK,NOUN_CHUNK
+56,climate,raise,questions,NOUN_CHUNK,NOUN_CHUNK
+57,more than half,raised,statutory retirement age,CARDINAL,NOUN_CHUNK
+58,OECD,defines,net pension replacement rate,ORG,NOUN_CHUNK
+59,Defined benefit pensions,provide,guaranteed payment,NOUN_CHUNK,NOUN_CHUNK
+60,Weighting,increase,ratio,NOUN_CHUNK,NOUN_CHUNK
+61,people,affected,pensions,NOUN_CHUNK,NOUN_CHUNK
+62,individuals,Assumes,average net earnings,NOUN_CHUNK,NOUN_CHUNK
+63,Digital banking,mean,good quality investment,NOUN_CHUNK,NOUN_CHUNK
+64,Japan,lack,access,GPE,NOUN_CHUNK
+65,lack,means,Japan,NOUN_CHUNK,GPE
+66,Lower wealth households,bear,risk,NOUN_CHUNK,NOUN_CHUNK
+67,deciles,earned,returns,NOUN_CHUNK,NOUN_CHUNK
+68,50 percent,have,low negative wealth growth,PERCENT,NOUN_CHUNK
+69,Institutions,shifted,responsibility,NOUN_CHUNK,NOUN_CHUNK
+70,spending,highlights,movements,NOUN_CHUNK,NOUN_CHUNK
+71,set,includes,Japan,NOUN_CHUNK,GPE
+72,general trend,had,significant implications,NOUN_CHUNK,NOUN_CHUNK
+73,liberal market economies,drive,exchanges,NOUN_CHUNK,NOUN_CHUNK
+74,Indicators,included,level,NOUN_CHUNK,NOUN_CHUNK
+75,Components,include,workers,NOUN_CHUNK,NOUN_CHUNK
+76,States,seen,States,NOUN_CHUNK,NOUN_CHUNK
+77,workers,experienced,negative outcomes,NOUN_CHUNK,NOUN_CHUNK
+78,Consumption savings outcomes,been,individuals,NOUN_CHUNK,NOUN_CHUNK
+79,biggest deterioration,has,been.falling savings,NOUN_CHUNK,NOUN_CHUNK
+80,Recovery,yields,big gains,NOUN_CHUNK,NOUN_CHUNK
+81,    Countries,include,Australia,NOUN_CHUNK,GPE
+82,Younger generations,facing,challenges,NOUN_CHUNK,NOUN_CHUNK
+83,Data limitations,affected,calculation,NOUN_CHUNK,NOUN_CHUNK
+84,higher number,calculated,worse outcome,NOUN_CHUNK,NOUN_CHUNK
+85,Women,seen,improvements,NOUN_CHUNK,NOUN_CHUNK
+86,woman,The amount,96 cents,NOUN_CHUNK,MONEY
+87,trends,African Americans,racial wealth income gap,NOUN_CHUNK,NOUN_CHUNK
+88,Urban areas,saw,faster employment recovery,NOUN_CHUNK,NOUN_CHUNK
+89,ongoing research,highlights,similar local regional patterns,NOUN_CHUNK,NOUN_CHUNK
+90,economic gains,taking,place,NOUN_CHUNK,NOUN_CHUNK
+91,Wage stagnation,affected,roughly 200 million people,NOUN_CHUNK,NOUN_CHUNK
+92,15 + population,Estimated,more than 40 percent,NOUN_CHUNK,PERCENT
+93,population,Estimated,15 to 24 years,NOUN_CHUNK,DATE
+94,individuals,face,difficulties,NOUN_CHUNK,NOUN_CHUNK
+95,organization,redefining,purpose,NOUN_CHUNK,NOUN_CHUNK
+96,Individuals,assume,larger,NOUN_CHUNK,NOUN_CHUNK
+97,the annual United Nations World Happiness Survey,shows,satisfaction,EVENT,NOUN_CHUNK
+98,public- social sector entities,achieve,prosperity,NOUN_CHUNK,NOUN_CHUNK
+99,individuals,expect,specific outcomes,NOUN_CHUNK,NOUN_CHUNK
+100,actors,include,philanthropic nongovernmental organizations,NOUN_CHUNK,NOUN_CHUNK
+101,citizens,expect,physical security,NOUN_CHUNK,NOUN_CHUNK
+102,representation,seek,sense,NOUN_CHUNK,NOUN_CHUNK
+103,individuals,shaping,social contract,NOUN_CHUNK,NOUN_CHUNK
+104,study,cover,concerns,NOUN_CHUNK,NOUN_CHUNK
+105,power,add,$12 trillion,NOUN_CHUNK,MONEY
+106,seminal works,include,Nemat Shafik,NOUN_CHUNK,ORG
+107,Macroeconomic management,meets,new economy Technological disruption,NOUN_CHUNK,NOUN_CHUNK
+108,approach,sees,government,NOUN_CHUNK,NOUN_CHUNK
+109,services,provide,wages,NOUN_CHUNK,NOUN_CHUNK
+110,businesses,serve,interests,NOUN_CHUNK,NOUN_CHUNK
+111,institutions,achieve,aspects,NOUN_CHUNK,NOUN_CHUNK
+112, Education,paid,holidays,ORG,NOUN_CHUNK
+113,workers,commit,workers,NOUN_CHUNK,NOUN_CHUNK
+114,Major trends,driving,economic outcomes,NOUN_CHUNK,NOUN_CHUNK
+115,list,address,effects,NOUN_CHUNK,NOUN_CHUNK
+116,trends,played,major role,NOUN_CHUNK,NOUN_CHUNK
+117,an estimated 15 percent,use,online platforms,PERCENT,NOUN_CHUNK
+118,Globalization,increased,competition,NOUN_CHUNK,NOUN_CHUNK
+119,global supply chains,reduced,cost,NOUN_CHUNK,NOUN_CHUNK
+120,range,affected,companies,NOUN_CHUNK,NOUN_CHUNK
+121,productivity,Global growth,the day,NOUN_CHUNK,DATE
+122,advancing women equality,add,$12 trillion,NOUN_CHUNK,MONEY
+123,Recent MGI research,shown,labor share,NOUN_CHUNK,NOUN_CHUNK
+124,Superstar firms,have,1.6 times economic profit,NOUN_CHUNK,NOUN_CHUNK
+125,radical changes,taken,place,NOUN_CHUNK,NOUN_CHUNK
+126,reforms,included,right,NOUN_CHUNK,NOUN_CHUNK
+127,Germany,introduced,sickness insurance,GPE,NOUN_CHUNK
+128,comprehensive social welfare system,provided,model,NOUN_CHUNK,NOUN_CHUNK
+129,notable evolutions,taken,place,NOUN_CHUNK,NOUN_CHUNK
+130,European nations,entailed,embrace,NOUN_CHUNK,NOUN_CHUNK
+131,individuals,are,labor,NOUN_CHUNK,NOUN_CHUNK
+132,people,find,gainful employment,NOUN_CHUNK,NOUN_CHUNK
+133,Recent MGI research,suggests,widespread expectation,NOUN_CHUNK,NOUN_CHUNK
+134,institutional changes,had,impact,NOUN_CHUNK,NOUN_CHUNK
+135,Employment,is,benefits,NOUN_CHUNK,NOUN_CHUNK
+136,Greece,employment rate,lowest,GPE,NOUN_CHUNK
+137,Norway,had,high levels,GPE,NOUN_CHUNK
+138,female workers,represented,46 percent,NOUN_CHUNK,PERCENT
+139,Employment rate,reflects,employed people,NOUN_CHUNK,NOUN_CHUNK
+140,demographic factors,play,role,NOUN_CHUNK,NOUN_CHUNK
+141,share,declined,workers                     age workers,NOUN_CHUNK,NOUN_CHUNK
+142,male workers,represented,54 percent,NOUN_CHUNK,PERCENT
+143,elderly workers,increased,share,NOUN_CHUNK,NOUN_CHUNK
+144,Finland,bucked,trend,GPE,NOUN_CHUNK
+145,Workers,seen,improvements,NOUN_CHUNK,NOUN_CHUNK
+146,privately provided benefits,represented,33 percent,NOUN_CHUNK,PERCENT
+147,Workers,face,strain,NOUN_CHUNK,NOUN_CHUNK
+148,Sample,omits,Canada,NOUN_CHUNK,GPE
+149,countries,had,access,NOUN_CHUNK,NOUN_CHUNK
+150,employers,offer,paid vacation,NOUN_CHUNK,NOUN_CHUNK
+151,Digital platforms,adding,momentum,NOUN_CHUNK,NOUN_CHUNK
+152,independent workers,span,demographic,NOUN_CHUNK,NOUN_CHUNK
+153,rise,seen,number,NOUN_CHUNK,NOUN_CHUNK
+154,analysis,capture,state level,NOUN_CHUNK,NOUN_CHUNK
+155,97 percent,offer,paid vacation,PERCENT,NOUN_CHUNK
+156,Organization,Does,pay,NOUN_CHUNK,NOUN_CHUNK
+157,Uber,makes,Uber pain New Yorkers problem,ORG,NOUN_CHUNK
+158,occupational shifts,led,skilled construction workers,NOUN_CHUNK,NOUN_CHUNK
+159,trends,discussed,myriad new opportunities,NOUN_CHUNK,NOUN_CHUNK
+160,fall,rose,decline,NOUN_CHUNK,NOUN_CHUNK
+161,male time employment,represented,47.1 percent,NOUN_CHUNK,PERCENT
+162,Australia,followed,aggregate trend,GPE,NOUN_CHUNK
+163,countries,experienced,rising female employment,NOUN_CHUNK,NOUN_CHUNK
+164,crisis recovery,seen,substantial increase,NOUN_CHUNK,NOUN_CHUNK
+165,Workers,face,increased labor market,NOUN_CHUNK,NOUN_CHUNK
+166,workers,notable,up to 21.7 percent,NOUN_CHUNK,PERCENT
+167,Combined risk,provided,by.unemployment protection,NOUN_CHUNK,NOUN_CHUNK
+168,Percent,lost,percentage point change,NOUN_CHUNK,NOUN_CHUNK
+169,temporary workers,received,wages,NOUN_CHUNK,NOUN_CHUNK
+170,German government,passed,legislation,NOUN_CHUNK,NOUN_CHUNK
+171,Zero hour contract workers,face,precarious pay penalty,NOUN_CHUNK,NOUN_CHUNK
+172,shift,affects,low cost airlines cabin crews,NOUN_CHUNK,NOUN_CHUNK
+173,data sets,measure,skills,NOUN_CHUNK,NOUN_CHUNK
+174,low skill occupations,middle-,workers,NOUN_CHUNK,NOUN_CHUNK
+175,global financial crisis,faced,substantial increases,NOUN_CHUNK,NOUN_CHUNK
+176,Nearly 43 percent,have,potential,PERCENT,NOUN_CHUNK
+177,Economists Gerald Auten,contradicted,existing literature,PERSON,NOUN_CHUNK
+178,Economists,Economist,numbers,NOUN_CHUNK,NOUN_CHUNK
+179,United States1,represents,share,NOUN_CHUNK,NOUN_CHUNK
+180,Median real wage,change,2000–18.Occupations,NOUN_CHUNK,CARDINAL
+181,GDP growth,averaged,1.6 percent,NOUN_CHUNK,PERCENT
+182,aggregate wage growth figures,mask,substantial changes,NOUN_CHUNK,NOUN_CHUNK
+183,individuals,faced,declines,NOUN_CHUNK,NOUN_CHUNK
+184,median worker,earns,0.40,NOUN_CHUNK,MONEY
+185,Compound annual growth rate,represents,5 years ending with date,NOUN_CHUNK,DATE
+186,real net income,declined,2,NOUN_CHUNK,CARDINAL
+187,median equivalized net income,includes,taxes,NOUN_CHUNK,NOUN_CHUNK
+188,20 to 25 percent,had,flat falling disposable income,PERCENT,NOUN_CHUNK
+189,layoffs,showed,innovation,NOUN_CHUNK,NOUN_CHUNK
+190,collective agreements,cover,wage levels,NOUN_CHUNK,NOUN_CHUNK
+191,Australia,saw,change,GPE,NOUN_CHUNK
+192,Austria,had,highest share,GPE,NOUN_CHUNK
+193,healthcare,Outside,big role,ORG,NOUN_CHUNK
+194,category,includes,restaurant,NOUN_CHUNK,NOUN_CHUNK
+195,Healthcare consumer prices,include,medical products,NOUN_CHUNK,NOUN_CHUNK
+196,prices,include,pre - primary primary secondary post - secondary non - tertiary tertiary education,NOUN_CHUNK,NOUN_CHUNK
+197,consumer prices,interpreted,items consumer price index,NOUN_CHUNK,NOUN_CHUNK
+198,category,includes,alcohol,NOUN_CHUNK,NOUN_CHUNK
+199,Healthcare,includes,medical products,ORG,NOUN_CHUNK
+200,Education,includes,tertiary,NOUN_CHUNK,NOUN_CHUNK
+201,13.Consumer prices,witnessed,relatively moderate variations,NOUN_CHUNK,NOUN_CHUNK
+202,consumer prices,interpreted,items consumer price index,NOUN_CHUNK,NOUN_CHUNK
+203,Education,includes,pre-,NOUN_CHUNK,NOUN_CHUNK
+204,consumer prices,interpreted,items consumer price index,NOUN_CHUNK,NOUN_CHUNK
+205,category,includes,alcohol,NOUN_CHUNK,NOUN_CHUNK
+206,E - commerce,cut,distribution,NOUN_CHUNK,NOUN_CHUNK
+207,urban mobility tools,improved,transportation services,NOUN_CHUNK,NOUN_CHUNK
+208,emerging economies,driven,prices,NOUN_CHUNK,NOUN_CHUNK
+209,transportation markets,created,new competition,NOUN_CHUNK,NOUN_CHUNK
+210,Germany,underwent,major product market reform,GPE,NOUN_CHUNK
+211,reforms,included,liberalization,NOUN_CHUNK,NOUN_CHUNK
+212,deregulation,increased,competition,NOUN_CHUNK,NOUN_CHUNK
+213,competition,bring,disproportionate gains,NOUN_CHUNK,NOUN_CHUNK
+214,household spending,excludes,government spending,NOUN_CHUNK,NOUN_CHUNK
+215,15.Changes,explain,37 percent,NOUN_CHUNK,PERCENT
+216,South Korea,reflects,national consumer price index,GPE,NOUN_CHUNK
+217,price volume changes,drove,change,NOUN_CHUNK,NOUN_CHUNK
+218,rising cost,pushed,share,NOUN_CHUNK,NOUN_CHUNK
+219,Housing,takes,largest proportion,NOUN_CHUNK,NOUN_CHUNK
+220,68 wealthiest households,find,rent,NOUN_CHUNK,NOUN_CHUNK
+221,49 percent,find,rent,PERCENT,NOUN_CHUNK
+222,Previous MGI research,highlights,phenomenon,NOUN_CHUNK,NOUN_CHUNK
+223,Eichholtz,shows,significant variations,ORG,NOUN_CHUNK
+224,overcrowded household,considered,minimum,NOUN_CHUNK,NOUN_CHUNK
+225,Rising costs,accompanied,rising quality,NOUN_CHUNK,NOUN_CHUNK
+226,public health systems,facing,pressures,NOUN_CHUNK,NOUN_CHUNK
+227,an estimated 6 percent,has,private health,PERCENT,NOUN_CHUNK
+228,Government institutions,playing,smaller role,NOUN_CHUNK,NOUN_CHUNK
+229,New Zealand,saw,largest increase,GPE,NOUN_CHUNK
+230,United Kingdom,saw,largest increase,GPE,NOUN_CHUNK
+231,the United Kingdom,increased,maximum university tuition fees,GPE,NOUN_CHUNK
+232,Spain,passed,measures,GPE,NOUN_CHUNK
+233,students,for,"25,000",NOUN_CHUNK,MONEY
+234,An estimated 83 percent,repay,An estimated 83 percent,PERCENT,PERCENT
+235,education prices,affect,average consumer education accounts,NOUN_CHUNK,NOUN_CHUNK
+236,Academy,providing,free education courses,ORG,NOUN_CHUNK
+237,future,critical,demand,NOUN_CHUNK,NOUN_CHUNK
+238,arena,examined,focus,NOUN_CHUNK,NOUN_CHUNK
+239,population,aged,65,NOUN_CHUNK,DATE
+240,households,saving,little,NOUN_CHUNK,NOUN_CHUNK
+241,Aging societies,pose,growing challenge,NOUN_CHUNK,NOUN_CHUNK
+242,combination,has,substantial effect,NOUN_CHUNK,NOUN_CHUNK
+243,age population,declined,219,NOUN_CHUNK,CARDINAL
+244,demographic trends,pose,considerable challenge,NOUN_CHUNK,NOUN_CHUNK
+245,Changing demographics,affecting,fiscal sustainability,NOUN_CHUNK,NOUN_CHUNK
+246,Demographic shifts,had,major impact,NOUN_CHUNK,NOUN_CHUNK
+247,countries,increased,contributions,NOUN_CHUNK,NOUN_CHUNK
+248,More than half,raised,statutory retirement age,CARDINAL,NOUN_CHUNK
+249,countries,froze,benefit indexation,NOUN_CHUNK,NOUN_CHUNK
+250,countries,adjust,level,NOUN_CHUNK,NOUN_CHUNK
+251,Australia,tightened,targeting,GPE,NOUN_CHUNK
+252,Economists,debated,cause,NOUN_CHUNK,NOUN_CHUNK
+253,Summers,advanced,theory,NOUN_CHUNK,NOUN_CHUNK
+254,Bernanke,dispute,Summers theory,ORG,NOUN_CHUNK
+255,Average,includes,countries,NOUN_CHUNK,NOUN_CHUNK
+256,Denmark,saw,double digit increases,GPE,NOUN_CHUNK
+257,Alternative forms,carry,additional pension related concerns,NOUN_CHUNK,NOUN_CHUNK
+258,average,increase.was,percentage points,NOUN_CHUNK,NOUN_CHUNK
+259,countries,have,defined-.benefit pension assets,NOUN_CHUNK,NOUN_CHUNK
+260,Spain,has,defined contribution pension assets,GPE,NOUN_CHUNK
+261,Austria,closed,net pension replacement rate gap,GPE,NOUN_CHUNK
+262,people,affected,pensions,NOUN_CHUNK,NOUN_CHUNK
+263,individuals,Assumes,average net earnings,NOUN_CHUNK,NOUN_CHUNK
+264,decline,implies,increased individual responsibility,NOUN_CHUNK,NOUN_CHUNK
+265,2000.236 Denmark,seen,increase,GPE,NOUN_CHUNK
+266,a quarter,save,money,CARDINAL,NOUN_CHUNK
+267,low levels,access,role,NOUN_CHUNK,NOUN_CHUNK
+268,Technology,opened,new opportunities,NOUN_CHUNK,NOUN_CHUNK
+269,new products,mean,comparatively low risk high return,NOUN_CHUNK,NOUN_CHUNK
+270,Behavioral economics,playing,role,NOUN_CHUNK,NOUN_CHUNK
+271,saving program,doubled,program enrollment rate,NOUN_CHUNK,NOUN_CHUNK
+272,individuals,sustain,living standards,NOUN_CHUNK,NOUN_CHUNK
+273,retiree,receive,"only about $3,000",NOUN_CHUNK,MONEY
+274,51 percent,had,access,PERCENT,NOUN_CHUNK
+275,America,saves,2019,GPE,DATE
+276,wealth decile,earned,return,NOUN_CHUNK,NOUN_CHUNK
+277,combination,means,personal wealth,NOUN_CHUNK,NOUN_CHUNK
+278,23 percent,had,zero,PERCENT,CARDINAL
+279,50 percent,have,low negative wealth growth,PERCENT,NOUN_CHUNK
+280,21.Lower wealth groups,have,lower rates,NOUN_CHUNK,NOUN_CHUNK
+281,Housing,includes,homes,NOUN_CHUNK,NOUN_CHUNK
+282,Financial assets,includes,stocks,NOUN_CHUNK,NOUN_CHUNK
+283,wealth,levels.smoothed,3-year average growth rates,NOUN_CHUNK,NOUN_CHUNK
+284,old,had,61 percent,NOUN_CHUNK,PERCENT
+285,successive generations,and 1980s,wealth,NOUN_CHUNK,NOUN_CHUNK
+286,low wealth growth,increase,proportion,NOUN_CHUNK,NOUN_CHUNK
+287,29 percent,have,retirement savings,PERCENT,NOUN_CHUNK
+288,Net wealth,excludes,pension schemes,NOUN_CHUNK,NOUN_CHUNK
+289,people,risen,2 percent,NOUN_CHUNK,PERCENT
+290,surplus,presented,challenges,NOUN_CHUNK,NOUN_CHUNK
+291,Institutions,play,important roles,NOUN_CHUNK,NOUN_CHUNK
+292,level,product-market regulations,quality,NOUN_CHUNK,NOUN_CHUNK
+293,market mechanisms,drive,exchanges,NOUN_CHUNK,NOUN_CHUNK
+294,policies,mandate,level,NOUN_CHUNK,NOUN_CHUNK
+295,individuals,on,sufficient wealth,NOUN_CHUNK,NOUN_CHUNK
+296,government spending,insulate,workers,NOUN_CHUNK,NOUN_CHUNK
+297,private sector institutions,play,important roles,NOUN_CHUNK,NOUN_CHUNK
+298,individuals,choose,extent,NOUN_CHUNK,NOUN_CHUNK
+299,market intervention,entails,lower responsibility,NOUN_CHUNK,NOUN_CHUNK
+300,government,spent,$982 billion,NOUN_CHUNK,MONEY
+301,government,spent,$1 trillion,NOUN_CHUNK,MONEY
+302,highest income quintile,receives,4 percent,NOUN_CHUNK,PERCENT
+303,highest quintile,receive,support,NOUN_CHUNK,NOUN_CHUNK
+304,Superstar effects,mitigate,risks,NOUN_CHUNK,NOUN_CHUNK
+305,indexes,cover,legality,NOUN_CHUNK,NOUN_CHUNK
+306,governments,increased,direct support,NOUN_CHUNK,NOUN_CHUNK
+307,OECD Social Expenditure statistics,include,training,NOUN_CHUNK,NOUN_CHUNK
+308,social spending,include,R&D,NOUN_CHUNK,NOUN_CHUNK
+309,future,increasing,need,NOUN_CHUNK,NOUN_CHUNK
+310,rent control,curtail,soaring housing prices,NOUN_CHUNK,NOUN_CHUNK
+311,countries,value,individualism,NOUN_CHUNK,NOUN_CHUNK
+312,Sweden,prioritize,equality,GPE,NOUN_CHUNK
+313,Austria,constitute,archetype,GPE,NOUN_CHUNK
+314,Components,include,workers,NOUN_CHUNK,NOUN_CHUNK
+315,archetype,includes,Scandinavian       model countries,NOUN_CHUNK,NOUN_CHUNK
+316,Norway,scored,134,GPE,CARDINAL
+317,public sector spending,archetype,43 and 44 percent,NOUN_CHUNK,PERCENT
+318,Italy,witnessed,notable declines,GPE,NOUN_CHUNK
+319,spending,include,English speaking countries,NOUN_CHUNK,NOUN_CHUNK
+320,Ireland,trend,public sector spending,GPE,NOUN_CHUNK
+321,Changing institutional roles,coincided,consumers,NOUN_CHUNK,NOUN_CHUNK
+322,research,provides,evidence,NOUN_CHUNK,NOUN_CHUNK
+323,flexible market,negotiate,compensation,NOUN_CHUNK,NOUN_CHUNK
+324,Workers,seen,positive,NOUN_CHUNK,NOUN_CHUNK
+325,savers,face,negative outcomes,NOUN_CHUNK,NOUN_CHUNK
+326,combined risk,lost,wages,NOUN_CHUNK,NOUN_CHUNK
+327,individuals,increasing,individuals,NOUN_CHUNK,NOUN_CHUNK
+328,individuals,prepare,assets,NOUN_CHUNK,NOUN_CHUNK
+329,findings,suggest,deterioration,NOUN_CHUNK,NOUN_CHUNK
+330,individualized social contract,meant,polarized outcomes,NOUN_CHUNK,NOUN_CHUNK
+331,consumers,making,decisions,NOUN_CHUNK,NOUN_CHUNK
+332,groups,experienced,negative shifts,NOUN_CHUNK,NOUN_CHUNK
+333,changes,created,opportunities,NOUN_CHUNK,NOUN_CHUNK
+334,Changes,affected,different groups,NOUN_CHUNK,NOUN_CHUNK
+335,quintiles,consider,quintiles,NOUN_CHUNK,NOUN_CHUNK
+336,metrics,include,absolute levels,NOUN_CHUNK,NOUN_CHUNK
+337,middle segments,faced,negative outcomes,NOUN_CHUNK,NOUN_CHUNK
+338,Data limitations,make,closer examination,NOUN_CHUNK,NOUN_CHUNK
+339,white families,owned,89 percent,ORG,PERCENT
+340,black Hispanic families,owned,about 3 percent,NOUN_CHUNK,PERCENT
+341,median college educated black Hispanic household,had,31 percent,NOUN_CHUNK,PERCENT
+342,educated black Hispanic household,had,17 and 19 percent,NOUN_CHUNK,PERCENT
+343,Prior MGI research,highlighted,fact,NOUN_CHUNK,NOUN_CHUNK
+344,African Americans,have,higher rate,NORP,NOUN_CHUNK
+345,quintiles,spend,lower share,NOUN_CHUNK,NOUN_CHUNK
+346,Younger generations,facing,challenges,NOUN_CHUNK,NOUN_CHUNK
+347,Data limitations,affected,calculation,NOUN_CHUNK,NOUN_CHUNK
+348,higher number,calculated,worse outcome,NOUN_CHUNK,NOUN_CHUNK
+349,employment,reflect,individuals choice,NOUN_CHUNK,NOUN_CHUNK
+350,Countries,exhibit,substantial variations,NOUN_CHUNK,NOUN_CHUNK
+351,Japan,experienced,substantial decline,GPE,NOUN_CHUNK
+352,Italy,experienced,largest increase,GPE,NOUN_CHUNK
+353,South Korea,had,highest share,GPE,NOUN_CHUNK
+354,young struggle,spend,large share,NOUN_CHUNK,NOUN_CHUNK
+355,young people,building,wealth,NOUN_CHUNK,NOUN_CHUNK
+356,person,accumulated,61 percent,NOUN_CHUNK,PERCENT
+357,34-year olds,had,69 percent,NOUN_CHUNK,PERCENT
+358,Urban areas,seen,employment.recovery,NOUN_CHUNK,NOUN_CHUNK
+359,new responsibilities,pose,significant social challenges,NOUN_CHUNK,NOUN_CHUNK
+360,31.Ten high priority challenges,need,solutions,NOUN_CHUNK,NOUN_CHUNK
+361,social                 ,face,difficulties,ORG,NOUN_CHUNK
+362,people,have,access,NOUN_CHUNK,NOUN_CHUNK
+363,women,made,strides,NOUN_CHUNK,NOUN_CHUNK
+364,labor market,has,gains,NOUN_CHUNK,NOUN_CHUNK
+365,businesses,increase,productivity growth,NOUN_CHUNK,NOUN_CHUNK
+366,they.create.294 Dell,offers,benefits,ORG,NOUN_CHUNK
+367,job,evaluate,potential employers,NOUN_CHUNK,NOUN_CHUNK
+368,workers,facing,rising employment related risks,NOUN_CHUNK,NOUN_CHUNK
+369,state,introduced,bill,NOUN_CHUNK,NOUN_CHUNK
+370,governments,increasing,spending,NOUN_CHUNK,NOUN_CHUNK
+371,Businesses,have,flexibility,NOUN_CHUNK,NOUN_CHUNK
+372,Universal basic income,received,attention,NOUN_CHUNK,NOUN_CHUNK
+373,California,passes,historic gig economy rights bill,GPE,NOUN_CHUNK
+374,Stable scheduling,increases,productivity,NOUN_CHUNK,NOUN_CHUNK
+375,private sector businesses,beginning,to.reconsider,NOUN_CHUNK,NOUN_CHUNK
+376,additional private investment,expand,housing supply,NOUN_CHUNK,NOUN_CHUNK
+377,public resources,address,constraints,NOUN_CHUNK,NOUN_CHUNK
+378,Berlin,announced,one,GPE,CARDINAL
+379,312 countries,providing,additional funding,NOUN_CHUNK,NOUN_CHUNK
+380,government,created,multiple schemes,NOUN_CHUNK,NOUN_CHUNK
+381,individuals,take,mortgages,NOUN_CHUNK,NOUN_CHUNK
+382,Social sector nongovernmental institutions,playing,a.     larger role,NOUN_CHUNK,NOUN_CHUNK
+383,Tafel,collects,food items,ORG,NOUN_CHUNK
+384,institutions,supporting,individuals,NOUN_CHUNK,NOUN_CHUNK
+385,South Korea,introduced,policies,GPE,NOUN_CHUNK
+386,sector,founded,Haven,NOUN_CHUNK,NOUN_CHUNK
+387,Amazon,launched,virtual health clinic,ORG,NOUN_CHUNK
+388,Starbucks,offering,Starbucks employees scholarships,ORG,NOUN_CHUNK
+389,firms,United States,year degree,NOUN_CHUNK,NOUN_CHUNK
+390,317 Intesa Sanpaolo,offering,collateral-       free loans,ORG,NOUN_CHUNK
+391,United States,supports,students,GPE,NOUN_CHUNK
+392,people,receive,free university education,NOUN_CHUNK,NOUN_CHUNK
+393,families,helping,families,NOUN_CHUNK,NOUN_CHUNK
+394,university,cracked,student debt,NOUN_CHUNK,NOUN_CHUNK
+395,millennials,Forbes,help,NOUN_CHUNK,NOUN_CHUNK
+396,new.technologies,require,basic financial literacy,NOUN_CHUNK,NOUN_CHUNK
+397,United States,gain,access,GPE,NOUN_CHUNK
+398,young people,achieve,major milestones,NOUN_CHUNK,NOUN_CHUNK
+399,workers,experiencing,continued,NOUN_CHUNK,NOUN_CHUNK
+400,balance,differs,ideology,NOUN_CHUNK,NOUN_CHUNK
+401,public sector,increasing,spending,NOUN_CHUNK,NOUN_CHUNK
+402,spending,increases,pressure,NOUN_CHUNK,NOUN_CHUNK
+403,individuals,increasing,management,NOUN_CHUNK,NOUN_CHUNK
+404,elderly people,stretched,certain technologies,NOUN_CHUNK,NOUN_CHUNK
+405,countries,we,unsustainable public debt levels,NOUN_CHUNK,NOUN_CHUNK
+406,combined risk,lost,wages,NOUN_CHUNK,NOUN_CHUNK
+407,combined risk,lost,wages,NOUN_CHUNK,NOUN_CHUNK
+408,12.3 -3.8,-15.5,0.5 4.8,QUANTITY,CARDINAL
+409,Combined risk,lost,wages,NOUN_CHUNK,NOUN_CHUNK
+410,Countries,provide,diversity,NOUN_CHUNK,NOUN_CHUNK
+411,Broadband speed,mean,download speed,NOUN_CHUNK,NOUN_CHUNK
+412,Countries,provide,diversity,NOUN_CHUNK,NOUN_CHUNK
+413,Countries,provide,diversity,NOUN_CHUNK,NOUN_CHUNK
+414,data,reflects,individual,NOUN_CHUNK,NOUN_CHUNK
+415,individuals,work,outcomes,NOUN_CHUNK,NOUN_CHUNK
+416,population,aged,15 years,NOUN_CHUNK,DATE
+417,the.share,increased,4.2 percentage.points,NOUN_CHUNK,NOUN_CHUNK
+418,"ex-offenders,.which",affects,prospects,PERSON,NOUN_CHUNK
+419,346 High skill occupations,include,jobs,NOUN_CHUNK,NOUN_CHUNK
+420,Middle skill occupations,include,jobs,NOUN_CHUNK,NOUN_CHUNK
+421,Low skill occupations,include,jobs,NOUN_CHUNK,NOUN_CHUNK
+422,private sector Job Quality Index,Building,good jobs economy,NOUN_CHUNK,NOUN_CHUNK
+423,Occupational Employment Statistics data,excludes,farming employment,NOUN_CHUNK,NOUN_CHUNK
+424,349.Employee wage nonwage compensation,provides,breakdown,NOUN_CHUNK,NOUN_CHUNK
+425,Civilian workers,include,those.employed,NOUN_CHUNK,NOUN_CHUNK
+426,spending,excludes,government spending,NOUN_CHUNK,NOUN_CHUNK
+427,households,In,negative.asset balances,NOUN_CHUNK,NOUN_CHUNK
+428,exclusion,was,leadership,NOUN_CHUNK,NOUN_CHUNK
+429,2000,calculated,estimated social pension spending,DATE,NOUN_CHUNK
+430,projected increase,attributed,remaining increase,NOUN_CHUNK,NOUN_CHUNK
+431,total working age population,change,established cutoffs,NOUN_CHUNK,NOUN_CHUNK
+432,The OECD,defines,prime-age            OECD Stat,ORG,ORG
+433,Actual hours,include,regular work hours,TIME,TIME
+434,workers,defined,       OECD Stat,NOUN_CHUNK,NOUN_CHUNK
+435,The OECD,standardized,agencies,ORG,NOUN_CHUNK
+436,Temporary                Temporary employment,includes,wage salary               OECD Stat,NOUN_CHUNK,NOUN_CHUNK
+437,job,employment              workers,predetermined termination,NOUN_CHUNK,NOUN_CHUNK
+438,Permanent                Permanent employment,includes,wage salary               OECD Stat,NOUN_CHUNK,NOUN_CHUNK
+439,job,employment              workers,predetermined,NOUN_CHUNK,NOUN_CHUNK
+440,The OECD,defines,indicator,ORG,NOUN_CHUNK
+441,equivalized            ,expresses,share,ORG,NOUN_CHUNK
+442,income share            taxes,ordered,Inequality,NOUN_CHUNK,NOUN_CHUNK
+443,Mixed income,reports,Economy,NOUN_CHUNK,NOUN_CHUNK
+444,High skill              High skill occupations,include,jobs,NOUN_CHUNK,NOUN_CHUNK
+445,Middle skill             Middle skill occupations,include,jobs,NOUN_CHUNK,NOUN_CHUNK
+446,Low skill                Low skill occupations,include,jobs,NOUN_CHUNK,NOUN_CHUNK
+447,The HICP,measures,change,ORG,NOUN_CHUNK
+448,Index,acquired,National,NOUN_CHUNK,NOUN_CHUNK
+449,consumption segments,follow,the COICOP,NOUN_CHUNK,ORG
+450,services,covers,actual monetary transactions,NOUN_CHUNK,NOUN_CHUNK
+451,internet access,had,access,NOUN_CHUNK,NOUN_CHUNK
+452,Nonbasic spending,refers,agencies,NOUN_CHUNK,NOUN_CHUNK
+453,Basic goods spending,refers,agencies,NOUN_CHUNK,NOUN_CHUNK
+454,indicator,captures,mean download speed,NOUN_CHUNK,NOUN_CHUNK
+455,quality             respondents,rank,competence,NOUN_CHUNK,NOUN_CHUNK
+456,Broadband,includes,a financial             Global Institute,ORG,ORG
+457,healthcare             insurance,covers,cost,ORG,NOUN_CHUNK
+458,indicator,measures,number,NOUN_CHUNK,NOUN_CHUNK
+459,household,overcrowded,        Database,NOUN_CHUNK,NOUN_CHUNK
+460,indicator,measures,number,NOUN_CHUNK,NOUN_CHUNK
+461,babies,weighing,"less than 2,500 grams",NOUN_CHUNK,QUANTITY
+462,standardized death rates,enable,comparability,NOUN_CHUNK,NOUN_CHUNK
+463,Healthy life expectancy,applies,disability,NOUN_CHUNK,NOUN_CHUNK
+464,expectancy,compute,equivalent        Organization,NOUN_CHUNK,NOUN_CHUNK
+465,Indicator,measures,net wealth,NOUN_CHUNK,NOUN_CHUNK
+466,net           Indicator,measures,average net wealth,NOUN_CHUNK,NOUN_CHUNK
+467,net household saving rate,represents,                OECD Stat,NOUN_CHUNK,NOUN_CHUNK
+468,wealth,excludes,pension plans,NOUN_CHUNK,NOUN_CHUNK
+469,Net wealth,excludes,pension,NOUN_CHUNK,NOUN_CHUNK
+470,people,known,pensions,NOUN_CHUNK,NOUN_CHUNK
+471,Proportion,captures,level,NOUN_CHUNK,NOUN_CHUNK
+472,literate,display,basic knowledge,NOUN_CHUNK,NOUN_CHUNK
+473,individuals,equivalized,net wealth,NOUN_CHUNK,NOUN_CHUNK
+474,than 25 percent,excludes,pension schemes,PERCENT,NOUN_CHUNK
+475,individuals,equivalized,net wealth,NOUN_CHUNK,NOUN_CHUNK
+476,than 50 percent,excludes,pension schemes,PERCENT,NOUN_CHUNK
+477,Cboe Volatility,forecasts,volatility,NOUN_CHUNK,NOUN_CHUNK
+478,metric,captures,strictness,NOUN_CHUNK,NOUN_CHUNK
+479,metric,captures,strictness,NOUN_CHUNK,NOUN_CHUNK
+480,Indicator,captures,share,NOUN_CHUNK,NOUN_CHUNK
+481,metrics,capture,regulatory barriers,NOUN_CHUNK,NOUN_CHUNK
+482,Indicator,captures,stock,NOUN_CHUNK,NOUN_CHUNK
+483,indexes,measure,18 rental market regulations,NOUN_CHUNK,NOUN_CHUNK
+484,healthcare           private insurance,covers,cost,NOUN_CHUNK,NOUN_CHUNK
+485,active,involve,inter - personal redistribution,NOUN_CHUNK,NOUN_CHUNK
+486,Social spending         Social spending,includes,spending,NOUN_CHUNK,NOUN_CHUNK
+487,Social spending         Social spending,includes,spending,NOUN_CHUNK,NOUN_CHUNK
+488,Public sector            Public spending,includes,direct              OECD Stat,NOUN_CHUNK,NOUN_CHUNK
+489,indicator,includes,noncategorical cash benefits,NOUN_CHUNK,NOUN_CHUNK
+490,indicator,includes,spending,NOUN_CHUNK,NOUN_CHUNK
+491,McKinsey Global Institute,Testing,resilience,ORG,NOUN_CHUNK
+492,productivity,Routledge,the day,NOUN_CHUNK,DATE
+493,Nolan,Generating,Prosperity,PERSON,NOUN_CHUNK
+494,inequality benefits,add,$12 trillion,NOUN_CHUNK,MONEY
+495,Saint-Martin,Does,pay,PERSON,NOUN_CHUNK
+496,Snower,Exploring,"a new social.contract, Brookings Institution",ORG,ORG
+497,July 2019).This report,explores,question,NOUN_CHUNK,NOUN_CHUNK
+498,July 2019).This report,analyzes,"3,000 counties",NOUN_CHUNK,NOUN_CHUNK
+499,effort,provides,answers,NOUN_CHUNK,NOUN_CHUNK
+0,research agenda,lead,high-impact.the insights,NOUN_CHUNK,NOUN_CHUNK
+1,Anu Madgavkar,advise,MGI research,PERSON,NOUN_CHUNK
+2,Current research,focuses,business,NOUN_CHUNK,NOUN_CHUNK
+3,world,Changing,page,NOUN_CHUNK,NOUN_CHUNK
+4,Questions,page,76.Acknowledgments,NOUN_CHUNK,NOUN_CHUNK
+5,industry,boost,productivity,NOUN_CHUNK,NOUN_CHUNK
+6,Retailers,offer,seamless,NOUN_CHUNK,NOUN_CHUNK
+7,opportunities,are,inventory management,NOUN_CHUNK,NOUN_CHUNK
+8,use cases,introduce,data,NOUN_CHUNK,NOUN_CHUNK
+9,cycles,leading,connectivity providers,ORG,NOUN_CHUNK
+10,industry players,put,upgrades,NOUN_CHUNK,NOUN_CHUNK
+11,India,modernized,India,GPE,GPE
+12,promise,captured,attention,NOUN_CHUNK,NOUN_CHUNK
+13,value,This.implies,trillions of dollars,NOUN_CHUNK,MONEY
+14,connectivity,has,ramifications,NOUN_CHUNK,NOUN_CHUNK
+15,Connectivity,undergoing,evolutionary change,NOUN_CHUNK,NOUN_CHUNK
+16,Existing connectivity technologies,expanding,Existing connectivity technologies,NOUN_CHUNK,NOUN_CHUNK
+17,Exhibit E1.Connectivity technologies,taking,strides,NOUN_CHUNK,NOUN_CHUNK
+18,providers,upgrading,existing 4 G infrastructure,NOUN_CHUNK,NOUN_CHUNK
+19,low- mid - frequency 5 G networks,offer,significant,NOUN_CHUNK,NOUN_CHUNK
+20,satellite constellations,represent,radical departure.2,NOUN_CHUNK,NOUN_CHUNK
+21,mid - band 5G. Low earth orbit LEO satellites,deliver,breakthrough,NOUN_CHUNK,NOUN_CHUNK
+22,broadband,bring,coverage,NOUN_CHUNK,NOUN_CHUNK
+23,Advanced frontier connectivity,enable,new capabilities,NOUN_CHUNK,NOUN_CHUNK
+24,consumers,power,internet,NOUN_CHUNK,NOUN_CHUNK
+25,LEO satellites,provide,true global coverage,NOUN_CHUNK,NOUN_CHUNK
+26,Connected devices,transform,healthcare,NOUN_CHUNK,NOUN_CHUNK
+27,use cases,free,additional investment,NOUN_CHUNK,NOUN_CHUNK
+28,Manufacturing,run,highly precise operations,NOUN_CHUNK,NOUN_CHUNK
+29,growing number,incorporate,features,NOUN_CHUNK,NOUN_CHUNK
+30,      GDP impact,reach,$400 billion to $650 billion,NOUN_CHUNK,MONEY
+31,large representative cross - section,include,industrial consumer facing businesses,NOUN_CHUNK,NOUN_CHUNK
+32,5 G,“Five ways,manufacturing,NOUN_CHUNK,NOUN_CHUNK
+33,recommendations,increase,sales,NOUN_CHUNK,NOUN_CHUNK
+34,use cases,boost,GDP,NOUN_CHUNK,NOUN_CHUNK
+35,management,has,applicability,NOUN_CHUNK,NOUN_CHUNK
+36,critical applications,has,value,NOUN_CHUNK,NOUN_CHUNK
+37,value,use,cases,NOUN_CHUNK,NOUN_CHUNK
+38,Advanced frontier connectivity,generate,trillions of dollars,NOUN_CHUNK,MONEY
+39,cases,reach,mass adoption,NOUN_CHUNK,NOUN_CHUNK
+40,E2.We,analyzed,use cases,NOUN_CHUNK,NOUN_CHUNK
+41,Connectivity,unlock,value,NOUN_CHUNK,NOUN_CHUNK
+42,20-30%,Identified,impact,PERCENT,NOUN_CHUNK
+43,Data,complexities,Deployment constraints,NOUN_CHUNK,NOUN_CHUNK
+44,use cases,require,data sharing,NOUN_CHUNK,NOUN_CHUNK
+45,firms,postponed,asset,NOUN_CHUNK,NOUN_CHUNK
+46,competitive dynamics,forcing,providers,NOUN_CHUNK,NOUN_CHUNK
+47,China,retain,China India unique status,GPE,NOUN_CHUNK
+48,China,poured,huge investment,GPE,NOUN_CHUNK
+49,China,building,backbone,GPE,NOUN_CHUNK
+50,form,reach,as much as 80 percent,NOUN_CHUNK,PERCENT
+51,coverage rates,exceed,90 percent,NOUN_CHUNK,PERCENT
+52,World,reach,only around 60 percent,ORG,PERCENT
+53,affordability,limit,affordability adoption,NOUN_CHUNK,NOUN_CHUNK
+54,countries,enjoy,high fiber coverage rates,NOUN_CHUNK,NOUN_CHUNK
+55,Frontier connectivity,drives,required investment,NOUN_CHUNK,NOUN_CHUNK
+56,efficiency benefits,justify,deployment,NOUN_CHUNK,NOUN_CHUNK
+57,end,require,some $700 billion to $900 billion,NOUN_CHUNK,MONEY
+58,Leaders,capture,share,NOUN_CHUNK,NOUN_CHUNK
+59,Build outs,demand,major investment,NOUN_CHUNK,NOUN_CHUNK
+60,research,raises,questions,NOUN_CHUNK,NOUN_CHUNK
+61,offerings,gain,traction,NOUN_CHUNK,NOUN_CHUNK
+62,changes,Verizon’s recent 5G Edge computing partnership.19,meaningful,NOUN_CHUNK,NOUN_CHUNK
+63,applications,change,dynamic,NOUN_CHUNK,NOUN_CHUNK
+64,2 billion new consumers,follow,pattern,NOUN_CHUNK,NOUN_CHUNK
+65,Brian Heater,announce,5 G Edge computing partnership,PERSON,NOUN_CHUNK
+66,governments.have,played,hands role,NOUN_CHUNK,NOUN_CHUNK
+67,Today technology,heeds,commands,NOUN_CHUNK,NOUN_CHUNK
+68,Consumers,enjoy,instant high definition video streaming,NOUN_CHUNK,NOUN_CHUNK
+69,Connectivity technologies,taking,strides,NOUN_CHUNK,NOUN_CHUNK
+70,users,possible,sophisticated applications,NOUN_CHUNK,NOUN_CHUNK
+71,5 G networks,commanded,great deal,NOUN_CHUNK,NOUN_CHUNK
+72,Existing connectivity technologies,penetrating,       domains,NOUN_CHUNK,NOUN_CHUNK
+73,1.Connectivity technologies,taking,strides,NOUN_CHUNK,NOUN_CHUNK
+74,providers,upgrading,existing 4 G infrastructure,NOUN_CHUNK,NOUN_CHUNK
+75,generation,improve,speeds,NOUN_CHUNK,NOUN_CHUNK
+76,Wi-Fi 6,make,biggest difference,ORG,NOUN_CHUNK
+77,Wi-Fi 6,extends,battery,ORG,NOUN_CHUNK
+78,mid - band 5 G,achieve,speeds,NOUN_CHUNK,NOUN_CHUNK
+79,identification,have,applications,NOUN_CHUNK,NOUN_CHUNK
+80,LPWANs,with,power,NOUN_CHUNK,NOUN_CHUNK
+81,5 G networks,represent,step,NOUN_CHUNK,NOUN_CHUNK
+82,generation,promise,substantial improvements,NOUN_CHUNK,NOUN_CHUNK
+83,Standalone 5 G,includes,the new 5G Packet Core,NOUN_CHUNK,ORG
+84,High band 5 G,offers,speeds,NOUN_CHUNK,NOUN_CHUNK
+85,LEO satellites,provide,coverage,NOUN_CHUNK,NOUN_CHUNK
+86,billion,connected,IoT devices,NOUN_CHUNK,NOUN_CHUNK
+87,logistics networks,access,computing,NOUN_CHUNK,NOUN_CHUNK
+88,stage,reflects,improvements,NOUN_CHUNK,NOUN_CHUNK
+89,Advanced frontier connectivity,setting,new,NOUN_CHUNK,NOUN_CHUNK
+90,Edge computing,makes,leap,NOUN_CHUNK,NOUN_CHUNK
+91,while.much,playing,catch,NOUN_CHUNK,NOUN_CHUNK
+92,Factory workers,use,augmented reality glasses,NOUN_CHUNK,NOUN_CHUNK
+93,the IoT,deliver,precision irrigation,ORG,NOUN_CHUNK
+94,sensors,monitor,public infrastructure systems,NOUN_CHUNK,NOUN_CHUNK
+95,disaster management,broaden,reach,NOUN_CHUNK,NOUN_CHUNK
+96,connectivity ecosystem,has,players,NOUN_CHUNK,NOUN_CHUNK
+97,entry,reshaping,connectivity ecosystem,NOUN_CHUNK,NOUN_CHUNK
+98,falls,Economist,another.computer revolution,NOUN_CHUNK,NOUN_CHUNK
+99,Conventional providers,face,challenge,NOUN_CHUNK,NOUN_CHUNK
+100,operators,overcome,technical barriers,NOUN_CHUNK,NOUN_CHUNK
+101,oversupply,make,revenues,NOUN_CHUNK,NOUN_CHUNK
+102,roadblocks,have,little,NOUN_CHUNK,NOUN_CHUNK
+103,role.governments play,influence,connectivity markets,NOUN_CHUNK,NOUN_CHUNK
+104,Future spectrum.costs,increase,capital expenditures,NOUN_CHUNK,NOUN_CHUNK
+105,Reliability,implies,absence,NOUN_CHUNK,NOUN_CHUNK
+106,improvements,represent,building block,NOUN_CHUNK,NOUN_CHUNK
+107,consumers,power,internet,NOUN_CHUNK,NOUN_CHUNK
+108,use cases,give,rise,NOUN_CHUNK,NOUN_CHUNK
+109,hundreds of millions,live,huge portion,CARDINAL,NOUN_CHUNK
+110,productivity growth,Some 85 percent,moves,NOUN_CHUNK,NOUN_CHUNK
+111,43 Consumers,drive,larger share,NOUN_CHUNK,NOUN_CHUNK
+112,internet,feeding,insatiable appetite,NOUN_CHUNK,NOUN_CHUNK
+113,productivity growth,"YouTube, video consumption accounts",internet traffic,NOUN_CHUNK,NOUN_CHUNK
+114,3.Consumers,generate,majority,NOUN_CHUNK,NOUN_CHUNK
+115,small group,these markets,unusual share,NOUN_CHUNK,NOUN_CHUNK
+116,households,generate,more than 40 percent,NOUN_CHUNK,PERCENT
+117,households,use,fixed internet,NOUN_CHUNK,NOUN_CHUNK
+118,sources,drive,demand,NOUN_CHUNK,NOUN_CHUNK
+119,key developments,affect,demand,NOUN_CHUNK,NOUN_CHUNK
+120,new connectivity technologies,operate,variety,NOUN_CHUNK,NOUN_CHUNK
+121,type,offers,chance,NOUN_CHUNK,NOUN_CHUNK
+122,47 Providers,offer,basic packages,NOUN_CHUNK,NOUN_CHUNK
+123,Exhibit,drive,massive online video traffic,NOUN_CHUNK,NOUN_CHUNK
+124,Number,use,Bitrate,NOUN_CHUNK,NOUN_CHUNK
+125,Network slicing,affect,cellular connected services efficiency,NOUN_CHUNK,NOUN_CHUNK
+126,settings,adding,demand,NOUN_CHUNK,NOUN_CHUNK
+127,technologies,require,connectivity,NOUN_CHUNK,NOUN_CHUNK
+128,Approximately 55 to 65 percent,deliver,productivity,PERCENT,NOUN_CHUNK
+129,productivity,improve,labor asset or.resource productivity,NOUN_CHUNK,NOUN_CHUNK
+130,large representative cross - section,include,industrial consumer facing businesses,NOUN_CHUNK,NOUN_CHUNK
+131,7.We,analyzed,use cases,NOUN_CHUNK,NOUN_CHUNK
+132,Connectivity,unlock,value,NOUN_CHUNK,NOUN_CHUNK
+133,Example Tools,Increase,Remote monitoring            Enhancing product        New products,NOUN_CHUNK,NOUN_CHUNK
+134,Frontier connectivity,analyze.enormous,quantities,NOUN_CHUNK,NOUN_CHUNK
+135,extent,have,meaningful.impact,NOUN_CHUNK,NOUN_CHUNK
+136,World Bank literature review,finds,economic,NOUN_CHUNK,NOUN_CHUNK
+137,economic growth,see,World development report,NOUN_CHUNK,NOUN_CHUNK
+138,share,remaining,under-,NOUN_CHUNK,NOUN_CHUNK
+139,newly online population,gain,intermediate,NOUN_CHUNK,NOUN_CHUNK
+140,advanced frontier connectivity,provide,companies,NOUN_CHUNK,NOUN_CHUNK
+141,Connectivity,underpins,major changes,NOUN_CHUNK,NOUN_CHUNK
+142,The decade ahead,promises,bigger shifts,DATE,NOUN_CHUNK
+143,new type,has,dimensions,NOUN_CHUNK,NOUN_CHUNK
+144,multiple types,estimate,some $15 billion,NOUN_CHUNK,MONEY
+145,Manufacturers,monitor,condition,NOUN_CHUNK,NOUN_CHUNK
+146,Service offerings,include,unsupervised towing,NOUN_CHUNK,NOUN_CHUNK
+147,Predictive maintenance,represents,potential new revenue pool,NOUN_CHUNK,NOUN_CHUNK
+148,passengers,optimize,passengers routes,NOUN_CHUNK,NOUN_CHUNK
+149,V2P,connects,vehicles,NOUN_CHUNK,NOUN_CHUNK
+150,enhanced connectivity,accelerate,development,NOUN_CHUNK,NOUN_CHUNK
+151,connections,enable,live software updates,NOUN_CHUNK,NOUN_CHUNK
+152,capabilities,create,meaningful value,NOUN_CHUNK,NOUN_CHUNK
+153,improved connectivity,enable,80 innovations,NOUN_CHUNK,NOUN_CHUNK
+154,market,given,rise,NOUN_CHUNK,NOUN_CHUNK
+155,automakers,need,relevant expertise,NOUN_CHUNK,NOUN_CHUNK
+156,Connectivity infrastructure              Backbone,include,5 G,NOUN_CHUNK,NOUN_CHUNK
+157,plausible scenario,see,major tech player,NOUN_CHUNK,NOUN_CHUNK
+158,multiple tech players,own,functional platforms,NOUN_CHUNK,NOUN_CHUNK
+159,traditional automotive parts manufacturers,regard,mobility,NOUN_CHUNK,NOUN_CHUNK
+160,Automakers,consider,similar approach,NOUN_CHUNK,NOUN_CHUNK
+161,systems,platforms,deep capabilities,NOUN_CHUNK,NOUN_CHUNK
+162,monetizing car data,require,real digital ecosystems,NOUN_CHUNK,NOUN_CHUNK
+163,consumers,decline,personal data tracking,NOUN_CHUNK,NOUN_CHUNK
+164,digitized healthcare system,also.have,significant indirect effects,NOUN_CHUNK,NOUN_CHUNK
+165,resulting data,transmitted.on,advanced mobile connection,NOUN_CHUNK,NOUN_CHUNK
+166,Remote monitoring,help,patients,NOUN_CHUNK,NOUN_CHUNK
+167,analysis,includes,85 use cases,NOUN_CHUNK,NOUN_CHUNK
+168,Patients,wear,sensors,NOUN_CHUNK,NOUN_CHUNK
+169,Frontier.connectivity,give,remote patient monitoring systems,NOUN_CHUNK,NOUN_CHUNK
+170,tools,AI-enabled decision support solutions,latest information,NOUN_CHUNK,NOUN_CHUNK
+171,enhanced connectivity,foster,wider use,NOUN_CHUNK,NOUN_CHUNK
+172,Telemedicine,provide,access,NOUN_CHUNK,NOUN_CHUNK
+173,Advanced technologies,improve,patient outcomes,NOUN_CHUNK,NOUN_CHUNK
+174,researchers,concept,vast genomic datasets,NOUN_CHUNK,NOUN_CHUNK
+175,system,monitoring,patients,NOUN_CHUNK,NOUN_CHUNK
+176,Israel largest healthcare organization,using,IoT based smart cabinets,NOUN_CHUNK,NOUN_CHUNK
+177,14 hospitals,accelerate,digital transformation,NOUN_CHUNK,NOUN_CHUNK
+178,Technology connectivity providers,play,bigger role,NOUN_CHUNK,NOUN_CHUNK
+179,Automakers,use,private 5 G networks,NOUN_CHUNK,NOUN_CHUNK
+180,mid - sized companies,follow,suit,NOUN_CHUNK,NOUN_CHUNK
+181,Frontier connectivity,paves,way,NOUN_CHUNK,NOUN_CHUNK
+182,Pickit,created,robots,NOUN_CHUNK,NOUN_CHUNK
+183,Companies,capture,significant value,NOUN_CHUNK,NOUN_CHUNK
+184,companies,retrofit,old equipment,NOUN_CHUNK,NOUN_CHUNK
+185,companies,important,equipment,NOUN_CHUNK,NOUN_CHUNK
+186,R&D,generate,some $45 billion to $75 billion,NOUN_CHUNK,MONEY
+187,AI,improve,visual inspections,NOUN_CHUNK,NOUN_CHUNK
+188,Early movers,started,5 G partnerships,NOUN_CHUNK,NOUN_CHUNK
+189,Telefónica,with,private 5 G network,ORG,NOUN_CHUNK
+190,good starting point,leveraging,experience,NOUN_CHUNK,NOUN_CHUNK
+191,Audi,release,5 G,ORG,NOUN_CHUNK
+192,Volkswagen,release,Industrial Cloud,ORG,ORG
+193,Industry 4.0 applications,expected,traction,NOUN_CHUNK,NOUN_CHUNK
+194,digital,drives,choices,NOUN_CHUNK,NOUN_CHUNK
+195,roughly half,used,omnichannel services,CARDINAL,NOUN_CHUNK
+196,Customers,take,Customers,NOUN_CHUNK,NOUN_CHUNK
+197,one-third,flip,social media accounts,CARDINAL,NOUN_CHUNK
+198,types,include,multiple types,NOUN_CHUNK,NOUN_CHUNK
+199,trends,pass,tipping point,NOUN_CHUNK,NOUN_CHUNK
+200,cases,span,entire retail value chain,NOUN_CHUNK,NOUN_CHUNK
+201,shift,pushing,retailers,NOUN_CHUNK,NOUN_CHUNK
+202,visibility,unlock,great deal,NOUN_CHUNK,NOUN_CHUNK
+203,management tools,generate,about $5 billion to $10 billion,NOUN_CHUNK,MONEY
+204,computer vision,requires,significant computing power,NOUN_CHUNK,NOUN_CHUNK
+205,E - commerce,raised,bar,NOUN_CHUNK,NOUN_CHUNK
+206,One,eliminating,checkout,CARDINAL,NOUN_CHUNK
+207,payment beacons,enable,shoppers,NOUN_CHUNK,NOUN_CHUNK
+208,Checkout optimization,generate,up to $125 billion to $200 billion,NOUN_CHUNK,MONEY
+209,Advanced connectivity,support,a new level of.personalization,NOUN_CHUNK,PRODUCT
+210,Personalization,boost,total sales,NOUN_CHUNK,NOUN_CHUNK
+211,fewer than 10 percent,Yet a recent McKinsey survey.found,strategies,PERCENT,NOUN_CHUNK
+212,Implications,experienced,significant disruption,NOUN_CHUNK,NOUN_CHUNK
+213,connectivity technology service providers,develop,systems,NOUN_CHUNK,NOUN_CHUNK
+214,Subscale players,have,limited access,NOUN_CHUNK,NOUN_CHUNK
+215,Standard Cognition,set,checkout free payment systems,NOUN_CHUNK,NOUN_CHUNK
+216,Activities,managed,Activities,NOUN_CHUNK,NOUN_CHUNK
+217,High                                                 Retailers,scale,Low,NOUN_CHUNK,NOUN_CHUNK
+218,Only 40 percent,posted,rising gross margins,PERCENT,NOUN_CHUNK
+219,customers,embrace,convenience,NOUN_CHUNK,NOUN_CHUNK
+220,analysis,suggests,barriers,NOUN_CHUNK,NOUN_CHUNK
+221,Value chain coordination,Use,case fragmentation,NOUN_CHUNK,NOUN_CHUNK
+222,remote monitoring,has,clear benefits,NOUN_CHUNK,NOUN_CHUNK
+223,vehicle to-.infrastructure,involve,public infrastructure.providers,NOUN_CHUNK,NOUN_CHUNK
+224,hundreds,represent,relatively small fraction,CARDINAL,NOUN_CHUNK
+225,and.stakeholders,see,value potential,NOUN_CHUNK,NOUN_CHUNK
+226,Misaligned incentives,slow,adoption,NOUN_CHUNK,NOUN_CHUNK
+227,healthcare innovations,improve,patient,NOUN_CHUNK,NOUN_CHUNK
+228,potential solution,directing,public funding,NOUN_CHUNK,NOUN_CHUNK
+229,5 G Plus strategy,includes,$27 billion,NOUN_CHUNK,MONEY
+230,direct support initiatives,include,subsidizing,NOUN_CHUNK,NOUN_CHUNK
+231,Policy makers,play,key role,NOUN_CHUNK,NOUN_CHUNK
+232,firms,postponed,asset upgrades,NOUN_CHUNK,NOUN_CHUNK
+233,Governments,establish,clear thoughtful legal frameworks,NOUN_CHUNK,NOUN_CHUNK
+234,market,determine,country timeline,NOUN_CHUNK,NOUN_CHUNK
+235,price competition,lower average revenue,margins peers,NOUN_CHUNK,NOUN_CHUNK
+236,deployment,limit,accessibility,NOUN_CHUNK,NOUN_CHUNK
+237,China,poured,huge amounts,GPE,NOUN_CHUNK
+238,number,hit,800 million,NOUN_CHUNK,CARDINAL
+239,low subscription prices,challenging,commercial viability,NOUN_CHUNK,NOUN_CHUNK
+240,mid-band 5G,upgrade,infrastructure,ORG,NOUN_CHUNK
+241,capacity,determine,viability,ORG,NOUN_CHUNK
+242,providers,work,some 80 percent,NOUN_CHUNK,PERCENT
+243,BharatNet,links,1.29 lakh panchayats,ORG,NOUN_CHUNK
+244,true high band 5 G network,requires,more.tailored infrastructure,NOUN_CHUNK,NOUN_CHUNK
+245,frontier networks,reach,between 5 to.15 percent,NOUN_CHUNK,PERCENT
+246,affordability,limit,affordability adoption,NOUN_CHUNK,NOUN_CHUNK
+247,China,deploying,new networks,GPE,NOUN_CHUNK
+248,2 billion people,include,affordability,NOUN_CHUNK,NOUN_CHUNK
+249,demographic economic shifts,appear,likely draw.a billion people,NOUN_CHUNK,NOUN_CHUNK
+250,population growth,add,400 million new mobile internet,NOUN_CHUNK,NOUN_CHUNK
+251,urbanization,likely.bring,150 million currently unconnected rural inhabitants,NOUN_CHUNK,NOUN_CHUNK
+252,people,lack,network coverage,NOUN_CHUNK,NOUN_CHUNK
+253,Incremental difference.could,boost,global GDP,ORG,NOUN_CHUNK
+254,Connectivity providers,face,tough road,NOUN_CHUNK,NOUN_CHUNK
+255,rollout,demands,major investment,NOUN_CHUNK,NOUN_CHUNK
+256,World Bank literature review,finds,economic,NOUN_CHUNK,NOUN_CHUNK
+257,economic growth,see,World development report,NOUN_CHUNK,NOUN_CHUNK
+258,Providers,posted,stable revenues,NOUN_CHUNK,NOUN_CHUNK
+259,providers,face,unique challenges,NOUN_CHUNK,NOUN_CHUNK
+260,Providers,expand,Providers,NOUN_CHUNK,NOUN_CHUNK
+261,figures,contain,world,NOUN_CHUNK,NOUN_CHUNK
+262,growth requirements,cover,expected increases,NOUN_CHUNK,NOUN_CHUNK
+263,Followers,Trailing,China                  India,NOUN_CHUNK,GPE
+264,number,merit,exploration,NOUN_CHUNK,NOUN_CHUNK
+265,connectivity providers,solve,monetization puzzle,NOUN_CHUNK,NOUN_CHUNK
+266,providers,claim,bigger partnership role,NOUN_CHUNK,NOUN_CHUNK
+267,Enhanced connectivity,open,opportunities,NOUN_CHUNK,NOUN_CHUNK
+268,changes,have,meaningful,NOUN_CHUNK,NOUN_CHUNK
+269,questions,provoke,interesting discussions,NOUN_CHUNK,NOUN_CHUNK
+270,consumer applications,change,pattern,NOUN_CHUNK,NOUN_CHUNK
+271,research,identified,archetypes,NOUN_CHUNK,NOUN_CHUNK
+272,governments.have,played,hands role,NOUN_CHUNK,NOUN_CHUNK
+273,Index,extrapolate,development,NOUN_CHUNK,NOUN_CHUNK
+274,McKinsey Global Institute,calculate,GDP impact,ORG,NOUN_CHUNK
+275,distribution,results.from,classification,NOUN_CHUNK,NOUN_CHUNK
+276,visibility,realized,accurate forecasts,NOUN_CHUNK,NOUN_CHUNK
+277,A1.We,analyzed,key drivers,NOUN_CHUNK,NOUN_CHUNK
+278,China model,evaluates,countries,NOUN_CHUNK,NOUN_CHUNK
+279,Trailing selected countries,projected,connectivity development,NOUN_CHUNK,NOUN_CHUNK
+280,Pioneers,represent,million people,NOUN_CHUNK,NOUN_CHUNK
+281,cost,excludes,potential investments,NOUN_CHUNK,NOUN_CHUNK
+282,ratio,exceeds,15 to 20 percent,NOUN_CHUNK,PERCENT
+283,McKinsey Global Institute,use,operators,ORG,NOUN_CHUNK
+284,project team,included,Philip Arejola,NOUN_CHUNK,PERSON
+285,Jan Mischke,provided,leadership,PERSON,NOUN_CHUNK
+286,Internet,Mapping,value,NOUN_CHUNK,NOUN_CHUNK
+0,Institute,ranked,the McKinsey Global Institute,NOUN_CHUNK,ORG
+1,Current research,focuses.on,themes,NOUN_CHUNK,NOUN_CHUNK
+2,technology,was,jobs,NOUN_CHUNK,NOUN_CHUNK
+3,Saurabh Sanghvi,headed,research team,PERSON,NOUN_CHUNK
+4,research team,comprised,Julian Albert,NOUN_CHUNK,PERSON
+5,Jobs,gained,Scenarios,NOUN_CHUNK,NOUN_CHUNK
+6,displaced workers,find,new work,NOUN_CHUNK,NOUN_CHUNK
+7,wages,face,downward pressure,NOUN_CHUNK,NOUN_CHUNK
+8,Automation,bring,big shifts,NOUN_CHUNK,NOUN_CHUNK
+9,scenarios,highlight,challenges,NOUN_CHUNK,NOUN_CHUNK
+10,job,find,new employment,NOUN_CHUNK,NOUN_CHUNK
+11,jobs,sparked,public concern,NOUN_CHUNK,NOUN_CHUNK
+12,January 2017 report,existed,automation,NOUN_CHUNK,NOUN_CHUNK
+13,History,shows,numerous examples,NOUN_CHUNK,NOUN_CHUNK
+14,analysis,covers,employees,NOUN_CHUNK,NOUN_CHUNK
+15,Automation,DISPLACE,SIGNIFICANT SHARE,NOUN_CHUNK,NOUN_CHUNK
+16,record,highlights,lessons,NOUN_CHUNK,NOUN_CHUNK
+17,technology,reduced,the average hours worked.,NOUN_CHUNK,TIME
+18,growth,created,demand,NOUN_CHUNK,NOUN_CHUNK
+19,technologies,spurred,creation,NOUN_CHUNK,NOUN_CHUNK
+20,computer,enabled,creation,NOUN_CHUNK,NOUN_CHUNK
+21,productivity growth,threaten,employment,NOUN_CHUNK,NOUN_CHUNK
+22,technological advances,be,workforce,NOUN_CHUNK,NOUN_CHUNK
+23,1996).Technology,Agriculture,jobs,CARDINAL,NOUN_CHUNK
+24,total jobs,Example,thousand,NOUN_CHUNK,CARDINAL
+25,"3,508 jobs",destroyed,United States,NOUN_CHUNK,NOUN_CHUNK
+26,workers,decline,new tasks,NOUN_CHUNK,NOUN_CHUNK
+27,CATALYSTS,CREATE,MILLIONS,NOUN_CHUNK,CARDINAL
+28,McKinsey Global Institute,shift,services,ORG,NOUN_CHUNK
+29,Rising incomes,create,demand,NOUN_CHUNK,NOUN_CHUNK
+30,factors,create,new demand,NOUN_CHUNK,NOUN_CHUNK
+31,Investments,create,new demand,NOUN_CHUNK,NOUN_CHUNK
+32,investments,create,million new jobs,NOUN_CHUNK,NOUN_CHUNK
+33,labor force participation,accelerate,trend,NOUN_CHUNK,NOUN_CHUNK
+34,childcare,fuel,development,NOUN_CHUNK,NOUN_CHUNK
+35,technology,reshaping,resources,NOUN_CHUNK,NOUN_CHUNK
+36,advancing women equality,add,$12 trillion,NOUN_CHUNK,MONEY
+37,young people,earlier transitions,farms,NOUN_CHUNK,NOUN_CHUNK
+38,societies,are,large numbers,NOUN_CHUNK,NOUN_CHUNK
+39,occupational categories,States,many Japan China Mexico India,NOUN_CHUNK,GPE
+40,jobs,moving,machine operators,NOUN_CHUNK,NOUN_CHUNK
+41,workers,have,skills,NOUN_CHUNK,NOUN_CHUNK
+42,Demographics,affect,labor demand,NOUN_CHUNK,NOUN_CHUNK
+43,workforce,expect,lower future GDP growth,NOUN_CHUNK,NOUN_CHUNK
+44,countries,need,automation,NOUN_CHUNK,NOUN_CHUNK
+45,Japan,faces,combination,GPE,NOUN_CHUNK
+46,the United States,face,significant workforce,GPE,NOUN_CHUNK
+47,the United States,displacement,future growth,GPE,NOUN_CHUNK
+48,the United States,has,growing workforce,GPE,NOUN_CHUNK
+49,Mexico,projected,rate,GPE,NOUN_CHUNK
+50,Automation,has,distinct economic impacts,NOUN_CHUNK,NOUN_CHUNK
+51,automation,raise,labor productivity,NOUN_CHUNK,NOUN_CHUNK
+52,displaced workers,find,new employment,NOUN_CHUNK,NOUN_CHUNK
+53,WORKERS,REQUIRE,DIFFERENT SKILLS,NOUN_CHUNK,NOUN_CHUNK
+54,machines,and processing data,human performance,NOUN_CHUNK,NOUN_CHUNK
+55,firms,produce,value,NOUN_CHUNK,NOUN_CHUNK
+56,Net growth,involve,application,NOUN_CHUNK,NOUN_CHUNK
+57,countries,see,growing middle class,NOUN_CHUNK,NOUN_CHUNK
+58,advanced economies,seen,overall declining share,NOUN_CHUNK,NOUN_CHUNK
+59,wide range,increase,largest,NOUN_CHUNK,NOUN_CHUNK
+60,scenarios,show,middle wage jobs,NOUN_CHUNK,NOUN_CHUNK
+61,Policy makers,have,constructive,NOUN_CHUNK,NOUN_CHUNK
+62,Governments,play,important role,NOUN_CHUNK,NOUN_CHUNK
+63,Governments,update,labor market regulations,NOUN_CHUNK,NOUN_CHUNK
+64,Automation,represents,hope,NOUN_CHUNK,NOUN_CHUNK
+65,number,has,introduction,NOUN_CHUNK,NOUN_CHUNK
+66,James Bessen,Learning,real connection,PERSON,NOUN_CHUNK
+67,machines,live,customer inquiries,NOUN_CHUNK,NOUN_CHUNK
+68,software algorithms,help,logistics companies,NOUN_CHUNK,NOUN_CHUNK
+69,While.to,diagnose,pneumonia,NOUN_CHUNK,NOUN_CHUNK
+70,human experience emotion struggle,using,advanced facial analysis,NOUN_CHUNK,NOUN_CHUNK
+71,human experience,replicate.monitor,emotional responses,NOUN_CHUNK,NOUN_CHUNK
+72,factors,driving,technological advances,NOUN_CHUNK,NOUN_CHUNK
+73,"Taylor Kubota,“Stanford algorithm",Stanford News,pneumonia,NOUN_CHUNK,NOUN_CHUNK
+74,AUTOMATION,RAISE,PRODUCTIVITY,NOUN_CHUNK,NOUN_CHUNK
+75,AUTOMATION,accelerate,PRODUCTIVITY,NOUN_CHUNK,NOUN_CHUNK
+76,deployment,deliver,benefits,NOUN_CHUNK,NOUN_CHUNK
+77,Automation,increase,scale,NOUN_CHUNK,NOUN_CHUNK
+78,maintenance.26 Exhibit,compares,estimated potential performance,NOUN_CHUNK,NOUN_CHUNK
+79,automation analysis,found,significant variation,NOUN_CHUNK,NOUN_CHUNK
+80,time,involves,predictable physical activity,NOUN_CHUNK,NOUN_CHUNK
+81,productivity,save,the day,NOUN_CHUNK,DATE
+82,environments,have,technical automation potential,NOUN_CHUNK,NOUN_CHUNK
+83,benefits,raised,productivity,NOUN_CHUNK,NOUN_CHUNK
+84,DYNAMICS,Include,higher           ACCEPTANCE,NOUN_CHUNK,NOUN_CHUNK
+85,20                                                                                       factors,affect,51%,NOUN_CHUNK,PERCENT
+86,AUTOMATION,REPLACE,9 TO 26 PERCENT,NOUN_CHUNK,PERCENT
+87,occupations,affects,modeled rate,NOUN_CHUNK,NOUN_CHUNK
+88,manufacturing,has,high automation potential,NOUN_CHUNK,NOUN_CHUNK
+89,emerging economies,leverage,automation technologies,NOUN_CHUNK,NOUN_CHUNK
+90,China,has,fewer robots,GPE,NOUN_CHUNK
+91,global average,received,nearly one-third,NOUN_CHUNK,CARDINAL
+92,AUTOMATION,displace,workers,NOUN_CHUNK,NOUN_CHUNK
+93,technologies,give,needed boost,ORG,NOUN_CHUNK
+94,later adoption scenarios,have,dramatic outcomes,NOUN_CHUNK,NOUN_CHUNK
+95,Economic social factors,affect,adoption,NOUN_CHUNK,NOUN_CHUNK
+96,arrival,sparked,workers,NOUN_CHUNK,NOUN_CHUNK
+97,Britain,smashed,automated looms,GPE,NOUN_CHUNK
+98,French textile workers,staged,uprising,NOUN_CHUNK,NOUN_CHUNK
+99,Karl Marx,foresaw,era,PERSON,NOUN_CHUNK
+100,John Maynard Keynes,coined,term,PERSON,NOUN_CHUNK
+101,Mechanization,enabled,revolution,NOUN_CHUNK,NOUN_CHUNK
+102,Benjamin N. Dennis,in,two,PERSON,CARDINAL
+103,TECHNOLOGICAL CHANGE,SPARKS,RISING PRODUCTIVITY,NOUN_CHUNK,NOUN_CHUNK
+104,shift,reduce,overall employment,NOUN_CHUNK,NOUN_CHUNK
+105,Ford Model T,provides,historical example,NOUN_CHUNK,NOUN_CHUNK
+106,Assembly line,improved,Number,NOUN_CHUNK,NOUN_CHUNK
+107,reduction,enabled,banks,NOUN_CHUNK,NOUN_CHUNK
+108,personal computer,enabled,creation,NOUN_CHUNK,NOUN_CHUNK
+109,this century,seen,rapid rise,DATE,NOUN_CHUNK
+110,growth,generated,significant employment,NOUN_CHUNK,NOUN_CHUNK
+111,graphic designers,took,jobs,NOUN_CHUNK,NOUN_CHUNK
+112,introduction,created,6.9 million net new jobs,NOUN_CHUNK,NOUN_CHUNK
+113,Enabled industries,include,auto dealerships,NOUN_CHUNK,NOUN_CHUNK
+114,Utilizer industries,include,transportation,NOUN_CHUNK,NOUN_CHUNK
+115,turn,gave,rise,NOUN_CHUNK,NOUN_CHUNK
+116,people,had,significant effect,NOUN_CHUNK,NOUN_CHUNK
+117,John Maynard Keynes,predicted,advent,PERSON,NOUN_CHUNK
+118,computer automation,James Bessen,occupations,NOUN_CHUNK,NOUN_CHUNK
+119,average worker,put,57 hours,NOUN_CHUNK,TIME
+120,Exhibit 11.The automobile,created,millions,NOUN_CHUNK,CARDINAL
+121,Jobs,destroyed,"2,508",NOUN_CHUNK,NOUN_CHUNK
+122,Average hours,worked,70.weekly,TIME,DATE
+123,Differences,reflect,different labor policies,NOUN_CHUNK,NOUN_CHUNK
+124,                                  second wave,the,place,NOUN_CHUNK,NOUN_CHUNK
+125,decline,reflects,steady rise,NOUN_CHUNK,NOUN_CHUNK
+126,mechanization,raised,output,NOUN_CHUNK,NOUN_CHUNK
+127,plight,provided,material,NOUN_CHUNK,NOUN_CHUNK
+128,Robert Allen,see,Gregory,PERSON,PERSON
+129,condition,Clark,113,NOUN_CHUNK,CARDINAL
+130,Economic historians,documented,consequences,NOUN_CHUNK,NOUN_CHUNK
+131,academic research,shows,local labor markets,NOUN_CHUNK,NOUN_CHUNK
+132,hypothesis,revisited,",” Cliometrica",NOUN_CHUNK,PERSON
+133,technological innovations,occurring,impact,NOUN_CHUNK,NOUN_CHUNK
+134,markets,reached,point,NOUN_CHUNK,NOUN_CHUNK
+135,smartphone games,reach,certain threshold,NOUN_CHUNK,NOUN_CHUNK
+136,technologies,reviewed,date,NOUN_CHUNK,NOUN_CHUNK
+137,fastest adoption rates,include,stents,NOUN_CHUNK,NOUN_CHUNK
+138,slower adoption categories,include,dishwashers,NOUN_CHUNK,NOUN_CHUNK
+139,pervasiveness,affect,multiple sectors,NOUN_CHUNK,NOUN_CHUNK
+140,Electrification,transformed,household lighting,NOUN_CHUNK,NOUN_CHUNK
+141,computers,transformed,business services,NOUN_CHUNK,NOUN_CHUNK
+142,past technological innovations,transformed,work,NOUN_CHUNK,NOUN_CHUNK
+143,automation,affect,larger share,NOUN_CHUNK,NOUN_CHUNK
+144,wave,affects,complex tasks,NOUN_CHUNK,NOUN_CHUNK
+145,automation nature,sparked,discussion,NOUN_CHUNK,NOUN_CHUNK
+146,machines,overcome,human performance,NOUN_CHUNK,NOUN_CHUNK
+147,Today automation,complement,high- low skill workers,NOUN_CHUNK,NOUN_CHUNK
+148,Technological innovation,affected,workers,NOUN_CHUNK,NOUN_CHUNK
+149,economists,view,effects,NOUN_CHUNK,NOUN_CHUNK
+150,machines,is,activities,NOUN_CHUNK,NOUN_CHUNK
+151,lower skill workers,produce,cloth,NOUN_CHUNK,NOUN_CHUNK
+152,robotics,more,robotics,NOUN_CHUNK,NOUN_CHUNK
+153,JOBS,GAINED,SCENARIOS,NOUN_CHUNK,NOUN_CHUNK
+154,technologies,assume,greater role,NOUN_CHUNK,NOUN_CHUNK
+155,Automation,has,potential,NOUN_CHUNK,NOUN_CHUNK
+156,analyses,reach,broadly similar conclusions,NOUN_CHUNK,NOUN_CHUNK
+157,spending,create,direct employment,NOUN_CHUNK,NOUN_CHUNK
+158,catalysts,take,decline,NOUN_CHUNK,NOUN_CHUNK
+159,spending,two scenarios,observed,NOUN_CHUNK,NOUN_CHUNK
+160,estimates,exclude,growth,NOUN_CHUNK,NOUN_CHUNK
+161,Jobs,gained,Scenarios,NOUN_CHUNK,NOUN_CHUNK
+162,Rising incomes,create,large scale new labor,NOUN_CHUNK,NOUN_CHUNK
+163,Rising GDP,generates,higher spending,NOUN_CHUNK,NOUN_CHUNK
+164,consumption,generate,about three-quarters,NOUN_CHUNK,CARDINAL
+165,growth,mitigate,automation expected toll,NOUN_CHUNK,NOUN_CHUNK
+166,Jobs,gained,Scenarios,NOUN_CHUNK,NOUN_CHUNK
+167,economic development,raises,expenditures,NOUN_CHUNK,NOUN_CHUNK
+168,improvements,create,demand,NOUN_CHUNK,NOUN_CHUNK
+169,global trend,create,new additional labor,NOUN_CHUNK,NOUN_CHUNK
+170,related health care needs,drive,creation,NOUN_CHUNK,NOUN_CHUNK
+171,information,see,technical appendix,NOUN_CHUNK,NOUN_CHUNK
+172,estimates,include,primary health care occupations,NOUN_CHUNK,NOUN_CHUNK
+173,Investment,create,new labor demand,NOUN_CHUNK,NOUN_CHUNK
+174,services,includes,work,NOUN_CHUNK,NOUN_CHUNK
+175,Jobs,gained,Scenarios,NOUN_CHUNK,NOUN_CHUNK
+176,additional efforts,stimulate,increased labor,NOUN_CHUNK,NOUN_CHUNK
+177,increased spending,create,demand,NOUN_CHUNK,NOUN_CHUNK
+178,efficiency,contribute,seven million new jobs,NOUN_CHUNK,NOUN_CHUNK
+179,Shifts,create,jobs,NOUN_CHUNK,NOUN_CHUNK
+180,manufacturing,enjoying,remarkable period,NOUN_CHUNK,NOUN_CHUNK
+181,energy,opportunity,transformative impact,NOUN_CHUNK,NOUN_CHUNK
+182,Jobs,gained,Scenarios,NOUN_CHUNK,NOUN_CHUNK
+183,productivity gains,reduce,net number,NOUN_CHUNK,NOUN_CHUNK
+184,list,includes,indirect additions,NOUN_CHUNK,NOUN_CHUNK
+185,health care industry,feel,boost,NOUN_CHUNK,NOUN_CHUNK
+186,Jobs,gained,Scenarios,NOUN_CHUNK,NOUN_CHUNK
+187,Advanced economies,have,similar pattern,NOUN_CHUNK,NOUN_CHUNK
+188,expertise,include,accountants,NOUN_CHUNK,NOUN_CHUNK
+189,paralegals,face,high automation,NOUN_CHUNK,NOUN_CHUNK
+190,Occupations,include,workers,NOUN_CHUNK,NOUN_CHUNK
+191, Managers,cut,sectors,NOUN_CHUNK,NOUN_CHUNK
+192,School teachers,see,significant increase,NOUN_CHUNK,NOUN_CHUNK
+193,Rising incomes,create,demand,NOUN_CHUNK,NOUN_CHUNK
+194,Occupational categories,States,many Japan China Mexico India,NOUN_CHUNK,GPE
+195,Jobs,gained,Scenarios,NOUN_CHUNK,NOUN_CHUNK
+196,Occupational categories,States,many Japan China Mexico India,NOUN_CHUNK,GPE
+197,Material,moving,machine operators,NOUN_CHUNK,NOUN_CHUNK
+198,Developing countries,see,net job growth,NOUN_CHUNK,NOUN_CHUNK
+199,Middle income countries,have,net job growth,NOUN_CHUNK,NOUN_CHUNK
+200,Jobs,gained,Scenarios,NOUN_CHUNK,NOUN_CHUNK
+201,workers,have,skills,NOUN_CHUNK,NOUN_CHUNK
+202,Advanced economies,adopt,automation,NOUN_CHUNK,NOUN_CHUNK
+203,cost,adopted,parity,NOUN_CHUNK,NOUN_CHUNK
+204,economies,see,largest impact,NOUN_CHUNK,NOUN_CHUNK
+205,Countries,have,higher growth,NOUN_CHUNK,NOUN_CHUNK
+206,rates,stimulating,greater proportional increases,NOUN_CHUNK,NOUN_CHUNK
+207,Slower growing economies,create,jobs,NOUN_CHUNK,NOUN_CHUNK
+208,Countries,have,potential demographic dividend,NOUN_CHUNK,NOUN_CHUNK
+209,aging,reducing,working age population,NOUN_CHUNK,NOUN_CHUNK
+210,Japan,has,higher automation potential,GPE,NOUN_CHUNK
+211,Arab Emirates,share,similarities,GPE,NOUN_CHUNK
+212,exercise,paints,incomplete picture,NOUN_CHUNK,NOUN_CHUNK
+213,seven trends,model,major sources,NOUN_CHUNK,NOUN_CHUNK
+214,Japan,faces,combination,GPE,NOUN_CHUNK
+215,Jobs,gained,Scenarios,NOUN_CHUNK,NOUN_CHUNK
+216,jobs,gained,Automation,NOUN_CHUNK,NOUN_CHUNK
+217,the United States,face,significant workforce displacement,GPE,NOUN_CHUNK
+218,the United States,projected,future growth,GPE,NOUN_CHUNK
+219,the United States,has,growing workforce,GPE,NOUN_CHUNK
+220,macroeconomic modeling,highlights,critical importance,NOUN_CHUNK,NOUN_CHUNK
+221,Jobs,gained,Scenarios,NOUN_CHUNK,NOUN_CHUNK
+222,firms,fewer workers,new technology,NOUN_CHUNK,NOUN_CHUNK
+223,66 percent,found,new job,PERCENT,NOUN_CHUNK
+224,Automation,have,wage impact,NOUN_CHUNK,NOUN_CHUNK
+225,Automation,displace,jobs,NOUN_CHUNK,NOUN_CHUNK
+226,Jobs,gained,Scenarios,NOUN_CHUNK,NOUN_CHUNK
+227,Jobs,gained,Scenarios,NOUN_CHUNK,NOUN_CHUNK
+228,Nearly jobs,involve,shifting mix,NOUN_CHUNK,NOUN_CHUNK
+229,the United States,model,wages,GPE,NOUN_CHUNK
+230,workers,spend,time,NOUN_CHUNK,NOUN_CHUNK
+231,machines,processing data,human performance,NOUN_CHUNK,NOUN_CHUNK
+232,shifting set,has,implications,NOUN_CHUNK,NOUN_CHUNK
+233,work activities,require,social emotional skills,NOUN_CHUNK,NOUN_CHUNK
+234,20.Future work activities,require,social emotional creative logical reasoning abilities—.and advanced capabilities,NOUN_CHUNK,NOUN_CHUNK
+235,Additional jobs,require,higher level,NOUN_CHUNK,NOUN_CHUNK
+236,shift,touch,jobs,NOUN_CHUNK,NOUN_CHUNK
+237,changing nature,has,important implications,NOUN_CHUNK,NOUN_CHUNK
+238,workers,spend,time,NOUN_CHUNK,NOUN_CHUNK
+239,GROWING JOB CATEGORIES,HAVE,HIGHER EDUCATIONAL REQUIREMENTS,NOUN_CHUNK,NOUN_CHUNK
+240,Economists,note,general trend,NOUN_CHUNK,NOUN_CHUNK
+241,job openings,list,bachelor degree,NOUN_CHUNK,NOUN_CHUNK
+242,experimental study,Do,employers,NOUN_CHUNK,NOUN_CHUNK
+243,Germany,see,decreased demand,GPE,NOUN_CHUNK
+244,education,face,significant displacement,NOUN_CHUNK,NOUN_CHUNK
+245,jobs,include,heavy truck drivers,NOUN_CHUNK,NOUN_CHUNK
+246,net,the United,demand,NOUN_CHUNK,NOUN_CHUNK
+247,systems administrators,see,cooling,NOUN_CHUNK,NOUN_CHUNK
+248,current activities,have,relatively high technical automation,NOUN_CHUNK,NOUN_CHUNK
+249,analysts,see,high demand,NOUN_CHUNK,NOUN_CHUNK
+250,MIT economist David Autor,credited,trend,PERSON,NOUN_CHUNK
+251,the United,needs,talent,ORG,NOUN_CHUNK
+252,India,see,largest new demand net,GPE,NOUN_CHUNK
+253,automation,create,surge,NOUN_CHUNK,NOUN_CHUNK
+254,only 40 percent,attended,secondary school,PERCENT,NOUN_CHUNK
+255,OCCUPATIONAL CATEGORIES,REQUIRE,TRAINING,NOUN_CHUNK,NOUN_CHUNK
+256,step scenarios,reduce,estimates,NOUN_CHUNK,NOUN_CHUNK
+257,transitions,surface,frictions,NOUN_CHUNK,NOUN_CHUNK
+258,wages,present,new opportunities,NOUN_CHUNK,NOUN_CHUNK
+259,Middle wage jobs,felt,impact,NOUN_CHUNK,NOUN_CHUNK
+260,high wage occupations,see,growth net,NOUN_CHUNK,NOUN_CHUNK
+261,Superstar effects,had,flat falling market income,NOUN_CHUNK,NOUN_CHUNK
+262,Digitization,affected,occupational,NOUN_CHUNK,NOUN_CHUNK
+263,distribution.intensive sectors,capturing,larger share,NOUN_CHUNK,NOUN_CHUNK
+264,high wage jobs,show,positive percentage change,NOUN_CHUNK,NOUN_CHUNK
+265,deciles,experience,significant new demand,NOUN_CHUNK,NOUN_CHUNK
+266,professionalization,create,growth,NOUN_CHUNK,NOUN_CHUNK
+267,real estate spending,create,additional demand,NOUN_CHUNK,NOUN_CHUNK
+268,professionalization,add,jobs,NOUN_CHUNK,NOUN_CHUNK
+269,farmworkers,find,farmworkers,NOUN_CHUNK,NOUN_CHUNK
+270,India,type,high demand,GPE,NOUN_CHUNK
+271,specialists,have,automation potential,NOUN_CHUNK,NOUN_CHUNK
+272,Work,change,skill requirements,NOUN_CHUNK,NOUN_CHUNK
+273,automation,pool,new job creation,NOUN_CHUNK,NOUN_CHUNK
+274,GERMANY.Germany,has,aging population,NOUN_CHUNK,NOUN_CHUNK
+275,Health care needs,drive,job creation,NOUN_CHUNK,NOUN_CHUNK
+276,India,RHS.Sector,share,GPE,NOUN_CHUNK
+277,2030.innovation,creates,sufficient new                            Professionals.work activities,CARDINAL,NOUN_CHUNK
+278,MEXICO.Mexico,has,young population,NOUN_CHUNK,NOUN_CHUNK
+279,Mexico,RHS.Sector,share,GPE,NOUN_CHUNK
+280,policy choices,improve,employment outcomes,NOUN_CHUNK,NOUN_CHUNK
+281,experience,underscored,lingering negative.employment effects,NOUN_CHUNK,NOUN_CHUNK
+282,sources,have,equal impact,NOUN_CHUNK,NOUN_CHUNK
+283,countries,supports,long term economic growth,NOUN_CHUNK,NOUN_CHUNK
+284,energy efficiency,have,global economic,NOUN_CHUNK,NOUN_CHUNK
+285,initiatives,create,middle skill jobs,NOUN_CHUNK,NOUN_CHUNK
+286,countries,experienced,significant challenges,NOUN_CHUNK,NOUN_CHUNK
+287,millions,At,new skills,CARDINAL,NOUN_CHUNK
+288,Singapore,implemented,innovative form,GPE,NOUN_CHUNK
+289,Businesses,play,significant role,NOUN_CHUNK,NOUN_CHUNK
+290,Companies,have,significant role,NOUN_CHUNK,NOUN_CHUNK
+291,lines,have,earliest detailed knowledge,NOUN_CHUNK,NOUN_CHUNK
+292,The US High School Movement,raised,educational attainment,ORG,NOUN_CHUNK
+293,The US High School Movement,propelled,progress,ORG,NOUN_CHUNK
+294,students,left,education,NOUN_CHUNK,NOUN_CHUNK
+295,many as 49 percent,enrolled,students,PERCENT,NOUN_CHUNK
+296,the GI Bill,changed,perceptions,ORG,NOUN_CHUNK
+297,study,attributes,28 percent,NOUN_CHUNK,PERCENT
+298,Exhibit 28.The High School Movement,raised,education skill levels,ORG,NOUN_CHUNK
+299,Starbucks,has,entered.gap,ORG,ORG
+300,credentials,gaining,momentum,NOUN_CHUNK,NOUN_CHUNK
+301,Markle Foundation,begun,initiative,ORG,NOUN_CHUNK
+302,intensive approach,merges,training,NOUN_CHUNK,NOUN_CHUNK
+303,new kind,emphasizes,skills,NOUN_CHUNK,NOUN_CHUNK
+304,students,choose,vocational,NOUN_CHUNK,NOUN_CHUNK
+305,dual system,produced,impressive results,NOUN_CHUNK,NOUN_CHUNK
+306,Switzerland,has,robust apprenticeship pipeline,GPE,NOUN_CHUNK
+307,70 percent,choose,vocational training,PERCENT,NOUN_CHUNK
+308,German auto manufacturers,offer,apprenticeships,NOUN_CHUNK,NOUN_CHUNK
+309,South Korea,adopted,apprenticeship model,GPE,NOUN_CHUNK
+310,South Korea,has,one,GPE,CARDINAL
+311,businesses,fill,openings,NOUN_CHUNK,NOUN_CHUNK
+312,digital age,brought,multitude,NOUN_CHUNK,NOUN_CHUNK
+313,Developing countries,experiencing,massive migration,NOUN_CHUNK,NOUN_CHUNK
+314,world 247 million cross - border migrants,contributed,9.4 percent,NOUN_CHUNK,PERCENT
+315,$6.7 trillion,had,world 247 million cross - border migrants,MONEY,NOUN_CHUNK
+316,public attention,tend,remainder,NOUN_CHUNK,NOUN_CHUNK
+317,platforms,enable,prospective employees,NOUN_CHUNK,NOUN_CHUNK
+318,informed decisions,produce,better business results,NOUN_CHUNK,NOUN_CHUNK
+319,information,supply,decisions,NOUN_CHUNK,NOUN_CHUNK
+320,age population,earn,income,NOUN_CHUNK,NOUN_CHUNK
+321,Independent work,offer,solutions,NOUN_CHUNK,NOUN_CHUNK
+322,Taylor Review,included,recommendations,PERSON,NOUN_CHUNK
+323,Studies,shown,poorer.raise,NOUN_CHUNK,NOUN_CHUNK
+324,policy makers,have,a role to.population,NOUN_CHUNK,PRODUCT
+325,jobs,consequences,adequate incomes,NOUN_CHUNK,NOUN_CHUNK
+326,range,speed,transition,NOUN_CHUNK,NOUN_CHUNK
+327,workers,ensure,skills,NOUN_CHUNK,NOUN_CHUNK
+328,cases,have,economic rationale,NOUN_CHUNK,NOUN_CHUNK
+329,industry,limits,number,NOUN_CHUNK,NOUN_CHUNK
+330,forms,need,consideration,NOUN_CHUNK,NOUN_CHUNK
+331,companies,paid,attention,NOUN_CHUNK,NOUN_CHUNK
+332,condition companies,share,gains,NOUN_CHUNK,NOUN_CHUNK
+333,"53,000 workers",are,wage increases,NOUN_CHUNK,NOUN_CHUNK
+334,Walmart,sign,rises,GPE,NOUN_CHUNK
+335,Danielle Paquette,"‘Look, I can quit’: Why Target is giving workers a big raise",The Washington Post,PERSON,ORG
+336,rising minimum wage,Noam Scheiber,jobs,NOUN_CHUNK,NOUN_CHUNK
+337,arguments,question,assumption,NOUN_CHUNK,NOUN_CHUNK
+338,Advocates,say,assurance,NOUN_CHUNK,NOUN_CHUNK
+339,OECD study,found,developed countries,NOUN_CHUNK,NOUN_CHUNK
+340,adults,comparing,4 groups,NOUN_CHUNK,NOUN_CHUNK
+341,average income,received,equivalent,NOUN_CHUNK,NOUN_CHUNK
+342,motorbikes).1 Netherlands,authorized,testing monthly payments,GPE,NOUN_CHUNK
+343,GOVERNMENTS,MAKE,TRANSITIONS,NOUN_CHUNK,NOUN_CHUNK
+344,,Modernize,educational systems,NOUN_CHUNK,NOUN_CHUNK
+345,graduates,entering,university education,NOUN_CHUNK,NOUN_CHUNK
+346,Singapore,shown,individuals,GPE,NOUN_CHUNK
+347,,Expand,transition support measures,NOUN_CHUNK,NOUN_CHUNK
+348,Best practice,requires,cultural shift,NOUN_CHUNK,NOUN_CHUNK
+349,governments,lose,sight,NOUN_CHUNK,NOUN_CHUNK
+350,,Create,income support measures,NOUN_CHUNK,NOUN_CHUNK
+351,governments,assess,impact,NOUN_CHUNK,NOUN_CHUNK
+352,,Modernize,data collection,NOUN_CHUNK,NOUN_CHUNK
+353,BUSINESS LEADERS,EMBRACE,AUTOMATION,NOUN_CHUNK,NOUN_CHUNK
+354,Successful adoption,require,companies,NOUN_CHUNK,NOUN_CHUNK
+355,entire business processes,imagine,advantage,NOUN_CHUNK,NOUN_CHUNK
+356,review,shows,that AI,NOUN_CHUNK,ORG
+357,early AI adopters,have,higher profit margins,NOUN_CHUNK,NOUN_CHUNK
+358,,Rethink,organizational design,NOUN_CHUNK,NOUN_CHUNK
+359,latest automation and AI technologies,have,strong digital capabilities,ORG,NOUN_CHUNK
+360,,Consider,partnerships,NOUN_CHUNK,NOUN_CHUNK
+361,universities,provide,training skill development,NOUN_CHUNK,NOUN_CHUNK
+362,companies,adopt,automation,NOUN_CHUNK,NOUN_CHUNK
+363,Similar collaborations,increase,availability,NOUN_CHUNK,NOUN_CHUNK
+364,,Embrace,mentality,NOUN_CHUNK,NOUN_CHUNK
+365,individuals,demonstrate,skills,NOUN_CHUNK,NOUN_CHUNK
+366,,Consider,new ways,NOUN_CHUNK,NOUN_CHUNK
+367,work,report,higher satisfaction,NOUN_CHUNK,NOUN_CHUNK
+368,Automation,represents,hope,NOUN_CHUNK,NOUN_CHUNK
+369,technologies,lift,productivity,NOUN_CHUNK,NOUN_CHUNK
+370,machines,transitions,workers,NOUN_CHUNK,NOUN_CHUNK
+371,appendix,provides,details,NOUN_CHUNK,NOUN_CHUNK
+372,report,uses,databases,NOUN_CHUNK,NOUN_CHUNK
+373,work,examines,labor demand,NOUN_CHUNK,NOUN_CHUNK
+374,model,offers,static view,NOUN_CHUNK,NOUN_CHUNK
+375,rising incomes driver,represents,increase,NOUN_CHUNK,NOUN_CHUNK
+376,regression analyses,imply,major shift,NOUN_CHUNK,NOUN_CHUNK
+377,productivity growth,job growth,demand growth,NOUN_CHUNK,NOUN_CHUNK
+378,gross enrollment rates,using,2014 data,NOUN_CHUNK,NOUN_CHUNK
+379,sector,estimate,gross new jobs,NOUN_CHUNK,NOUN_CHUNK
+380,energy transitions driver,captures,potential job creation,NOUN_CHUNK,NOUN_CHUNK
+381,remaining displaced workers,enter,unemployment,NOUN_CHUNK,NOUN_CHUNK
+382,The GGM,uses,inputted unemployment displacement,ORG,NOUN_CHUNK
+383,occupations,an occupation level,high levels,NOUN_CHUNK,NOUN_CHUNK
+384,analyses,take,training requirements,NOUN_CHUNK,NOUN_CHUNK
+385,DeepMind,described,reinforcement learning,PERSON,NOUN_CHUNK
+386,AlphaGo system,defeated,world champion,NOUN_CHUNK,NOUN_CHUNK
+387,artificial neural networks,had,three,NOUN_CHUNK,CARDINAL
+388,deep learning networks,have,seven to ten or more,NOUN_CHUNK,CARDINAL
+389,neural network,achieved,84 % correct score,ORG,NOUN_CHUNK
+390,connections,Recurrent           Artificial neural networks,loops,NOUN_CHUNK,NOUN_CHUNK
+391,grippers,pick,soft foods,NOUN_CHUNK,NOUN_CHUNK
+392,workflows,require,data,NOUN_CHUNK,NOUN_CHUNK
+393,bot,transformed,18Fs,NOUN_CHUNK,CARDINAL
+394,Autor,Does,productivity,NOUN_CHUNK,NOUN_CHUNK
+395,growth,threaten,employment,NOUN_CHUNK,NOUN_CHUNK
+396,NBER,working,Autor,ORG,NOUN_CHUNK
+397,Goldin,Managing,talent,PERSON,NOUN_CHUNK
+398,The Review of Economics and Statistics,issue,93,ORG,CARDINAL
+399,McKinsey & Company,Gaining,momentum,ORG,NOUN_CHUNK
+400,advancing women equality,add,$12 trillion,NOUN_CHUNK,MONEY
+401,Merisotis,needs,talent,PERSON,NOUN_CHUNK
+402,Houghton Mifflin Harcourt,Exploring,effects,ORG,NOUN_CHUNK
+403,Wei,Putting,renewables,PERSON,NOUN_CHUNK
+404,clean energy industry,generate,jobs,NOUN_CHUNK,NOUN_CHUNK
+405,leaders,An agenda,future,NOUN_CHUNK,NOUN_CHUNK
+406,MGI report,explores,uses,NOUN_CHUNK,NOUN_CHUNK
+407,MGI report,offers,solution,NOUN_CHUNK,NOUN_CHUNK
+408,individuals,push,boundaries,NOUN_CHUNK,NOUN_CHUNK
+0,Current research,focuses.on,themes,NOUN_CHUNK,NOUN_CHUNK
+1,project team,included,Colin Britton,NOUN_CHUNK,PERSON
+2,trade,connect,world economy,NOUN_CHUNK,NOUN_CHUNK
+3,We.also,thank,colleagues,NOUN_CHUNK,NOUN_CHUNK
+4,trade tensions,dominate,headlines,NOUN_CHUNK,NOUN_CHUNK
+5,technologies,dampen,goods,NOUN_CHUNK,NOUN_CHUNK
+6,smaller share,grow,complex unknowns,NOUN_CHUNK,NOUN_CHUNK
+7,companies,localizing,supply chains,NOUN_CHUNK,NOUN_CHUNK
+8,channels,increase,share,NOUN_CHUNK,NOUN_CHUNK
+9,Regional integration,offers,possible solution,NOUN_CHUNK,NOUN_CHUNK
+10,digital technologies,hold,possibilities,ORG,NOUN_CHUNK
+11,forces,explain,changes,NOUN_CHUNK,NOUN_CHUNK
+12,96%,REVEAL,5 STRUCTURAL SHIFTS,PERCENT,NOUN_CHUNK
+13,in.,Assess,costs,NOUN_CHUNK,NOUN_CHUNK
+14,customers,Build,closer digital supplier,NOUN_CHUNK,NOUN_CHUNK
+15,generation,have,"complex,.multidimensional effects",NOUN_CHUNK,NOUN_CHUNK
+16,trade,connect,world,NOUN_CHUNK,NOUN_CHUNK
+17,Global value chains,reflect,millions,NOUN_CHUNK,CARDINAL
+18,simplest value chains,involve,sequence,NOUN_CHUNK,NOUN_CHUNK
+19,aircraft,involve,hundreds,NOUN_CHUNK,CARDINAL
+20,machinery,given,rise,NOUN_CHUNK,NOUN_CHUNK
+21,35 percent,involve,sequential steps,PERCENT,NOUN_CHUNK
+22,Spending,averages,30 percent,NOUN_CHUNK,PERCENT
+23,Industries,include,fabricated metals,NOUN_CHUNK,NOUN_CHUNK
+24,value,chainsuse,relatively intermediate goods,NOUN_CHUNK,NOUN_CHUNK
+25,value chains,generate,$20 trillion,NOUN_CHUNK,MONEY
+26,19 countries,make,lower share,NOUN_CHUNK,NOUN_CHUNK
+27,agriculture,other,870 million people,NOUN_CHUNK,NOUN_CHUNK
+28,Resource intensive value chains,contribute,11 percent,NOUN_CHUNK,PERCENT
+29,rising trade,reflects,global expansion,NOUN_CHUNK,NOUN_CHUNK
+30,two-thirds,two-thirds,seven times people,CARDINAL,NOUN_CHUNK
+31,high value industries,include,professional,NOUN_CHUNK,NOUN_CHUNK
+32,knowledge intensive services,have,bachelor degrees,NOUN_CHUNK,NOUN_CHUNK
+33,value chains,have,lower trade,NOUN_CHUNK,NOUN_CHUNK
+34,high concentration,reflects,significant,NOUN_CHUNK,NOUN_CHUNK
+35,GLOBAL VALUE CHAINS,UNDERGOING,STRUCTURAL SHIFTS,NOUN_CHUNK,NOUN_CHUNK
+36,trend,reflects,development,NOUN_CHUNK,NOUN_CHUNK
+37,Services,play,growing undervalued role,NOUN_CHUNK,NOUN_CHUNK
+38,gross trade,totaled,$5.1 trillion,NOUN_CHUNK,MONEY
+39,manufacturers,introduce,new types,NOUN_CHUNK,NOUN_CHUNK
+40,service models,replace,time purchases,NOUN_CHUNK,NOUN_CHUNK
+41,property,represent,tremendous value,NOUN_CHUNK,NOUN_CHUNK
+42,trade statistics,capture,use,NOUN_CHUNK,NOUN_CHUNK
+43,trade statistics,track,soaring cross - border flows,NOUN_CHUNK,NOUN_CHUNK
+44,people,use,Facebook,NOUN_CHUNK,ORG
+45,services    Professional services,create,value,NOUN_CHUNK,NOUN_CHUNK
+46,perspective,shift,trade balance,NOUN_CHUNK,NOUN_CHUNK
+47,Intangibles,playing,bigger role,NOUN_CHUNK,NOUN_CHUNK
+48,growing emphasis,favors,countries,NOUN_CHUNK,NOUN_CHUNK
+49,offshoring,part,price,NOUN_CHUNK,NOUN_CHUNK
+50,creation,takes,place,NOUN_CHUNK,NOUN_CHUNK
+51,innovations                              ,intensive,processing,ORG,NOUN_CHUNK
+52,Intangibles,include,brands,NOUN_CHUNK,NOUN_CHUNK
+53,automation,accelerate,importance,NOUN_CHUNK,NOUN_CHUNK
+54,Volvo,canceled,plans,ORG,NOUN_CHUNK
+55,Sportswear,designs,products,NOUN_CHUNK,NOUN_CHUNK
+56,blown trade war,have,cumulative,NOUN_CHUNK,NOUN_CHUNK
+57,companies,shift,companies,NOUN_CHUNK,NOUN_CHUNK
+58,one-quarter,were,specific companies,CARDINAL,NOUN_CHUNK
+59,firms,produce,87 percent,NOUN_CHUNK,PERCENT
+60,data,boosted,world GDP,NOUN_CHUNK,NOUN_CHUNK
+61,Higher tariffs,affect,firms,NOUN_CHUNK,NOUN_CHUNK
+62,Volvo,Keith Naughton,production plans,ORG,NOUN_CHUNK
+63,winter coat heavyweight,summary,cold shoulder,NOUN_CHUNK,NOUN_CHUNK
+64,Previous MGI research,highlighted,China working age population,NOUN_CHUNK,NOUN_CHUNK
+65,rising middle class,flexing,new spending power,NOUN_CHUNK,NOUN_CHUNK
+66,the Philippines,leading,way,GPE,NOUN_CHUNK
+67,India,exported,35 percent,GPE,PERCENT
+68,consumers,stepped,purchases,NOUN_CHUNK,NOUN_CHUNK
+69,Growing demand,offers,opportunity,NOUN_CHUNK,NOUN_CHUNK
+70,industry,send,42 percent,NOUN_CHUNK,PERCENT
+71,ECONOMIES,DECREASED,GLOBAL TRADE INTENSITY,NOUN_CHUNK,NOUN_CHUNK
+72,value,bring,jobs,NOUN_CHUNK,NOUN_CHUNK
+73,decline,reflects,growing industrial maturity,NOUN_CHUNK,NOUN_CHUNK
+74,wave,dampen,global goods trade,NOUN_CHUNK,NOUN_CHUNK
+75,cross - border B2C e - commerce sales,projects,approximately $1 trillion,NOUN_CHUNK,MONEY
+76,Continued rapid growth,present,a.                      challenge,NOUN_CHUNK,NOUN_CHUNK
+77,Automated document processing,speed,goods,NOUN_CHUNK,NOUN_CHUNK
+78,Blockchain shipping solutions,reduce,transit times,NOUN_CHUNK,NOUN_CHUNK
+79,digital technologies,transforming,global commerce,NOUN_CHUNK,NOUN_CHUNK
+80,E7.New technologies,have,varying impacts,NOUN_CHUNK,NOUN_CHUNK
+81,processing,reduces,time,NOUN_CHUNK,NOUN_CHUNK
+82,.                                     Internet,track,shipments,ORG,NOUN_CHUNK
+83,Autonomous              Autonomous vehicles,move,cargo,NOUN_CHUNK,NOUN_CHUNK
+84,Australian company,utilizes,Google,NOUN_CHUNK,ORG
+85,company,equips,new UK factory,NOUN_CHUNK,NOUN_CHUNK
+86,Bangladesh,automates,textiles,GPE,NOUN_CHUNK
+87,Artificial    Virtual                       British retailer,deploys,virtual assistants,NOUN_CHUNK,NOUN_CHUNK
+88,Philippine company,employs,RPA,NOUN_CHUNK,NOUN_CHUNK
+89,China,increases,electricity generation,GPE,NOUN_CHUNK
+90,European consumers,buy,EVs,NOUN_CHUNK,NOUN_CHUNK
+91,robotics,makes,proximity,NOUN_CHUNK,NOUN_CHUNK
+92,Companies,reconsidering,location decisions,NOUN_CHUNK,NOUN_CHUNK
+93,customer support services,offshoring,Companies,NOUN_CHUNK,NOUN_CHUNK
+94,Additive manufacturing,influence,future trade flows,NOUN_CHUNK,NOUN_CHUNK
+95,3-D printing,reduce,trade,NOUN_CHUNK,NOUN_CHUNK
+96,New goods,impact,trade flows,NOUN_CHUNK,NOUN_CHUNK
+97,electric vehicles,make,some 17 percent,NOUN_CHUNK,PERCENT
+98,Spotify,popularize,streaming subscription models,ORG,NOUN_CHUNK
+99,3D,printing,threat,PRODUCT,NOUN_CHUNK
+100,Automation,reduces,value,NOUN_CHUNK,NOUN_CHUNK
+101,Companies,efficiencies,end,ORG,NOUN_CHUNK
+102,potential supplier networks,integration,potential,NOUN_CHUNK,NOUN_CHUNK
+103,consumer goods,take,hyperlocal approach,NOUN_CHUNK,NOUN_CHUNK
+104,value,coming,design,NOUN_CHUNK,NOUN_CHUNK
+105,services,offer,advantages,NOUN_CHUNK,NOUN_CHUNK
+106,companies,consider,costs,NOUN_CHUNK,NOUN_CHUNK
+107,companies,face,complex set,NOUN_CHUNK,NOUN_CHUNK
+108,,Prioritize,speed,NOUN_CHUNK,NOUN_CHUNK
+109,,Build,closer supplier relationships,NOUN_CHUNK,NOUN_CHUNK
+110,value chains,led,companies,NOUN_CHUNK,NOUN_CHUNK
+111,approach,involved,hidden risks,NOUN_CHUNK,NOUN_CHUNK
+112,Large firms,bring,systemic changes,NOUN_CHUNK,NOUN_CHUNK
+113,countries,archetype,largest trade surplus,NOUN_CHUNK,NOUN_CHUNK
+114,country specialization,determines,country exposure,NOUN_CHUNK,NOUN_CHUNK
+115,Shifts,favor,advanced economies,NOUN_CHUNK,NOUN_CHUNK
+116,comparative advantages,offer,interesting model,NOUN_CHUNK,NOUN_CHUNK
+117,Resource producers,diversify,Resource producers,NOUN_CHUNK,NOUN_CHUNK
+118,governments,address,unfinished business,NOUN_CHUNK,NOUN_CHUNK
+119,global forces,the task,local economies,NOUN_CHUNK,NOUN_CHUNK
+120,workers,find,substantially lower earnings,NOUN_CHUNK,NOUN_CHUNK
+121,peers,experienced,greater job,NOUN_CHUNK,NOUN_CHUNK
+122,high income workers,led,the.growth,NOUN_CHUNK,NOUN_CHUNK
+123,manufacturing workers,face,disruptions,NOUN_CHUNK,NOUN_CHUNK
+124,middle income countries,climb,economic ladder,NOUN_CHUNK,NOUN_CHUNK
+125,automation technologies,narrowing,advantage,NOUN_CHUNK,NOUN_CHUNK
+126,subset,has,critical advantage,NOUN_CHUNK,NOUN_CHUNK
+127,automation,changes,balance,NOUN_CHUNK,NOUN_CHUNK
+128,Mexico,plays,type,GPE,NOUN_CHUNK
+129,Europe,play,role,LOC,NOUN_CHUNK
+130,trend,lead,China,NOUN_CHUNK,GPE
+131,the Philippines,have,opportunities,GPE,NOUN_CHUNK
+132,agents,reduce,market,NOUN_CHUNK,NOUN_CHUNK
+133,countries,have,limited participation,NOUN_CHUNK,NOUN_CHUNK
+134,value chains,are,people,NOUN_CHUNK,NOUN_CHUNK
+135,Recent MGI research,emphasized,role,NOUN_CHUNK,NOUN_CHUNK
+136,world,build,comprehensive supply chains,NOUN_CHUNK,NOUN_CHUNK
+137,shifts,have,implications,NOUN_CHUNK,NOUN_CHUNK
+138,The 1990s and,saw,another.revolution,DATE,NOUN_CHUNK
+139,internet,enabled,realignment,NOUN_CHUNK,NOUN_CHUNK
+140,Box,represent,96 percent,NOUN_CHUNK,PERCENT
+141,A.                                  farmer,cultivates,bananas,ORG,NOUN_CHUNK
+142,countries,performing,intermediate steps,NOUN_CHUNK,NOUN_CHUNK
+143,A.                                  farmer,use,imported fertilizers,ORG,NOUN_CHUNK
+144,Food,have,relatively simple sequential value,NOUN_CHUNK,NOUN_CHUNK
+145,Apparel,have,somewhat complex sequences,NOUN_CHUNK,NOUN_CHUNK
+146,industry value chains,trade,patterns,NOUN_CHUNK,NOUN_CHUNK
+147,second set,relates,countries,NOUN_CHUNK,NOUN_CHUNK
+148,Networks,create,value,NOUN_CHUNK,NOUN_CHUNK
+149,intensive value chains,include,computers,NOUN_CHUNK,NOUN_CHUNK
+150,multiple countries,involve,sequential steps,NOUN_CHUNK,NOUN_CHUNK
+151,hundreds,provide,inputs,CARDINAL,NOUN_CHUNK
+152,Size,represents,Global innovations,NOUN_CHUNK,NOUN_CHUNK
+153,global innovations value chains,employ,only 4 percent,NOUN_CHUNK,PERCENT
+154,value,is,innovations,NOUN_CHUNK,NOUN_CHUNK
+155,nations,represent,62 percent,NOUN_CHUNK,PERCENT
+156,countries,participate, Regional processing,NOUN_CHUNK,NOUN_CHUNK
+157,basic goods,fabricated,metal,NOUN_CHUNK,NOUN_CHUNK
+158,intraregional trade,makes,56 percent,NOUN_CHUNK,PERCENT
+159,archetype,includes,agriculture,NOUN_CHUNK,NOUN_CHUNK
+160,agriculture,employs,almost 870 million,NOUN_CHUNK,CARDINAL
+161,11 percent,added,highest share,PERCENT,NOUN_CHUNK
+162,Mining,have,highest value,NOUN_CHUNK,NOUN_CHUNK
+163,large labor intensive value chains,include,retail,NOUN_CHUNK,NOUN_CHUNK
+164,services,generate,highest gross output,NOUN_CHUNK,NOUN_CHUNK
+165,value chains,have,lower trade intensity,NOUN_CHUNK,NOUN_CHUNK
+166,GLOBAL VALUE CHAINS,UNDERGOING,STRUCTURAL SHIFTS,NOUN_CHUNK,NOUN_CHUNK
+167,analysis,documents,structural changes,NOUN_CHUNK,NOUN_CHUNK
+168,world,entered,new phase,NOUN_CHUNK,NOUN_CHUNK
+169,companies,see,soaring consumer demand,NOUN_CHUNK,NOUN_CHUNK
+170,Services,play,growing undervalued role,NOUN_CHUNK,NOUN_CHUNK
+171,trade,grown,more than 60 percent,NOUN_CHUNK,PERCENT
+172,Traditional trade statistics,capture,scope,NOUN_CHUNK,NOUN_CHUNK
+173,services,provide,large growing share,NOUN_CHUNK,NOUN_CHUNK
+174,services,create,substantial value,NOUN_CHUNK,NOUN_CHUNK
+175,automotive manufacturers,derive,up to 30 percent,NOUN_CHUNK,PERCENT
+176,arbitrage,represents,only 18 percent,NOUN_CHUNK,PERCENT
+177,value,reported,IP charges,NOUN_CHUNK,NOUN_CHUNK
+178,IP charges,include,flows,NOUN_CHUNK,NOUN_CHUNK
+179,the United States,increased,share,GPE,NOUN_CHUNK
+180,trend,reflects,fact,NOUN_CHUNK,NOUN_CHUNK
+181,chain,spend,36 percent,NOUN_CHUNK,PERCENT
+182,innovations                              ,intensive,processing,ORG,NOUN_CHUNK
+183,Intangibles,include,brands,NOUN_CHUNK,NOUN_CHUNK
+184,low priced goods,dominate,world,NOUN_CHUNK,NOUN_CHUNK
+185,Complex hand finishes,raise,price,NOUN_CHUNK,NOUN_CHUNK
+186,WTO,assumed,prominent role,ORG,NOUN_CHUNK
+187,Global innovations value chains,experienced,pronounced shift,NOUN_CHUNK,NOUN_CHUNK
+188,2020.1 Primary resources,include,mining quarrying uranium thorium ores,NOUN_CHUNK,NOUN_CHUNK
+189,economy,mention,tariffs,NOUN_CHUNK,NOUN_CHUNK
+190,production,continue,regional long haul,NOUN_CHUNK,NOUN_CHUNK
+191,Nearshoring,establishing,demand focused apparel value,ORG,NOUN_CHUNK
+192,gross trade,dwarfed,$5.1 trillion,NOUN_CHUNK,MONEY
+193,services,account.for,around 80 percent,NOUN_CHUNK,PERCENT
+194,types,lend,types,NOUN_CHUNK,NOUN_CHUNK
+195,Varying national.regulations certification standards,limit,competition,NOUN_CHUNK,NOUN_CHUNK
+196,services,trade,entire globe,NOUN_CHUNK,NOUN_CHUNK
+197,trade,exceed,trade,NOUN_CHUNK,NOUN_CHUNK
+198,Services,shape,everyday products,NOUN_CHUNK,NOUN_CHUNK
+199,services,come,dealers,NOUN_CHUNK,NOUN_CHUNK
+200,trade statistics,count,value,NOUN_CHUNK,NOUN_CHUNK
+201,concept,enables,different view,NOUN_CHUNK,NOUN_CHUNK
+202,services,represent,31 percent,NOUN_CHUNK,PERCENT
+203,foreign services inputs,assuming,greater weight,NOUN_CHUNK,NOUN_CHUNK
+204,Exhibit 10).51.Exhibit 10.Although services,contribute,45 percent,NOUN_CHUNK,PERCENT
+205,calculation,takes,fact,NOUN_CHUNK,NOUN_CHUNK
+206,MULTINATIONALS,USE,INTANGIBLE ASSETS,NOUN_CHUNK,NOUN_CHUNK
+207,profitable firms,found,intellectual property,NOUN_CHUNK,NOUN_CHUNK
+208,the UN Statistical Commission,revised,the System of National Accounts,ORG,ORG
+209,.Exhibit 11.Corporate investment,exceeds,investment,NOUN_CHUNK,NOUN_CHUNK
+210,Europe,includes,Austria,LOC,GPE
+211,Intangibles,sunk,costs,NOUN_CHUNK,NOUN_CHUNK
+212,intangibles,report services,borders,NOUN_CHUNK,NOUN_CHUNK
+213,balance,captures,monetary nonmonetary transactions,NOUN_CHUNK,NOUN_CHUNK
+214,company French stores,use,local labor,NOUN_CHUNK,NOUN_CHUNK
+215,the Starbucks,have,look,ORG,NOUN_CHUNK
+216,type,cast,trade balance,NOUN_CHUNK,NOUN_CHUNK
+217,counting services,estimates,$120 billion,NOUN_CHUNK,MONEY
+218,London,Capturing,value,GPE,NOUN_CHUNK
+219,net exports,reflect,exports,NOUN_CHUNK,NOUN_CHUNK
+220,statistical agencies,report,export,NOUN_CHUNK,NOUN_CHUNK
+221,border flows,includes,costs,NOUN_CHUNK,NOUN_CHUNK
+222,upper range,the country,cross - border,NOUN_CHUNK,NOUN_CHUNK
+223,the United States,generates,almost one-third,GPE,CARDINAL
+224,figures,alter,trade balances,NOUN_CHUNK,NOUN_CHUNK
+225,foreign affiliates,generated,revenues,NOUN_CHUNK,NOUN_CHUNK
+226,charges,include,flows,NOUN_CHUNK,NOUN_CHUNK
+227,Flows,represent,brands,NOUN_CHUNK,NOUN_CHUNK
+228,Multiple factors,affect,size,NOUN_CHUNK,NOUN_CHUNK
+229,users,watch,more than a billion hours,NOUN_CHUNK,QUANTITY
+230,Free digital services,posed,measurement challenge,NOUN_CHUNK,NOUN_CHUNK
+231,digital services,attract,hundreds of millions,ORG,CARDINAL
+232,Google,serves,about 60 percent,ORG,PERCENT
+233,Facebook,represents,24 percent,ORG,PERCENT
+234,Free digital services,have,large domestic user bases,NOUN_CHUNK,NOUN_CHUNK
+235,technologist Erik Brynjolfsson,estimated,implied value,PERSON,NOUN_CHUNK
+236,median participant,set,value,NOUN_CHUNK,NOUN_CHUNK
+237,willingness accept survey data,puts,value,NOUN_CHUNK,NOUN_CHUNK
+238,approach,yields,lower,NOUN_CHUNK,NOUN_CHUNK
+239,search engines,represent,only 23 percent,NOUN_CHUNK,PERCENT
+240,services,constitute,almost 70 percent,NOUN_CHUNK,PERCENT
+241,ACCOUNTING,CREATE,INVISIBLE VALUE,NOUN_CHUNK,NOUN_CHUNK
+242,SERVICES,MAKE,MORE THAN HALF,NOUN_CHUNK,CARDINAL
+243,almost 80 percent,increase,global trade,PERCENT,NOUN_CHUNK
+244,build,paves,way,NOUN_CHUNK,NOUN_CHUNK
+245,conferencing,driving,shift,NOUN_CHUNK,NOUN_CHUNK
+246,Chapter 4,analyzes,number,LAW,NOUN_CHUNK
+247,companies,make,shift,NOUN_CHUNK,NOUN_CHUNK
+248,States,own,infrastructure,NOUN_CHUNK,NOUN_CHUNK
+249,companies,purchase,hardware,NOUN_CHUNK,NOUN_CHUNK
+250,Salesforce,offers,Salesforce suite,ORG,NOUN_CHUNK
+251,business models,gaining,steam,NOUN_CHUNK,NOUN_CHUNK
+252,emerging economies,reaching,new level.of industrial maturity,NOUN_CHUNK,NOUN_CHUNK
+253,chapter,analyzes,rising demand,NOUN_CHUNK,NOUN_CHUNK
+254,the.world economy,reflects,ongoing evolution,NOUN_CHUNK,NOUN_CHUNK
+255,billion people,exited,poverty,NOUN_CHUNK,NOUN_CHUNK
+256,countries,play,role,NOUN_CHUNK,NOUN_CHUNK
+257,Americas,Developing,Americas,ORG,LOC
+258,China,given,rise,GPE,NOUN_CHUNK
+259,Previous MGI research,highlighted,China,NOUN_CHUNK,GPE
+260,China consumers,turned,China,NOUN_CHUNK,GPE
+261,Decreased trade intensity,reflects,rising incomes,NOUN_CHUNK,NOUN_CHUNK
+262,India,exported,35 percent,GPE,PERCENT
+263,population growth,40,market,NOUN_CHUNK,NOUN_CHUNK
+264,Growing consumption,creates,export opportunities,NOUN_CHUNK,NOUN_CHUNK
+265,rising exports,2017,blow,NOUN_CHUNK,NOUN_CHUNK
+266,China,easing,foreign investment restrictions,GPE,NOUN_CHUNK
+267,South South trade,represents,almost half,NOUN_CHUNK,CARDINAL
+268,exports,constitute,22 percent,NOUN_CHUNK,PERCENT
+269,China China,financing,infrastructure construction projects,GPE,NOUN_CHUNK
+270,commodities,make,37 percent,NOUN_CHUNK,PERCENT
+271,China,BUILDING,DOMESTIC,GPE,NOUN_CHUNK
+272,trend,taking,hold,NOUN_CHUNK,NOUN_CHUNK
+273,Automotive,saw,especially large increases,NOUN_CHUNK,NOUN_CHUNK
+274,Xiaomi,launched,homegrown chip,ORG,NOUN_CHUNK
+275,Pinecone.91 Foxconn,established,new base,ORG,NOUN_CHUNK
+276,China,retain,types,GPE,NOUN_CHUNK
+277,policy,designates,dozens,NOUN_CHUNK,CARDINAL
+278,Hefei,has,existing base,GPE,NOUN_CHUNK
+279,comprehensive domestic supply chains,taking,root,NOUN_CHUNK,NOUN_CHUNK
+280,Textiles,offers,clearest illustration,NOUN_CHUNK,NOUN_CHUNK
+281,emerging economies,developing,extensive supply chains,NOUN_CHUNK,NOUN_CHUNK
+282,households,own,consumption,NOUN_CHUNK,NOUN_CHUNK
+283,manufacturers,joined,production,NOUN_CHUNK,NOUN_CHUNK
+284,Ford,exported,"180,000",ORG,CARDINAL
+285,Hyundai,cars,"153,000",ORG,CARDINAL
+286,demand growth,altering,landscape,NOUN_CHUNK,NOUN_CHUNK
+287,digital technologies,enabled,trade,NOUN_CHUNK,NOUN_CHUNK
+288,THE ICT REVOLUTION,paved,way,EVENT,NOUN_CHUNK
+289,technologies,have,varied complex effect,ORG,NOUN_CHUNK
+290,chapter,examines,major,NOUN_CHUNK,NOUN_CHUNK
+291,vehicles,smooth,transportation,NOUN_CHUNK,NOUN_CHUNK
+292,,Altering,production processes,NOUN_CHUNK,NOUN_CHUNK
+293,Advanced robotics,reduce,importance,ORG,NOUN_CHUNK
+294,technology,transforming,existing products,NOUN_CHUNK,NOUN_CHUNK
+295,25.New technologies,have,varying impacts,NOUN_CHUNK,NOUN_CHUNK
+296,processing,reduces,time,NOUN_CHUNK,NOUN_CHUNK
+297,.                                     Internet,track,shipments,ORG,NOUN_CHUNK
+298,Autonomous              Autonomous vehicles,move,cargo,NOUN_CHUNK,NOUN_CHUNK
+299,Australian company,utilizes,Google,NOUN_CHUNK,ORG
+300,company,equips,new UK factory,NOUN_CHUNK,NOUN_CHUNK
+301,Bangladesh,automates,textiles,GPE,NOUN_CHUNK
+302,Artificial    Virtual                       British retailer,deploys,virtual assistants,NOUN_CHUNK,NOUN_CHUNK
+303,Philippine company,employs,RPA,NOUN_CHUNK,NOUN_CHUNK
+304,China,increases,electricity generation,GPE,NOUN_CHUNK
+305,European consumers,buy,EVs,NOUN_CHUNK,NOUN_CHUNK
+306,Networked Markets,Transforming,Economy,NOUN_CHUNK,NOUN_CHUNK
+307,growth,has,implications,NOUN_CHUNK,NOUN_CHUNK
+308,implementation,reduce,trade costs,NOUN_CHUNK,NOUN_CHUNK
+309,The United States,announced,United States withdrawal,GPE,NOUN_CHUNK
+310,Digital platforms,offer,small medium size companies exposure,NOUN_CHUNK,NOUN_CHUNK
+311,Internet,improve,logistics,NOUN_CHUNK,NOUN_CHUNK
+312,application,monitors,location,NOUN_CHUNK,NOUN_CHUNK
+313,border compliance,compliance,265 hours,NOUN_CHUNK,TIME
+314,Autonomous vehicles,have,substantial potential,NOUN_CHUNK,NOUN_CHUNK
+315,possibilities,include,planes,NOUN_CHUNK,NOUN_CHUNK
+316,confirmations,delivered,step,NOUN_CHUNK,NOUN_CHUNK
+317,manufacturing,alter,production processes,NOUN_CHUNK,NOUN_CHUNK
+318,Automation systems,make,range,NOUN_CHUNK,NOUN_CHUNK
+319,benefits,have,ramifications,NOUN_CHUNK,NOUN_CHUNK
+320,blockchain,revolutionize,international trade,NOUN_CHUNK,NOUN_CHUNK
+321,HSBC,Don Weinland,trade finance deal,ORG,NOUN_CHUNK
+322,FTE,weighted,%,NOUN_CHUNK,NOUN_CHUNK
+323,manufacturing,handle,wider variety,NOUN_CHUNK,NOUN_CHUNK
+324,production,end,markets,NOUN_CHUNK,NOUN_CHUNK
+325,Morocco,serve,European,GPE,NORP
+326,Adidas,building,automated,NOUN_CHUNK,NOUN_CHUNK
+327,Automation,cause,exodus,NOUN_CHUNK,NOUN_CHUNK
+328,China,pursuing,automation,GPE,NOUN_CHUNK
+329,digital form,requires,large low skill workforce,NOUN_CHUNK,NOUN_CHUNK
+330,Artificial intelligence,reduce,trade,NOUN_CHUNK,NOUN_CHUNK
+331,support,involve,repetitive tasks,NOUN_CHUNK,NOUN_CHUNK
+332,business process outsourcing services,many repetitive tasks,higher potential,NOUN_CHUNK,NOUN_CHUNK
+333,AI,create,trade,NOUN_CHUNK,NOUN_CHUNK
+334,Additive manufacturing,reduce,trade,NOUN_CHUNK,NOUN_CHUNK
+335,Additive manufacturing,builds,physical objects,NOUN_CHUNK,NOUN_CHUNK
+336,designers,create,products,NOUN_CHUNK,NOUN_CHUNK
+337,Additive manufacturing,dampen,trade,NOUN_CHUNK,NOUN_CHUNK
+338,consumer,replaces,global distribution,NOUN_CHUNK,NOUN_CHUNK
+339,3D,printing,threat,PRODUCT,NOUN_CHUNK
+340,TECHNOLOGY,CHANGING,GOODS,NOUN_CHUNK,NOUN_CHUNK
+341,products,giving,rise,NOUN_CHUNK,NOUN_CHUNK
+342,digital innovations,replace,trade,NOUN_CHUNK,NOUN_CHUNK
+343,The ‘Chinese Netflix’ iQiyi,gearing,things,ORG,NOUN_CHUNK
+344,Cloud computing,uses,similar subscription,NOUN_CHUNK,NOUN_CHUNK
+345,ride sharing,offset,a third,NOUN_CHUNK,CARDINAL
+346,Growth,reduce,trade,NOUN_CHUNK,NOUN_CHUNK
+347,Electric vehicles,gaining,momentum,NOUN_CHUNK,NOUN_CHUNK
+348,global sales,topped,one million,NOUN_CHUNK,CARDINAL
+349,adoption,disrupt,automotive value chains,NOUN_CHUNK,NOUN_CHUNK
+350,shift,generate,new flows,NOUN_CHUNK,NOUN_CHUNK
+351,Tesla,established,Tesla,ORG,PRODUCT
+352,batteries,increase,127,NOUN_CHUNK,CARDINAL
+353,Cloud adoption,accelerate,Cloud adoption,NOUN_CHUNK,NOUN_CHUNK
+354,generation mix,have,different look,NOUN_CHUNK,NOUN_CHUNK
+355,SoftBank latest dream,stretches,6 countries,NOUN_CHUNK,NOUN_CHUNK
+356,5 G,embed,internet,NOUN_CHUNK,NOUN_CHUNK
+357,reliability,provide,backbone,NOUN_CHUNK,NOUN_CHUNK
+358,rollout,reshape,global flows,NOUN_CHUNK,NOUN_CHUNK
+359,algorithms,detect,issues,NOUN_CHUNK,NOUN_CHUNK
+360,NEW TECHNOLOGIES,HAVE,MIXED IMPACT,NOUN_CHUNK,NOUN_CHUNK
+361,huge market,has,great potential,NOUN_CHUNK,NOUN_CHUNK
+362,Countries,have,great deal,NOUN_CHUNK,NOUN_CHUNK
+363,small orders,affect,trade flows,NOUN_CHUNK,NOUN_CHUNK
+364,the IoT,improve,shipment,ORG,NOUN_CHUNK
+365,developing countries,use,automation,NOUN_CHUNK,NOUN_CHUNK
+366,32.Automation,have,largest impact,NOUN_CHUNK,NOUN_CHUNK
+367,countries,exports,automation,NOUN_CHUNK,NOUN_CHUNK
+368,McKinsey Global Institute,consider,specific product categories,ORG,NOUN_CHUNK
+369,EVs,reduce,1.4 trillion trade,ORG,NOUN_CHUNK
+370,electricity generation,dampen,oil trade,NOUN_CHUNK,NOUN_CHUNK
+371,continuing march,reshaping,individual industries,NOUN_CHUNK,NOUN_CHUNK
+372,continuing march,underscores,rising importance,NOUN_CHUNK,NOUN_CHUNK
+373,rising.importance,raises,stakes,NOUN_CHUNK,NOUN_CHUNK
+374,supplier ecosystems,growing,imperatives,NOUN_CHUNK,NOUN_CHUNK
+375,Tech companies,disrupting,value chains,NOUN_CHUNK,NOUN_CHUNK
+376,moves,pose,new competitive challenge,NOUN_CHUNK,NOUN_CHUNK
+377,Companies,markets,Western incumbents,NOUN_CHUNK,NOUN_CHUNK
+378,backyards,have,scale,NOUN_CHUNK,NOUN_CHUNK
+379,market companies,using,M&A strategies,NOUN_CHUNK,NOUN_CHUNK
+380,Volvo,changing,planned exports,ORG,NOUN_CHUNK
+381,experts,adjust,clothing content,NOUN_CHUNK,NOUN_CHUNK
+382,companies,state,operations,NOUN_CHUNK,NOUN_CHUNK
+383,Volvo,Keith Naughton,production plans,ORG,NOUN_CHUNK
+384,SMEs,have,new opportunities,ORG,NOUN_CHUNK
+385,giant multinational corporations,the,trade,NOUN_CHUNK,NOUN_CHUNK
+386,small medium size companies,joined,commerce marketplaces,NOUN_CHUNK,NOUN_CHUNK
+387,small medium size companies,gain,direct exposure,NOUN_CHUNK,NOUN_CHUNK
+388,Amazon,hosts,million party,ORG,NOUN_CHUNK
+389,sellers,hosts,more than ten million,NOUN_CHUNK,CARDINAL
+390,Lazada,offers,marketplace,ORG,NOUN_CHUNK
+391,sellers,hire,service providers,NOUN_CHUNK,NOUN_CHUNK
+392,cloud,changed,economics,NOUN_CHUNK,NOUN_CHUNK
+393,Zendesk,offers,package,ORG,NOUN_CHUNK
+394,businesses,manage,customer service,NOUN_CHUNK,NOUN_CHUNK
+395,Zendesk,serves,businesses,ORG,NOUN_CHUNK
+396,Volatility,delaying,investments,NOUN_CHUNK,NOUN_CHUNK
+397,Group’s Tata Steel,prioritizing,automation,ORG,NOUN_CHUNK
+398,strategy,leads,companies,NOUN_CHUNK,NOUN_CHUNK
+399,technology,enabling,companies,NOUN_CHUNK,NOUN_CHUNK
+400,customers,allows,jeans,NOUN_CHUNK,NOUN_CHUNK
+401,Coca-Cola,owns,brands,ORG,NOUN_CHUNK
+402,Coca-Cola,maximizes,potential,ORG,NOUN_CHUNK
+403,services,assume,greater role,NOUN_CHUNK,NOUN_CHUNK
+404,companies,pursuing,global local services strategy,NOUN_CHUNK,NOUN_CHUNK
+405,Starbucks,vary,Starbucks product offerings,ORG,NOUN_CHUNK
+406,million properties,provides,platform,NOUN_CHUNK,NOUN_CHUNK
+407,loose network,provides,actual accommodations,NOUN_CHUNK,NOUN_CHUNK
+408,PayPal,facilitates,payments,NOUN_CHUNK,NOUN_CHUNK
+409,business model,enables,platform companies,NOUN_CHUNK,NOUN_CHUNK
+410,biggest hyperscale platforms,host,billions,NOUN_CHUNK,CARDINAL
+411,Examples,include,financial services,NOUN_CHUNK,NOUN_CHUNK
+412,HSBC,has,presence,ORG,NOUN_CHUNK
+413,firms,maintain,offices,NOUN_CHUNK,NOUN_CHUNK
+414,Global,Offers,a single                          Global                                           Airbus,NOUN_CHUNK,ORG
+415,market,tastes,insights,NOUN_CHUNK,NOUN_CHUNK
+416,Global,reach, Starbucks,NOUN_CHUNK,NOUN_CHUNK
+417,Platform,Creates,marketplace,NOUN_CHUNK,NOUN_CHUNK
+418,Resource,Produces, Access,NOUN_CHUNK,NOUN_CHUNK
+419,companies,own,global operations,NOUN_CHUNK,NOUN_CHUNK
+420,services,add,new sources,NOUN_CHUNK,NOUN_CHUNK
+421,speed,driving,regionalization,NOUN_CHUNK,NOUN_CHUNK
+422,companies,consider,risk-,NOUN_CHUNK,NOUN_CHUNK
+423,manufacturers,use,platforms,NOUN_CHUNK,NOUN_CHUNK
+424,Toyota,introducing,new manufacturing system,ORG,NOUN_CHUNK
+425,growing number,enough,production,NOUN_CHUNK,NOUN_CHUNK
+426,Massive retooling,readies,Toyota Georgetown,NOUN_CHUNK,PRODUCT
+427,Speed,enables,faster responses,NOUN_CHUNK,NOUN_CHUNK
+428,Companies,have,wealth,NOUN_CHUNK,NOUN_CHUNK
+429,insights,requires,speed,NOUN_CHUNK,NOUN_CHUNK
+430,manufacturers,finding,value,NOUN_CHUNK,NOUN_CHUNK
+431,offshoring,led,companies,NOUN_CHUNK,NOUN_CHUNK
+432,tier suppliers,have,little visibility,NOUN_CHUNK,NOUN_CHUNK
+433,efficiencies,enable,systemic changes,NOUN_CHUNK,NOUN_CHUNK
+434,smaller suppliers,transformation,help,NOUN_CHUNK,NOUN_CHUNK
+435,companies,developed,sprawling global footprints,NOUN_CHUNK,NOUN_CHUNK
+436,firms,sharpening,firms,NOUN_CHUNK,NOUN_CHUNK
+437,Countries,alter,Countries,NOUN_CHUNK,NOUN_CHUNK
+438,Countries,reap,economic gains,NOUN_CHUNK,NOUN_CHUNK
+439,trade,connect,world economy,NOUN_CHUNK,NOUN_CHUNK
+440,COUNTRIES,PLAY,DIFFERENT ROLES,NOUN_CHUNK,NOUN_CHUNK
+441,country specialization,determines,country specialization,NOUN_CHUNK,NOUN_CHUNK
+442,developing countries,specialize,natural resources,NOUN_CHUNK,NOUN_CHUNK
+443,SHIFTS,FAVOR,ADVANCED ECONOMIES,NOUN_CHUNK,NOUN_CHUNK
+444,group,lost,medium skill workers,NOUN_CHUNK,NOUN_CHUNK
+445,Exhibit 37.Most advanced economies,lost,manufacturing jobs,NOUN_CHUNK,NOUN_CHUNK
+446,Trade,affected,wages,NOUN_CHUNK,NOUN_CHUNK
+447,effects,hit,low wage workers,NOUN_CHUNK,NOUN_CHUNK
+448,Workers,experienced,churn,NOUN_CHUNK,NOUN_CHUNK
+449,evidence,suggests,wages,NOUN_CHUNK,NOUN_CHUNK
+450,rise,accompanied,ongoing,NOUN_CHUNK,NOUN_CHUNK
+451,overall gains,exceed,overall gains,NOUN_CHUNK,NOUN_CHUNK
+452,global innovators,benefit,rising competition,NOUN_CHUNK,NOUN_CHUNK
+453,current trends,But,comparative advantages,NOUN_CHUNK,NOUN_CHUNK
+454,advanced economies,run,trade surplus,NOUN_CHUNK,NOUN_CHUNK
+455,IP charges,Over,two to three,NOUN_CHUNK,CARDINAL
+456,Services,playing,bigger role,NOUN_CHUNK,NOUN_CHUNK
+457,Trade surplus,advanced,billion,NOUN_CHUNK,NOUN_CHUNK
+458, Global innovators,face,greater competition,NOUN_CHUNK,NOUN_CHUNK
+459,South Korea,seen,South Korea Japan exports,GPE,NOUN_CHUNK
+460,developing countries,offer,interesting template,NOUN_CHUNK,NOUN_CHUNK
+461,OPEC countries,have,long term economic development,NOUN_CHUNK,NOUN_CHUNK
+462,economies,dominate,ranks,NOUN_CHUNK,NOUN_CHUNK
+463,policy priority,setting,rules,NOUN_CHUNK,NOUN_CHUNK
+464,store,generated,data,NOUN_CHUNK,NOUN_CHUNK
+465,regulations,limit,competition,NOUN_CHUNK,NOUN_CHUNK
+466,services,exceeds,average tariff,NOUN_CHUNK,NOUN_CHUNK
+467,life cycles,reinforce,trend,NOUN_CHUNK,NOUN_CHUNK
+468,biggest policy challenge,involves,unfinished business,NOUN_CHUNK,NOUN_CHUNK
+469,date,includes,transitional income support,NOUN_CHUNK,NOUN_CHUNK
+470,manufacturing value,added,patent activity,NOUN_CHUNK,NOUN_CHUNK
+471,DEVELOPING COUNTRIES,FACE,HEADWINDS,NOUN_CHUNK,NOUN_CHUNK
+472,automation,limit,job creation,NOUN_CHUNK,NOUN_CHUNK
+473,subset,has,critical advantage,NOUN_CHUNK,NOUN_CHUNK
+474,United States,play,role,GPE,NOUN_CHUNK
+475,multinationals,in,chains,NOUN_CHUNK,NOUN_CHUNK
+476,alternatives,offer,fewer cultural language time zone difficulties,NOUN_CHUNK,NOUN_CHUNK
+477,Exhibit 39.Some developing economies,increasing,Exhibit 39.Some developing economies exports,NOUN_CHUNK,NOUN_CHUNK
+478,developing countries,face,a.                                  squeeze,NOUN_CHUNK,NOUN_CHUNK
+479,procedures,facilitating,seamless flows,NOUN_CHUNK,NOUN_CHUNK
+480,digital economy,offers,opportunities,NOUN_CHUNK,NOUN_CHUNK
+481,mobile apps,give,small businesses,NOUN_CHUNK,NOUN_CHUNK
+482,Amazon,announced,expansion,ORG,NOUN_CHUNK
+483,Mobile banking,make,financial inclusion,NOUN_CHUNK,NOUN_CHUNK
+484,digital payments,erase,huge inefficiencies,NOUN_CHUNK,NOUN_CHUNK
+485,E - commerce marketplaces,give,small medium size businesses,NOUN_CHUNK,NOUN_CHUNK
+486,commerce platforms,offer,additional small business services,NOUN_CHUNK,NOUN_CHUNK
+487,Education,determine,country ability,NOUN_CHUNK,NOUN_CHUNK
+488,period,represents,opening,NOUN_CHUNK,NOUN_CHUNK
+489,Exhibit A1,lists,breakdown,NOUN_CHUNK,NOUN_CHUNK
+490,sources,represent,world economy,NOUN_CHUNK,NOUN_CHUNK
+491,McKinsey Global Institute,mapped,WIOD industry,ORG,NOUN_CHUNK
+492,OECD ICIO tables,contain,countries,NOUN_CHUNK,NOUN_CHUNK
+493,databases,have,different levels,NOUN_CHUNK,NOUN_CHUNK
+494,errors,driving,results,NOUN_CHUNK,NOUN_CHUNK
+495,WIOD source data,has,limitations,NOUN_CHUNK,NOUN_CHUNK
+496,CROSS BORDER SERVICE,FLOWS,intangibles,NOUN_CHUNK,NOUN_CHUNK
+497,Estimating,traded,share,NOUN_CHUNK,NOUN_CHUNK
+498,METHODOLOGY,includes,number,NOUN_CHUNK,NOUN_CHUNK
+499,future,involves,substantial uncertainty,NOUN_CHUNK,NOUN_CHUNK
+500,Category,includes,sector,NOUN_CHUNK,NOUN_CHUNK
+501,Category,includes,technologies,NOUN_CHUNK,NOUN_CHUNK
+502,Category,reduce,transit times,NOUN_CHUNK,NOUN_CHUNK
+503,of.e-commerce,translate,savings,ORG,NOUN_CHUNK
+504,coverage,paper,data,NOUN_CHUNK,NOUN_CHUNK
+505,digital technologies,transforming,global commerce,NOUN_CHUNK,NOUN_CHUNK
+506,times,have,room                    viability,NOUN_CHUNK,NOUN_CHUNK
+507,%,replaceable,Reduction,NOUN_CHUNK,NOUN_CHUNK
+508,We.which,adopting,automation technologies,ORG,NOUN_CHUNK
+509,EVs,estimate,trade,ORG,NOUN_CHUNK
+510,McKinsey,obtained,input output table,ORG,NOUN_CHUNK
+511,baseline case,assumes,change,NOUN_CHUNK,NOUN_CHUNK
+512,EVs,reduce,oil trade,ORG,NOUN_CHUNK
+513,Jensen,Overlooked,opportunity,PERSON,NOUN_CHUNK
+514,Van Reenan,has,China.global value chains,PERSON,NOUN_CHUNK
+515,illustrated user,guide.to,the World Input,NOUN_CHUNK,ORG
+516,information,generate,economic          375 million workers,NOUN_CHUNK,NOUN_CHUNK

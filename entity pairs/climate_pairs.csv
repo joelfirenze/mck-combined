@@ -1,0 +1,334 @@
+,subject,relation,object,subject_type,object_type
+0,MGI research,combines,disciplines,NOUN_CHUNK,NOUN_CHUNK
+1,James Manyika,employing,Sven Smit,PERSON,PERSON
+2,MGI,have,MGI senior fellow,ORG,NOUN_CHUNK
+3,Practice,helps,businesses,NOUN_CHUNK,NOUN_CHUNK
+4,organizations,help,risk capabilities.sustainable - growth economy,NOUN_CHUNK,NOUN_CHUNK
+5,McKinsey,developed,McKinsey global greenhouse gas abatement cost curve,ORG,NOUN_CHUNK
+6,Quiros,provided,modeling,PERSON,NOUN_CHUNK
+7,Birshan,provided,critical input,ORG,NOUN_CHUNK
+8,Woods Hole Research Center,produced,scientific,ORG,NOUN_CHUNK
+9,the University of Oxford’s Environmental Change Institute,ensure,impartiality,ORG,NOUN_CHUNK
+10,Carlos Sanchez,SYSTEMIQ,resilient finance,PERSON,NOUN_CHUNK
+11,number,contributed,number,NOUN_CHUNK,NOUN_CHUNK
+12,Organizations,include,AECOM,NOUN_CHUNK,ORG
+13,Multiple groups,contributed,Multiple groups,NOUN_CHUNK,NOUN_CHUNK
+14,colleagues,provided,valuable input,NOUN_CHUNK,NOUN_CHUNK
+15,Peter Gumbel,thank,Peter Gumbel,PERSON,PERSON
+16,Climate science          humidity increase,devalue,exposed homes.makes extensive use,NOUN_CHUNK,NOUN_CHUNK
+17,Poorer regions,have,climates.enables,NOUN_CHUNK,NOUN_CHUNK
+18,Climate change,also.illustrate,exposure,NOUN_CHUNK,NOUN_CHUNK
+19,changing climate,impact,socioeconomic systems,NOUN_CHUNK,NOUN_CHUNK
+20,average daily maximum wet bulb temperature,defined,survivability threshold,NOUN_CHUNK,NOUN_CHUNK
+21,numbers,do,factor,NOUN_CHUNK,NOUN_CHUNK
+22,McKinsey,has,long history,ORG,NOUN_CHUNK
+23,Climate impact research,makes,extensive use.of scenarios,NOUN_CHUNK,NOUN_CHUNK
+24,technology,reshaping,resources,NOUN_CHUNK,NOUN_CHUNK
+25,uncertainties,see,Box E2,NOUN_CHUNK,WORK_OF_ART
+26,stakeholders,see,Box,NOUN_CHUNK,PRODUCT
+27,Exhibit E1.We,make,use,NOUN_CHUNK,NOUN_CHUNK
+28,methodology,addresses,uncertainties,NOUN_CHUNK,NOUN_CHUNK
+29,Emissions,influence,global climate,NOUN_CHUNK,NOUN_CHUNK
+30,8.5,predicts,global.uncertainties,CARDINAL,NOUN_CHUNK
+31,risk,absent,adaptation,NOUN_CHUNK,NOUN_CHUNK
+32,detailed discussion,affect,global,NOUN_CHUNK,NOUN_CHUNK
+33,the past 65 million years,means,natural systems,DATE,NOUN_CHUNK
+34,Climate change,bring,benefits,NOUN_CHUNK,NOUN_CHUNK
+35,assets,requires,coordinated action,NOUN_CHUNK,NOUN_CHUNK
+36,Climate change,having,substantial physical impacts,NOUN_CHUNK,NOUN_CHUNK
+37,rapid decline,provides,evidence,NOUN_CHUNK,NOUN_CHUNK
+38,average,conceals,dramatic changes,NOUN_CHUNK,NOUN_CHUNK
+39,Averages,conceal,wide spatial disparities,NOUN_CHUNK,NOUN_CHUNK
+40,Exhibit E2.A small shift,hide,dramatic changes,NOUN_CHUNK,NOUN_CHUNK
+41,Frequency,anomalies.in,the Northern Hemisphere,NOUN_CHUNK,LOC
+42,climate models,indicate,rise,NOUN_CHUNK,NOUN_CHUNK
+43,frequency,intensify,chronic hazards,NOUN_CHUNK,NOUN_CHUNK
+44,hurricanes,predict,increase,NOUN_CHUNK,NOUN_CHUNK
+45,projections,used,absolute values,NOUN_CHUNK,NOUN_CHUNK
+46,Boundaries,represent,water basins,NOUN_CHUNK,NOUN_CHUNK
+47,effects,push,34 ° C wet bulb heat waves,NOUN_CHUNK,NOUN_CHUNK
+48,average daily maximum wet bulb temperature,exceed,survivability threshold,NOUN_CHUNK,NOUN_CHUNK
+49,Climate change,affects,human life,NOUN_CHUNK,NOUN_CHUNK
+50,Climate change,having,measurable socioeconomic impact,NOUN_CHUNK,NOUN_CHUNK
+51,system                Area,exacerbated,hazard,NOUN_CHUNK,NOUN_CHUNK
+52,deaths,attributable,3x,NOUN_CHUNK,CARDINAL
+53,services,flooding,economic loss,NOUN_CHUNK,NOUN_CHUNK
+54,~70%,lost,Natural capital                                                         Potential reduction,PERCENT,NOUN_CHUNK
+55,climate hazards,impact,multiple systems,NOUN_CHUNK,NOUN_CHUNK
+56,Extreme precipitation,destroy,physical assets,NOUN_CHUNK,NOUN_CHUNK
+57,Hazards,affect,ability,NOUN_CHUNK,NOUN_CHUNK
+58,temperatures,affect,land,NOUN_CHUNK,NOUN_CHUNK
+59,cases,highlight,wide range,NOUN_CHUNK,NOUN_CHUNK
+60,small changes,have,large consequences,NOUN_CHUNK,NOUN_CHUNK
+61,RCP 8.5 scenario,absent,effective adaptation response,NOUN_CHUNK,NOUN_CHUNK
+62,Insurance records,show,clear,NOUN_CHUNK,NOUN_CHUNK
+63,researchers,find,small upward trend,NOUN_CHUNK,NOUN_CHUNK
+64,35 degrees Celsius wet bulb,push,34C wet bulb heat,NOUN_CHUNK,NOUN_CHUNK
+65,High levels,provide,cooling effect,NOUN_CHUNK,NOUN_CHUNK
+66,new analysis,excludes,grid cells,NOUN_CHUNK,NOUN_CHUNK
+67,Exposed sectors,include,exclusively outdoor sectors,NOUN_CHUNK,NOUN_CHUNK
+68,longer exposure,cause,rapidly worsening health impacts,NOUN_CHUNK,NOUN_CHUNK
+69,Humans,survive,exposure,NOUN_CHUNK,NOUN_CHUNK
+70,acute events,affect,grid,NOUN_CHUNK,NOUN_CHUNK
+71,geography,makes,geography,NOUN_CHUNK,NOUN_CHUNK
+72,infrastructure,experience,step change,NOUN_CHUNK,NOUN_CHUNK
+73,significant mitigation,take,place,NOUN_CHUNK,NOUN_CHUNK
+74,hail,claim,capital,NOUN_CHUNK,NOUN_CHUNK
+75,Chi Minh City,experience,5 10 times economic impact,PERSON,NOUN_CHUNK
+76,Value,includes,loss,NOUN_CHUNK,NOUN_CHUNK
+77,homes,see,devaluation,NOUN_CHUNK,NOUN_CHUNK
+78,Financial markets,bring,risks,NOUN_CHUNK,NOUN_CHUNK
+79,rising temperatures,boost,tourism,NOUN_CHUNK,NOUN_CHUNK
+80,climate events,lack,financial means,NOUN_CHUNK,NOUN_CHUNK
+81,climate events,trigger,harvest failure,NOUN_CHUNK,NOUN_CHUNK
+82,changing climate,affects,human physical natural capital,NOUN_CHUNK,NOUN_CHUNK
+83,case studies,illustrate,localized impacts,NOUN_CHUNK,NOUN_CHUNK
+84,Intensifying climate.hazards,put,millions,ORG,CARDINAL
+85,exposed regions,have,lower probability,NOUN_CHUNK,NOUN_CHUNK
+86,ones,exposed,higher intensity,NOUN_CHUNK,NOUN_CHUNK
+87,numbers,assume,air conditioning protection,NOUN_CHUNK,NOUN_CHUNK
+88,research,suggests,increase,NOUN_CHUNK,NOUN_CHUNK
+89,infrastructure assets,disrupted,hurricanes,NOUN_CHUNK,NOUN_CHUNK
+90,Köppen climate system,divides,climates,NOUN_CHUNK,NOUN_CHUNK
+91,E11.We,identify,types,NOUN_CHUNK,NOUN_CHUNK
+92,E12.We,identify,types,NOUN_CHUNK,NOUN_CHUNK
+93,workability,services,capital,NOUN_CHUNK,NOUN_CHUNK
+94,E13.We,identify,types,NOUN_CHUNK,NOUN_CHUNK
+95,Country,heat,waves1,NOUN_CHUNK,NOUN_CHUNK
+96,group,includes,the Philippines,NOUN_CHUNK,GPE
+97,Countries,face,large potential increase,NOUN_CHUNK,NOUN_CHUNK
+98,group,includes,Colombia,NOUN_CHUNK,GPE
+99,countries,hot,livability thresholds,NOUN_CHUNK,NOUN_CHUNK
+100,group,includes,Germany,NOUN_CHUNK,GPE
+101,polar boreal climates,largest increase,poleward,NOUN_CHUNK,NOUN_CHUNK
+102,Examples,include,Argentina,NOUN_CHUNK,GPE
+103,average numbers,indicate,small risk,NOUN_CHUNK,NOUN_CHUNK
+104,average numbers,increases,wide regional variations,NOUN_CHUNK,NOUN_CHUNK
+105,Coast region,see,big increase,NOUN_CHUNK,NOUN_CHUNK
+106,countries,experience,diversity,NOUN_CHUNK,NOUN_CHUNK
+107,Financial institutions,consider,risk,NOUN_CHUNK,NOUN_CHUNK
+108,report,requires,use,NOUN_CHUNK,NOUN_CHUNK
+109,insurance,eliminate,risk,NOUN_CHUNK,NOUN_CHUNK
+110,insurance reinsurance carriers,improve,insurance reinsurance carriers,NOUN_CHUNK,NOUN_CHUNK
+111,tool kits,reflect,VAR,NOUN_CHUNK,NOUN_CHUNK
+112,structured risk management                     market shifts,support,effective adaptation,NOUN_CHUNK,NOUN_CHUNK
+113,changing climate,means,likelihoods,NOUN_CHUNK,NOUN_CHUNK
+114,home,ownership,100‑year flood,NOUN_CHUNK,NOUN_CHUNK
+115,stress,affect,ability,NOUN_CHUNK,NOUN_CHUNK
+116,Increased temperatures,shift,disease vectors,NOUN_CHUNK,NOUN_CHUNK
+117,Food systems,include,production,NOUN_CHUNK,NOUN_CHUNK
+118,precipitation,disrupt,infrastructure services,NOUN_CHUNK,NOUN_CHUNK
+119,mismanagement,play,role,NOUN_CHUNK,NOUN_CHUNK
+120,Direct impacts,knock,effects,NOUN_CHUNK,NOUN_CHUNK
+121,methodology,addresses,possible sources,NOUN_CHUNK,NOUN_CHUNK
+122,key uncertainties,include,emissions pathways,NOUN_CHUNK,NOUN_CHUNK
+123,Climate simulations,show,small,NOUN_CHUNK,NOUN_CHUNK
+124,RCPs,current CO2 concentrations,lower CO2 concentrations,NOUN_CHUNK,NOUN_CHUNK
+125,Climatic Change,An overview,59,NOUN_CHUNK,CARDINAL
+126,Each RCP,predicts,global average.warming,ORG,NOUN_CHUNK
+127,climate models,have,global warming,NOUN_CHUNK,NOUN_CHUNK
+128,Different models,make,different assumptions,NOUN_CHUNK,NOUN_CHUNK
+129,current generation,represent,feedbacks,NOUN_CHUNK,NOUN_CHUNK
+130,changes,introduces,additional sources,NOUN_CHUNK,NOUN_CHUNK
+131,literature,understand,important measures,NOUN_CHUNK,NOUN_CHUNK
+132,decision makers,incorporate,uncertainties,NOUN_CHUNK,NOUN_CHUNK
+133,Sudden regulatory responses,destabilize,markets.and companies,NOUN_CHUNK,NOUN_CHUNK
+134,Financial markets,experience.a,devaluation,NOUN_CHUNK,NOUN_CHUNK
+135,natural.disasters,displaced,265 million people,NOUN_CHUNK,NOUN_CHUNK
+136,the US Department of Defense,identified,climate change,ORG,NOUN_CHUNK
+137,sapiens,move,glacial          societies,NOUN_CHUNK,NOUN_CHUNK
+138,ice cover,provides,evidence,NOUN_CHUNK,NOUN_CHUNK
+139,sea ice,reaches,annual low,NOUN_CHUNK,NOUN_CHUNK
+140,small shift,hide,dramatic changes,NOUN_CHUNK,NOUN_CHUNK
+141,Frequency,anomalies.in,the Northern Hemisphere,NOUN_CHUNK,LOC
+142,changing climate,affects,socioeconomic systems,NOUN_CHUNK,NOUN_CHUNK
+143,Climate change,having,impact,NOUN_CHUNK,NOUN_CHUNK
+144,Recent floods,provide,example,NOUN_CHUNK,NOUN_CHUNK
+145,province floods,affected,7.8 million people,NOUN_CHUNK,NOUN_CHUNK
+146,July 2019 heat wave,exceeded,37.5 degrees Celsius,NOUN_CHUNK,QUANTITY
+147,Socioeconomic impact,exacerbated,hazard,NOUN_CHUNK,NOUN_CHUNK
+148,~70%,lost,Natural capital                                                        Potential reduction,PERCENT,NOUN_CHUNK
+149,emission rates,determine,contribution,NOUN_CHUNK,NOUN_CHUNK
+150,Climate models,show,growing level,NOUN_CHUNK,NOUN_CHUNK
+151,climate models,project,rise,NOUN_CHUNK,NOUN_CHUNK
+152,average daily maximum wet bulb temperature,exceed,survivability threshold,NOUN_CHUNK,NOUN_CHUNK
+153,degree,pose,uncertainty,NOUN_CHUNK,NOUN_CHUNK
+154,Atmospheric aerosols,reflect,proportion,NOUN_CHUNK,NOUN_CHUNK
+155,Boundaries,represent,water basins,NOUN_CHUNK,NOUN_CHUNK
+156,effects,push,34 ° C wet bulb heat waves,NOUN_CHUNK,NOUN_CHUNK
+157,cases,include,following,NOUN_CHUNK,NOUN_CHUNK
+158,coastal cities,turn,tide,NOUN_CHUNK,NOUN_CHUNK
+159,case studies,provide,window,NOUN_CHUNK,NOUN_CHUNK
+160,Extreme heat,drove,greatest increases,NOUN_CHUNK,NOUN_CHUNK
+161,rising temperatures,impact,India,NOUN_CHUNK,GPE
+162,Insurance records,show,clear,NOUN_CHUNK,NOUN_CHUNK
+163,researchers,find,small upward trend,NOUN_CHUNK,NOUN_CHUNK
+164,Climate risk,have,nonlinear increases,NOUN_CHUNK,NOUN_CHUNK
+165,analysis,suggests,substantial increase,NOUN_CHUNK,NOUN_CHUNK
+166,small changes,have,significant impact,NOUN_CHUNK,NOUN_CHUNK
+167,heat exposed work,drove,about 50 percent,NOUN_CHUNK,PERCENT
+168,human body,provides,example,NOUN_CHUNK,NOUN_CHUNK
+169,human body,maintain,relatively stable core temperature,NOUN_CHUNK,NOUN_CHUNK
+170,Intensifying hazards,lead,infrastructure,NOUN_CHUNK,NOUN_CHUNK
+171,winds,felled,more than 90 percent,NOUN_CHUNK,PERCENT
+172,longer exposure,cause,rapidly worsening health impacts,NOUN_CHUNK,NOUN_CHUNK
+173,Humans,survive,exposure,NOUN_CHUNK,NOUN_CHUNK
+174,acute events,affect,grid,NOUN_CHUNK,NOUN_CHUNK
+175,Extreme heat,disrupting,global air travel,NOUN_CHUNK,NOUN_CHUNK
+176,hazards,trigger,widespread internal external displacement,NOUN_CHUNK,NOUN_CHUNK
+177,primary residences,the sector,42 percent,NOUN_CHUNK,PERCENT
+178,Flooding,damage,housing,NOUN_CHUNK,NOUN_CHUNK
+179,property values,reducing,property tax revenues,NOUN_CHUNK,NOUN_CHUNK
+180,flood exposed homes,total,$10 billion to $30 billion,NOUN_CHUNK,MONEY
+181,Regulators,certify,planes,NOUN_CHUNK,NOUN_CHUNK
+182,planes,require,combination,NOUN_CHUNK,NOUN_CHUNK
+183,Adaptation,require,coordinated action,NOUN_CHUNK,NOUN_CHUNK
+184,Conditions,push,conditions,NOUN_CHUNK,NOUN_CHUNK
+185,effects,push,34 ° C wet bulb heat waves,NOUN_CHUNK,NOUN_CHUNK
+186,bodies,will,protectively.fatigue,NOUN_CHUNK,NOUN_CHUNK
+187,India,has,potential,GPE,NOUN_CHUNK
+188,cities,shifted,albedo,NOUN_CHUNK,NOUN_CHUNK
+189,Rising temperatures,affect,the Mediterranean,NOUN_CHUNK,LOC
+190,Climate.scientists,expect,increase,NOUN_CHUNK,NOUN_CHUNK
+191,countries,experience,shifts,NOUN_CHUNK,NOUN_CHUNK
+192,grains,make,almost half,NOUN_CHUNK,CARDINAL
+193,limited reductions,triggered,episodes,NOUN_CHUNK,NOUN_CHUNK
+194,15 percent drop,cause,ratios,NOUN_CHUNK,NOUN_CHUNK
+195,private sector,store,grains,NOUN_CHUNK,NOUN_CHUNK
+196,transparent shading,indicates,lower density,NOUN_CHUNK,NOUN_CHUNK
+197,GDP,drop,about 3 percent,NOUN_CHUNK,PERCENT
+198,loss,Our project,2 percent likelihood,NOUN_CHUNK,NOUN_CHUNK
+199,Rising sea.levels,push,saltwater,NOUN_CHUNK,NOUN_CHUNK
+200,Climate hazards,have,direct impact,NOUN_CHUNK,NOUN_CHUNK
+201,Damages,drive,prices,NOUN_CHUNK,NOUN_CHUNK
+202,price effects,For,property tax revenue,NOUN_CHUNK,NOUN_CHUNK
+203,level rise,drives,increased tidal flooding frequency,NOUN_CHUNK,NOUN_CHUNK
+204,lower real estate prices,have,knock effects,NOUN_CHUNK,NOUN_CHUNK
+205,Hurricane Harvey,Texas,Houston,EVENT,GPE
+206,18.Supply chains,face,different knock effects,NOUN_CHUNK,NOUN_CHUNK
+207,Player,experiencing,negative knock effects,NOUN_CHUNK,NOUN_CHUNK
+208,Player,experiencing,competitive advantage,NOUN_CHUNK,NOUN_CHUNK
+209,only a few millimeters,cause,disruption,QUANTITY,NOUN_CHUNK
+210,80-mile winds,downed,25 percent,NOUN_CHUNK,PERCENT
+211,heat waves,reduce,overall grid capacity,NOUN_CHUNK,NOUN_CHUNK
+212,I. Solar panels,lose,efficiency,NOUN_CHUNK,NOUN_CHUNK
+213,Inundation,disrupt,40%,NOUN_CHUNK,PERCENT
+214,Rising temperatures,drive,air conditioning,NOUN_CHUNK,NOUN_CHUNK
+215,heat,reduces,grid efficiency,NOUN_CHUNK,NOUN_CHUNK
+216,what.will,projected,200‑year event,NOUN_CHUNK,NOUN_CHUNK
+217,assets,include,5 percent,NOUN_CHUNK,PERCENT
+218,Value,includes,loss,NOUN_CHUNK,NOUN_CHUNK
+219,Climate change,having,substantial impact,NOUN_CHUNK,NOUN_CHUNK
+220,glaciers,expected,water,NOUN_CHUNK,NOUN_CHUNK
+221,Forests,cover,nearly one-third,NOUN_CHUNK,CARDINAL
+222,biosphere.currently,absorbs,approximately 30 percent,ORG,PERCENT
+223,changing climate,increase,migration,NOUN_CHUNK,NOUN_CHUNK
+224,44 countries,2050,increase,NOUN_CHUNK,NOUN_CHUNK
+225,individual countries,identify,nature,NOUN_CHUNK,NOUN_CHUNK
+226,minimum skillful predictive scale,prevented,creation,NOUN_CHUNK,NOUN_CHUNK
+227,2.Methodology,used,geospatial data,NOUN_CHUNK,NOUN_CHUNK
+228,IHS Markit Economics and Country,changing.in,systems framework,ORG,NOUN_CHUNK
+229,numerator,reflects,global.capital stock,NOUN_CHUNK,NOUN_CHUNK
+230,cases.the magnitude,accounted,different forms.national global level,NOUN_CHUNK,NOUN_CHUNK
+231,analytical process,left,set,NOUN_CHUNK,NOUN_CHUNK
+232,hazard data,includes,data,NOUN_CHUNK,NOUN_CHUNK
+233,Growing climate hazards,put,millions,NOUN_CHUNK,CARDINAL
+234,UNEP,identified,adaptation costs,ORG,NOUN_CHUNK
+235,the GCA,calculated,necessary adaptation investments,ORG,NOUN_CHUNK
+236,the GCA,identified,categories,ORG,NOUN_CHUNK
+237,discussion,excludes,variety,NOUN_CHUNK,NOUN_CHUNK
+238,discussion,include,lethal heat waves,NOUN_CHUNK,NOUN_CHUNK
+239,geospatial analysis,assumes,sufficient adaptation,NOUN_CHUNK,NOUN_CHUNK
+240,economists,treat,climate                   investment,NOUN_CHUNK,NOUN_CHUNK
+241,second macro approach,has,damage functions,NOUN_CHUNK,NOUN_CHUNK
+242,IAMs,produce,estimates,NOUN_CHUNK,NOUN_CHUNK
+243,Nordhaus framework,supports,deep cuts,NOUN_CHUNK,NOUN_CHUNK
+244,Nordhaus framework,supports,deep cuts,NOUN_CHUNK,NOUN_CHUNK
+245,approaches,reflect,high degree,NOUN_CHUNK,NOUN_CHUNK
+246,8,expand,productive capacity,CARDINAL,NOUN_CHUNK
+247,natural disasters,A meta-analysis,long run growth,NOUN_CHUNK,NOUN_CHUNK
+248,compounding                      analysis,excludes,grid cells,NOUN_CHUNK,NOUN_CHUNK
+249,57 countries,increase,decrease,NOUN_CHUNK,NOUN_CHUNK
+250,global temperature increase,has,considerable upward uncertainty,NOUN_CHUNK,NOUN_CHUNK
+251,23.Countries,see,increase,NOUN_CHUNK,NOUN_CHUNK
+252,shifts,affect.agricultural,GDP,NOUN_CHUNK,NOUN_CHUNK
+253,Europe,experience,net agricultural benefits,LOC,NOUN_CHUNK
+254,China,see,expected yields,GPE,NOUN_CHUNK
+255,analysis,require,use,NOUN_CHUNK,NOUN_CHUNK
+256,limitations,include,focus,NOUN_CHUNK,NOUN_CHUNK
+257,researchers,attempted,similar estimates,NOUN_CHUNK,NOUN_CHUNK
+258,Cambridge Risk Studies Centre,classifies,tail hurricane event,NOUN_CHUNK,NOUN_CHUNK
+259,Cambridge Risk Studies Centre,finds,Natural capital,NOUN_CHUNK,NOUN_CHUNK
+260,25 percent,experienced,shift in.climate classification,PERCENT,NOUN_CHUNK
+261,Köppen climate system,divides,climates,NOUN_CHUNK,NOUN_CHUNK
+262,group,includes,the Philippines,NOUN_CHUNK,GPE
+263,group,includes,Colombia,NOUN_CHUNK,GPE
+264,group,includes,Egypt,NOUN_CHUNK,GPE
+265,Countries,face,projected reduction,NOUN_CHUNK,NOUN_CHUNK
+266,share,changing,climate classification,NOUN_CHUNK,NOUN_CHUNK
+267,group,includes,Germany,NOUN_CHUNK,GPE
+268,Examples,include,Argentina,NOUN_CHUNK,GPE
+269,countries,experience,diversity,NOUN_CHUNK,NOUN_CHUNK
+270,24.We,identify,types,NOUN_CHUNK,NOUN_CHUNK
+271,workability,services,capital,NOUN_CHUNK,NOUN_CHUNK
+272,Country,heat,waves1,NOUN_CHUNK,NOUN_CHUNK
+273,Climate change,yields,countries,NOUN_CHUNK,NOUN_CHUNK
+274,Bangladesh,have,relatively low GDP levels,GPE,NOUN_CHUNK
+275,27.Countries,face,biggest increase,NOUN_CHUNK,NOUN_CHUNK
+276,report,requires,use,NOUN_CHUNK,NOUN_CHUNK
+277,Lack,increases,risks,NOUN_CHUNK,NOUN_CHUNK
+278,systemic nature,requires,holistic approach,NOUN_CHUNK,NOUN_CHUNK
+279,Hardening,include,gray infrastructure,NOUN_CHUNK,NOUN_CHUNK
+280,Mangroves,provide,storm.protection,NOUN_CHUNK,NOUN_CHUNK
+281,important aspect,understanding,impact thresholds,NOUN_CHUNK,NOUN_CHUNK
+282,Quebec,prohibited,building,GPE,NOUN_CHUNK
+283,homes,require,mandatory participation,NOUN_CHUNK,NOUN_CHUNK
+284,Canada,tries,forceful message,GPE,NOUN_CHUNK
+285,Paris Agreement climate proposals,need,boost,NOUN_CHUNK,NOUN_CHUNK
+286,Knock impacts,influencing,factors,NOUN_CHUNK,NOUN_CHUNK
+287,X - year event,change,and.grouped,NOUN_CHUNK,NOUN_CHUNK
+288,Institute.independently,reviewed,methodological design,NOUN_CHUNK,NOUN_CHUNK
+289,The World Climate Research Programme,brought,      climate models,ORG,NOUN_CHUNK
+290,models,across,measure,NOUN_CHUNK,NOUN_CHUNK
+291,Climate simulations,show,small.divergence,NOUN_CHUNK,NOUN_CHUNK
+292,RCPs,current CO2 concentrations,lower CO2 concentrations,NOUN_CHUNK,NOUN_CHUNK
+293,Each RCP,predicts,global average,ORG,NOUN_CHUNK
+294,climate change,points,economic output,NOUN_CHUNK,NOUN_CHUNK
+295,Real estate prices,reflect,expectations,NOUN_CHUNK,NOUN_CHUNK
+296,buyers,recognize,future climate risk,NOUN_CHUNK,NOUN_CHUNK
+297,Description,Evaluate,direct impacts,NOUN_CHUNK,NOUN_CHUNK
+298,exposure,Assumes,impacts,NOUN_CHUNK,NOUN_CHUNK
+299,Hurricane,hits,coastal real estate                                     Physical assets                        step change,NOUN_CHUNK,NOUN_CHUNK
+300,Types,stress,prices,NOUN_CHUNK,NOUN_CHUNK
+301,storm,surge,implementation,NOUN_CHUNK,NOUN_CHUNK
+302,Physiological eg % impact,Identify,types,NOUN_CHUNK,NOUN_CHUNK
+303,cases,represent,leading edge examples,NOUN_CHUNK,NOUN_CHUNK
+304,wet bulb temperature,exceed,survivability threshold,NOUN_CHUNK,NOUN_CHUNK
+305,Large cities,push,34 degrees,NOUN_CHUNK,QUANTITY
+306,indicators,include,share,NOUN_CHUNK,NOUN_CHUNK
+307,CMIP5 models,have,poor representation,NOUN_CHUNK,NOUN_CHUNK
+308,results,set,non - zero probability,NOUN_CHUNK,NOUN_CHUNK
+309,countries,show,robust trends,NOUN_CHUNK,NOUN_CHUNK
+310,robust analysis,noted,use,NOUN_CHUNK,NOUN_CHUNK
+311,A2.We,identify,types,NOUN_CHUNK,NOUN_CHUNK
+312,ability,exposed,climate,NOUN_CHUNK,NOUN_CHUNK
+313,drought,exposed,climate,NOUN_CHUNK,NOUN_CHUNK
+314,Country,heat,waves1,NOUN_CHUNK,NOUN_CHUNK
+315,A4.We,identify,types,NOUN_CHUNK,NOUN_CHUNK
+316,drought,exposed,climate,NOUN_CHUNK,NOUN_CHUNK
+317,drought,exposed,climate,NOUN_CHUNK,NOUN_CHUNK
+318,A6.We,identify,types,NOUN_CHUNK,NOUN_CHUNK
+319,drought,exposed,climate,NOUN_CHUNK,NOUN_CHUNK
+320,Country,heat,waves1,NOUN_CHUNK,NOUN_CHUNK
+321,drought,exposed,climate,NOUN_CHUNK,NOUN_CHUNK
+322,Climate,Has,world.impacts,NOUN_CHUNK,NOUN_CHUNK
+323,Final report,made,progress,NOUN_CHUNK,NOUN_CHUNK
+324,Atmospheric            ,places,sewerage systems,NOUN_CHUNK,NOUN_CHUNK
+325,Estimated work       model multi-member ensembles to.ability,assess,climate change impacts,ORG,NOUN_CHUNK
+326,Policies,uses,sustainability and.and Agriculture,NOUN_CHUNK,NOUN_CHUNK
+327,Lascell,yield,potential yield gap,ORG,NOUN_CHUNK
+328,Basin,reveals,winners,NOUN_CHUNK,NOUN_CHUNK
+329,Millar,consistent,Environments,PERSON,NOUN_CHUNK
+330,Newman,Exploring,rail transit construction costs,PERSON,NOUN_CHUNK
+331,Issue,effects,property values,NOUN_CHUNK,NOUN_CHUNK
+332,waves,threaten,global biodiversity,NOUN_CHUNK,NOUN_CHUNK

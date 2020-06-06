@@ -1,0 +1,288 @@
+,subject,relation,object,subject_type,object_type
+0,research agenda,lead,high-impact.the insights,NOUN_CHUNK,NOUN_CHUNK
+1,Anu Madgavkar,advise,MGI research,PERSON,NOUN_CHUNK
+2,Current research,focuses,business,NOUN_CHUNK,NOUN_CHUNK
+3,world,Changing,page,NOUN_CHUNK,NOUN_CHUNK
+4,Questions,page,76.Acknowledgments,NOUN_CHUNK,NOUN_CHUNK
+5,industry,boost,productivity,NOUN_CHUNK,NOUN_CHUNK
+6,Retailers,offer,seamless,NOUN_CHUNK,NOUN_CHUNK
+7,opportunities,are,inventory management,NOUN_CHUNK,NOUN_CHUNK
+8,use cases,introduce,data,NOUN_CHUNK,NOUN_CHUNK
+9,cycles,leading,connectivity providers,ORG,NOUN_CHUNK
+10,industry players,put,upgrades,NOUN_CHUNK,NOUN_CHUNK
+11,India,modernized,India,GPE,GPE
+12,promise,captured,attention,NOUN_CHUNK,NOUN_CHUNK
+13,value,This.implies,trillions of dollars,NOUN_CHUNK,MONEY
+14,connectivity,has,ramifications,NOUN_CHUNK,NOUN_CHUNK
+15,Connectivity,undergoing,evolutionary change,NOUN_CHUNK,NOUN_CHUNK
+16,Existing connectivity technologies,expanding,Existing connectivity technologies,NOUN_CHUNK,NOUN_CHUNK
+17,Exhibit E1.Connectivity technologies,taking,strides,NOUN_CHUNK,NOUN_CHUNK
+18,providers,upgrading,existing 4 G infrastructure,NOUN_CHUNK,NOUN_CHUNK
+19,low- mid - frequency 5 G networks,offer,significant,NOUN_CHUNK,NOUN_CHUNK
+20,satellite constellations,represent,radical departure.2,NOUN_CHUNK,NOUN_CHUNK
+21,mid - band 5G. Low earth orbit LEO satellites,deliver,breakthrough,NOUN_CHUNK,NOUN_CHUNK
+22,broadband,bring,coverage,NOUN_CHUNK,NOUN_CHUNK
+23,Advanced frontier connectivity,enable,new capabilities,NOUN_CHUNK,NOUN_CHUNK
+24,consumers,power,internet,NOUN_CHUNK,NOUN_CHUNK
+25,LEO satellites,provide,true global coverage,NOUN_CHUNK,NOUN_CHUNK
+26,Connected devices,transform,healthcare,NOUN_CHUNK,NOUN_CHUNK
+27,use cases,free,additional investment,NOUN_CHUNK,NOUN_CHUNK
+28,Manufacturing,run,highly precise operations,NOUN_CHUNK,NOUN_CHUNK
+29,growing number,incorporate,features,NOUN_CHUNK,NOUN_CHUNK
+30,      GDP impact,reach,$400 billion to $650 billion,NOUN_CHUNK,MONEY
+31,large representative cross - section,include,industrial consumer facing businesses,NOUN_CHUNK,NOUN_CHUNK
+32,5 G,“Five ways,manufacturing,NOUN_CHUNK,NOUN_CHUNK
+33,recommendations,increase,sales,NOUN_CHUNK,NOUN_CHUNK
+34,use cases,boost,GDP,NOUN_CHUNK,NOUN_CHUNK
+35,management,has,applicability,NOUN_CHUNK,NOUN_CHUNK
+36,critical applications,has,value,NOUN_CHUNK,NOUN_CHUNK
+37,value,use,cases,NOUN_CHUNK,NOUN_CHUNK
+38,Advanced frontier connectivity,generate,trillions of dollars,NOUN_CHUNK,MONEY
+39,cases,reach,mass adoption,NOUN_CHUNK,NOUN_CHUNK
+40,E2.We,analyzed,use cases,NOUN_CHUNK,NOUN_CHUNK
+41,Connectivity,unlock,value,NOUN_CHUNK,NOUN_CHUNK
+42,20-30%,Identified,impact,PERCENT,NOUN_CHUNK
+43,Data,complexities,Deployment constraints,NOUN_CHUNK,NOUN_CHUNK
+44,use cases,require,data sharing,NOUN_CHUNK,NOUN_CHUNK
+45,firms,postponed,asset,NOUN_CHUNK,NOUN_CHUNK
+46,competitive dynamics,forcing,providers,NOUN_CHUNK,NOUN_CHUNK
+47,China,retain,China India unique status,GPE,NOUN_CHUNK
+48,China,poured,huge investment,GPE,NOUN_CHUNK
+49,China,building,backbone,GPE,NOUN_CHUNK
+50,form,reach,as much as 80 percent,NOUN_CHUNK,PERCENT
+51,coverage rates,exceed,90 percent,NOUN_CHUNK,PERCENT
+52,World,reach,only around 60 percent,ORG,PERCENT
+53,affordability,limit,affordability adoption,NOUN_CHUNK,NOUN_CHUNK
+54,countries,enjoy,high fiber coverage rates,NOUN_CHUNK,NOUN_CHUNK
+55,Frontier connectivity,drives,required investment,NOUN_CHUNK,NOUN_CHUNK
+56,efficiency benefits,justify,deployment,NOUN_CHUNK,NOUN_CHUNK
+57,end,require,some $700 billion to $900 billion,NOUN_CHUNK,MONEY
+58,Leaders,capture,share,NOUN_CHUNK,NOUN_CHUNK
+59,Build outs,demand,major investment,NOUN_CHUNK,NOUN_CHUNK
+60,research,raises,questions,NOUN_CHUNK,NOUN_CHUNK
+61,offerings,gain,traction,NOUN_CHUNK,NOUN_CHUNK
+62,changes,Verizon’s recent 5G Edge computing partnership.19,meaningful,NOUN_CHUNK,NOUN_CHUNK
+63,applications,change,dynamic,NOUN_CHUNK,NOUN_CHUNK
+64,2 billion new consumers,follow,pattern,NOUN_CHUNK,NOUN_CHUNK
+65,Brian Heater,announce,5 G Edge computing partnership,PERSON,NOUN_CHUNK
+66,governments.have,played,hands role,NOUN_CHUNK,NOUN_CHUNK
+67,Today technology,heeds,commands,NOUN_CHUNK,NOUN_CHUNK
+68,Consumers,enjoy,instant high definition video streaming,NOUN_CHUNK,NOUN_CHUNK
+69,Connectivity technologies,taking,strides,NOUN_CHUNK,NOUN_CHUNK
+70,users,possible,sophisticated applications,NOUN_CHUNK,NOUN_CHUNK
+71,5 G networks,commanded,great deal,NOUN_CHUNK,NOUN_CHUNK
+72,Existing connectivity technologies,penetrating,       domains,NOUN_CHUNK,NOUN_CHUNK
+73,1.Connectivity technologies,taking,strides,NOUN_CHUNK,NOUN_CHUNK
+74,providers,upgrading,existing 4 G infrastructure,NOUN_CHUNK,NOUN_CHUNK
+75,generation,improve,speeds,NOUN_CHUNK,NOUN_CHUNK
+76,Wi-Fi 6,make,biggest difference,ORG,NOUN_CHUNK
+77,Wi-Fi 6,extends,battery,ORG,NOUN_CHUNK
+78,mid - band 5 G,achieve,speeds,NOUN_CHUNK,NOUN_CHUNK
+79,identification,have,applications,NOUN_CHUNK,NOUN_CHUNK
+80,LPWANs,with,power,NOUN_CHUNK,NOUN_CHUNK
+81,5 G networks,represent,step,NOUN_CHUNK,NOUN_CHUNK
+82,generation,promise,substantial improvements,NOUN_CHUNK,NOUN_CHUNK
+83,Standalone 5 G,includes,the new 5G Packet Core,NOUN_CHUNK,ORG
+84,High band 5 G,offers,speeds,NOUN_CHUNK,NOUN_CHUNK
+85,LEO satellites,provide,coverage,NOUN_CHUNK,NOUN_CHUNK
+86,billion,connected,IoT devices,NOUN_CHUNK,NOUN_CHUNK
+87,logistics networks,access,computing,NOUN_CHUNK,NOUN_CHUNK
+88,stage,reflects,improvements,NOUN_CHUNK,NOUN_CHUNK
+89,Advanced frontier connectivity,setting,new,NOUN_CHUNK,NOUN_CHUNK
+90,Edge computing,makes,leap,NOUN_CHUNK,NOUN_CHUNK
+91,while.much,playing,catch,NOUN_CHUNK,NOUN_CHUNK
+92,Factory workers,use,augmented reality glasses,NOUN_CHUNK,NOUN_CHUNK
+93,the IoT,deliver,precision irrigation,ORG,NOUN_CHUNK
+94,sensors,monitor,public infrastructure systems,NOUN_CHUNK,NOUN_CHUNK
+95,disaster management,broaden,reach,NOUN_CHUNK,NOUN_CHUNK
+96,connectivity ecosystem,has,players,NOUN_CHUNK,NOUN_CHUNK
+97,entry,reshaping,connectivity ecosystem,NOUN_CHUNK,NOUN_CHUNK
+98,falls,Economist,another.computer revolution,NOUN_CHUNK,NOUN_CHUNK
+99,Conventional providers,face,challenge,NOUN_CHUNK,NOUN_CHUNK
+100,operators,overcome,technical barriers,NOUN_CHUNK,NOUN_CHUNK
+101,oversupply,make,revenues,NOUN_CHUNK,NOUN_CHUNK
+102,roadblocks,have,little,NOUN_CHUNK,NOUN_CHUNK
+103,role.governments play,influence,connectivity markets,NOUN_CHUNK,NOUN_CHUNK
+104,Future spectrum.costs,increase,capital expenditures,NOUN_CHUNK,NOUN_CHUNK
+105,Reliability,implies,absence,NOUN_CHUNK,NOUN_CHUNK
+106,improvements,represent,building block,NOUN_CHUNK,NOUN_CHUNK
+107,consumers,power,internet,NOUN_CHUNK,NOUN_CHUNK
+108,use cases,give,rise,NOUN_CHUNK,NOUN_CHUNK
+109,hundreds of millions,live,huge portion,CARDINAL,NOUN_CHUNK
+110,productivity growth,Some 85 percent,moves,NOUN_CHUNK,NOUN_CHUNK
+111,43 Consumers,drive,larger share,NOUN_CHUNK,NOUN_CHUNK
+112,internet,feeding,insatiable appetite,NOUN_CHUNK,NOUN_CHUNK
+113,productivity growth,"YouTube, video consumption accounts",internet traffic,NOUN_CHUNK,NOUN_CHUNK
+114,3.Consumers,generate,majority,NOUN_CHUNK,NOUN_CHUNK
+115,small group,these markets,unusual share,NOUN_CHUNK,NOUN_CHUNK
+116,households,generate,more than 40 percent,NOUN_CHUNK,PERCENT
+117,households,use,fixed internet,NOUN_CHUNK,NOUN_CHUNK
+118,sources,drive,demand,NOUN_CHUNK,NOUN_CHUNK
+119,key developments,affect,demand,NOUN_CHUNK,NOUN_CHUNK
+120,new connectivity technologies,operate,variety,NOUN_CHUNK,NOUN_CHUNK
+121,type,offers,chance,NOUN_CHUNK,NOUN_CHUNK
+122,47 Providers,offer,basic packages,NOUN_CHUNK,NOUN_CHUNK
+123,Exhibit,drive,massive online video traffic,NOUN_CHUNK,NOUN_CHUNK
+124,Number,use,Bitrate,NOUN_CHUNK,NOUN_CHUNK
+125,Network slicing,affect,cellular connected services efficiency,NOUN_CHUNK,NOUN_CHUNK
+126,settings,adding,demand,NOUN_CHUNK,NOUN_CHUNK
+127,technologies,require,connectivity,NOUN_CHUNK,NOUN_CHUNK
+128,Approximately 55 to 65 percent,deliver,productivity,PERCENT,NOUN_CHUNK
+129,productivity,improve,labor asset or.resource productivity,NOUN_CHUNK,NOUN_CHUNK
+130,large representative cross - section,include,industrial consumer facing businesses,NOUN_CHUNK,NOUN_CHUNK
+131,7.We,analyzed,use cases,NOUN_CHUNK,NOUN_CHUNK
+132,Connectivity,unlock,value,NOUN_CHUNK,NOUN_CHUNK
+133,Example Tools,Increase,Remote monitoring            Enhancing product        New products,NOUN_CHUNK,NOUN_CHUNK
+134,Frontier connectivity,analyze.enormous,quantities,NOUN_CHUNK,NOUN_CHUNK
+135,extent,have,meaningful.impact,NOUN_CHUNK,NOUN_CHUNK
+136,World Bank literature review,finds,economic,NOUN_CHUNK,NOUN_CHUNK
+137,economic growth,see,World development report,NOUN_CHUNK,NOUN_CHUNK
+138,share,remaining,under-,NOUN_CHUNK,NOUN_CHUNK
+139,newly online population,gain,intermediate,NOUN_CHUNK,NOUN_CHUNK
+140,advanced frontier connectivity,provide,companies,NOUN_CHUNK,NOUN_CHUNK
+141,Connectivity,underpins,major changes,NOUN_CHUNK,NOUN_CHUNK
+142,The decade ahead,promises,bigger shifts,DATE,NOUN_CHUNK
+143,new type,has,dimensions,NOUN_CHUNK,NOUN_CHUNK
+144,multiple types,estimate,some $15 billion,NOUN_CHUNK,MONEY
+145,Manufacturers,monitor,condition,NOUN_CHUNK,NOUN_CHUNK
+146,Service offerings,include,unsupervised towing,NOUN_CHUNK,NOUN_CHUNK
+147,Predictive maintenance,represents,potential new revenue pool,NOUN_CHUNK,NOUN_CHUNK
+148,passengers,optimize,passengers routes,NOUN_CHUNK,NOUN_CHUNK
+149,V2P,connects,vehicles,NOUN_CHUNK,NOUN_CHUNK
+150,enhanced connectivity,accelerate,development,NOUN_CHUNK,NOUN_CHUNK
+151,connections,enable,live software updates,NOUN_CHUNK,NOUN_CHUNK
+152,capabilities,create,meaningful value,NOUN_CHUNK,NOUN_CHUNK
+153,improved connectivity,enable,80 innovations,NOUN_CHUNK,NOUN_CHUNK
+154,market,given,rise,NOUN_CHUNK,NOUN_CHUNK
+155,automakers,need,relevant expertise,NOUN_CHUNK,NOUN_CHUNK
+156,Connectivity infrastructure              Backbone,include,5 G,NOUN_CHUNK,NOUN_CHUNK
+157,plausible scenario,see,major tech player,NOUN_CHUNK,NOUN_CHUNK
+158,multiple tech players,own,functional platforms,NOUN_CHUNK,NOUN_CHUNK
+159,traditional automotive parts manufacturers,regard,mobility,NOUN_CHUNK,NOUN_CHUNK
+160,Automakers,consider,similar approach,NOUN_CHUNK,NOUN_CHUNK
+161,systems,platforms,deep capabilities,NOUN_CHUNK,NOUN_CHUNK
+162,monetizing car data,require,real digital ecosystems,NOUN_CHUNK,NOUN_CHUNK
+163,consumers,decline,personal data tracking,NOUN_CHUNK,NOUN_CHUNK
+164,digitized healthcare system,also.have,significant indirect effects,NOUN_CHUNK,NOUN_CHUNK
+165,resulting data,transmitted.on,advanced mobile connection,NOUN_CHUNK,NOUN_CHUNK
+166,Remote monitoring,help,patients,NOUN_CHUNK,NOUN_CHUNK
+167,analysis,includes,85 use cases,NOUN_CHUNK,NOUN_CHUNK
+168,Patients,wear,sensors,NOUN_CHUNK,NOUN_CHUNK
+169,Frontier.connectivity,give,remote patient monitoring systems,NOUN_CHUNK,NOUN_CHUNK
+170,tools,AI-enabled decision support solutions,latest information,NOUN_CHUNK,NOUN_CHUNK
+171,enhanced connectivity,foster,wider use,NOUN_CHUNK,NOUN_CHUNK
+172,Telemedicine,provide,access,NOUN_CHUNK,NOUN_CHUNK
+173,Advanced technologies,improve,patient outcomes,NOUN_CHUNK,NOUN_CHUNK
+174,researchers,concept,vast genomic datasets,NOUN_CHUNK,NOUN_CHUNK
+175,system,monitoring,patients,NOUN_CHUNK,NOUN_CHUNK
+176,Israel largest healthcare organization,using,IoT based smart cabinets,NOUN_CHUNK,NOUN_CHUNK
+177,14 hospitals,accelerate,digital transformation,NOUN_CHUNK,NOUN_CHUNK
+178,Technology connectivity providers,play,bigger role,NOUN_CHUNK,NOUN_CHUNK
+179,Automakers,use,private 5 G networks,NOUN_CHUNK,NOUN_CHUNK
+180,mid - sized companies,follow,suit,NOUN_CHUNK,NOUN_CHUNK
+181,Frontier connectivity,paves,way,NOUN_CHUNK,NOUN_CHUNK
+182,Pickit,created,robots,NOUN_CHUNK,NOUN_CHUNK
+183,Companies,capture,significant value,NOUN_CHUNK,NOUN_CHUNK
+184,companies,retrofit,old equipment,NOUN_CHUNK,NOUN_CHUNK
+185,companies,important,equipment,NOUN_CHUNK,NOUN_CHUNK
+186,R&D,generate,some $45 billion to $75 billion,NOUN_CHUNK,MONEY
+187,AI,improve,visual inspections,NOUN_CHUNK,NOUN_CHUNK
+188,Early movers,started,5 G partnerships,NOUN_CHUNK,NOUN_CHUNK
+189,Telefónica,with,private 5 G network,ORG,NOUN_CHUNK
+190,good starting point,leveraging,experience,NOUN_CHUNK,NOUN_CHUNK
+191,Audi,release,5 G,ORG,NOUN_CHUNK
+192,Volkswagen,release,Industrial Cloud,ORG,ORG
+193,Industry 4.0 applications,expected,traction,NOUN_CHUNK,NOUN_CHUNK
+194,digital,drives,choices,NOUN_CHUNK,NOUN_CHUNK
+195,roughly half,used,omnichannel services,CARDINAL,NOUN_CHUNK
+196,Customers,take,Customers,NOUN_CHUNK,NOUN_CHUNK
+197,one-third,flip,social media accounts,CARDINAL,NOUN_CHUNK
+198,types,include,multiple types,NOUN_CHUNK,NOUN_CHUNK
+199,trends,pass,tipping point,NOUN_CHUNK,NOUN_CHUNK
+200,cases,span,entire retail value chain,NOUN_CHUNK,NOUN_CHUNK
+201,shift,pushing,retailers,NOUN_CHUNK,NOUN_CHUNK
+202,visibility,unlock,great deal,NOUN_CHUNK,NOUN_CHUNK
+203,management tools,generate,about $5 billion to $10 billion,NOUN_CHUNK,MONEY
+204,computer vision,requires,significant computing power,NOUN_CHUNK,NOUN_CHUNK
+205,E - commerce,raised,bar,NOUN_CHUNK,NOUN_CHUNK
+206,One,eliminating,checkout,CARDINAL,NOUN_CHUNK
+207,payment beacons,enable,shoppers,NOUN_CHUNK,NOUN_CHUNK
+208,Checkout optimization,generate,up to $125 billion to $200 billion,NOUN_CHUNK,MONEY
+209,Advanced connectivity,support,a new level of.personalization,NOUN_CHUNK,PRODUCT
+210,Personalization,boost,total sales,NOUN_CHUNK,NOUN_CHUNK
+211,fewer than 10 percent,Yet a recent McKinsey survey.found,strategies,PERCENT,NOUN_CHUNK
+212,Implications,experienced,significant disruption,NOUN_CHUNK,NOUN_CHUNK
+213,connectivity technology service providers,develop,systems,NOUN_CHUNK,NOUN_CHUNK
+214,Subscale players,have,limited access,NOUN_CHUNK,NOUN_CHUNK
+215,Standard Cognition,set,checkout free payment systems,NOUN_CHUNK,NOUN_CHUNK
+216,Activities,managed,Activities,NOUN_CHUNK,NOUN_CHUNK
+217,High                                                 Retailers,scale,Low,NOUN_CHUNK,NOUN_CHUNK
+218,Only 40 percent,posted,rising gross margins,PERCENT,NOUN_CHUNK
+219,customers,embrace,convenience,NOUN_CHUNK,NOUN_CHUNK
+220,analysis,suggests,barriers,NOUN_CHUNK,NOUN_CHUNK
+221,Value chain coordination,Use,case fragmentation,NOUN_CHUNK,NOUN_CHUNK
+222,remote monitoring,has,clear benefits,NOUN_CHUNK,NOUN_CHUNK
+223,vehicle to-.infrastructure,involve,public infrastructure.providers,NOUN_CHUNK,NOUN_CHUNK
+224,hundreds,represent,relatively small fraction,CARDINAL,NOUN_CHUNK
+225,and.stakeholders,see,value potential,NOUN_CHUNK,NOUN_CHUNK
+226,Misaligned incentives,slow,adoption,NOUN_CHUNK,NOUN_CHUNK
+227,healthcare innovations,improve,patient,NOUN_CHUNK,NOUN_CHUNK
+228,potential solution,directing,public funding,NOUN_CHUNK,NOUN_CHUNK
+229,5 G Plus strategy,includes,$27 billion,NOUN_CHUNK,MONEY
+230,direct support initiatives,include,subsidizing,NOUN_CHUNK,NOUN_CHUNK
+231,Policy makers,play,key role,NOUN_CHUNK,NOUN_CHUNK
+232,firms,postponed,asset upgrades,NOUN_CHUNK,NOUN_CHUNK
+233,Governments,establish,clear thoughtful legal frameworks,NOUN_CHUNK,NOUN_CHUNK
+234,market,determine,country timeline,NOUN_CHUNK,NOUN_CHUNK
+235,price competition,lower average revenue,margins peers,NOUN_CHUNK,NOUN_CHUNK
+236,deployment,limit,accessibility,NOUN_CHUNK,NOUN_CHUNK
+237,China,poured,huge amounts,GPE,NOUN_CHUNK
+238,number,hit,800 million,NOUN_CHUNK,CARDINAL
+239,low subscription prices,challenging,commercial viability,NOUN_CHUNK,NOUN_CHUNK
+240,mid-band 5G,upgrade,infrastructure,ORG,NOUN_CHUNK
+241,capacity,determine,viability,ORG,NOUN_CHUNK
+242,providers,work,some 80 percent,NOUN_CHUNK,PERCENT
+243,BharatNet,links,1.29 lakh panchayats,ORG,NOUN_CHUNK
+244,true high band 5 G network,requires,more.tailored infrastructure,NOUN_CHUNK,NOUN_CHUNK
+245,frontier networks,reach,between 5 to.15 percent,NOUN_CHUNK,PERCENT
+246,affordability,limit,affordability adoption,NOUN_CHUNK,NOUN_CHUNK
+247,China,deploying,new networks,GPE,NOUN_CHUNK
+248,2 billion people,include,affordability,NOUN_CHUNK,NOUN_CHUNK
+249,demographic economic shifts,appear,likely draw.a billion people,NOUN_CHUNK,NOUN_CHUNK
+250,population growth,add,400 million new mobile internet,NOUN_CHUNK,NOUN_CHUNK
+251,urbanization,likely.bring,150 million currently unconnected rural inhabitants,NOUN_CHUNK,NOUN_CHUNK
+252,people,lack,network coverage,NOUN_CHUNK,NOUN_CHUNK
+253,Incremental difference.could,boost,global GDP,ORG,NOUN_CHUNK
+254,Connectivity providers,face,tough road,NOUN_CHUNK,NOUN_CHUNK
+255,rollout,demands,major investment,NOUN_CHUNK,NOUN_CHUNK
+256,World Bank literature review,finds,economic,NOUN_CHUNK,NOUN_CHUNK
+257,economic growth,see,World development report,NOUN_CHUNK,NOUN_CHUNK
+258,Providers,posted,stable revenues,NOUN_CHUNK,NOUN_CHUNK
+259,providers,face,unique challenges,NOUN_CHUNK,NOUN_CHUNK
+260,Providers,expand,Providers,NOUN_CHUNK,NOUN_CHUNK
+261,figures,contain,world,NOUN_CHUNK,NOUN_CHUNK
+262,growth requirements,cover,expected increases,NOUN_CHUNK,NOUN_CHUNK
+263,Followers,Trailing,China                  India,NOUN_CHUNK,GPE
+264,number,merit,exploration,NOUN_CHUNK,NOUN_CHUNK
+265,connectivity providers,solve,monetization puzzle,NOUN_CHUNK,NOUN_CHUNK
+266,providers,claim,bigger partnership role,NOUN_CHUNK,NOUN_CHUNK
+267,Enhanced connectivity,open,opportunities,NOUN_CHUNK,NOUN_CHUNK
+268,changes,have,meaningful,NOUN_CHUNK,NOUN_CHUNK
+269,questions,provoke,interesting discussions,NOUN_CHUNK,NOUN_CHUNK
+270,consumer applications,change,pattern,NOUN_CHUNK,NOUN_CHUNK
+271,research,identified,archetypes,NOUN_CHUNK,NOUN_CHUNK
+272,governments.have,played,hands role,NOUN_CHUNK,NOUN_CHUNK
+273,Index,extrapolate,development,NOUN_CHUNK,NOUN_CHUNK
+274,McKinsey Global Institute,calculate,GDP impact,ORG,NOUN_CHUNK
+275,distribution,results.from,classification,NOUN_CHUNK,NOUN_CHUNK
+276,visibility,realized,accurate forecasts,NOUN_CHUNK,NOUN_CHUNK
+277,A1.We,analyzed,key drivers,NOUN_CHUNK,NOUN_CHUNK
+278,China model,evaluates,countries,NOUN_CHUNK,NOUN_CHUNK
+279,Trailing selected countries,projected,connectivity development,NOUN_CHUNK,NOUN_CHUNK
+280,Pioneers,represent,million people,NOUN_CHUNK,NOUN_CHUNK
+281,cost,excludes,potential investments,NOUN_CHUNK,NOUN_CHUNK
+282,ratio,exceeds,15 to 20 percent,NOUN_CHUNK,PERCENT
+283,McKinsey Global Institute,use,operators,ORG,NOUN_CHUNK
+284,project team,included,Philip Arejola,NOUN_CHUNK,PERSON
+285,Jan Mischke,provided,leadership,PERSON,NOUN_CHUNK
+286,Internet,Mapping,value,NOUN_CHUNK,NOUN_CHUNK

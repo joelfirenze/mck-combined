@@ -1,0 +1,523 @@
+,subject,relation,object,subject_type,object_type
+0,Global Institute research,combines,disciplines,NOUN_CHUNK,NOUN_CHUNK
+1,Global Institute’s,covered,20 countries.and 30 industries,ORG,NOUN_CHUNK
+2,Project teams,draw.on,McKinsey & Company global network,NOUN_CHUNK,NOUN_CHUNK
+3,leading economists,advise,MGI.research,NOUN_CHUNK,ORG
+4,pharmaceuticals medical report,describes,potential,NOUN_CHUNK,NOUN_CHUNK
+5,SARS-CoV-2,causing,COVID‑19,ORG,NOUN_CHUNK
+6,Anneke Maxi Pethö-Schramm,publish,major report,PERSON,NOUN_CHUNK
+7,search,"Poojara,.of vaccines",implications,NOUN_CHUNK,NOUN_CHUNK
+8,research,builds,on.patterns,NOUN_CHUNK,NOUN_CHUNK
+9,The McKinsey Global Institute,Computer.has,active research program,ORG,NOUN_CHUNK
+10,Hughes Medical Institute Investigator      ,offered,valuable insights,ORG,NOUN_CHUNK
+11,New capabilities,transform,economies,NOUN_CHUNK,NOUN_CHUNK
+12,Key findings,include,following,NOUN_CHUNK,NOUN_CHUNK
+13,innovations,creating,five,NOUN_CHUNK,CARDINAL
+14,proliferating biological data,enhancing,discovery,NOUN_CHUNK,NOUN_CHUNK
+15,biological systems,restore,sensory function,NOUN_CHUNK,NOUN_CHUNK
+16,Science,needs,investment,ORG,NOUN_CHUNK
+17,Personalized         Meats,produced,materials                 consequences,NOUN_CHUNK,NOUN_CHUNK
+18,Monogenic,Personalized,consensus,PERSON,NOUN_CHUNK
+19,R&D productivity,prevented,genome,NOUN_CHUNK,NOUN_CHUNK
+20,tool,uses,small piece,NOUN_CHUNK,NOUN_CHUNK
+21,Cas9 enzyme,cuts,targeted DNA,NOUN_CHUNK,NOUN_CHUNK
+22,Accidents,have,major consequences,NOUN_CHUNK,NOUN_CHUNK
+23,definition,covers,mapping,NOUN_CHUNK,NOUN_CHUNK
+24,definition,covers,engineering,NOUN_CHUNK,NOUN_CHUNK
+25,interactions,cells,computation,NOUN_CHUNK,NOUN_CHUNK
+26,DNA,Andy Extance,world data,NOUN_CHUNK,NOUN_CHUNK
+27,Worldwide DNA sequencing,creates,huge volumes,NOUN_CHUNK,NOUN_CHUNK
+28,Genome researchers,raise,alarm,NOUN_CHUNK,NOUN_CHUNK
+29,New biological capabilities,bring,transformational change,NOUN_CHUNK,NOUN_CHUNK
+30,New biological capabilities,include,following,NOUN_CHUNK,NOUN_CHUNK
+31,Gene therapies,offer,complete cures,NOUN_CHUNK,NOUN_CHUNK
+32,biological data,enhancing,discovery,NOUN_CHUNK,NOUN_CHUNK
+33,biopharmaceutical industry,hit,low point,NOUN_CHUNK,NOUN_CHUNK
+34,DNA,researched,data,NOUN_CHUNK,NOUN_CHUNK
+35,one kilogram,store,entirety,QUANTITY,NOUN_CHUNK
+36,innovations,transform,prevention,NOUN_CHUNK,NOUN_CHUNK
+37,visible pipeline,deliver,profound impact,NOUN_CHUNK,NOUN_CHUNK
+38,library,included,use cases,NOUN_CHUNK,NOUN_CHUNK
+39,research,for.instance,publicly available data,NOUN_CHUNK,NOUN_CHUNK
+40,DNA,Andy Extance,world data,NOUN_CHUNK,NOUN_CHUNK
+41,value,include,knock effects,NOUN_CHUNK,NOUN_CHUNK
+42,Human health,have,scientific advances,NOUN_CHUNK,NOUN_CHUNK
+43,visible pipeline,create,approximately.$2 trillion to $4 trillion,NOUN_CHUNK,MONEY
+44,Estimates,represent,GDP,NOUN_CHUNK,NOUN_CHUNK
+45,Estimates,represent,GDP,NOUN_CHUNK,NOUN_CHUNK
+46,Examples,include,hypertension,NOUN_CHUNK,NOUN_CHUNK
+47,Applications,include,genetic,NOUN_CHUNK,NOUN_CHUNK
+48,materials,transform,industries,NOUN_CHUNK,NOUN_CHUNK
+49,behavior,realize,positive impact,NOUN_CHUNK,NOUN_CHUNK
+50,domain,includes,beauty enhancement use cases,NOUN_CHUNK,NOUN_CHUNK
+51,animals,optimize,regions,NOUN_CHUNK,NOUN_CHUNK
+52,player,do,steps,NOUN_CHUNK,NOUN_CHUNK
+53,impact estimates,include,direct economic impact,NOUN_CHUNK,NOUN_CHUNK
+54,impact estimates,include,potential direct impact,NOUN_CHUNK,NOUN_CHUNK
+55,Estimates,represent,GDP,NOUN_CHUNK,NOUN_CHUNK
+56,factors,accelerate,adoption,NOUN_CHUNK,NOUN_CHUNK
+57,improved health,mean,people,NOUN_CHUNK,NOUN_CHUNK
+58,Numerous fast food chains,announced,deals,NOUN_CHUNK,NOUN_CHUNK
+59,Existing scientific breakthroughs,spur,breakthroughs,NOUN_CHUNK,NOUN_CHUNK
+60,Project,enabled,large scale research initiatives,NOUN_CHUNK,NOUN_CHUNK
+61,Examples,include,the Encyclopedia of DNA Elements,NOUN_CHUNK,ORG
+62,researchers,knew,genetic basis,NOUN_CHUNK,NOUN_CHUNK
+63,bio innovation,affected,"profit pools,.value chains",NOUN_CHUNK,NOUN_CHUNK
+64,32.Applications,be.important,contributors,NOUN_CHUNK,NOUN_CHUNK
+65,methane,has,28 times effect,NOUN_CHUNK,NOUN_CHUNK
+66,Bio innovation,carries,profound unique risks,NOUN_CHUNK,NOUN_CHUNK
+67,Profound risks,accompany,surge,NOUN_CHUNK,NOUN_CHUNK
+68,interconnected nature,increase,potential,NOUN_CHUNK,NOUN_CHUNK
+69,34      Low barriers,open,door,NOUN_CHUNK,NOUN_CHUNK
+70,Commercial kits,perform,CRISPR gene editing,NOUN_CHUNK,NOUN_CHUNK
+71,GMOs,end,hunger,NOUN_CHUNK,NOUN_CHUNK
+72,Unequal access,perpetuate,socioeconomic disparity,NOUN_CHUNK,NOUN_CHUNK
+73,Examples,include,genome editing,NOUN_CHUNK,NOUN_CHUNK
+74,risks,demand,considered response,NOUN_CHUNK,NOUN_CHUNK
+75,world,experienced,firsthand,NOUN_CHUNK,NOUN_CHUNK
+76,countries,take,cautious view,NOUN_CHUNK,NOUN_CHUNK
+77,the Human Genome Project,an idea,$3 billion,ORG,MONEY
+78,Sciences,extended,capabilities,ORG,NOUN_CHUNK
+79,power,enabled,rapid development,NOUN_CHUNK,NOUN_CHUNK
+80,UniProt,played,significant enabling role,PERSON,NOUN_CHUNK
+81,factors,play,role,NOUN_CHUNK,NOUN_CHUNK
+82,factors,determine,journey,NOUN_CHUNK,NOUN_CHUNK
+83,new biology based product,offers,value proposition,NOUN_CHUNK,NOUN_CHUNK
+84,illustration,took,nearly 20 years,NOUN_CHUNK,DATE
+85,46.The pace,vary,significantly.depending,NOUN_CHUNK,NOUN_CHUNK
+86,performance2          ,testing,Liquid biopsy                     CAR T cell therapies,ORG,NOUN_CHUNK
+87,services4                                               genetic,profile,fitness,ORG,NOUN_CHUNK
+88,Applications,include,applications,NOUN_CHUNK,NOUN_CHUNK
+89,Applications,include,testing,NOUN_CHUNK,NOUN_CHUNK
+90,Applications,include,innovations,NOUN_CHUNK,NOUN_CHUNK
+91,choices,influence,path,NOUN_CHUNK,NOUN_CHUNK
+92,scientists,pioneering,biological breakthroughs,NOUN_CHUNK,NOUN_CHUNK
+93,scientists,have,long track record,NOUN_CHUNK,NOUN_CHUNK
+94,governments,published,strategic,NOUN_CHUNK,NOUN_CHUNK
+95,Analysis,includes,examination,NOUN_CHUNK,NOUN_CHUNK
+96,FDA,approved,immune.published,ORG,NOUN_CHUNK
+97,high throughput                  Scientists,deleted,existing memories.(United States,NOUN_CHUNK,GPE
+98,World IVF baby,born,US Food and Drug,NOUN_CHUNK,ORG
+99,breakthrough,approved,drug,NOUN_CHUNK,NOUN_CHUNK
+100,Therapies,"However, the many challenges",siRNA,NOUN_CHUNK,NOUN_CHUNK
+101,scientists,’s,genetic evolution,NOUN_CHUNK,NOUN_CHUNK
+102,CRISPR tool,edits,genes,NOUN_CHUNK,NOUN_CHUNK
+103,science,use,scientific discipline,ORG,NOUN_CHUNK
+104,Genome researchers,raise,alarm,NOUN_CHUNK,NOUN_CHUNK
+105,trends,powering,human understanding,NOUN_CHUNK,NOUN_CHUNK
+106,Innovations,cover,wide range,ORG,NOUN_CHUNK
+107,Intracellular,molecules,Cells,NOUN_CHUNK,NOUN_CHUNK
+108,Molecular.technologies,engineer,molecules,NOUN_CHUNK,NOUN_CHUNK
+109,key papers,cover,technology,NOUN_CHUNK,NOUN_CHUNK
+110,RNA,translated,Genomics,ORG,NOUN_CHUNK
+111,Technologies,include,RNA-Seq,NOUN_CHUNK,ORG
+112,Environmental influences,affect,epigenome,NOUN_CHUNK,NOUN_CHUNK
+113,Mapping,include,mass spectrometry,NOUN_CHUNK,NOUN_CHUNK
+114,components,dissolved,11,NOUN_CHUNK,CARDINAL
+115,omics,include,immunomics,NOUN_CHUNK,NOUN_CHUNK
+116,fall,enabled,generation DNA,NOUN_CHUNK,NOUN_CHUNK
+117,smaller strands.62.Exhibit 4.Rapid advances,enabling,analysis of.omics data,NOUN_CHUNK,NOUN_CHUNK
+118,similar dynamic interaction,take,place,NOUN_CHUNK,NOUN_CHUNK
+119,AI,enhancing,techniques,NOUN_CHUNK,NOUN_CHUNK
+120,complementary technologies,have,enabled.computer intensive research,NOUN_CHUNK,NOUN_CHUNK
+121,have.also,These advances,new generation,NOUN_CHUNK,NOUN_CHUNK
+122,Scientists,face,number,NOUN_CHUNK,NOUN_CHUNK
+123,Genome wide association studies,find,associations,NOUN_CHUNK,NOUN_CHUNK
+124,proteomic analyses,require,antibodies.73 Overall,NOUN_CHUNK,ORG
+125,Project,lacks,deeply annotated reference maps,NOUN_CHUNK,NOUN_CHUNK
+126,Human Cell Atlas project,created,comprehensive reference maps,NOUN_CHUNK,NOUN_CHUNK
+127,scientists,a fundamental resource,healthy cells,NOUN_CHUNK,NOUN_CHUNK
+128,research labs,"cost.$5,000",low cost 3-D printers,NOUN_CHUNK,NOUN_CHUNK
+129,MakerBots,bring,price,ORG,NOUN_CHUNK
+130,88.Innovation,enabled,area,NOUN_CHUNK,NOUN_CHUNK
+131,Biomachine interfaces,include,range,NOUN_CHUNK,NOUN_CHUNK
+132,category,includes,communication,NOUN_CHUNK,NOUN_CHUNK
+133,noninvasive techniques,lack,neuron-,NOUN_CHUNK,NOUN_CHUNK
+134,level,resolution reading,progress,NOUN_CHUNK,NOUN_CHUNK
+135,Invasive,Move,cursor control a.,NOUN_CHUNK,NOUN_CHUNK
+136,Biocomputing,includes,use,ORG,NOUN_CHUNK
+137,DNA,store,5.5 petabits,NOUN_CHUNK,NOUN_CHUNK
+138,Scientific breakthroughs,laid,foundation,NOUN_CHUNK,NOUN_CHUNK
+139,research,give,idea,NOUN_CHUNK,NOUN_CHUNK
+140,evolution,heralded,paradigm shift,NOUN_CHUNK,NOUN_CHUNK
+141,animal hide.95 startup Tandem Repeat,produces,repairing,NOUN_CHUNK,NOUN_CHUNK
+142,biotech company,creating,renewable biomaterials,NOUN_CHUNK,NOUN_CHUNK
+143,growth factors.98 Amyris,produces,moisturizing oil,NOUN_CHUNK,NOUN_CHUNK
+144,companies,using,genetically engineered microbes,NOUN_CHUNK,NOUN_CHUNK
+145,startup,using,microorganisms,NOUN_CHUNK,NOUN_CHUNK
+146,researchers,have,significant scope,NOUN_CHUNK,NOUN_CHUNK
+147,RNAi insecticide,and Aggie Mika,101,NOUN_CHUNK,CARDINAL
+148,Biological sciences,helping,challenge,NOUN_CHUNK,NOUN_CHUNK
+149,Gene therapies,offer,complete cures,NOUN_CHUNK,NOUN_CHUNK
+150,Biology,offers,solution,NOUN_CHUNK,NOUN_CHUNK
+151,DNA,store,current data,NOUN_CHUNK,NOUN_CHUNK
+152,Deep brain stimulation,improves,depression symptoms,NOUN_CHUNK,NOUN_CHUNK
+153,DNA,Andy Extance,world data,NOUN_CHUNK,NOUN_CHUNK
+154,emerging capabilities,touch,multiple domains,NOUN_CHUNK,NOUN_CHUNK
+155,Revolution,discussed,in.the section,NOUN_CHUNK,NOUN_CHUNK
+156,Biology,preserve,life,NOUN_CHUNK,NOUN_CHUNK
+157,risks,demand,considered response,NOUN_CHUNK,NOUN_CHUNK
+158,Genetic editing,raises,risk,NOUN_CHUNK,NOUN_CHUNK
+159,interconnected nature,increase,potential,NOUN_CHUNK,NOUN_CHUNK
+160,Changes,have,cascading effects,NOUN_CHUNK,NOUN_CHUNK
+161,Successful gene editing,have,effects,NOUN_CHUNK,NOUN_CHUNK
+162,Gene therapies,have,effects,NOUN_CHUNK,NOUN_CHUNK
+163,Low barriers,open,door,NOUN_CHUNK,NOUN_CHUNK
+164,Scientific advances,raising,significant ethical questions,NOUN_CHUNK,NOUN_CHUNK
+165,interface technologies,pose,risks,ORG,NOUN_CHUNK
+166,signals,result,information,NOUN_CHUNK,NOUN_CHUNK
+167,States,costs,$2.1 million,NOUN_CHUNK,MONEY
+168,unique risks,demand,considered response,NOUN_CHUNK,NOUN_CHUNK
+169,Scientists,play,role,NOUN_CHUNK,NOUN_CHUNK
+170,search,covered,ongoing trials,NOUN_CHUNK,NOUN_CHUNK
+171,AveXis,announces,innovative Zolgensma gene therapy access programs,ORG,NOUN_CHUNK
+172,Molecular safeguarding,eLife,experiments,NOUN_CHUNK,NOUN_CHUNK
+173,biology,fact,borders,NOUN_CHUNK,NOUN_CHUNK
+174,country,affect,neighboring countries,NOUN_CHUNK,NOUN_CHUNK
+175,President Barack Obama,convened,commission,PERSON,NOUN_CHUNK
+176,governments,regulatory “race,approach,NOUN_CHUNK,NOUN_CHUNK
+177,governments,follow,suit,NOUN_CHUNK,NOUN_CHUNK
+178,journey,take,years,NOUN_CHUNK,DATE
+179,library,exhaustive,idea,NOUN_CHUNK,NOUN_CHUNK
+180,visible pipeline,have,broad impact,NOUN_CHUNK,NOUN_CHUNK
+181,applications,growth,sufficient scientific underpinnings,NOUN_CHUNK,NOUN_CHUNK
+182,Biological applications,unlock,an estimated $2 trillion to $4 trillion,NOUN_CHUNK,MONEY
+183,applications,have,direct annual economic impact,NOUN_CHUNK,NOUN_CHUNK
+184,experts,understand,economic potential adoption timing,NOUN_CHUNK,NOUN_CHUNK
+185,Impact                  Value,gain,drivers,NOUN_CHUNK,NOUN_CHUNK
+186,visible pipeline,create,approximately.$2 trillion to $4 trillion,NOUN_CHUNK,MONEY
+187,Estimates,represent,GDP,NOUN_CHUNK,NOUN_CHUNK
+188,impact estimates,reflect,uncertainties,NOUN_CHUNK,NOUN_CHUNK
+189,scale,dominate,impact,NOUN_CHUNK,NOUN_CHUNK
+190,large libraries,enable,farming,NOUN_CHUNK,NOUN_CHUNK
+191,Exhibit,make,biggest share,NOUN_CHUNK,NOUN_CHUNK
+192,Estimates,represent,GDP,NOUN_CHUNK,NOUN_CHUNK
+193,Human health,have,scientific advances,NOUN_CHUNK,NOUN_CHUNK
+194,Applications,include,cell,NOUN_CHUNK,NOUN_CHUNK
+195,advances,have,significant spillover effects,NOUN_CHUNK,NOUN_CHUNK
+196,longer life spans,affect,life insurance industry,NOUN_CHUNK,NOUN_CHUNK
+197,Applications,include,innovative ways,NOUN_CHUNK,NOUN_CHUNK
+198,Novel plant based meats,see,adoption,NOUN_CHUNK,NOUN_CHUNK
+199,Cultured meat,hit,market,NOUN_CHUNK,NOUN_CHUNK
+200,Applications,include,innovations,NOUN_CHUNK,NOUN_CHUNK
+201,Applications,include,biosequestration,NOUN_CHUNK,NOUN_CHUNK
+202,core areas adoption,face,significant ethical hurdles,NOUN_CHUNK,NOUN_CHUNK
+203,biomachine interfaces,create,impact,NOUN_CHUNK,NOUN_CHUNK
+204,Estimates,represent,GDP,NOUN_CHUNK,NOUN_CHUNK
+205,factors,shape,extent,NOUN_CHUNK,NOUN_CHUNK
+206,total economic impact,exceed,estimates,NOUN_CHUNK,NOUN_CHUNK
+207,range,accelerate,adoption,NOUN_CHUNK,NOUN_CHUNK
+208,healthier populations,have,potentially far reaching implications,NOUN_CHUNK,NOUN_CHUNK
+209,alternative proteins,repurposed,meat production,NOUN_CHUNK,NOUN_CHUNK
+210,fast food chains,announced,deals,NOUN_CHUNK,NOUN_CHUNK
+211,bio innovation,affected,profit pools,NOUN_CHUNK,NOUN_CHUNK
+212,Existing scientific breakthroughs,spur,breakthroughs,NOUN_CHUNK,NOUN_CHUNK
+213,Examples,include,ENCyclopedia,NOUN_CHUNK,ORG
+214,improved accuracy,reduce,foodborne.illnesses allergic reactions,NOUN_CHUNK,NOUN_CHUNK
+215,sustainable inputs,address,environmental challenges,NOUN_CHUNK,NOUN_CHUNK
+216,pocket DNA sequencers,allow,rural,NOUN_CHUNK,NOUN_CHUNK
+217,farmers,receive,actionable insights,NOUN_CHUNK,NOUN_CHUNK
+218,Bio innovations,have,workforce implications,PERSON,NOUN_CHUNK
+219,biological applications,have,health benefits,NOUN_CHUNK,NOUN_CHUNK
+220,GMOs,end,hunger,NOUN_CHUNK,NOUN_CHUNK
+221,new products,offer,new superior properties,NOUN_CHUNK,NOUN_CHUNK
+222,11.Six factors,affect,pace,NOUN_CHUNK,NOUN_CHUNK
+223,sciences,extends,research,NOUN_CHUNK,NOUN_CHUNK
+224,Scientific research,requires,considerable investment,NOUN_CHUNK,NOUN_CHUNK
+225,the Cassava Virus Action Project,involved,$3 billion,ORG,MONEY
+226,nonprofit organizations,make,substantial investments,NOUN_CHUNK,NOUN_CHUNK
+227,total global R&D expenditures,have,systematic evaluation,NOUN_CHUNK,NOUN_CHUNK
+228,decreasing cost,underpinned,rapid development,NOUN_CHUNK,NOUN_CHUNK
+229,important advances,include,development,NOUN_CHUNK,NOUN_CHUNK
+230,degrees,shows,strong upward trend,NOUN_CHUNK,NOUN_CHUNK
+231,factors,play,role,NOUN_CHUNK,NOUN_CHUNK
+232,Diffusion,take,significant time,NOUN_CHUNK,NOUN_CHUNK
+233,humans,taste,lab grown hamburger,NOUN_CHUNK,NOUN_CHUNK
+234,Cultured meat,hit,supermarket shelves,NOUN_CHUNK,NOUN_CHUNK
+235,societal costs,change,cost calculus,NOUN_CHUNK,NOUN_CHUNK
+236,frontier biological technologies,ensure,customers,NOUN_CHUNK,NOUN_CHUNK
+237,New business models,include,new ways,NOUN_CHUNK,NOUN_CHUNK
+238,innovative product,has,compelling value proposition,NOUN_CHUNK,NOUN_CHUNK
+239,‘Intense flavor’,NCB News,spot,WORK_OF_ART,NOUN_CHUNK
+240,investment,support,innovation,NOUN_CHUNK,NOUN_CHUNK
+241,Citizens,have,considerable sway,NOUN_CHUNK,NOUN_CHUNK
+242,Philippines,approves,nutritionally-enhanced GMO Golden Rice,GPE,ORG
+243,performance2          ,testing,Liquid biopsy                     CAR T cell therapies,ORG,NOUN_CHUNK
+244,services4                                               genetic,profile,fitness,ORG,NOUN_CHUNK
+245,Applications,include,applications,NOUN_CHUNK,NOUN_CHUNK
+246,Applications,include,testing,NOUN_CHUNK,NOUN_CHUNK
+247,Applications,include,innovations,NOUN_CHUNK,NOUN_CHUNK
+248,choices,influence,path,NOUN_CHUNK,NOUN_CHUNK
+249,scientists,pioneering,biological breakthroughs,NOUN_CHUNK,NOUN_CHUNK
+250,Scientists,govern,Scientists,NOUN_CHUNK,NOUN_CHUNK
+251,potential value,makes,compelling,NOUN_CHUNK,NOUN_CHUNK
+252,scientific innovations,drive,proliferation,NOUN_CHUNK,NOUN_CHUNK
+253,biological applications,bring,cohort,NOUN_CHUNK,NOUN_CHUNK
+254,Applications,have,spillover effects,NOUN_CHUNK,NOUN_CHUNK
+255,technologies,involve,players,NOUN_CHUNK,NOUN_CHUNK
+256,Numerous fast food chains,announced,deals,NOUN_CHUNK,NOUN_CHUNK
+257,based meat substitute producers,offer,vegetarian vegan versions,NOUN_CHUNK,NOUN_CHUNK
+258,Sysco,launched,platform,ORG,NOUN_CHUNK
+259,testing platform,eliminate,foodborne illnesses,NOUN_CHUNK,NOUN_CHUNK
+260,Applications,affect,insurers,NOUN_CHUNK,NOUN_CHUNK
+261,consumers,want,to.purchase goods,NOUN_CHUNK,NOUN_CHUNK
+262,Biomachine interfaces,have,uses,NOUN_CHUNK,NOUN_CHUNK
+263,approach,consolidates,profit pools,NOUN_CHUNK,NOUN_CHUNK
+264,Biodiesel,hold,promise,NOUN_CHUNK,NOUN_CHUNK
+265,German scientists,found,way,NOUN_CHUNK,NOUN_CHUNK
+266,cystic fibrosis,decentralize,care,NOUN_CHUNK,NOUN_CHUNK
+267,repositories,share,data,NOUN_CHUNK,NOUN_CHUNK
+268,company,AOBiome’s role,Phase 2.clinical trial,NOUN_CHUNK,NOUN_CHUNK
+269,use,relies,right patients,NOUN_CHUNK,NOUN_CHUNK
+270,factors,hinder,access,NOUN_CHUNK,NOUN_CHUNK
+271,AOBiome partners,secures,30 million investment,NOUN_CHUNK,NOUN_CHUNK
+272,players,striking,partnerships,NOUN_CHUNK,NOUN_CHUNK
+273,growers,introduce,omics driven innovations,NOUN_CHUNK,NOUN_CHUNK
+274,Facebook,spent,between $500 million and $1 billion,ORG,MONEY
+275,varying relationships,offer,benefits,NOUN_CHUNK,NOUN_CHUNK
+276,platform based models,enable,businesses,NOUN_CHUNK,NOUN_CHUNK
+277,Facebook,acquires,neural interface startup CTRL-Labs,ORG,ORG
+278,new players,provide,unique experiences,NOUN_CHUNK,NOUN_CHUNK
+279,growing biological data banks,providing,new.opportunities,NOUN_CHUNK,NOUN_CHUNK
+280,DTC companies,sell,individuals’.genetic data,NOUN_CHUNK,NOUN_CHUNK
+281,subscriptions,provide,companies,NOUN_CHUNK,NOUN_CHUNK
+282,novelty,provides,opportunity,NOUN_CHUNK,NOUN_CHUNK
+283,the US National Institutes,asked,the National,ORG,ORG
+284,Research Council’s Board,set,committee,ORG,NOUN_CHUNK
+285,the United States,A New Biology,Coming Biology Revolution,GPE,NOUN_CHUNK
+286,regulation,differs,among.geographies,NOUN_CHUNK,ORG
+287,Both China,mandated,labeling,GPE,NOUN_CHUNK
+288,China,issued,biosafety certificates,GPE,NOUN_CHUNK
+289,the United States,followed,suit,GPE,NOUN_CHUNK
+290,ruling,made,gene edited crops,NOUN_CHUNK,NOUN_CHUNK
+291,Shahla Wunderlich,information,Advances,PERSON,NOUN_CHUNK
+292,China,issues,biosafety certificates,GPE,NOUN_CHUNK
+293,CRISPR based editing,introduce,foreign DNA,NOUN_CHUNK,NOUN_CHUNK
+294,plant cells,lacking,cell wall,NOUN_CHUNK,NOUN_CHUNK
+295,plant cells,introduce,preassembled CRISPR complexes,NOUN_CHUNK,NOUN_CHUNK
+296,States,had,restrictions,NOUN_CHUNK,NOUN_CHUNK
+297,China,acquiring,data,GPE,NOUN_CHUNK
+298,Regulation,reflects,public opinion,NOUN_CHUNK,NOUN_CHUNK
+299,Regulation,reflects,government views,NOUN_CHUNK,NOUN_CHUNK
+300,Individuals,understand,trade offs,NOUN_CHUNK,NOUN_CHUNK
+301,genetic source,carry,heavy stigma,NOUN_CHUNK,NOUN_CHUNK
+302,France,ban,DTC genetic testing,GPE,NOUN_CHUNK
+303,Healthcare,seeing,growing.adoption,ORG,NOUN_CHUNK
+304,nonrecombinant vaccines,constituted,wave,NOUN_CHUNK,NOUN_CHUNK
+305,second wave,included,protein based biologics,NOUN_CHUNK,NOUN_CHUNK
+306,CAR T‑cell therapy,showing,signs,NOUN_CHUNK,NOUN_CHUNK
+307,Example,use,cases,NOUN_CHUNK,NOUN_CHUNK
+308,vector borne diseases,decelerate,molecular aging,NOUN_CHUNK,NOUN_CHUNK
+309,innovations,have,annual direct impact,NOUN_CHUNK,NOUN_CHUNK
+310,Estimates,represent,GDP,NOUN_CHUNK,NOUN_CHUNK
+311,Biological applications,affect,disease,NOUN_CHUNK,NOUN_CHUNK
+312,Omics,have,substantial positive impact,ORG,NOUN_CHUNK
+313,The National Academy of Sciences,warned,considerable gaps,ORG,NOUN_CHUNK
+314,companies,offer,DNA.sequencing,NOUN_CHUNK,NOUN_CHUNK
+315,omics based screening.and intervention techniques,are,important role,NOUN_CHUNK,NOUN_CHUNK
+316,Chinese scientist,made,headlines,NOUN_CHUNK,NOUN_CHUNK
+317,potential nonmedical uses,influence,traits,NOUN_CHUNK,NOUN_CHUNK
+318,damage,have,economic impact,NOUN_CHUNK,NOUN_CHUNK
+319,uncertainties,surround,development,NOUN_CHUNK,NOUN_CHUNK
+320,Dermbiont,researching,applications,NOUN_CHUNK,NOUN_CHUNK
+321,The US Food and Drug Administration,maintains,continually updated list,ORG,NOUN_CHUNK
+322,Estimates,represent,GDP,NOUN_CHUNK,NOUN_CHUNK
+323,scientists,diagnostics,precise,NOUN_CHUNK,NOUN_CHUNK
+324,availability,reinforce,screening,NOUN_CHUNK,NOUN_CHUNK
+325,countries,given,lack,NOUN_CHUNK,NOUN_CHUNK
+326,Cancer,represents,9 percent,NOUN_CHUNK,PERCENT
+327,Identification,facilitates,early diagnosis,NOUN_CHUNK,NOUN_CHUNK
+328,"companies,.including Moderna",creating,individualized therapeutic vaccines,NOUN_CHUNK,NOUN_CHUNK
+329,conditions,impose,heavy disease burden,NOUN_CHUNK,NOUN_CHUNK
+330,gene expression,predict,preterm,NOUN_CHUNK,NOUN_CHUNK
+331,Axovant,conducting,clinical trials,NOUN_CHUNK,NOUN_CHUNK
+332,Genetics,influences,infectious diseases,NOUN_CHUNK,NOUN_CHUNK
+333,Gene sequencing,predicting,antibiotic resistance,NOUN_CHUNK,NOUN_CHUNK
+334,GV,leads,58.5 M round,ORG,NOUN_CHUNK
+335,body,influence,effects,NOUN_CHUNK,NOUN_CHUNK
+336,disease development,guide,treatment,NOUN_CHUNK,NOUN_CHUNK
+337,New study,holds,implications,NOUN_CHUNK,NOUN_CHUNK
+338,Expression signature,predicts,poor survival outcome,NOUN_CHUNK,NOUN_CHUNK
+339,drug,reduces,necessary size,NOUN_CHUNK,NOUN_CHUNK
+340,humans,used,techniques,NOUN_CHUNK,NOUN_CHUNK
+341,300 Food production,puts,huge strain,NOUN_CHUNK,NOUN_CHUNK
+342,crop development,evolved,Nature,NOUN_CHUNK,NOUN_CHUNK
+343,treatments,extended,shelf life,NOUN_CHUNK,NOUN_CHUNK
+344,Estimates,represent,GDP,NOUN_CHUNK,NOUN_CHUNK
+345,types,transform,farming,NOUN_CHUNK,NOUN_CHUNK
+346,Bayer,developed,hybrid dwarf maize variety,ORG,NOUN_CHUNK
+347,Traditional selective breeding,used,visible measurable traits,NOUN_CHUNK,NOUN_CHUNK
+348,Tools,enabled,detection,NOUN_CHUNK,NOUN_CHUNK
+349,High throughput genotyping,informs,selective livestock breeding,NOUN_CHUNK,NOUN_CHUNK
+350,focus,is,that.affect characteristics,NOUN_CHUNK,NOUN_CHUNK
+351,New technologies,enable,precise gene editing,NOUN_CHUNK,NOUN_CHUNK
+352,40 percent,In,post - harvest handling,PERCENT,NOUN_CHUNK
+353,Cathy Siegner,invests,$125M,PERSON,MONEY
+354,Chip,shows,potential,NOUN_CHUNK,NOUN_CHUNK
+355,The FDA,approved,animal drug application,ORG,NOUN_CHUNK
+356,researchers,engineered,new traits,NOUN_CHUNK,NOUN_CHUNK
+357,disease,generated,interest,NOUN_CHUNK,NOUN_CHUNK
+358,Companies,using,high throughput sequencing,NOUN_CHUNK,NOUN_CHUNK
+359,CoreBiome,offers,large scale microbiome sequencing,ORG,NOUN_CHUNK
+360,fertilizer,Given,significant share,NOUN_CHUNK,NOUN_CHUNK
+361,innovations,create,annual direct impact,NOUN_CHUNK,NOUN_CHUNK
+362,companies,rolling,new technologies,NOUN_CHUNK,NOUN_CHUNK
+363,330 Products,include,lab grown crustaceans,NOUN_CHUNK,NOUN_CHUNK
+364,Plant based meat,create,radically different food chain,NOUN_CHUNK,NOUN_CHUNK
+365,shift,have,important environmental repercussions,NOUN_CHUNK,NOUN_CHUNK
+366,334 Cultured meat,reduce,GHG,NOUN_CHUNK,ORG
+367,rising consumption,exerting,significant pressure,NOUN_CHUNK,NOUN_CHUNK
+368,338 DNA testing,provide,insights,NOUN_CHUNK,NOUN_CHUNK
+369,Clear Labs,taking,advantage,ORG,NOUN_CHUNK
+370,Clear Labs,shorten,turnaround times,ORG,NOUN_CHUNK
+371,grams,generates,35 kilograms,NOUN_CHUNK,QUANTITY
+372,Plant based meat,create,radically different food chain,NOUN_CHUNK,NOUN_CHUNK
+373,Example,use,cases,NOUN_CHUNK,NOUN_CHUNK
+374,completion,generated,enormous demand,NOUN_CHUNK,NOUN_CHUNK
+375,Estimates,represent,GDP,NOUN_CHUNK,NOUN_CHUNK
+376,26 million people,taken,test,NOUN_CHUNK,NOUN_CHUNK
+377,the FDA,allowed,23andMe,ORG,NOUN_CHUNK
+378,26 million people,Antonio Regalado,test,NOUN_CHUNK,NOUN_CHUNK
+379,current DTC testing,uses,method,NOUN_CHUNK,NOUN_CHUNK
+380,turn,lends,turn,NOUN_CHUNK,NOUN_CHUNK
+381,program,predict,traits,NOUN_CHUNK,NOUN_CHUNK
+382,Genome data,enable,new opportunities,NOUN_CHUNK,NOUN_CHUNK
+383,retailers,offering,applications,NOUN_CHUNK,NOUN_CHUNK
+384,cellular functions,provide,guidance,NOUN_CHUNK,NOUN_CHUNK
+385,startups,take,holistic approaches,NOUN_CHUNK,NOUN_CHUNK
+386,consumers,collect,stool sample mail genetic tests,NOUN_CHUNK,NOUN_CHUNK
+387,Microbiome-.testing companies,offer,personalized.probiotic plans,NOUN_CHUNK,NOUN_CHUNK
+388,discoveries,emerge,as.a byproduct,NOUN_CHUNK,NOUN_CHUNK
+389,Mother Dirt,AOBiome’s consumer division,hygiene,ORG,NOUN_CHUNK
+390,live ammonia oxidizing bacteria,convert,irritating components,NOUN_CHUNK,NOUN_CHUNK
+391,L’Oréal,deepens,scientific focus,NORP,NOUN_CHUNK
+392,personal care products,reduced,personal care products population,NOUN_CHUNK,NOUN_CHUNK
+393,361 Oral care probiotics,deliver,cosmetic benefits,NOUN_CHUNK,NOUN_CHUNK
+394,Gene therapy,improve,performance.of animals,NOUN_CHUNK,NOUN_CHUNK
+395,death,Telegraph,Knapton,NOUN_CHUNK,PERSON
+396,energy,transform,industries,NOUN_CHUNK,NOUN_CHUNK
+397,applications,see,initial fast adoption,NOUN_CHUNK,NOUN_CHUNK
+398,Example,use,cases,NOUN_CHUNK,NOUN_CHUNK
+399,Labs,using,genetically engineered microbes,NOUN_CHUNK,NOUN_CHUNK
+400,enormous uncertainty,surrounds,technologies,NOUN_CHUNK,NOUN_CHUNK
+401,Estimates,represent,GDP,NOUN_CHUNK,NOUN_CHUNK
+402,pharmaceuticals,Improve,existing fermentation,NOUN_CHUNK,NOUN_CHUNK
+403,area,optimizing,economics,NOUN_CHUNK,NOUN_CHUNK
+404,processes,offer,significant potential,NOUN_CHUNK,NOUN_CHUNK
+405,parka,make,artificial spider silk,NOUN_CHUNK,NOUN_CHUNK
+406,techniques,disrupt,industry,NOUN_CHUNK,NOUN_CHUNK
+407,Biossance,commercialized,sugarcane derived substitute,NOUN_CHUNK,NOUN_CHUNK
+408,Ecocert approved products,unlock,new segment,NOUN_CHUNK,NOUN_CHUNK
+409,Ginkgo Bioworks,identified,DNA,PERSON,NOUN_CHUNK
+410,players,bringing,novel differentiated bio based products to.market,NOUN_CHUNK,NOUN_CHUNK
+411,Zymergen,announced,partnership,ORG,NOUN_CHUNK
+412,companies,using,genetically engineered microbes to.create fuel,NOUN_CHUNK,NOUN_CHUNK
+413,biochemicals.and biofuels company Gevo,developing,a fermentation.378,ORG,ORG
+414,assessment,reduce,impact,NOUN_CHUNK,NOUN_CHUNK
+415,technology,bears,fruit,NOUN_CHUNK,NOUN_CHUNK
+416,Additional benefits,include,low fuel costs,NOUN_CHUNK,NOUN_CHUNK
+417,lithium air devices,received,both.academic commercial attention,NOUN_CHUNK,NOUN_CHUNK
+418,world,faces,interrelated environmental challenges,NOUN_CHUNK,NOUN_CHUNK
+419,GHG emissions,reached,record high,NOUN_CHUNK,NOUN_CHUNK
+420,Plants,performing,role,NOUN_CHUNK,NOUN_CHUNK
+421,technologies,supplement,effort,NOUN_CHUNK,NOUN_CHUNK
+422,Widespread adoption,involves,challenges,NOUN_CHUNK,NOUN_CHUNK
+423,barriers,regulatory,barriers adoption,NOUN_CHUNK,NOUN_CHUNK
+424,team,engineered,type,NOUN_CHUNK,NOUN_CHUNK
+425,microalgae based biosequestration,reached,significant scale,NOUN_CHUNK,NOUN_CHUNK
+426,algae cultivation,has,low biomass,NOUN_CHUNK,NOUN_CHUNK
+427,dwindling resources,intensive,production,NOUN_CHUNK,NOUN_CHUNK
+428,species,identify,environmental issues,NOUN_CHUNK,NOUN_CHUNK
+429,Defense,lend,Defense,NOUN_CHUNK,NOUN_CHUNK
+430,risks,outweigh,benefits,NOUN_CHUNK,NOUN_CHUNK
+431,tech,targeting,waste,NOUN_CHUNK,NOUN_CHUNK
+432,teachers expectations,known,strong impact,NOUN_CHUNK,NOUN_CHUNK
+433,Genome wide association study,identifies,74 loci,NOUN_CHUNK,NOUN_CHUNK
+434,Astronauts,conducting,space travel,NOUN_CHUNK,NOUN_CHUNK
+435,medical research,space health,findings,NOUN_CHUNK,NOUN_CHUNK
+436,NASA,conducting,research,ORG,NOUN_CHUNK
+437,NASA NASA,followed,twin astronauts,ORG,NOUN_CHUNK
+438,The NASA Twins Study,found,changes,ORG,NOUN_CHUNK
+439,technical improvements,enabling,translation,NOUN_CHUNK,NOUN_CHUNK
+440,computers,systems,capabilities,NOUN_CHUNK,NOUN_CHUNK
+441,Biomachine interfaces,create,impact,NOUN_CHUNK,NOUN_CHUNK
+442,Example,use,cases,NOUN_CHUNK,NOUN_CHUNK
+443,Neuroergonomics,Interpret,emotions,ORG,NOUN_CHUNK
+444,headsets,reduce,stress levels,NOUN_CHUNK,NOUN_CHUNK
+445,Deep brain stimulation,Enhance,sensory,NOUN_CHUNK,NOUN_CHUNK
+446,,Provide,basic gaming control,NOUN_CHUNK,NOUN_CHUNK
+447,Estimates,represent,GDP,NOUN_CHUNK,NOUN_CHUNK
+448,advanced biomachine interfaces,have,applications,NOUN_CHUNK,NOUN_CHUNK
+449,refinements,include,sophisticated analytics,NOUN_CHUNK,NOUN_CHUNK
+450,The EU,approved,the Argus II,ORG,ORG
+451,The United States,approved,The EU,GPE,ORG
+452,group,had,control,NOUN_CHUNK,NOUN_CHUNK
+453,team,has,funding,NOUN_CHUNK,NOUN_CHUNK
+454,437 Scientists,created,sensors,NOUN_CHUNK,NOUN_CHUNK
+455,technique,have,significant,NOUN_CHUNK,NOUN_CHUNK
+456,FDA,Julie Steenhuysen,retinal implant,ORG,NOUN_CHUNK
+457,Chris Woodford,Explain,Stuff,PERSON,NOUN_CHUNK
+458,Mike Butcher,closed,5.9 m Series,PERSON,NOUN_CHUNK
+459,Neuroprosthetic leg,recreates,foot,NOUN_CHUNK,NOUN_CHUNK
+460,Advances,improve,mobility,NOUN_CHUNK,NOUN_CHUNK
+461,Locked syndrome patients,given,new revolutionary AI powered device,NOUN_CHUNK,NOUN_CHUNK
+462,patients,in,Alzheimer,NOUN_CHUNK,NOUN_CHUNK
+463,Exhibit 27.Neuroprosthetics,restore,motor control,NOUN_CHUNK,NOUN_CHUNK
+464,Biomachine interfaces,have,consumer applications,NOUN_CHUNK,NOUN_CHUNK
+465,451 team,spent,a week,NOUN_CHUNK,DATE
+466,stimulation,primes,brain,NOUN_CHUNK,NOUN_CHUNK
+467,Halo Halo,headset,primes,PERSON,NOUN_CHUNK
+468,Deep brain stimulation,improves,depression symptoms,NOUN_CHUNK,NOUN_CHUNK
+469,scientists,Olave Krigolson,astronauts mental performance,NOUN_CHUNK,NOUN_CHUNK
+470,French company Pixium Vision,produced.infrared,bionic vision implants,ORG,NOUN_CHUNK
+471,microprocessor,takes,infrared light,NOUN_CHUNK,NOUN_CHUNK
+472,brain-wave-reading.technologies,control,phones,NOUN_CHUNK,NOUN_CHUNK
+473,for.consumer use,limited,brain control,NOUN_CHUNK,NOUN_CHUNK
+474,Current technologies,support,basic.interpretations,NOUN_CHUNK,NOUN_CHUNK
+475,Darpa,announced,a four-year,ORG,DATE
+476,project,investing,millions,NOUN_CHUNK,CARDINAL
+477,devices,imagine,future,NOUN_CHUNK,NOUN_CHUNK
+478,base pairs,encode,text,NOUN_CHUNK,NOUN_CHUNK
+479,the European Bioinformatics Institute,reported,accuracy,ORG,NOUN_CHUNK
+480,Machine,PC,optical computing,NOUN_CHUNK,NOUN_CHUNK
+481,DNA,Andy Extance,world data,NOUN_CHUNK,NOUN_CHUNK
+482,a megabyte,cost,"12,400",QUANTITY,MONEY
+483,Microsoft,demonstrated,end end automated version,ORG,NOUN_CHUNK
+484,Current DNA synthesis techniques,take,about 400,NOUN_CHUNK,CARDINAL
+485,Biology based parallel computing,uses,designed molecules,NOUN_CHUNK,NOUN_CHUNK
+486,DNA,Andy Extance,world data,NOUN_CHUNK,NOUN_CHUNK
+487,speck,contains,movie,NOUN_CHUNK,NOUN_CHUNK
+488,Microsoft,Jennifer Langston,fully automated DNA data storage,ORG,NOUN_CHUNK
+489,DNA,Andy Extance,world data,NOUN_CHUNK,NOUN_CHUNK
+490,Darpa,attracting,interest.from governments,ORG,NOUN_CHUNK
+491,Technical appendix,comprises,following sections,NOUN_CHUNK,NOUN_CHUNK
+492,cases,demonstrate,potential breadth,NOUN_CHUNK,NOUN_CHUNK
+493,years,lost,entirety,DATE,NOUN_CHUNK
+494,methodology,has,limitations,NOUN_CHUNK,NOUN_CHUNK
+495,limitation,using,single carbon credit value,NOUN_CHUNK,NOUN_CHUNK
+496,A1.We,applied,standardized adoption curve,NOUN_CHUNK,NOUN_CHUNK
+497,second derivative,reaches,second derivative,NOUN_CHUNK,NOUN_CHUNK
+498,hybrid science,that.involves,analysis,NOUN_CHUNK,NOUN_CHUNK
+499,Clustered,interspaced,short palindromic repeats,NOUN_CHUNK,NOUN_CHUNK
+500,technique,records,brain wave patterns,NOUN_CHUNK,NOUN_CHUNK
+501,Fermentation,occurs,bacteria,NOUN_CHUNK,NOUN_CHUNK
+502,marker assisted breeding,produce,GM organisms,NOUN_CHUNK,NOUN_CHUNK
+503,conditions,include,hypertension,NOUN_CHUNK,NOUN_CHUNK
+504,evolution,Has,best tools,NOUN_CHUNK,NOUN_CHUNK
+505,"Champer, Jackson",Cheating,evolution,ORG,NOUN_CHUNK
+506,"Champer, Jackson et al.",drive,experiments,ORG,NOUN_CHUNK
+507,risks,do,annuity pricing models,NOUN_CHUNK,NOUN_CHUNK
+508,DNA barcoding,Conçalves,illegal parrot trade,NOUN_CHUNK,NOUN_CHUNK
+509,Revolutions,chart,course,NOUN_CHUNK,NOUN_CHUNK
+510,Carnegie Mellon,F.Feinberg,low cost high efficiency 3-D bioprinter,ORG,NOUN_CHUNK
+511,Kass,Understanding,opportunities,PERSON,NOUN_CHUNK
+512,Lentzos,Prepare,program,NORP,NOUN_CHUNK
+513,"Lyon, Delina et al.",Using,genomics,ORG,NOUN_CHUNK
+514,Markram,Introducing the Human Brain Project,"Procedia Computer Science,.2011",ORG,ORG
+515,States,Leads,Coming Biology Revolution,NOUN_CHUNK,NOUN_CHUNK
+516,Deep brain stimulation,improves,depression symptoms,NOUN_CHUNK,NOUN_CHUNK
+517,Okbay,identifies,74 loci,ORG,NOUN_CHUNK
+518,Service,speed,drug discovery,NOUN_CHUNK,PRODUCT
+519,Smit,imperative,lives,PERSON,NOUN_CHUNK
+520,Fall webworm genomes,yield,insights,NOUN_CHUNK,NOUN_CHUNK
+521,AI FRONTIER        Artificial intelligence,has,large potential,NOUN_CHUNK,NOUN_CHUNK

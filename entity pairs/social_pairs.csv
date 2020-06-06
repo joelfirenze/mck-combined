@@ -1,0 +1,501 @@
+,subject,relation,object,subject_type,object_type
+0,Global Institute’s,covered,20 countries,ORG,NOUN_CHUNK
+1,Recent reports,assessed,digital economy,NOUN_CHUNK,NOUN_CHUNK
+2,leading.economists,advise,MGI research,NOUN_CHUNK,NOUN_CHUNK
+3,Jean‑Jacques Rousseau,used,term,PERSON,NOUN_CHUNK
+4,Previous publications,include,2016 reports,NOUN_CHUNK,NOUN_CHUNK
+5,MGI directors,provided,input,NOUN_CHUNK,NOUN_CHUNK
+6,research,benefited,social contract,NOUN_CHUNK,NOUN_CHUNK
+7,Previous McKinsey Global Institute reports,include,Urban world,NOUN_CHUNK,ORG
+8,Lauren Meling,ensured,digital social media.diffusion,PERSON,NOUN_CHUNK
+9,findings,include,workers,NOUN_CHUNK,NOUN_CHUNK
+10,Young people,spend,secure employment,NOUN_CHUNK,NOUN_CHUNK
+11,20,increase,broad prosperity,CARDINAL,NOUN_CHUNK
+12,Large increases,absorbed,income gains,NOUN_CHUNK,NOUN_CHUNK
+13,Institutions,shifted,responsibility,NOUN_CHUNK,NOUN_CHUNK
+14,changes,point,social contract,NOUN_CHUNK,NOUN_CHUNK
+15,research,covers,Australia,NOUN_CHUNK,GPE
+16,time work,experienced,fastest growth,NOUN_CHUNK,NOUN_CHUNK
+17,Women,entered,workforce,NOUN_CHUNK,NOUN_CHUNK
+18,social contract,preoccupied,philosophers,NOUN_CHUNK,NOUN_CHUNK
+19,focus,building,wealth,NOUN_CHUNK,NOUN_CHUNK
+20,data,limited,analysis,NOUN_CHUNK,NOUN_CHUNK
+21,power,add,$12 trillion,NOUN_CHUNK,MONEY
+22,Snower,Exploring,new social contract,ORG,NOUN_CHUNK
+23,institutions,achieve,aspects,NOUN_CHUNK,NOUN_CHUNK
+24, Education,paid,holidays,ORG,NOUN_CHUNK
+25,workers,commit,workers,NOUN_CHUNK,NOUN_CHUNK
+26,Workers,seeing,improvements,NOUN_CHUNK,NOUN_CHUNK
+27,time,includes,both voluntary (3.2 percentage points,NOUN_CHUNK,PERCENT
+28,time          time                  Breakdown,available,Highest employment rate,NOUN_CHUNK,NOUN_CHUNK
+29,2000,indicating,unequal wage growth,DATE,NOUN_CHUNK
+30,economies,faced,flat declining real market incomes,NOUN_CHUNK,NOUN_CHUNK
+31,trends,benefited,individuals,NOUN_CHUNK,NOUN_CHUNK
+32,digital platforms,created,opportunities,NOUN_CHUNK,NOUN_CHUNK
+33,private sector Job Quality Index,compares,number,NOUN_CHUNK,NOUN_CHUNK
+34,Compound annual growth rate,represents,5 years ending with date,NOUN_CHUNK,DATE
+35,factors,played,role,NOUN_CHUNK,NOUN_CHUNK
+36,prices,absorbing,substantial,NOUN_CHUNK,NOUN_CHUNK
+37,Dani Rodrik,Building,good jobs economy,PERSON,NOUN_CHUNK
+38,Globalization,increased,competition,NOUN_CHUNK,NOUN_CHUNK
+39,housing costs,tracked,general consumer prices,NOUN_CHUNK,NOUN_CHUNK
+40,Healthcare,represents,9 percent,ORG,PERCENT
+41,healthcare,constituted,just 3 percent,NOUN_CHUNK,PERCENT
+42,OECD,estimated,quality price changes,ORG,NOUN_CHUNK
+43,Healthcare consumer prices,include,medical products,NOUN_CHUNK,NOUN_CHUNK
+44,prices,include,pre - primary primary secondary post - secondary tertiary education,NOUN_CHUNK,NOUN_CHUNK
+45,consumer prices,interpreted,items consumer price index,NOUN_CHUNK,NOUN_CHUNK
+46,category,includes,alcohol,NOUN_CHUNK,NOUN_CHUNK
+47,Healthcare,includes,medical products,ORG,NOUN_CHUNK
+48,Education,includes,tertiary,NOUN_CHUNK,NOUN_CHUNK
+49,increase,absorbed,income,NOUN_CHUNK,NOUN_CHUNK
+50,price increases,absorbed,87 percent,NOUN_CHUNK,PERCENT
+51,two decades,seen,major improvements,DATE,NOUN_CHUNK
+52,life,expectancy.overcrowding,rates,NOUN_CHUNK,NOUN_CHUNK
+53,Innovations,democratized,access,ORG,NOUN_CHUNK
+54,Improved life expectancy,challenging,institutional,NOUN_CHUNK,NOUN_CHUNK
+55,individuals,needed,savings,NOUN_CHUNK,NOUN_CHUNK
+56,climate,raise,questions,NOUN_CHUNK,NOUN_CHUNK
+57,more than half,raised,statutory retirement age,CARDINAL,NOUN_CHUNK
+58,OECD,defines,net pension replacement rate,ORG,NOUN_CHUNK
+59,Defined benefit pensions,provide,guaranteed payment,NOUN_CHUNK,NOUN_CHUNK
+60,Weighting,increase,ratio,NOUN_CHUNK,NOUN_CHUNK
+61,people,affected,pensions,NOUN_CHUNK,NOUN_CHUNK
+62,individuals,Assumes,average net earnings,NOUN_CHUNK,NOUN_CHUNK
+63,Digital banking,mean,good quality investment,NOUN_CHUNK,NOUN_CHUNK
+64,Japan,lack,access,GPE,NOUN_CHUNK
+65,lack,means,Japan,NOUN_CHUNK,GPE
+66,Lower wealth households,bear,risk,NOUN_CHUNK,NOUN_CHUNK
+67,deciles,earned,returns,NOUN_CHUNK,NOUN_CHUNK
+68,50 percent,have,low negative wealth growth,PERCENT,NOUN_CHUNK
+69,Institutions,shifted,responsibility,NOUN_CHUNK,NOUN_CHUNK
+70,spending,highlights,movements,NOUN_CHUNK,NOUN_CHUNK
+71,set,includes,Japan,NOUN_CHUNK,GPE
+72,general trend,had,significant implications,NOUN_CHUNK,NOUN_CHUNK
+73,liberal market economies,drive,exchanges,NOUN_CHUNK,NOUN_CHUNK
+74,Indicators,included,level,NOUN_CHUNK,NOUN_CHUNK
+75,Components,include,workers,NOUN_CHUNK,NOUN_CHUNK
+76,States,seen,States,NOUN_CHUNK,NOUN_CHUNK
+77,workers,experienced,negative outcomes,NOUN_CHUNK,NOUN_CHUNK
+78,Consumption savings outcomes,been,individuals,NOUN_CHUNK,NOUN_CHUNK
+79,biggest deterioration,has,been.falling savings,NOUN_CHUNK,NOUN_CHUNK
+80,Recovery,yields,big gains,NOUN_CHUNK,NOUN_CHUNK
+81,    Countries,include,Australia,NOUN_CHUNK,GPE
+82,Younger generations,facing,challenges,NOUN_CHUNK,NOUN_CHUNK
+83,Data limitations,affected,calculation,NOUN_CHUNK,NOUN_CHUNK
+84,higher number,calculated,worse outcome,NOUN_CHUNK,NOUN_CHUNK
+85,Women,seen,improvements,NOUN_CHUNK,NOUN_CHUNK
+86,woman,The amount,96 cents,NOUN_CHUNK,MONEY
+87,trends,African Americans,racial wealth income gap,NOUN_CHUNK,NOUN_CHUNK
+88,Urban areas,saw,faster employment recovery,NOUN_CHUNK,NOUN_CHUNK
+89,ongoing research,highlights,similar local regional patterns,NOUN_CHUNK,NOUN_CHUNK
+90,economic gains,taking,place,NOUN_CHUNK,NOUN_CHUNK
+91,Wage stagnation,affected,roughly 200 million people,NOUN_CHUNK,NOUN_CHUNK
+92,15 + population,Estimated,more than 40 percent,NOUN_CHUNK,PERCENT
+93,population,Estimated,15 to 24 years,NOUN_CHUNK,DATE
+94,individuals,face,difficulties,NOUN_CHUNK,NOUN_CHUNK
+95,organization,redefining,purpose,NOUN_CHUNK,NOUN_CHUNK
+96,Individuals,assume,larger,NOUN_CHUNK,NOUN_CHUNK
+97,the annual United Nations World Happiness Survey,shows,satisfaction,EVENT,NOUN_CHUNK
+98,public- social sector entities,achieve,prosperity,NOUN_CHUNK,NOUN_CHUNK
+99,individuals,expect,specific outcomes,NOUN_CHUNK,NOUN_CHUNK
+100,actors,include,philanthropic nongovernmental organizations,NOUN_CHUNK,NOUN_CHUNK
+101,citizens,expect,physical security,NOUN_CHUNK,NOUN_CHUNK
+102,representation,seek,sense,NOUN_CHUNK,NOUN_CHUNK
+103,individuals,shaping,social contract,NOUN_CHUNK,NOUN_CHUNK
+104,study,cover,concerns,NOUN_CHUNK,NOUN_CHUNK
+105,power,add,$12 trillion,NOUN_CHUNK,MONEY
+106,seminal works,include,Nemat Shafik,NOUN_CHUNK,ORG
+107,Macroeconomic management,meets,new economy Technological disruption,NOUN_CHUNK,NOUN_CHUNK
+108,approach,sees,government,NOUN_CHUNK,NOUN_CHUNK
+109,services,provide,wages,NOUN_CHUNK,NOUN_CHUNK
+110,businesses,serve,interests,NOUN_CHUNK,NOUN_CHUNK
+111,institutions,achieve,aspects,NOUN_CHUNK,NOUN_CHUNK
+112, Education,paid,holidays,ORG,NOUN_CHUNK
+113,workers,commit,workers,NOUN_CHUNK,NOUN_CHUNK
+114,Major trends,driving,economic outcomes,NOUN_CHUNK,NOUN_CHUNK
+115,list,address,effects,NOUN_CHUNK,NOUN_CHUNK
+116,trends,played,major role,NOUN_CHUNK,NOUN_CHUNK
+117,an estimated 15 percent,use,online platforms,PERCENT,NOUN_CHUNK
+118,Globalization,increased,competition,NOUN_CHUNK,NOUN_CHUNK
+119,global supply chains,reduced,cost,NOUN_CHUNK,NOUN_CHUNK
+120,range,affected,companies,NOUN_CHUNK,NOUN_CHUNK
+121,productivity,Global growth,the day,NOUN_CHUNK,DATE
+122,advancing women equality,add,$12 trillion,NOUN_CHUNK,MONEY
+123,Recent MGI research,shown,labor share,NOUN_CHUNK,NOUN_CHUNK
+124,Superstar firms,have,1.6 times economic profit,NOUN_CHUNK,NOUN_CHUNK
+125,radical changes,taken,place,NOUN_CHUNK,NOUN_CHUNK
+126,reforms,included,right,NOUN_CHUNK,NOUN_CHUNK
+127,Germany,introduced,sickness insurance,GPE,NOUN_CHUNK
+128,comprehensive social welfare system,provided,model,NOUN_CHUNK,NOUN_CHUNK
+129,notable evolutions,taken,place,NOUN_CHUNK,NOUN_CHUNK
+130,European nations,entailed,embrace,NOUN_CHUNK,NOUN_CHUNK
+131,individuals,are,labor,NOUN_CHUNK,NOUN_CHUNK
+132,people,find,gainful employment,NOUN_CHUNK,NOUN_CHUNK
+133,Recent MGI research,suggests,widespread expectation,NOUN_CHUNK,NOUN_CHUNK
+134,institutional changes,had,impact,NOUN_CHUNK,NOUN_CHUNK
+135,Employment,is,benefits,NOUN_CHUNK,NOUN_CHUNK
+136,Greece,employment rate,lowest,GPE,NOUN_CHUNK
+137,Norway,had,high levels,GPE,NOUN_CHUNK
+138,female workers,represented,46 percent,NOUN_CHUNK,PERCENT
+139,Employment rate,reflects,employed people,NOUN_CHUNK,NOUN_CHUNK
+140,demographic factors,play,role,NOUN_CHUNK,NOUN_CHUNK
+141,share,declined,workers                     age workers,NOUN_CHUNK,NOUN_CHUNK
+142,male workers,represented,54 percent,NOUN_CHUNK,PERCENT
+143,elderly workers,increased,share,NOUN_CHUNK,NOUN_CHUNK
+144,Finland,bucked,trend,GPE,NOUN_CHUNK
+145,Workers,seen,improvements,NOUN_CHUNK,NOUN_CHUNK
+146,privately provided benefits,represented,33 percent,NOUN_CHUNK,PERCENT
+147,Workers,face,strain,NOUN_CHUNK,NOUN_CHUNK
+148,Sample,omits,Canada,NOUN_CHUNK,GPE
+149,countries,had,access,NOUN_CHUNK,NOUN_CHUNK
+150,employers,offer,paid vacation,NOUN_CHUNK,NOUN_CHUNK
+151,Digital platforms,adding,momentum,NOUN_CHUNK,NOUN_CHUNK
+152,independent workers,span,demographic,NOUN_CHUNK,NOUN_CHUNK
+153,rise,seen,number,NOUN_CHUNK,NOUN_CHUNK
+154,analysis,capture,state level,NOUN_CHUNK,NOUN_CHUNK
+155,97 percent,offer,paid vacation,PERCENT,NOUN_CHUNK
+156,Organization,Does,pay,NOUN_CHUNK,NOUN_CHUNK
+157,Uber,makes,Uber pain New Yorkers problem,ORG,NOUN_CHUNK
+158,occupational shifts,led,skilled construction workers,NOUN_CHUNK,NOUN_CHUNK
+159,trends,discussed,myriad new opportunities,NOUN_CHUNK,NOUN_CHUNK
+160,fall,rose,decline,NOUN_CHUNK,NOUN_CHUNK
+161,male time employment,represented,47.1 percent,NOUN_CHUNK,PERCENT
+162,Australia,followed,aggregate trend,GPE,NOUN_CHUNK
+163,countries,experienced,rising female employment,NOUN_CHUNK,NOUN_CHUNK
+164,crisis recovery,seen,substantial increase,NOUN_CHUNK,NOUN_CHUNK
+165,Workers,face,increased labor market,NOUN_CHUNK,NOUN_CHUNK
+166,workers,notable,up to 21.7 percent,NOUN_CHUNK,PERCENT
+167,Combined risk,provided,by.unemployment protection,NOUN_CHUNK,NOUN_CHUNK
+168,Percent,lost,percentage point change,NOUN_CHUNK,NOUN_CHUNK
+169,temporary workers,received,wages,NOUN_CHUNK,NOUN_CHUNK
+170,German government,passed,legislation,NOUN_CHUNK,NOUN_CHUNK
+171,Zero hour contract workers,face,precarious pay penalty,NOUN_CHUNK,NOUN_CHUNK
+172,shift,affects,low cost airlines cabin crews,NOUN_CHUNK,NOUN_CHUNK
+173,data sets,measure,skills,NOUN_CHUNK,NOUN_CHUNK
+174,low skill occupations,middle-,workers,NOUN_CHUNK,NOUN_CHUNK
+175,global financial crisis,faced,substantial increases,NOUN_CHUNK,NOUN_CHUNK
+176,Nearly 43 percent,have,potential,PERCENT,NOUN_CHUNK
+177,Economists Gerald Auten,contradicted,existing literature,PERSON,NOUN_CHUNK
+178,Economists,Economist,numbers,NOUN_CHUNK,NOUN_CHUNK
+179,United States1,represents,share,NOUN_CHUNK,NOUN_CHUNK
+180,Median real wage,change,2000–18.Occupations,NOUN_CHUNK,CARDINAL
+181,GDP growth,averaged,1.6 percent,NOUN_CHUNK,PERCENT
+182,aggregate wage growth figures,mask,substantial changes,NOUN_CHUNK,NOUN_CHUNK
+183,individuals,faced,declines,NOUN_CHUNK,NOUN_CHUNK
+184,median worker,earns,0.40,NOUN_CHUNK,MONEY
+185,Compound annual growth rate,represents,5 years ending with date,NOUN_CHUNK,DATE
+186,real net income,declined,2,NOUN_CHUNK,CARDINAL
+187,median equivalized net income,includes,taxes,NOUN_CHUNK,NOUN_CHUNK
+188,20 to 25 percent,had,flat falling disposable income,PERCENT,NOUN_CHUNK
+189,layoffs,showed,innovation,NOUN_CHUNK,NOUN_CHUNK
+190,collective agreements,cover,wage levels,NOUN_CHUNK,NOUN_CHUNK
+191,Australia,saw,change,GPE,NOUN_CHUNK
+192,Austria,had,highest share,GPE,NOUN_CHUNK
+193,healthcare,Outside,big role,ORG,NOUN_CHUNK
+194,category,includes,restaurant,NOUN_CHUNK,NOUN_CHUNK
+195,Healthcare consumer prices,include,medical products,NOUN_CHUNK,NOUN_CHUNK
+196,prices,include,pre - primary primary secondary post - secondary non - tertiary tertiary education,NOUN_CHUNK,NOUN_CHUNK
+197,consumer prices,interpreted,items consumer price index,NOUN_CHUNK,NOUN_CHUNK
+198,category,includes,alcohol,NOUN_CHUNK,NOUN_CHUNK
+199,Healthcare,includes,medical products,ORG,NOUN_CHUNK
+200,Education,includes,tertiary,NOUN_CHUNK,NOUN_CHUNK
+201,13.Consumer prices,witnessed,relatively moderate variations,NOUN_CHUNK,NOUN_CHUNK
+202,consumer prices,interpreted,items consumer price index,NOUN_CHUNK,NOUN_CHUNK
+203,Education,includes,pre-,NOUN_CHUNK,NOUN_CHUNK
+204,consumer prices,interpreted,items consumer price index,NOUN_CHUNK,NOUN_CHUNK
+205,category,includes,alcohol,NOUN_CHUNK,NOUN_CHUNK
+206,E - commerce,cut,distribution,NOUN_CHUNK,NOUN_CHUNK
+207,urban mobility tools,improved,transportation services,NOUN_CHUNK,NOUN_CHUNK
+208,emerging economies,driven,prices,NOUN_CHUNK,NOUN_CHUNK
+209,transportation markets,created,new competition,NOUN_CHUNK,NOUN_CHUNK
+210,Germany,underwent,major product market reform,GPE,NOUN_CHUNK
+211,reforms,included,liberalization,NOUN_CHUNK,NOUN_CHUNK
+212,deregulation,increased,competition,NOUN_CHUNK,NOUN_CHUNK
+213,competition,bring,disproportionate gains,NOUN_CHUNK,NOUN_CHUNK
+214,household spending,excludes,government spending,NOUN_CHUNK,NOUN_CHUNK
+215,15.Changes,explain,37 percent,NOUN_CHUNK,PERCENT
+216,South Korea,reflects,national consumer price index,GPE,NOUN_CHUNK
+217,price volume changes,drove,change,NOUN_CHUNK,NOUN_CHUNK
+218,rising cost,pushed,share,NOUN_CHUNK,NOUN_CHUNK
+219,Housing,takes,largest proportion,NOUN_CHUNK,NOUN_CHUNK
+220,68 wealthiest households,find,rent,NOUN_CHUNK,NOUN_CHUNK
+221,49 percent,find,rent,PERCENT,NOUN_CHUNK
+222,Previous MGI research,highlights,phenomenon,NOUN_CHUNK,NOUN_CHUNK
+223,Eichholtz,shows,significant variations,ORG,NOUN_CHUNK
+224,overcrowded household,considered,minimum,NOUN_CHUNK,NOUN_CHUNK
+225,Rising costs,accompanied,rising quality,NOUN_CHUNK,NOUN_CHUNK
+226,public health systems,facing,pressures,NOUN_CHUNK,NOUN_CHUNK
+227,an estimated 6 percent,has,private health,PERCENT,NOUN_CHUNK
+228,Government institutions,playing,smaller role,NOUN_CHUNK,NOUN_CHUNK
+229,New Zealand,saw,largest increase,GPE,NOUN_CHUNK
+230,United Kingdom,saw,largest increase,GPE,NOUN_CHUNK
+231,the United Kingdom,increased,maximum university tuition fees,GPE,NOUN_CHUNK
+232,Spain,passed,measures,GPE,NOUN_CHUNK
+233,students,for,"25,000",NOUN_CHUNK,MONEY
+234,An estimated 83 percent,repay,An estimated 83 percent,PERCENT,PERCENT
+235,education prices,affect,average consumer education accounts,NOUN_CHUNK,NOUN_CHUNK
+236,Academy,providing,free education courses,ORG,NOUN_CHUNK
+237,future,critical,demand,NOUN_CHUNK,NOUN_CHUNK
+238,arena,examined,focus,NOUN_CHUNK,NOUN_CHUNK
+239,population,aged,65,NOUN_CHUNK,DATE
+240,households,saving,little,NOUN_CHUNK,NOUN_CHUNK
+241,Aging societies,pose,growing challenge,NOUN_CHUNK,NOUN_CHUNK
+242,combination,has,substantial effect,NOUN_CHUNK,NOUN_CHUNK
+243,age population,declined,219,NOUN_CHUNK,CARDINAL
+244,demographic trends,pose,considerable challenge,NOUN_CHUNK,NOUN_CHUNK
+245,Changing demographics,affecting,fiscal sustainability,NOUN_CHUNK,NOUN_CHUNK
+246,Demographic shifts,had,major impact,NOUN_CHUNK,NOUN_CHUNK
+247,countries,increased,contributions,NOUN_CHUNK,NOUN_CHUNK
+248,More than half,raised,statutory retirement age,CARDINAL,NOUN_CHUNK
+249,countries,froze,benefit indexation,NOUN_CHUNK,NOUN_CHUNK
+250,countries,adjust,level,NOUN_CHUNK,NOUN_CHUNK
+251,Australia,tightened,targeting,GPE,NOUN_CHUNK
+252,Economists,debated,cause,NOUN_CHUNK,NOUN_CHUNK
+253,Summers,advanced,theory,NOUN_CHUNK,NOUN_CHUNK
+254,Bernanke,dispute,Summers theory,ORG,NOUN_CHUNK
+255,Average,includes,countries,NOUN_CHUNK,NOUN_CHUNK
+256,Denmark,saw,double digit increases,GPE,NOUN_CHUNK
+257,Alternative forms,carry,additional pension related concerns,NOUN_CHUNK,NOUN_CHUNK
+258,average,increase.was,percentage points,NOUN_CHUNK,NOUN_CHUNK
+259,countries,have,defined-.benefit pension assets,NOUN_CHUNK,NOUN_CHUNK
+260,Spain,has,defined contribution pension assets,GPE,NOUN_CHUNK
+261,Austria,closed,net pension replacement rate gap,GPE,NOUN_CHUNK
+262,people,affected,pensions,NOUN_CHUNK,NOUN_CHUNK
+263,individuals,Assumes,average net earnings,NOUN_CHUNK,NOUN_CHUNK
+264,decline,implies,increased individual responsibility,NOUN_CHUNK,NOUN_CHUNK
+265,2000.236 Denmark,seen,increase,GPE,NOUN_CHUNK
+266,a quarter,save,money,CARDINAL,NOUN_CHUNK
+267,low levels,access,role,NOUN_CHUNK,NOUN_CHUNK
+268,Technology,opened,new opportunities,NOUN_CHUNK,NOUN_CHUNK
+269,new products,mean,comparatively low risk high return,NOUN_CHUNK,NOUN_CHUNK
+270,Behavioral economics,playing,role,NOUN_CHUNK,NOUN_CHUNK
+271,saving program,doubled,program enrollment rate,NOUN_CHUNK,NOUN_CHUNK
+272,individuals,sustain,living standards,NOUN_CHUNK,NOUN_CHUNK
+273,retiree,receive,"only about $3,000",NOUN_CHUNK,MONEY
+274,51 percent,had,access,PERCENT,NOUN_CHUNK
+275,America,saves,2019,GPE,DATE
+276,wealth decile,earned,return,NOUN_CHUNK,NOUN_CHUNK
+277,combination,means,personal wealth,NOUN_CHUNK,NOUN_CHUNK
+278,23 percent,had,zero,PERCENT,CARDINAL
+279,50 percent,have,low negative wealth growth,PERCENT,NOUN_CHUNK
+280,21.Lower wealth groups,have,lower rates,NOUN_CHUNK,NOUN_CHUNK
+281,Housing,includes,homes,NOUN_CHUNK,NOUN_CHUNK
+282,Financial assets,includes,stocks,NOUN_CHUNK,NOUN_CHUNK
+283,wealth,levels.smoothed,3-year average growth rates,NOUN_CHUNK,NOUN_CHUNK
+284,old,had,61 percent,NOUN_CHUNK,PERCENT
+285,successive generations,and 1980s,wealth,NOUN_CHUNK,NOUN_CHUNK
+286,low wealth growth,increase,proportion,NOUN_CHUNK,NOUN_CHUNK
+287,29 percent,have,retirement savings,PERCENT,NOUN_CHUNK
+288,Net wealth,excludes,pension schemes,NOUN_CHUNK,NOUN_CHUNK
+289,people,risen,2 percent,NOUN_CHUNK,PERCENT
+290,surplus,presented,challenges,NOUN_CHUNK,NOUN_CHUNK
+291,Institutions,play,important roles,NOUN_CHUNK,NOUN_CHUNK
+292,level,product-market regulations,quality,NOUN_CHUNK,NOUN_CHUNK
+293,market mechanisms,drive,exchanges,NOUN_CHUNK,NOUN_CHUNK
+294,policies,mandate,level,NOUN_CHUNK,NOUN_CHUNK
+295,individuals,on,sufficient wealth,NOUN_CHUNK,NOUN_CHUNK
+296,government spending,insulate,workers,NOUN_CHUNK,NOUN_CHUNK
+297,private sector institutions,play,important roles,NOUN_CHUNK,NOUN_CHUNK
+298,individuals,choose,extent,NOUN_CHUNK,NOUN_CHUNK
+299,market intervention,entails,lower responsibility,NOUN_CHUNK,NOUN_CHUNK
+300,government,spent,$982 billion,NOUN_CHUNK,MONEY
+301,government,spent,$1 trillion,NOUN_CHUNK,MONEY
+302,highest income quintile,receives,4 percent,NOUN_CHUNK,PERCENT
+303,highest quintile,receive,support,NOUN_CHUNK,NOUN_CHUNK
+304,Superstar effects,mitigate,risks,NOUN_CHUNK,NOUN_CHUNK
+305,indexes,cover,legality,NOUN_CHUNK,NOUN_CHUNK
+306,governments,increased,direct support,NOUN_CHUNK,NOUN_CHUNK
+307,OECD Social Expenditure statistics,include,training,NOUN_CHUNK,NOUN_CHUNK
+308,social spending,include,R&D,NOUN_CHUNK,NOUN_CHUNK
+309,future,increasing,need,NOUN_CHUNK,NOUN_CHUNK
+310,rent control,curtail,soaring housing prices,NOUN_CHUNK,NOUN_CHUNK
+311,countries,value,individualism,NOUN_CHUNK,NOUN_CHUNK
+312,Sweden,prioritize,equality,GPE,NOUN_CHUNK
+313,Austria,constitute,archetype,GPE,NOUN_CHUNK
+314,Components,include,workers,NOUN_CHUNK,NOUN_CHUNK
+315,archetype,includes,Scandinavian       model countries,NOUN_CHUNK,NOUN_CHUNK
+316,Norway,scored,134,GPE,CARDINAL
+317,public sector spending,archetype,43 and 44 percent,NOUN_CHUNK,PERCENT
+318,Italy,witnessed,notable declines,GPE,NOUN_CHUNK
+319,spending,include,English speaking countries,NOUN_CHUNK,NOUN_CHUNK
+320,Ireland,trend,public sector spending,GPE,NOUN_CHUNK
+321,Changing institutional roles,coincided,consumers,NOUN_CHUNK,NOUN_CHUNK
+322,research,provides,evidence,NOUN_CHUNK,NOUN_CHUNK
+323,flexible market,negotiate,compensation,NOUN_CHUNK,NOUN_CHUNK
+324,Workers,seen,positive,NOUN_CHUNK,NOUN_CHUNK
+325,savers,face,negative outcomes,NOUN_CHUNK,NOUN_CHUNK
+326,combined risk,lost,wages,NOUN_CHUNK,NOUN_CHUNK
+327,individuals,increasing,individuals,NOUN_CHUNK,NOUN_CHUNK
+328,individuals,prepare,assets,NOUN_CHUNK,NOUN_CHUNK
+329,findings,suggest,deterioration,NOUN_CHUNK,NOUN_CHUNK
+330,individualized social contract,meant,polarized outcomes,NOUN_CHUNK,NOUN_CHUNK
+331,consumers,making,decisions,NOUN_CHUNK,NOUN_CHUNK
+332,groups,experienced,negative shifts,NOUN_CHUNK,NOUN_CHUNK
+333,changes,created,opportunities,NOUN_CHUNK,NOUN_CHUNK
+334,Changes,affected,different groups,NOUN_CHUNK,NOUN_CHUNK
+335,quintiles,consider,quintiles,NOUN_CHUNK,NOUN_CHUNK
+336,metrics,include,absolute levels,NOUN_CHUNK,NOUN_CHUNK
+337,middle segments,faced,negative outcomes,NOUN_CHUNK,NOUN_CHUNK
+338,Data limitations,make,closer examination,NOUN_CHUNK,NOUN_CHUNK
+339,white families,owned,89 percent,ORG,PERCENT
+340,black Hispanic families,owned,about 3 percent,NOUN_CHUNK,PERCENT
+341,median college educated black Hispanic household,had,31 percent,NOUN_CHUNK,PERCENT
+342,educated black Hispanic household,had,17 and 19 percent,NOUN_CHUNK,PERCENT
+343,Prior MGI research,highlighted,fact,NOUN_CHUNK,NOUN_CHUNK
+344,African Americans,have,higher rate,NORP,NOUN_CHUNK
+345,quintiles,spend,lower share,NOUN_CHUNK,NOUN_CHUNK
+346,Younger generations,facing,challenges,NOUN_CHUNK,NOUN_CHUNK
+347,Data limitations,affected,calculation,NOUN_CHUNK,NOUN_CHUNK
+348,higher number,calculated,worse outcome,NOUN_CHUNK,NOUN_CHUNK
+349,employment,reflect,individuals choice,NOUN_CHUNK,NOUN_CHUNK
+350,Countries,exhibit,substantial variations,NOUN_CHUNK,NOUN_CHUNK
+351,Japan,experienced,substantial decline,GPE,NOUN_CHUNK
+352,Italy,experienced,largest increase,GPE,NOUN_CHUNK
+353,South Korea,had,highest share,GPE,NOUN_CHUNK
+354,young struggle,spend,large share,NOUN_CHUNK,NOUN_CHUNK
+355,young people,building,wealth,NOUN_CHUNK,NOUN_CHUNK
+356,person,accumulated,61 percent,NOUN_CHUNK,PERCENT
+357,34-year olds,had,69 percent,NOUN_CHUNK,PERCENT
+358,Urban areas,seen,employment.recovery,NOUN_CHUNK,NOUN_CHUNK
+359,new responsibilities,pose,significant social challenges,NOUN_CHUNK,NOUN_CHUNK
+360,31.Ten high priority challenges,need,solutions,NOUN_CHUNK,NOUN_CHUNK
+361,social                 ,face,difficulties,ORG,NOUN_CHUNK
+362,people,have,access,NOUN_CHUNK,NOUN_CHUNK
+363,women,made,strides,NOUN_CHUNK,NOUN_CHUNK
+364,labor market,has,gains,NOUN_CHUNK,NOUN_CHUNK
+365,businesses,increase,productivity growth,NOUN_CHUNK,NOUN_CHUNK
+366,they.create.294 Dell,offers,benefits,ORG,NOUN_CHUNK
+367,job,evaluate,potential employers,NOUN_CHUNK,NOUN_CHUNK
+368,workers,facing,rising employment related risks,NOUN_CHUNK,NOUN_CHUNK
+369,state,introduced,bill,NOUN_CHUNK,NOUN_CHUNK
+370,governments,increasing,spending,NOUN_CHUNK,NOUN_CHUNK
+371,Businesses,have,flexibility,NOUN_CHUNK,NOUN_CHUNK
+372,Universal basic income,received,attention,NOUN_CHUNK,NOUN_CHUNK
+373,California,passes,historic gig economy rights bill,GPE,NOUN_CHUNK
+374,Stable scheduling,increases,productivity,NOUN_CHUNK,NOUN_CHUNK
+375,private sector businesses,beginning,to.reconsider,NOUN_CHUNK,NOUN_CHUNK
+376,additional private investment,expand,housing supply,NOUN_CHUNK,NOUN_CHUNK
+377,public resources,address,constraints,NOUN_CHUNK,NOUN_CHUNK
+378,Berlin,announced,one,GPE,CARDINAL
+379,312 countries,providing,additional funding,NOUN_CHUNK,NOUN_CHUNK
+380,government,created,multiple schemes,NOUN_CHUNK,NOUN_CHUNK
+381,individuals,take,mortgages,NOUN_CHUNK,NOUN_CHUNK
+382,Social sector nongovernmental institutions,playing,a.     larger role,NOUN_CHUNK,NOUN_CHUNK
+383,Tafel,collects,food items,ORG,NOUN_CHUNK
+384,institutions,supporting,individuals,NOUN_CHUNK,NOUN_CHUNK
+385,South Korea,introduced,policies,GPE,NOUN_CHUNK
+386,sector,founded,Haven,NOUN_CHUNK,NOUN_CHUNK
+387,Amazon,launched,virtual health clinic,ORG,NOUN_CHUNK
+388,Starbucks,offering,Starbucks employees scholarships,ORG,NOUN_CHUNK
+389,firms,United States,year degree,NOUN_CHUNK,NOUN_CHUNK
+390,317 Intesa Sanpaolo,offering,collateral-       free loans,ORG,NOUN_CHUNK
+391,United States,supports,students,GPE,NOUN_CHUNK
+392,people,receive,free university education,NOUN_CHUNK,NOUN_CHUNK
+393,families,helping,families,NOUN_CHUNK,NOUN_CHUNK
+394,university,cracked,student debt,NOUN_CHUNK,NOUN_CHUNK
+395,millennials,Forbes,help,NOUN_CHUNK,NOUN_CHUNK
+396,new.technologies,require,basic financial literacy,NOUN_CHUNK,NOUN_CHUNK
+397,United States,gain,access,GPE,NOUN_CHUNK
+398,young people,achieve,major milestones,NOUN_CHUNK,NOUN_CHUNK
+399,workers,experiencing,continued,NOUN_CHUNK,NOUN_CHUNK
+400,balance,differs,ideology,NOUN_CHUNK,NOUN_CHUNK
+401,public sector,increasing,spending,NOUN_CHUNK,NOUN_CHUNK
+402,spending,increases,pressure,NOUN_CHUNK,NOUN_CHUNK
+403,individuals,increasing,management,NOUN_CHUNK,NOUN_CHUNK
+404,elderly people,stretched,certain technologies,NOUN_CHUNK,NOUN_CHUNK
+405,countries,we,unsustainable public debt levels,NOUN_CHUNK,NOUN_CHUNK
+406,combined risk,lost,wages,NOUN_CHUNK,NOUN_CHUNK
+407,combined risk,lost,wages,NOUN_CHUNK,NOUN_CHUNK
+408,12.3 -3.8,-15.5,0.5 4.8,QUANTITY,CARDINAL
+409,Combined risk,lost,wages,NOUN_CHUNK,NOUN_CHUNK
+410,Countries,provide,diversity,NOUN_CHUNK,NOUN_CHUNK
+411,Broadband speed,mean,download speed,NOUN_CHUNK,NOUN_CHUNK
+412,Countries,provide,diversity,NOUN_CHUNK,NOUN_CHUNK
+413,Countries,provide,diversity,NOUN_CHUNK,NOUN_CHUNK
+414,data,reflects,individual,NOUN_CHUNK,NOUN_CHUNK
+415,individuals,work,outcomes,NOUN_CHUNK,NOUN_CHUNK
+416,population,aged,15 years,NOUN_CHUNK,DATE
+417,the.share,increased,4.2 percentage.points,NOUN_CHUNK,NOUN_CHUNK
+418,"ex-offenders,.which",affects,prospects,PERSON,NOUN_CHUNK
+419,346 High skill occupations,include,jobs,NOUN_CHUNK,NOUN_CHUNK
+420,Middle skill occupations,include,jobs,NOUN_CHUNK,NOUN_CHUNK
+421,Low skill occupations,include,jobs,NOUN_CHUNK,NOUN_CHUNK
+422,private sector Job Quality Index,Building,good jobs economy,NOUN_CHUNK,NOUN_CHUNK
+423,Occupational Employment Statistics data,excludes,farming employment,NOUN_CHUNK,NOUN_CHUNK
+424,349.Employee wage nonwage compensation,provides,breakdown,NOUN_CHUNK,NOUN_CHUNK
+425,Civilian workers,include,those.employed,NOUN_CHUNK,NOUN_CHUNK
+426,spending,excludes,government spending,NOUN_CHUNK,NOUN_CHUNK
+427,households,In,negative.asset balances,NOUN_CHUNK,NOUN_CHUNK
+428,exclusion,was,leadership,NOUN_CHUNK,NOUN_CHUNK
+429,2000,calculated,estimated social pension spending,DATE,NOUN_CHUNK
+430,projected increase,attributed,remaining increase,NOUN_CHUNK,NOUN_CHUNK
+431,total working age population,change,established cutoffs,NOUN_CHUNK,NOUN_CHUNK
+432,The OECD,defines,prime-age            OECD Stat,ORG,ORG
+433,Actual hours,include,regular work hours,TIME,TIME
+434,workers,defined,       OECD Stat,NOUN_CHUNK,NOUN_CHUNK
+435,The OECD,standardized,agencies,ORG,NOUN_CHUNK
+436,Temporary                Temporary employment,includes,wage salary               OECD Stat,NOUN_CHUNK,NOUN_CHUNK
+437,job,employment              workers,predetermined termination,NOUN_CHUNK,NOUN_CHUNK
+438,Permanent                Permanent employment,includes,wage salary               OECD Stat,NOUN_CHUNK,NOUN_CHUNK
+439,job,employment              workers,predetermined,NOUN_CHUNK,NOUN_CHUNK
+440,The OECD,defines,indicator,ORG,NOUN_CHUNK
+441,equivalized            ,expresses,share,ORG,NOUN_CHUNK
+442,income share            taxes,ordered,Inequality,NOUN_CHUNK,NOUN_CHUNK
+443,Mixed income,reports,Economy,NOUN_CHUNK,NOUN_CHUNK
+444,High skill              High skill occupations,include,jobs,NOUN_CHUNK,NOUN_CHUNK
+445,Middle skill             Middle skill occupations,include,jobs,NOUN_CHUNK,NOUN_CHUNK
+446,Low skill                Low skill occupations,include,jobs,NOUN_CHUNK,NOUN_CHUNK
+447,The HICP,measures,change,ORG,NOUN_CHUNK
+448,Index,acquired,National,NOUN_CHUNK,NOUN_CHUNK
+449,consumption segments,follow,the COICOP,NOUN_CHUNK,ORG
+450,services,covers,actual monetary transactions,NOUN_CHUNK,NOUN_CHUNK
+451,internet access,had,access,NOUN_CHUNK,NOUN_CHUNK
+452,Nonbasic spending,refers,agencies,NOUN_CHUNK,NOUN_CHUNK
+453,Basic goods spending,refers,agencies,NOUN_CHUNK,NOUN_CHUNK
+454,indicator,captures,mean download speed,NOUN_CHUNK,NOUN_CHUNK
+455,quality             respondents,rank,competence,NOUN_CHUNK,NOUN_CHUNK
+456,Broadband,includes,a financial             Global Institute,ORG,ORG
+457,healthcare             insurance,covers,cost,ORG,NOUN_CHUNK
+458,indicator,measures,number,NOUN_CHUNK,NOUN_CHUNK
+459,household,overcrowded,        Database,NOUN_CHUNK,NOUN_CHUNK
+460,indicator,measures,number,NOUN_CHUNK,NOUN_CHUNK
+461,babies,weighing,"less than 2,500 grams",NOUN_CHUNK,QUANTITY
+462,standardized death rates,enable,comparability,NOUN_CHUNK,NOUN_CHUNK
+463,Healthy life expectancy,applies,disability,NOUN_CHUNK,NOUN_CHUNK
+464,expectancy,compute,equivalent        Organization,NOUN_CHUNK,NOUN_CHUNK
+465,Indicator,measures,net wealth,NOUN_CHUNK,NOUN_CHUNK
+466,net           Indicator,measures,average net wealth,NOUN_CHUNK,NOUN_CHUNK
+467,net household saving rate,represents,                OECD Stat,NOUN_CHUNK,NOUN_CHUNK
+468,wealth,excludes,pension plans,NOUN_CHUNK,NOUN_CHUNK
+469,Net wealth,excludes,pension,NOUN_CHUNK,NOUN_CHUNK
+470,people,known,pensions,NOUN_CHUNK,NOUN_CHUNK
+471,Proportion,captures,level,NOUN_CHUNK,NOUN_CHUNK
+472,literate,display,basic knowledge,NOUN_CHUNK,NOUN_CHUNK
+473,individuals,equivalized,net wealth,NOUN_CHUNK,NOUN_CHUNK
+474,than 25 percent,excludes,pension schemes,PERCENT,NOUN_CHUNK
+475,individuals,equivalized,net wealth,NOUN_CHUNK,NOUN_CHUNK
+476,than 50 percent,excludes,pension schemes,PERCENT,NOUN_CHUNK
+477,Cboe Volatility,forecasts,volatility,NOUN_CHUNK,NOUN_CHUNK
+478,metric,captures,strictness,NOUN_CHUNK,NOUN_CHUNK
+479,metric,captures,strictness,NOUN_CHUNK,NOUN_CHUNK
+480,Indicator,captures,share,NOUN_CHUNK,NOUN_CHUNK
+481,metrics,capture,regulatory barriers,NOUN_CHUNK,NOUN_CHUNK
+482,Indicator,captures,stock,NOUN_CHUNK,NOUN_CHUNK
+483,indexes,measure,18 rental market regulations,NOUN_CHUNK,NOUN_CHUNK
+484,healthcare           private insurance,covers,cost,NOUN_CHUNK,NOUN_CHUNK
+485,active,involve,inter - personal redistribution,NOUN_CHUNK,NOUN_CHUNK
+486,Social spending         Social spending,includes,spending,NOUN_CHUNK,NOUN_CHUNK
+487,Social spending         Social spending,includes,spending,NOUN_CHUNK,NOUN_CHUNK
+488,Public sector            Public spending,includes,direct              OECD Stat,NOUN_CHUNK,NOUN_CHUNK
+489,indicator,includes,noncategorical cash benefits,NOUN_CHUNK,NOUN_CHUNK
+490,indicator,includes,spending,NOUN_CHUNK,NOUN_CHUNK
+491,McKinsey Global Institute,Testing,resilience,ORG,NOUN_CHUNK
+492,productivity,Routledge,the day,NOUN_CHUNK,DATE
+493,Nolan,Generating,Prosperity,PERSON,NOUN_CHUNK
+494,inequality benefits,add,$12 trillion,NOUN_CHUNK,MONEY
+495,Saint-Martin,Does,pay,PERSON,NOUN_CHUNK
+496,Snower,Exploring,"a new social.contract, Brookings Institution",ORG,ORG
+497,July 2019).This report,explores,question,NOUN_CHUNK,NOUN_CHUNK
+498,July 2019).This report,analyzes,"3,000 counties",NOUN_CHUNK,NOUN_CHUNK
+499,effort,provides,answers,NOUN_CHUNK,NOUN_CHUNK
